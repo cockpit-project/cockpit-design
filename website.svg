@@ -23,12 +23,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="616.08802"
-     inkscape:cy="242.41674"
+     inkscape:zoom="0.5"
+     inkscape:cx="963.00279"
+     inkscape:cy="550.76166"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
      showguides="true"
@@ -174,7 +174,7 @@
        xlink:href="#linearGradient7552-7-2"
        id="linearGradient6567"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2262465,0,0,1,-831.1454,205)"
+       gradientTransform="matrix(1.0448509,0,0,1,-502.18452,205)"
        x1="1773.7773"
        y1="458"
        x2="1773.7773"
@@ -188,7 +188,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1132,6 +1132,16 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3e5375;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6170-3-6-6-1-9-8-8-9"
+       width="516.52148"
+       height="584.77893"
+       x="1137.6886"
+       y="-6.0579562"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g7059-5-1-4"
        style="fill:#eeeeec;fill-opacity:1"
@@ -1271,9 +1281,9 @@
     <rect
        style="color:#000000;fill:url(#linearGradient6567);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7542-3-0"
-       width="516.24976"
+       width="439.88223"
        height="33"
-       x="1134.5278"
+       x="1172.7115"
        y="547"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website.png"
        inkscape:export-xdpi="90"
@@ -1672,6 +1682,15 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.31020412;color:#000000;fill:#2e3d56;fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7068"
+       width="418"
+       height="282"
+       x="529"
+       y="94"
+       rx="5.0002594"
+       ry="5.0002604" />
   </g>
   <g
      id="g7447"
