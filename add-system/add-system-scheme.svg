@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="add-system-scheme.svg"
+   inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-system-scheme.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="110.26396"
-     inkscape:cy="571.01626"
+     inkscape:cx="132.59612"
+     inkscape:cy="526.4654"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -214,10 +217,10 @@
            y="155.34673" /></flowRegion><flowPara
          id="flowPara6977-3-2">(on dashboard)</flowPara><flowPara
          id="flowPara7046">Press Add server</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6793-3-4-5-7-7-0"
        width="141.92642"
-       height="46.467022"
+       height="75.256363"
        x="138.65448"
        y="509.18176"
        rx="0"
@@ -229,24 +232,25 @@
        transform="matrix(0.22250062,0,0,0.22250062,136.88307,478.9544)"><flowRegion
          id="flowRegion6818-2-5-9-9-7-4"><rect
            id="rect6820-3-1-4-7-6-3"
-           width="547.84802"
-           height="170.13104"
+           width="579.62811"
+           height="299.521"
            x="52.022858"
            y="155.34673" /></flowRegion><flowPara
-         id="flowPara7046-1">Shows dialog with list of machines discovered over SLP and a address bar</flowPara></flowRoot>    <rect
+         id="flowPara7046-1">Shows dialog with list of machines discovered over SLP and a address bar</flowPara><flowPara
+         id="flowPara7730">if any server has the cockpit slp flag, don't show it here</flowPara></flowRoot>    <rect
        style="color:#000000;fill:none;stroke:#3465a4;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6793-3-4-5-7-7-0-3"
        width="141.92642"
        height="24.748741"
        x="138.65448"
-       y="575.18176"
+       y="605.18176"
        rx="0"
        ry="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6816-7-0-3-6-0-3-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.22250062,0,0,0.22250062,136.88307,544.9544)"><flowRegion
+       transform="matrix(0.22250062,0,0,0.22250062,136.88307,574.9544)"><flowRegion
          id="flowRegion6818-2-5-9-9-7-4-4"><rect
            id="rect6820-3-1-4-7-6-3-9"
            width="547.84802"
@@ -259,16 +263,16 @@
        style="color:#000000;fill:none;stroke:#3465a4;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6793-3-4-5-7-7-0-3-7"
        width="141.92642"
-       height="33.840111"
+       height="54.043159"
        x="138.65448"
-       y="621.18182"
+       y="651.18182"
        rx="0"
        ry="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6816-7-0-3-6-0-3-7-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.22250062,0,0,0.22250062,136.88307,590.9544)"><flowRegion
+       transform="matrix(0.22250062,0,0,0.22250062,136.88307,620.9544)"><flowRegion
          id="flowRegion6818-2-5-9-9-7-4-4-6"><rect
            id="rect6820-3-1-4-7-6-3-9-5"
            width="545.578"
@@ -282,15 +286,15 @@
        id="rect6793-3-4-5-7-7-0-3-7-5"
        width="141.92642"
        height="33.840111"
-       x="138.65448"
-       y="681.18182"
+       x="315.71036"
+       y="657.81702"
        rx="0"
        ry="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6816-7-0-3-6-0-3-7-0-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.22250062,0,0,0.22250062,136.88307,650.9544)"><flowRegion
+       transform="matrix(0.22250062,0,0,0.22250062,313.93896,627.58963)"><flowRegion
          id="flowRegion6818-2-5-9-9-7-4-4-6-0"><rect
            id="rect6820-3-1-4-7-6-3-9-5-1"
            width="588.91656"
@@ -305,22 +309,21 @@
        width="141.92642"
        height="65.154839"
        x="138.65448"
-       y="737.18182"
+       y="732.63184"
        rx="0"
        ry="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6816-7-0-3-6-0-3-7-0-8-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.22250062,0,0,0.22250062,136.88307,706.9544)"><flowRegion
+       transform="matrix(0.22250062,0,0,0.22250062,136.88307,702.40436)"><flowRegion
          id="flowRegion6818-2-5-9-9-7-4-4-6-0-3"><rect
            id="rect6820-3-1-4-7-6-3-9-5-1-4"
            width="545.578"
            height="249.58104"
            x="52.022858"
            y="155.34673" /></flowRegion><flowPara
-         id="flowPara7046-1-2-2-6-6">If Server B don't have Cockpit-openslp-tag</flowPara><flowPara
-         id="flowPara7205">Do remote provisioning</flowPara><flowPara
+         id="flowPara7205">If Server B don't have Cockpit-openslp-tag</flowPara><flowPara
          id="flowPara7207">Sync over usernames+passwords</flowPara></flowRoot>    <path
        style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 211.8487,83.183949 -5.44643,5.446428 -5.44642,-5.446426 z"
@@ -400,46 +403,35 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 211.8487,567.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
+       d="m 211.8487,597.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
        id="rect7209-0-3-9-4-6-6-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.46541,568.17353 0,-12.71204"
+       d="m 206.46541,598.17353 0,-12.71204"
        id="path7212-6-9-3-5-6-2-0"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 211.8487,613.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
+       d="m 211.8487,643.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
        id="rect7209-0-3-9-4-6-6-3-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.46541,614.17353 0,-12.71204"
+       d="m 206.46541,644.17353 0,-12.71204"
        id="path7212-6-9-3-5-6-2-0-7"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 211.8487,667.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
-       id="rect7209-0-3-9-4-6-6-3-3-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.46541,668.17353 0,-12.71204"
-       id="path7212-6-9-3-5-6-2-0-7-3"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 211.8487,727.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
+       style="color:#000000;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 211.8487,726.67452 -5.44643,5.44643 -5.44642,-5.44643 z"
        id="rect7209-0-3-9-4-6-6-3-3-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.46541,728.17353 0,-12.71204"
+       style="fill:#73d216;stroke:#4e9a06;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.46541,727.28642 0,-22.31385"
        id="path7212-6-9-3-5-6-2-0-7-3-7"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -484,14 +476,14 @@
        width="141.92642"
        height="65.154839"
        x="138.65448"
-       y="817.18182"
+       y="903.82465"
        rx="0"
        ry="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6816-7-0-3-6-0-3-7-0-8-0-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.22250062,0,0,0.22250062,136.88307,790.48993)"><flowRegion
+       transform="matrix(0.22250062,0,0,0.22250062,136.88307,877.13281)"><flowRegion
          id="flowRegion6818-2-5-9-9-7-4-4-6-0-3-2"><rect
            id="rect6820-3-1-4-7-6-3-9-5-1-4-8"
            width="545.578"
@@ -509,14 +501,85 @@
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
    id="flowSpan7563">Server B</flowSpan></flowPara></flowRoot>    <path
        style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 211.8487,811.18395 -5.44643,5.44643 -5.44642,-5.44643 z"
+       d="m 211.8487,897.82681 -5.44643,5.4464 -5.44642,-5.4464 z"
        id="rect7209-0-3-9-4-6-6-3-3-0-3-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.46541,812.31626 0,-9.08316"
+       d="m 206.46541,898.95911 0,-9.0832"
        id="path7212-6-9-3-5-6-2-0-7-3-7-6"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6816-7-0-3-6-0-3-7-0-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.22250062,0,0,0.22250062,162.8779,654.99232)"><flowRegion
+         id="flowRegion6818-2-5-9-9-7-4-4-6-8"><rect
+           id="rect6820-3-1-4-7-6-3-9-5-3"
+           width="545.578"
+           height="249.58104"
+           x="52.022858"
+           y="155.34673" /></flowRegion><flowPara
+         id="flowPara7046-1-2-2-3">is ssh trusted?</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#cc0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 280.99913,676.74943 29.02241,0"
+       id="path7688"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#d63434;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 309.3625,671.10282 5.44643,5.44643 -5.44643,5.44642 z"
+       id="rect7209-0-3-9-4-6-6-3-3-0-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 390,691.89298 0,71.89774 -108.57143,0"
+       id="path7708"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 286.12595,758.06306 -5.44643,5.44643 5.44643,5.44642 z"
+       id="rect7209-0-3-9-4-6-6-3-3-0-3-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:0.99999976000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6793-3-4-7"
+       width="141.92642"
+       height="76.266533"
+       x="138.65448"
+       y="813.46747"
+       rx="0"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6816-7-0-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.22250062,0,0,0.22250062,136.88307,783.24011)"><flowRegion
+         id="flowRegion6818-2-5-8"><rect
+           id="rect6820-3-1-5"
+           width="572.81799"
+           height="478.85095"
+           x="52.022858"
+           y="155.34673" /></flowRegion><flowPara
+         id="flowPara6822-6-3-6">Provisioner of <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7796">Server B</flowSpan></flowPara><flowPara
+         id="flowPara6896-9">1. Set up network</flowPara><flowPara
+         id="flowPara6892-0">2. Start cockpit-ws</flowPara><flowPara
+         id="flowPara6904-6">3. Set up certificate</flowPara><flowPara
+         id="flowPara6906-1">4. Join domain</flowPara><flowPara
+         id="flowPara6908-1">5. Set the SLP cockpit flag</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 211.8487,807.46966 -5.44643,5.44643 -5.44642,-5.44643 z"
+       id="rect7209-0-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.46541,808.50265 0,-11.04595"
+       id="path7212-6-9-39"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
