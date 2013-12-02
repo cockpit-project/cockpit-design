@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2300"
-   height="1780.0448"
+   width="1024"
+   height="768"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="add-a-system-v2.svg"
+   sodipodi:docname="add-a-system-v3.svg"
    inkscape:export-filename="/home/andreasn/SparkleShare/rhsc-design/big-demo/add-a-system-v2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="882.42742"
-     inkscape:cy="907.26167"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-1946.5645"
+     inkscape:cy="414.298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,13 +73,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-61.314888,37.617124)">
+     transform="translate(-61.314888,-974.42768)">
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7695-7"
        width="1407.1426"
-       height="2556.8982"
-       x="56.365074"
+       height="2756.3022"
+       x="-2500.5332"
        y="-30.996166"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -89,7 +89,7 @@
        id="rect13131-0-4-3-8-1"
        width="534.05225"
        height="433.24219"
-       x="151.97787"
+       x="-2404.9204"
        y="171.10893"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -99,7 +99,7 @@
        id="rect7278-4-5"
        width="107.48023"
        height="36.769554"
-       x="558.71747"
+       x="-1998.1807"
        y="551.65326"
        rx="7.0710678"
        ry="7.0710678"
@@ -111,7 +111,7 @@
        id="rect7316-2-2"
        width="492.33157"
        height="34.648235"
-       x="171.22299"
+       x="-2385.6753"
        y="221.60747"
        rx="0"
        ry="0"
@@ -121,7 +121,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="208.84689"
+       x="-2348.0513"
        y="242.65935"
        id="text6881-7-2-2-5"
        sodipodi:linespacing="125%"
@@ -129,14 +129,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="208.84689"
+         x="-2348.0513"
          y="242.65935"
          id="tspan6889-0-9-2-86"
          style="font-size:12px;fill:#888a85;fill-opacity:1">Enter IP address or hostname</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="598.89471"
+       x="-1958.0034"
        y="575.20746"
        id="text6881-7-2-3-2-4-7"
        sodipodi:linespacing="125%"
@@ -144,14 +144,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="598.89471"
+         x="-1958.0034"
          y="575.20746"
          id="tspan6889-0-9-9-2-5-1"
          style="font-size:12px;fill:#ffffff;fill-opacity:1">Next</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="357.96579"
+       x="-2198.9324"
        y="194.53337"
        id="text6881-7-2-9-3-9"
        sodipodi:linespacing="125%"
@@ -159,13 +159,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="357.96579"
+         x="-2198.9324"
          y="194.53337"
          id="tspan6889-0-9-7-0-2"
          style="font-size:12px;fill:#000000;fill-opacity:1">Add a new system</tspan></text>
     <path
        style="fill:none;stroke:#abafa7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 152.13298,205.44889 533.7406,0"
+       d="m -2404.7651,205.44889 533.7406,0"
        id="path7485-6-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
@@ -176,7 +176,7 @@
        id="rect7316-2-5-9"
        width="492.74222"
        height="64.648232"
-       x="171.7778"
+       x="-2385.1204"
        y="275.16083"
        rx="0"
        ry="0"
@@ -188,7 +188,7 @@
        id="rect7316-2-5-0-0"
        width="492.74222"
        height="64.648232"
-       x="171.7778"
+       x="-2385.1204"
        y="339.91083"
        rx="0"
        ry="0"
@@ -200,7 +200,7 @@
        id="rect7316-2-5-1-7"
        width="492.74222"
        height="64.648232"
-       x="171.7778"
+       x="-2385.1204"
        y="404.41083"
        rx="0"
        ry="0"
@@ -212,7 +212,7 @@
        id="rect7316-2-5-0-1-0"
        width="492.74222"
        height="64.648232"
-       x="171.7778"
+       x="-2385.1204"
        y="469.16083"
        rx="0"
        ry="0"
@@ -222,7 +222,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="239.34006"
+       x="-2317.5581"
        y="299.64642"
        id="text6881-7-2-2-2-50"
        sodipodi:linespacing="125%"
@@ -230,19 +230,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="299.64642"
          id="tspan6889-0-9-2-8-0"
          style="font-size:12px;fill:#000000;fill-opacity:1">Hardware - Hostname 1</tspan><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="314.64642"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan6218-6">192.168.1.12</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="239.34006"
+       x="-2317.5581"
        y="365.64642"
        id="text6881-7-2-2-2-5-2"
        sodipodi:linespacing="125%"
@@ -250,19 +250,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="365.64642"
          id="tspan6889-0-9-2-8-3-3"
          style="font-size:12px;fill:#000000;fill-opacity:1">Hardware - Hostname 2</tspan><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="380.64642"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan6218-0-8">192.168.1.13</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="239.34006"
+       x="-2317.5581"
        y="429.64642"
        id="text6881-7-2-2-2-5-4-02"
        sodipodi:linespacing="125%"
@@ -270,19 +270,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="429.64642"
          id="tspan6889-0-9-2-8-3-2-4"
          style="font-size:12px;fill:#000000;fill-opacity:1">Hardware - Hostname 3</tspan><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="444.64642"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan6218-0-1-6">192.168.1.14</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="239.34006"
+       x="-2317.5581"
        y="491.64642"
        id="text6881-7-2-2-2-5-4-1-9"
        sodipodi:linespacing="125%"
@@ -290,12 +290,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="491.64642"
          id="tspan6889-0-9-2-8-3-2-8-9"
          style="font-size:12px;fill:#000000;fill-opacity:1">Hardware - Hostname 4</tspan><tspan
          sodipodi:role="line"
-         x="239.34006"
+         x="-2317.5581"
          y="506.64642"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan6218-0-1-4-8">192.168.1.15</tspan></text>
@@ -307,14 +307,14 @@
        sodipodi:cy="162.20316"
        sodipodi:rx="7.3362327"
        sodipodi:ry="7.3362327"
-       d="m 151.49762,162.20316 c 0,4.05168 -3.28454,7.33623 -7.33623,7.33623 -4.05169,0 -7.33623,-3.28455 -7.33623,-7.33623 0,-4.05169 3.28454,-7.33624 7.33623,-7.33624 4.05169,0 7.33623,3.28455 7.33623,7.33624 z"
-       transform="translate(42.814685,74.721686)"
+       d="m 151.49762,162.20316 a 7.3362327,7.3362327 0 1 1 -14.67246,0 7.3362327,7.3362327 0 1 1 14.67246,0 z"
+       transform="translate(-2514.0834,74.721686)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 192.54458,242.67009 5.7452,5.7452"
+       d="m -2364.3535,242.67009 5.7452,5.7452"
        id="path7128-02"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
@@ -325,7 +325,7 @@
        id="rect6164-4"
        width="40"
        height="40"
-       x="184.97787"
+       x="-2371.9204"
        y="284.35834"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -335,7 +335,7 @@
        id="rect6164-1-0"
        width="40"
        height="40"
-       x="184.97787"
+       x="-2371.9204"
        y="350.35822"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -345,7 +345,7 @@
        id="rect6164-1-2-8"
        width="40"
        height="40"
-       x="184.97787"
+       x="-2371.9204"
        y="416.35822"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -355,7 +355,7 @@
        id="rect6164-1-2-9-7"
        width="40"
        height="40"
-       x="184.97787"
+       x="-2371.9204"
        y="476.35822"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -365,7 +365,7 @@
        id="rect13131-0-4-3-8-1-6-5"
        width="534.05225"
        height="433.24219"
-       x="154.58249"
+       x="-2402.3157"
        y="1266.7843"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -375,7 +375,7 @@
        id="rect7278-4-5-2-0"
        width="107.48023"
        height="36.769554"
-       x="561.3222"
+       x="-1995.5759"
        y="1647.3286"
        rx="7.0710678"
        ry="7.0710678"
@@ -387,7 +387,7 @@
        id="rect7278-9-6-1-0-3"
        width="107.48023"
        height="36.769554"
-       x="181.32224"
+       x="-2375.5759"
        y="1647.3286"
        rx="7.0710678"
        ry="7.0710678"
@@ -397,7 +397,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="218.49948"
+       x="-2338.3987"
        y="1670.8828"
        id="text6881-7-2-3-8-3-5-5"
        sodipodi:linespacing="125%"
@@ -405,14 +405,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="218.49948"
+         x="-2338.3987"
          y="1670.8828"
          id="tspan6889-0-9-9-4-6-4-6"
          style="font-size:12px;fill:#000000;fill-opacity:1">Back</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="596.49945"
+       x="-1960.3987"
        y="1670.8828"
        id="text6881-7-2-3-2-4-7-9-8"
        sodipodi:linespacing="125%"
@@ -420,14 +420,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="596.49945"
+         x="-1960.3987"
          y="1670.8828"
          id="tspan6889-0-9-9-2-5-1-7-6"
          style="font-size:12px;fill:#ffffff;fill-opacity:1">Finish</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="360.57053"
+       x="-2196.3276"
        y="1290.2087"
        id="text6881-7-2-9-3-9-3-5"
        sodipodi:linespacing="125%"
@@ -435,13 +435,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="360.57053"
+         x="-2196.3276"
          y="1290.2087"
          id="tspan6889-0-9-7-0-2-0-2"
          style="font-size:12px;fill:#000000;fill-opacity:1">Add a new system</tspan></text>
     <path
        style="fill:none;stroke:#abafa7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 154.73778,1301.1243 533.7406,0"
+       d="m -2402.1603,1301.1243 533.7406,0"
        id="path7485-6-9-5-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
@@ -452,7 +452,7 @@
        id="rect6535-2-7-9-4-9-7-0-8-9-3-1"
        width="246.78027"
        height="28.991379"
-       x="302.40646"
+       x="-2254.4917"
        y="1378.5591"
        rx="0"
        ry="0"
@@ -462,7 +462,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="289.17282"
+       x="-2267.7253"
        y="1396.3528"
        id="text15940-1-6-1-9-1-7-7-8-2-11-4-0-5"
        sodipodi:linespacing="125%"
@@ -471,13 +471,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan15942-9-1-7-7-0-2-9-4-7-75-41-3-2"
-         x="289.17282"
+         x="-2267.7253"
          y="1396.3528"
          style="font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:Cantarell">Hostname</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="308.62497"
+       x="-2248.2732"
        y="1397.4507"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0"
        sodipodi:linespacing="125%"
@@ -486,7 +486,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan15942-9-1-7-7-0-2-9-4-9-0-4-8-1-4"
-         x="308.62497"
+         x="-2248.2732"
          y="1397.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">prefilled-with-machine-name</tspan></text>
     <rect
@@ -494,7 +494,7 @@
        id="rect6535-2-7-9-4-9-7-0-8-9-3-9-1"
        width="246.78027"
        height="28.991379"
-       x="302.40646"
+       x="-2254.4917"
        y="1412.5591"
        rx="0"
        ry="0"
@@ -504,7 +504,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="289.17282"
+       x="-2267.7253"
        y="1430.3528"
        id="text15940-1-6-1-9-1-7-7-8-2-11-4-0-87-2-9"
        sodipodi:linespacing="125%"
@@ -513,13 +513,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan15942-9-1-7-7-0-2-9-4-7-75-41-3-2-6-6"
-         x="289.17282"
+         x="-2267.7253"
          y="1430.3528"
          style="font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:Cantarell">Organizational Unit</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="303.62497"
+       x="-2253.2732"
        y="1361.4507"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9"
        sodipodi:linespacing="125%"
@@ -528,7 +528,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan15942-9-1-7-7-0-2-9-4-9-0-4-8-1-2-6-6"
-         x="303.62497"
+         x="-2253.2732"
          y="1361.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Adding Hostname 2 to domain name-of-domain</tspan></text>
     <rect
@@ -536,7 +536,7 @@
        id="rect6535-2-7-9-4-9-7-0-8-9-3-9-1-0"
        width="246.78027"
        height="186.99138"
-       x="302.40646"
+       x="-2254.4917"
        y="1442.5591"
        rx="0"
        ry="0"
@@ -545,7 +545,7 @@
        inkscape:export-ydpi="90" />
     <rect
        y="1443.0504"
-       x="536.57074"
+       x="-2020.3274"
        height="185.41422"
        width="11.585787"
        id="rect8772"
@@ -557,7 +557,7 @@
        ry="3.7928934"
        rx="3.7928934"
        y="1444.8004"
-       x="538.57074"
+       x="-2018.3274"
        height="46.414215"
        width="7.5857868"
        id="rect8772-5"
@@ -568,7 +568,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="308.62497"
+       x="-2248.2732"
        y="1459.4507"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-2"
        sodipodi:linespacing="125%"
@@ -577,68 +577,68 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan15942-9-1-7-7-0-2-9-4-9-0-4-8-1-4-29"
-         x="308.62497"
+         x="-2248.2732"
          y="1459.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Boston</tspan><tspan
          id="tspan8835"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1476.9507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Brussels</tspan><tspan
          id="tspan8833"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1494.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Copenhagen</tspan><tspan
          id="tspan8837"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1511.9507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Gothenburg</tspan><tspan
          id="tspan8841"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1529.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Helsinki</tspan><tspan
          id="tspan8861"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1546.9507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Munich</tspan><tspan
          id="tspan8813"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1564.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">New York</tspan><tspan
          id="tspan8857"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1581.9507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Oslo</tspan><tspan
          id="tspan8821"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1599.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Paris</tspan><tspan
          id="tspan8851"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1616.9507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell">Stockholm</tspan><tspan
          id="tspan8829"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1634.4507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell" /><tspan
          id="tspan8819"
          sodipodi:role="line"
-         x="308.62497"
+         x="-2248.2732"
          y="1651.9507"
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Cantarell" /></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d3d7cf;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="309.62497"
+       x="-2247.2732"
        y="1431.9507"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-2-3"
        sodipodi:linespacing="125%"
@@ -647,13 +647,13 @@
        inkscape:export-ydpi="90"><tspan
          id="tspan8819-2"
          sodipodi:role="line"
-         x="309.62497"
+         x="-2247.2732"
          y="1431.9507"
          style="font-style:italic;font-weight:normal;text-align:start;text-anchor:start;fill:#d3d7cf;-inkscape-font-specification:Cantarell Italic">I can do autocomplete</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="549.01825"
+       x="-2007.8799"
        y="2395.5259"
        id="text6881-7-2-3-2-4-7-9-8-5"
        sodipodi:linespacing="125%"
@@ -661,13 +661,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="549.01825"
+         x="-2007.8799"
          y="2395.5259"
          id="tspan6889-0-9-9-2-5-1-7-6-1"
          style="font-size:12px;fill:#ffffff;fill-opacity:1">Finish</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 401.43608,654.36691 0,20.93738"
+       d="m -2155.462,654.36691 0,20.93738"
        id="path6644-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -676,7 +676,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 408.78838,740.18099 -7.6023,13.2591 -7.6024,-13.2591 z"
+       d="m -2148.1097,740.18099 -7.6023,13.2591 -7.6024,-13.2591 z"
        id="rect6646-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -688,7 +688,7 @@
        id="rect13131-0-4-3-8-1-6-5-8-1"
        width="534.05225"
        height="465.42593"
-       x="787.56561"
+       x="-1769.3325"
        y="1362.3607"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -696,7 +696,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="993.55365"
+       x="-1563.3445"
        y="1379.7853"
        id="text6881-7-2-9-3-9-3-5-6-7"
        sodipodi:linespacing="125%"
@@ -704,13 +704,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="993.55365"
+         x="-1563.3445"
          y="1379.7853"
          id="tspan6889-0-9-7-0-2-0-2-2-5"
          style="font-size:12px;fill:#000000;fill-opacity:1">Add a new system</tspan></text>
     <path
        style="fill:none;stroke:#abafa7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 787.72088,1390.7007 533.74062,0"
+       d="m -1769.1772,1390.7007 533.7406,0"
        id="path7485-6-9-5-8-6-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
@@ -721,7 +721,7 @@
        id="rect7243-6"
        width="533.07013"
        height="93.028732"
-       x="787.36859"
+       x="-1769.5295"
        y="1392.0681"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -729,7 +729,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="875.79504"
+       x="-1681.103"
        y="1420.8135"
        id="text6881-7-2-3-8-8-0-7-4"
        sodipodi:linespacing="125%"
@@ -737,22 +737,22 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="875.79504"
+         x="-1681.103"
          y="1420.8135"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan7239-3">The authenticity of host 'Hostname2 (192.168.1.12)'</tspan><tspan
          sodipodi:role="line"
-         x="875.79504"
+         x="-1681.103"
          y="1435.8135"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan9521-9">can't be established.</tspan><tspan
          sodipodi:role="line"
-         x="875.79504"
+         x="-1681.103"
          y="1450.8135"
          style="font-size:12px;fill:#000000;fill-opacity:1"
          id="tspan9519-7">RSA key fingerprint is b9:4c:29:97:d1:cd:8f:6c:97:06:48:b8:d8:e9:b9:a3.</tspan><tspan
          sodipodi:role="line"
-         x="875.79504"
+         x="-1681.103"
          y="1465.8135"
          style="font-size:12px;font-weight:bold;fill:#000000;fill-opacity:1;-inkscape-font-specification:Sans Bold"
          id="tspan7241-1">Are you sure this is correct?</tspan></text>
@@ -760,7 +760,7 @@
        style="display:inline"
        inkscape:label="dialog-password"
        id="g19750-2"
-       transform="matrix(0,-2.9445436,2.9445436,0,65.193085,2278.4992)"
+       transform="matrix(0,-2.9445436,2.9445436,0,-2491.705,2278.4992)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -795,7 +795,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1055.9473,632.69582 0,-142.01628 -339.28652,0"
+       d="m -1500.9508,632.69582 0,-142.01628 -339.2865,0"
        id="path6644-6-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
@@ -805,7 +805,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="149.59494"
+       x="-2407.3032"
        y="630.50226"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9-7-7-6"
        sodipodi:linespacing="125%"
@@ -813,19 +813,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="149.59494"
+         x="-2407.3032"
          y="630.50226"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan9074">Looks for other machines on the network and lists those, but also allows to add a</tspan><tspan
          sodipodi:role="line"
-         x="149.59494"
+         x="-2407.3032"
          y="648.00226"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan9078">IP address or hostname </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="775.16632"
+       x="-1781.7318"
        y="469.06689"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9-7-7-6-7-3"
        sodipodi:linespacing="125%"
@@ -833,14 +833,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="775.16632"
+         x="-1781.7318"
          y="469.06689"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan9106-8">If Server A is not part of a domain</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="150.08395"
+       x="-2406.8142"
        y="64.777512"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9-7-7-6-7-3-0"
        sodipodi:linespacing="125%"
@@ -848,18 +848,18 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="150.08395"
+         x="-2406.8142"
          y="64.777512"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan9106-8-3">Server A = Current system</tspan><tspan
          sodipodi:role="line"
-         x="150.08395"
+         x="-2406.8142"
          y="82.277512"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan9275">Server B = system that's being added</tspan></text>
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1063.5753,629.68672 -7.6023,13.2591 -7.6024,-13.2591 z"
+       d="m -1493.3228,629.68672 -7.6023,13.2591 -7.6024,-13.2591 z"
        id="rect6646-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -868,7 +868,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1041.4361,1116.8791 0,227.3916"
+       d="m -1515.462,1116.8791 0,227.3916"
        id="path6644-6-59-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -880,7 +880,7 @@
        id="rect9365-4"
        width="312.86292"
        height="23"
-       x="882.01788"
+       x="-1674.8802"
        y="1291.3571"
        rx="0"
        ry="0"
@@ -890,7 +890,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="898.73267"
+       x="-1658.1654"
        y="1307.9518"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9-7-7-6-7-1"
        sodipodi:linespacing="125%"
@@ -898,13 +898,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="898.73267"
+         x="-1658.1654"
          y="1307.9518"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Cantarell"
          id="tspan9106-5">If authentacy of Server B can't be established</tspan></text>
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1048.7884,1341.9585 -7.6023,13.2591 -7.6024,-13.2591 z"
+       d="m -1508.1097,1341.9585 -7.6023,13.2591 -7.6024,-13.2591 z"
        id="rect6646-7-9-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -916,7 +916,7 @@
        id="rect7278-4-5-2-0-2-1"
        width="107.48023"
        height="36.769554"
-       x="1187.3751"
+       x="-1369.5229"
        y="1777.1406"
        rx="7.0710678"
        ry="7.0710678"
@@ -928,7 +928,7 @@
        id="rect7278-9-6-1-0-3-1-0"
        width="107.48023"
        height="36.769554"
-       x="807.37518"
+       x="-1749.5229"
        y="1777.1406"
        rx="7.0710678"
        ry="7.0710678"
@@ -938,7 +938,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="847.55237"
+       x="-1709.3457"
        y="1800.6948"
        id="text6881-7-2-3-8-3-5-5-8-2"
        sodipodi:linespacing="125%"
@@ -946,7 +946,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="847.55237"
+         x="-1709.3457"
          y="1800.6948"
          id="tspan6889-0-9-9-4-6-4-6-6-1"
          style="font-size:12px;fill:#000000;fill-opacity:1">Back</tspan></text>
@@ -956,7 +956,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(1844.1345,762.0845)">
+       transform="translate(-712.76362,762.0845)">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1047,7 +1047,7 @@
        id="rect7123-6-3"
        width="2.6516504"
        height="5.2674513"
-       x="1238.3512"
+       x="-1318.547"
        y="1786.6287"
        rx="1.3258252"
        ry="1.3258252"
@@ -1059,7 +1059,7 @@
        id="rect7123-2-4-0"
        width="2.6516504"
        height="6.3299513"
-       x="1238.3512"
+       x="-1318.547"
        y="1800.2537"
        rx="1.3258252"
        ry="1.3258252"
@@ -1072,7 +1072,7 @@
        width="2.6516504"
        height="6.2674513"
        x="-1797.9319"
-       y="1229.6996"
+       y="-1327.1986"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0,-1,1,0,0,0)"
@@ -1085,7 +1085,7 @@
        width="2.6516504"
        height="5.5799513"
        x="-1797.9319"
-       y="1244.0746"
+       y="-1312.8236"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0,-1,1,0,0,0)"
@@ -1097,8 +1097,8 @@
        id="rect7123-0-8-2"
        width="2.6516504"
        height="5.2674513"
-       x="-395.13364"
-       y="2137.0002"
+       x="-2203.1335"
+       y="329.00024"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
@@ -1110,8 +1110,8 @@
        id="rect7123-2-0-9-4"
        width="2.6516504"
        height="6.3299513"
-       x="-395.13364"
-       y="2150.6255"
+       x="-2203.1335"
+       y="342.62549"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
@@ -1123,8 +1123,8 @@
        id="rect7123-5-0-4-1"
        width="2.6516504"
        height="6.2674513"
-       x="-2148.3037"
-       y="-403.78513"
+       x="-340.30371"
+       y="-2211.7852"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
@@ -1136,8 +1136,8 @@
        id="rect7123-2-3-9-7-8"
        width="2.6516504"
        height="5.5799513"
-       x="-2148.3037"
-       y="-389.41013"
+       x="-340.30371"
+       y="-2197.4102"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
@@ -1146,7 +1146,7 @@
        inkscape:export-ydpi="90" />
     <g
        id="g9160-4"
-       transform="translate(-1954.8486,3004.1059)"
+       transform="translate(-4511.7467,3004.1059)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1603,7 +1603,7 @@
     </g>
     <g
        id="g8075"
-       transform="translate(1255.8216,2222.6442)"
+       transform="translate(-1301.0765,2222.6442)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1713,7 +1713,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="301.49582"
+       x="-2255.4023"
        y="2509.0381"
        id="text6881-7-2-2-2-5-48-5-6-3-0"
        sodipodi:linespacing="125%"
@@ -1721,17 +1721,17 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="301.49582"
+         x="-2255.4023"
          y="2509.0381"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan8695-6">Could not join that organizational unit.</tspan><tspan
          sodipodi:role="line"
-         x="301.49582"
+         x="-2255.4023"
          y="2524.0381"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan8236">Make sure you spelled it correct and</tspan><tspan
          sodipodi:role="line"
-         x="301.49582"
+         x="-2255.4023"
          y="2539.0381"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan8240">have the correct permissions</tspan></text>
@@ -1750,7 +1750,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m -2110,-249.9552 -5.6292,-9.75 -5.6291,-9.75 11.2583,0 11.2583,0 -5.6291,9.75 z"
-       transform="matrix(0.51527127,0,0,0.51527127,1620.9144,1562.1828)"
+       transform="matrix(0.51527127,0,0,0.51527127,-935.98372,1562.1828)"
        inkscape:transform-center-y="1.674632"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -1770,7 +1770,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m -2110,-249.9552 -5.6292,-9.75 -5.6291,-9.75 11.2583,0 11.2583,0 -5.6291,9.75 z"
-       transform="matrix(0.51527127,0,0,0.51527127,1620.9143,2051.2711)"
+       transform="matrix(0.51527127,0,0,0.51527127,-935.98382,2051.2711)"
        inkscape:transform-center-y="1.674632"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -1778,7 +1778,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="595.60138"
+       x="-1961.2968"
        y="2639.2852"
        id="text6881-7-2-3-2-4-7-9-8-6"
        sodipodi:linespacing="125%"
@@ -1786,13 +1786,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="595.60138"
+         x="-1961.2968"
          y="2639.2852"
          id="tspan6889-0-9-9-2-5-1-7-6-0"
          style="font-size:12px;fill:#ffffff;fill-opacity:1">Finish</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 401.43608,1708.9407 0,30.6969"
+       d="m -2155.462,1708.9407 0,30.6969"
        id="path6644-6-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -1801,7 +1801,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 408.78838,1735.0868 -7.6023,13.2591 -7.6024,-13.2591 z"
+       d="m -2148.1097,1735.0868 -7.6023,13.2591 -7.6024,-13.2591 z"
        id="rect6646-7-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1810,7 +1810,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 401.43608,2196.6638 0,23.0287"
+       d="m -2155.462,2196.6638 0,23.0287"
        id="path6644-6-7-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -1819,7 +1819,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 408.78838,2215.0868 -7.6023,13.2591 -7.6024,-13.2591 z"
+       d="m -2148.1097,2215.0868 -7.6023,13.2591 -7.6024,-13.2591 z"
        id="rect6646-7-5-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1829,7 +1829,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="916.58765"
+       x="-1640.3104"
        y="667.05676"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9-7-7-6-7-3-5"
        sodipodi:linespacing="125%"
@@ -1837,13 +1837,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="916.58765"
+         x="-1640.3104"
          y="667.05676"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan9106-8-1">Tries to add server B with curren user+pass</tspan></text>
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1197.3707,1310.7401 -13.2591,-7.6023 13.2591,-7.6024 z"
+       d="m -1359.5274,1310.7401 -13.2591,-7.6023 13.2591,-7.6024 z"
        id="rect6646-7-9-0-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1855,7 +1855,7 @@
        id="rect13131-0-4-3-8-1-6-5-8-5"
        width="534.05225"
        height="427.24219"
-       x="780.63544"
+       x="-1776.2627"
        y="684.6897"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -1865,7 +1865,7 @@
        id="rect7278-4-5-2-0-2-0"
        width="107.48023"
        height="36.769554"
-       x="1187.3752"
+       x="-1369.5228"
        y="1057.2341"
        rx="7.0710678"
        ry="7.0710678"
@@ -1877,7 +1877,7 @@
        id="rect7278-9-6-1-0-3-1-06"
        width="107.48023"
        height="36.769554"
-       x="807.37518"
+       x="-1749.5229"
        y="1057.2341"
        rx="7.0710678"
        ry="7.0710678"
@@ -1887,7 +1887,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="847.55243"
+       x="-1709.3457"
        y="1080.7883"
        id="text6881-7-2-3-8-3-5-5-8-8"
        sodipodi:linespacing="125%"
@@ -1895,14 +1895,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="847.55243"
+         x="-1709.3457"
          y="1080.7883"
          id="tspan6889-0-9-9-4-6-4-6-6-0"
          style="font-size:12px;fill:#000000;fill-opacity:1">Back</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="986.62347"
+       x="-1570.2747"
        y="702.11407"
        id="text6881-7-2-9-3-9-3-5-6-8"
        sodipodi:linespacing="125%"
@@ -1910,13 +1910,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="986.62347"
+         x="-1570.2747"
          y="702.11407"
          id="tspan6889-0-9-7-0-2-0-2-2-1"
          style="font-size:12px;fill:#000000;fill-opacity:1">Add a new system</tspan></text>
     <path
        style="fill:none;stroke:#abafa7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 780.79068,713.0296 533.74062,0"
+       d="m -1776.1074,713.0296 533.7406,0"
        id="path7485-6-9-5-8-6-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
@@ -1927,7 +1927,7 @@
        id="rect7316-2-1-5-8-2"
        width="315.33157"
        height="34.648235"
-       x="910.80145"
+       x="-1646.0967"
        y="759.94177"
        rx="0"
        ry="0"
@@ -1939,7 +1939,7 @@
        id="rect7316-2-1-5-7-5-2"
        width="315.33157"
        height="34.648235"
-       x="910.80145"
+       x="-1646.0967"
        y="801.94177"
        rx="0"
        ry="0"
@@ -1949,7 +1949,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="833.57959"
+       x="-1723.3185"
        y="780.2395"
        id="text6881-7-2-2-2-5-48-5-4-2-1"
        sodipodi:linespacing="125%"
@@ -1957,14 +1957,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="833.57959"
+         x="-1723.3185"
          y="780.2395"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan6218-0-4-3-0-4-6">User name</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="844.57953"
+       x="-1712.3186"
        y="822.2395"
        id="text6881-7-2-2-2-5-48-5-4-1-9-6"
        sodipodi:linespacing="125%"
@@ -1972,14 +1972,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="844.57953"
+         x="-1712.3186"
          y="822.2395"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan6218-0-4-3-0-7-7-2">Password</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="940.64423"
+       x="-1616.2539"
        y="861.30322"
        id="text6881-7-2-2-2-5-48-5-6-3-8"
        sodipodi:linespacing="125%"
@@ -1987,12 +1987,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="940.64423"
+         x="-1616.2539"
          y="861.30322"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan6642-77-1-1">Sync admin usernames and passwords for</tspan><tspan
          sodipodi:role="line"
-         x="940.64423"
+         x="-1616.2539"
          y="876.30322"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan8695-9">automatic authentication</tspan></text>
@@ -2001,7 +2001,7 @@
        id="rect17708-6-46"
        width="20.5"
        height="20.5"
-       x="911.4223"
+       x="-1645.4758"
        y="846.33142"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -2011,7 +2011,7 @@
        id="rect7123-6-8"
        width="2.6516504"
        height="5.2674513"
-       x="1238.3513"
+       x="-1318.5469"
        y="1066.7219"
        rx="1.3258252"
        ry="1.3258252"
@@ -2023,7 +2023,7 @@
        id="rect7123-2-4-1"
        width="2.6516504"
        height="6.3299513"
-       x="1238.3513"
+       x="-1318.5469"
        y="1080.3469"
        rx="1.3258252"
        ry="1.3258252"
@@ -2036,7 +2036,7 @@
        width="2.6516504"
        height="6.2674513"
        x="-1078.0253"
-       y="1229.6997"
+       y="-1327.1985"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0,-1,1,0,0,0)"
@@ -2049,7 +2049,7 @@
        width="2.6516504"
        height="5.5799513"
        x="-1078.0253"
-       y="1244.0747"
+       y="-1312.8235"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0,-1,1,0,0,0)"
@@ -2061,8 +2061,8 @@
        id="rect7123-0-8-6"
        width="2.6516504"
        height="5.2674513"
-       x="113.91728"
-       y="1627.9504"
+       x="-1694.0828"
+       y="-180.04956"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
@@ -2074,8 +2074,8 @@
        id="rect7123-2-0-9-2"
        width="2.6516504"
        height="6.3299513"
-       x="113.91728"
-       y="1641.5754"
+       x="-1694.0828"
+       y="-166.42456"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
@@ -2087,8 +2087,8 @@
        id="rect7123-5-0-4-19"
        width="2.6516504"
        height="6.2674513"
-       x="-1639.2538"
-       y="105.26567"
+       x="168.74622"
+       y="-1702.7344"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
@@ -2100,8 +2100,8 @@
        id="rect7123-2-3-9-7-2"
        width="2.6516504"
        height="5.5799513"
-       x="-1639.2538"
-       y="119.64068"
+       x="168.74622"
+       y="-1688.3594"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
@@ -2113,7 +2113,7 @@
        id="rect13131-0-4-3-8-1-6-5-8-5-2"
        width="534.05225"
        height="427.24219"
-       x="150.28876"
+       x="-2406.6094"
        y="756.80658"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -2123,7 +2123,7 @@
        id="rect7278-4-5-2-0-2-0-1"
        width="107.48023"
        height="36.769554"
-       x="557.02856"
+       x="-1999.8695"
        y="1129.351"
        rx="7.0710678"
        ry="7.0710678"
@@ -2135,7 +2135,7 @@
        id="rect7278-9-6-1-0-3-1-06-8"
        width="107.48023"
        height="36.769554"
-       x="177.0285"
+       x="-2379.8696"
        y="1129.351"
        rx="7.0710678"
        ry="7.0710678"
@@ -2145,7 +2145,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="217.20575"
+       x="-2339.6924"
        y="1152.9052"
        id="text6881-7-2-3-8-3-5-5-8-8-2"
        sodipodi:linespacing="125%"
@@ -2153,14 +2153,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="217.20575"
+         x="-2339.6924"
          y="1152.9052"
          id="tspan6889-0-9-9-4-6-4-6-6-0-2"
          style="font-size:12px;fill:#000000;fill-opacity:1">Back</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="356.27679"
+       x="-2200.6213"
        y="774.23096"
        id="text6881-7-2-9-3-9-3-5-6-8-6"
        sodipodi:linespacing="125%"
@@ -2168,13 +2168,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="356.27679"
+         x="-2200.6213"
          y="774.23096"
          id="tspan6889-0-9-7-0-2-0-2-2-1-2"
          style="font-size:12px;fill:#000000;fill-opacity:1">Add a new system</tspan></text>
     <path
        style="fill:none;stroke:#abafa7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 150.44401,785.14648 533.74059,0"
+       d="m -2406.4541,785.14648 533.7406,0"
        id="path7485-6-9-5-8-6-0-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
@@ -2185,7 +2185,7 @@
        id="rect7316-2-1-5-8-2-6"
        width="315.33157"
        height="34.648235"
-       x="280.45477"
+       x="-2276.4434"
        y="832.05865"
        rx="0"
        ry="0"
@@ -2197,7 +2197,7 @@
        id="rect7316-2-1-5-7-5-2-6"
        width="315.33157"
        height="34.648235"
-       x="280.45477"
+       x="-2276.4434"
        y="874.05865"
        rx="0"
        ry="0"
@@ -2207,7 +2207,7 @@
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="203.23291"
+       x="-2353.6653"
        y="852.35638"
        id="text6881-7-2-2-2-5-48-5-4-2-1-4"
        sodipodi:linespacing="125%"
@@ -2215,14 +2215,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="203.23291"
+         x="-2353.6653"
          y="852.35638"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan6218-0-4-3-0-4-6-8">User name</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="214.23285"
+       x="-2342.6653"
        y="894.35638"
        id="text6881-7-2-2-2-5-48-5-4-1-9-6-8"
        sodipodi:linespacing="125%"
@@ -2230,14 +2230,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="214.23285"
+         x="-2342.6653"
          y="894.35638"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan6218-0-4-3-0-7-7-2-7">Password</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.36241627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="310.29755"
+       x="-2246.6006"
        y="933.4201"
        id="text6881-7-2-2-2-5-48-5-6-3-8-4"
        sodipodi:linespacing="125%"
@@ -2245,12 +2245,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="310.29755"
+         x="-2246.6006"
          y="933.4201"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan6642-77-1-1-7">Sync admin usernames and passwords for</tspan><tspan
          sodipodi:role="line"
-         x="310.29755"
+         x="-2246.6006"
          y="948.4201"
          style="font-size:12px;fill:#2e3436;fill-opacity:1"
          id="tspan8695-9-9">automatic authentication</tspan></text>
@@ -2259,7 +2259,7 @@
        id="rect17708-6-46-5"
        width="20.5"
        height="20.5"
-       x="281.07562"
+       x="-2275.8225"
        y="918.4483"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
@@ -2269,7 +2269,7 @@
        id="rect7123-6-8-8"
        width="2.6516504"
        height="5.2674513"
-       x="608.00464"
+       x="-1948.8934"
        y="1138.8387"
        rx="1.3258252"
        ry="1.3258252"
@@ -2281,7 +2281,7 @@
        id="rect7123-2-4-1-1"
        width="2.6516504"
        height="6.3299513"
-       x="608.00464"
+       x="-1948.8934"
        y="1152.4637"
        rx="1.3258252"
        ry="1.3258252"
@@ -2294,7 +2294,7 @@
        width="2.6516504"
        height="6.2674513"
        x="-1150.1421"
-       y="599.35303"
+       y="-1957.545"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0,-1,1,0,0,0)"
@@ -2307,7 +2307,7 @@
        width="2.6516504"
        height="5.5799513"
        x="-1150.1421"
-       y="613.72803"
+       y="-1943.17"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0,-1,1,0,0,0)"
@@ -2319,8 +2319,8 @@
        id="rect7123-0-8-6-1"
        width="2.6516504"
        height="5.2674513"
-       x="-382.79947"
-       y="1233.2223"
+       x="-2190.7993"
+       y="-574.77771"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
@@ -2332,8 +2332,8 @@
        id="rect7123-2-0-9-2-3"
        width="2.6516504"
        height="6.3299513"
-       x="-382.79947"
-       y="1246.8473"
+       x="-2190.7993"
+       y="-561.15271"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
@@ -2345,8 +2345,8 @@
        id="rect7123-5-0-4-19-6"
        width="2.6516504"
        height="6.2674513"
-       x="-1244.5256"
-       y="-391.45108"
+       x="563.47437"
+       y="-2199.4509"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
@@ -2358,8 +2358,8 @@
        id="rect7123-2-3-9-7-2-9"
        width="2.6516504"
        height="5.5799513"
-       x="-1244.5256"
-       y="-377.07608"
+       x="563.47437"
+       y="-2185.0759"
        rx="1.3258252"
        ry="1.3258252"
        transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
@@ -2369,7 +2369,7 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       x="266.21402"
+       x="-2290.6841"
        y="690.57672"
        id="text15940-1-6-1-9-1-7-7-8-7-7-9-7-3-0-6-9-7-7-6-7-3-5-1"
        sodipodi:linespacing="125%"
@@ -2377,23 +2377,23 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="266.21402"
+         x="-2290.6841"
          y="690.57672"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan6446">Tries to add server B with current user+pass         suceeds</tspan><tspan
          sodipodi:role="line"
-         x="266.21402"
+         x="-2290.6841"
          y="708.07672"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan6450" /><tspan
          sodipodi:role="line"
-         x="266.21402"
+         x="-2290.6841"
          y="725.57672"
          style="font-weight:normal;text-align:start;text-anchor:start;fill:#2e3436;-inkscape-font-specification:Cantarell"
          id="tspan6452">                                fails</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 400.5522,728.6046 0,13.30343"
+       d="m -2156.3459,728.6046 0,13.30343"
        id="path6644-6-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -2402,7 +2402,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 408.78838,1242.961 -7.6023,13.2591 -7.6024,-13.2591 z"
+       d="m -2148.1097,1242.961 -7.6023,13.2591 -7.6024,-13.2591 z"
        id="rect6646-7-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -2411,7 +2411,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 400.5522,1190.3843 0,60.6557"
+       d="m -2156.3459,1190.3843 0,60.6557"
        id="path6644-6-0-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -2420,12 +2420,665 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 630.53587,686.64621 98.99491,0 0,735.46209 -32.52687,0"
+       d="m -1926.3622,686.64621 98.9949,0 0,735.46209 -32.5269,0"
        id="path9178-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/add-a-system-steps.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cccc" />
+    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9051"
+       width="1029.5474"
+       height="772.16064"
+       x="58.486462"
+       y="970.26709"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-132.43237,548.5744)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823"><rect
+           id="rect9825"
+           width="1117.2288"
+           height="712.76361"
+           x="214.96046"
+           y="450.68405" /></flowRegion><flowPara
+         id="flowPara9827"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:Monospace;-inkscape-font-specification:Monospace">Welcome to Operating System!</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9841">Please run cockpit-provisioner to set up the web UI</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9847" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849">[root@system]$ </flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9051-5"
+       width="1029.5474"
+       height="772.16064"
+       x="52.772575"
+       y="1770.7119"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9890"
+       width="708.521"
+       height="322.4407"
+       x="206.97888"
+       y="1977.187"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(26.588705,1564.0803)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2"><rect
+           id="rect9825-2"
+           width="513.35956"
+           height="209.30353"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3465a4;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2">Networking</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10112" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10114">[ ] DHCP</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9995" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10001">[x] Static</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10009">IPv4-address: [   .   .   .   ] [x] Enabled</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10015">IPv6-address: [  .  .  .  .  .] [ ] Enabled</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10021">         DNS: [   .   .   .   ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10019" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10013"> </flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9892"
+       width="692"
+       height="301"
+       x="215.60095"
+       y="1986.8726"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894"
+       width="112"
+       height="31"
+       x="779.60095"
+       y="2243.8726"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-4"
+       width="112"
+       height="31"
+       x="231.60095"
+       y="2243.8726"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(47.568205,1799.9875)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4"><rect
+           id="rect9825-2-1"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7">Cancel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(603.9969,1799.7345)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-9"><rect
+           id="rect9825-2-1-0"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-4">Next</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9051-5-1"
+       width="1029.5474"
+       height="772.16064"
+       x="49.283981"
+       y="2571.1567"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9890-4"
+       width="708.521"
+       height="322.4407"
+       x="203.49028"
+       y="2777.6321"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10237"
+       width="655.48798"
+       height="19.79899"
+       x="237.27055"
+       y="2814.3157"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-83"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(23.100107,2364.5251)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-6"><rect
+           id="rect9825-2-5"
+           width="513.35956"
+           height="209.30353"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10157">Manage system via domain</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10235">Use local user accounts</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9892-3"
+       width="692"
+       height="301"
+       x="212.11235"
+       y="2787.3176"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-6"
+       width="112"
+       height="31"
+       x="776.11237"
+       y="3044.3176"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-4-4"
+       width="112"
+       height="31"
+       x="228.11235"
+       y="3044.3176"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(44.079607,2600.4324)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-0"><rect
+           id="rect9825-2-1-06"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-6">Cancel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-9-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(600.50831,2600.1794)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-9-1"><rect
+           id="rect9825-2-1-0-9"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-4-4">Next</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9051-5-1-9"
+       width="1029.5474"
+       height="772.16064"
+       x="-463.3215"
+       y="3470.5967"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9890-4-3"
+       width="708.521"
+       height="322.4407"
+       x="-309.1152"
+       y="3677.072"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9892-3-8"
+       width="692"
+       height="301"
+       x="-300.49313"
+       y="3686.7576"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-6-5"
+       width="112"
+       height="31"
+       x="263.50687"
+       y="3943.7576"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-4-4-3"
+       width="112"
+       height="31"
+       x="-284.49313"
+       y="3943.7576"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-6-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-468.52587,3499.8722)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-0-1"><rect
+           id="rect9825-2-1-06-3"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-6-5">Cancel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-9-2-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(87.902827,3499.6192)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-9-1-0"><rect
+           id="rect9825-2-1-0-9-7"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-4-4-0">Next</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-83-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-500.15897,3258.1755)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-6-0"><rect
+           id="rect9825-2-5-4"
+           width="513.35956"
+           height="209.30353"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3465a4;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10013-5-2">Domain</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10151-5" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10153-7">           Hostname: [                               ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10155-8">Organizational Unit: [                               ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10159-3">     Admin Username: [                               ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10161-2">           Password: [                               ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10157-7" /></flowRoot>    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9051-5-1-9-1"
+       width="1029.5474"
+       height="772.16064"
+       x="641.84241"
+       y="3468.0686"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9890-4-3-3"
+       width="708.521"
+       height="322.4407"
+       x="796.04871"
+       y="3674.5439"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9892-3-8-2"
+       width="692"
+       height="301"
+       x="804.67078"
+       y="3684.2295"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-6-5-1"
+       width="112"
+       height="31"
+       x="1368.6709"
+       y="3941.2297"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-4-4-3-9"
+       width="112"
+       height="31"
+       x="820.67078"
+       y="3941.2297"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-6-4-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(636.638,3497.344)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-0-1-8"><rect
+           id="rect9825-2-1-06-3-9"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-6-5-5">Cancel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-9-2-7-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(1193.0667,3497.091)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-9-1-0-1"><rect
+           id="rect9825-2-1-0-9-7-2"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-4-4-0-3">Next</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-83-0-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(605.0049,3255.6473)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-6-0-4"><rect
+           id="rect9825-2-5-4-2"
+           width="513.35956"
+           height="209.30353"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3465a4;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10013-5-2-2">Admin user account</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10151-5-7" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10157-7-2">System hostname: [                                ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10598">Full name:       [                                ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10413"> Username:       [                                ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10409"> Password:       [                                ]</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10411" /></flowRoot>    <rect
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9051-5-1-9-10"
+       width="1029.5474"
+       height="772.16064"
+       x="5.7379966"
+       y="4403.9775"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9890-4-3-5"
+       width="708.521"
+       height="322.4407"
+       x="159.94453"
+       y="4610.4531"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9892-3-8-6"
+       width="692"
+       height="301"
+       x="168.5666"
+       y="4620.1387"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9894-6-5-7"
+       width="112"
+       height="31"
+       x="732.56659"
+       y="4877.1387"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-8-9-2-7-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(548.96257,4433.0001)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-4-9-1-0-2"><rect
+           id="rect9825-2-1-0-9-7-0"
+           width="68.891953"
+           height="22.183716"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#eeeeec;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eeeeec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara9849-2-7-4-4-0-7">Close</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9821-7-83-0-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-31.099231,4191.5564)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion9823-2-6-0-9"><rect
+           id="rect9825-2-5-4-4"
+           width="597.50525"
+           height="207.88928"
+           x="214.96046"
+           y="450.68405"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3465a4;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10157-7-9">Initializing</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10526" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10528">* Starting network                                      <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan10546">Done</flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10538">* Creating self-signed certificate                      <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan10548">Done</flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10534">* Joining domain                                        <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan10550">Done</flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10542">* Starting OpenSLP discovery                            <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan10552">Done</flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10540">* Starting cockpit-ws                                   <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan10554">Done</flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10556" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10560"></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10564"></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara10566">You can now log in to 192.168.1.112:21064 using a web browser</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.22035,1847.0449 -257.386872,0 0,651.9525"
+       id="path10568"
+       inkscape:connector-curvature="0"
+       transform="translate(61.314888,974.42768)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 828.72915,1872.5008 272.94325,0 0,620.8397"
+       id="path10570"
+       inkscape:connector-curvature="0"
+       transform="translate(61.314888,974.42768)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 556.47593,1742.4277 0,28.9914"
+       id="path10572"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 556.47593,2542.6599 0,28.9914"
+       id="path10572-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 22.627417,3266.9154 307.39153,3431.324"
+       id="path10592"
+       inkscape:connector-curvature="0"
+       transform="translate(61.314888,974.42768)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1050.7607,3266.9154 767.71356,3430.3327"
+       id="path10594"
+       inkscape:connector-curvature="0"
+       transform="translate(61.314888,974.42768)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#3465a4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10596"
+       width="2743.5742"
+       height="4440.6304"
+       x="-770.24268"
+       y="876.92896"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/add-system/system-intial-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
