@@ -1,0 +1,40 @@
+/* Hacks on top for now */
+
+/* Panels don't draw borders between them */
+.panel > .table > tbody:first-child td {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+/* Contatiner is too close to the top navbar */
+.container {
+    margin-top: 20px;
+}
+
+/*
+.nav .btn-group .btn-default {
+    background-image: linear-gradient(to bottom, rgb(29, 29, 29) 0%, rgb(3, 3, 3) 100%);
+    color: #ffffff;
+    margin-top: 3px;
+    padding: 6px 20px;
+    border-color: #000;
+}
+
+.nav .btn-group .btn-default:first-child {
+    border-radius: 4px 0 0 4px;
+}
+
+.nav .btn-group .btn-default:last-child {
+    border-radius: 0 4px 4px 0;
+}
+
+.nav .btn-group .btn-default:hover {
+    background-image: linear-gradient(to bottom, #363636 0%, #1D1D1D 100%);
+}
+
+              <div class="btn-group">
+  <button type="button" class="btn btn-default">Left</button>
+  <button type="button" class="btn btn-default">Middle</button>
+  <button type="button" class="btn btn-default">Right</button>
+</div>
+           
+*/
