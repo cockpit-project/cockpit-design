@@ -3245,7 +3245,7 @@
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-24-8-5-4-7-4-6-5-3-0-7">running</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,2281.0979,241.72865)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:end;text-align:end"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-4-5-2-1"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image.png"
@@ -3254,14 +3254,16 @@
          id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-2-6-7-79"><rect
            y="-121.54033"
            x="2.8284271"
-           height="241.02541"
-           width="269.30569"
+           height="364.48322"
+           width="377.70767"
            id="rect6155-9-4-9-3-0-3-8-8-8-0-4-0-5-85"
            style="text-align:end;text-anchor:end" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-24-8-5-4-7-4-6-5-9">Id:</flowPara><flowPara
          id="flowPara13228">Created:</flowPara><flowPara
          id="flowPara13220">Virtual size:</flowPara><flowPara
-         id="flowPara13224">Tags:</flowPara></flowRoot>    <rect
+         id="flowPara13224">Tags:</flowPara><flowPara
+         id="flowPara13268">Image description: </flowPara><flowPara
+         id="flowPara13266" /></flowRoot>    <rect
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7348-8-1-85-6"
        width="69.751419"
@@ -5751,7 +5753,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,2387.0979,241.72865)"
+       transform="matrix(0.33209728,0,0,0.33209728,2417.0979,241.72865)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-4-5-2-1-2"
        xml:space="preserve"
@@ -5761,8 +5763,8 @@
          id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-2-6-7-79-1"><rect
            y="-121.54033"
            x="2.8284271"
-           height="250.0589"
-           width="1193.7336"
+           height="352.43854"
+           width="1196.7448"
            id="rect6155-9-4-9-3-0-3-8-8-8-0-4-0-5-85-5"
            style="text-align:end;text-anchor:end" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-24-8-5-4-7-4-6-5-9-9"
@@ -5772,5 +5774,7 @@
          id="flowPara13220-6"
          style="text-align:start;text-anchor:start">1.0 GiB</flowPara><flowPara
          id="flowPara13224-9"
-         style="text-align:start;text-anchor:start">mvollmer/nodejs:latest</flowPara></flowRoot>  </g>
+         style="text-align:start;text-anchor:start">mvollmer/nodejs:latest</flowPara><flowPara
+         style="text-align:start;text-anchor:start"
+         id="flowPara13270">Info from the page...</flowPara></flowRoot>  </g>
 </svg>
