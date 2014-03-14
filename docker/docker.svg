@@ -22,14 +22,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="395.3163"
-     inkscape:cy="520.9292"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1582.8983"
+     inkscape:cy="429.38053"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2995,7 +2995,7 @@
            width="823.36047"
            id="rect6155-9-4-9-3-0-3-8-8-8-0" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-24-8-5-4-7">Container name: LAMP</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1263.8725,200.36721)"
+       transform="matrix(0.33209728,0,0,0.33209728,1263.8725,680.36721)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8"
        xml:space="preserve"
@@ -5466,7 +5466,7 @@
            width="584.14319"
            id="rect6155-9-4-9-3-0-00-8-3-6-7-1" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-6-9-6-1-1">Docker image installation</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,966.3725,200.36721)"
+       transform="matrix(0.33209728,0,0,0.33209728,966.3725,680.36721)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1"
        xml:space="preserve"
@@ -8228,5 +8228,87 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-overview.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-  </g>
+    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,1404.8725,-100.63279)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-1-7-0"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="372.98492"
+           width="1059.3153"
+           id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-53" /></flowRegion><flowPara
+         id="flowPara12937-8">Mon 10 Mar 2014 10:59:39 AM CET</flowPara><flowPara
+         id="flowPara12940-7"><flowSpan
+           style="fill:#3465a4"
+           id="flowSpan12935-1">MNSD987453DF</flowSpan></flowPara><flowPara
+         id="flowPara12945-1">/bin/sh</flowPara><flowPara
+         id="flowPara12947-8">....</flowPara><flowPara
+         id="flowPara12951-8">/usr/local/bin/docker</flowPara><flowPara
+         id="flowPara10220-3">80</flowPara><flowPara
+         id="flowPara10218-7" /></flowRoot>    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,906.37248,220.36721)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-1-7-1-0"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="421.16354"
+           width="1033.7203"
+           id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9"
+           style="fill:#888a85" /></flowRegion><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7620">             Id:</flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7684">Image:</flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7622">             Command:</flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7624">             Created:</flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7626">             Status:</flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7628">             Ports:</flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7630">             SizeRw: </flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara7632">SizeRootFs:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,1260.3725,220.90274)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-1-7-1-0-6"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="412.13004"
+           width="1030.7092"
+           id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3"
+           style="fill:#888a85" /></flowRegion><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7626-1">3176a2479c92</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7714">base:latest</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7710">&quot;echo 3333333333333333&quot;</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7706">1367854154</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7702">Exit 0</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7690">[]</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7698">12288</flowPara><flowPara
+         style="text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara7632-1">0</flowPara></flowRoot>  </g>
 </svg>
