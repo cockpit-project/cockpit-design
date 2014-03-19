@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1024px"
@@ -22,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1710.8336"
-     inkscape:cy="387.99812"
+     inkscape:zoom="1"
+     inkscape:cx="1512.4649"
+     inkscape:cy="1303.889"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -41,7 +42,102 @@
        id="grid9325" />
   </sodipodi:namedview>
   <defs
-     id="defs6021" />
+     id="defs6021">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern13810"
+       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,0,-260)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect13095"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,-209.23278,-215.42895)"
+       id="pattern13889"
+       xlink:href="#pattern13810-3"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1-5"
+       id="pattern13810-3"
+       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,0,0)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1-5"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect13095-1"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,-209.2328,-35.42893)"
+       id="pattern13889-8"
+       xlink:href="#pattern13810-3-7"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1-5-1"
+       id="pattern13810-3-7"
+       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,0,0)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1-5-1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect13095-1-6"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1-9"
+       id="pattern13810-8"
+       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,0,-79.99998)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1-9"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect13095-8"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
   <metadata
      id="metadata6024">
     <rdf:RDF>
@@ -58,6 +154,18 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      id="layer1">
+    <rect
+       style="opacity:0.17142861;color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13906"
+       width="991.36371"
+       height="142.83557"
+       x="1111.5719"
+       y="-558.31702"
+       ry="13.343"
+       rx="13.343"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9657-0"
@@ -10868,17 +10976,7 @@
        width="20"
        height="20"
        x="1148.5"
-       y="404"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect11974-3"
-       width="20"
-       height="20"
-       x="1388.5"
-       y="404"
+       y="444"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -10888,12 +10986,12 @@
        width="20"
        height="20"
        x="1568.5"
-       y="404"
+       y="444"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1173.0608,445.90339)"
+       transform="matrix(0.33209728,0,0,0.33209728,1173.0608,485.90339)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-3"
        xml:space="preserve"
@@ -10909,23 +11007,7 @@
            style="fill:#888a85" /></flowRegion><flowPara
          style="text-align:start;text-anchor:start;fill:#2e3436"
          id="flowPara7632-1-0">Used: 105.6 MiB</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1417.0608,445.90339)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-3-4"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-1-7-1-0-6-8-3"><rect
-           y="-121.54033"
-           x="2.8284271"
-           height="77.84317"
-           width="264.19147"
-           id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3-3-1"
-           style="fill:#888a85" /></flowRegion><flowPara
-         style="text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara7632-1-0-5">Swap: 3 MiB</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1597.0608,445.90339)"
+       transform="matrix(0.33209728,0,0,0.33209728,1597.0608,485.90339)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-3-4-2"
        xml:space="preserve"
@@ -11046,5 +11128,251 @@
            id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3-3-3-6-5"
            style="fill:#888a85" /></flowRegion><flowPara
          style="text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara7632-1-0-4-0-6">Limit: 200 MiB</flowPara></flowRoot>  </g>
+         id="flowPara7632-1-0-4-0-6">Limit: 200 MiB</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-4"
+       width="487.47388"
+       height="26.686001"
+       x="1577.6993"
+       y="363.47098"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-8"
+       width="917.47388"
+       height="26.686001"
+       x="1147.6993"
+       y="-516.52905"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-3-0"
+       width="345.47388"
+       height="26.686001"
+       x="1147.6993"
+       y="-516.52905"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.17142861;color:#000000;fill:url(#pattern13810);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-4-1"
+       width="487.47388"
+       height="26.686001"
+       x="1577.6993"
+       y="-516.52905"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11974-0"
+       width="20"
+       height="20"
+       x="1148"
+       y="-472"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1176.9711"
+       y="-458.15689"
+       id="text15802-5-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15804-1-42"
+         x="1176.9711"
+         y="-458.15689">Memory</tspan></text>
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11974-0-2"
+       width="20"
+       height="20"
+       x="1268"
+       y="-472"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1296.9711"
+       y="-456.03558"
+       id="text15802-5-5-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15804-1-42-6"
+         x="1296.9711"
+         y="-456.03558">Free</tspan></text>
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11974-0-2-2"
+       width="20"
+       height="20"
+       x="1368"
+       y="-472"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1396.9711"
+       y="-456.03558"
+       id="text15802-5-5-1-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15804-1-42-6-5"
+         x="1396.9711"
+         y="-456.03558">Swap</tspan></text>
+    <rect
+       style="opacity:0.17142861;color:#000000;fill:url(#pattern13889);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-4-1-8"
+       width="18.662081"
+       height="19.614937"
+       x="1368.4666"
+       y="-471.95798"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.17142861;color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13906-3"
+       width="991.36371"
+       height="142.83557"
+       x="1111.5719"
+       y="-378.31702"
+       ry="13.343"
+       rx="13.343"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-8-5"
+       width="917.47388"
+       height="26.686001"
+       x="1147.6993"
+       y="-336.52905"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-3-0-6"
+       width="540.47388"
+       height="26.686001"
+       x="1147.6993"
+       y="-336.52905"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.17142861;color:#000000;fill:url(#pattern13810-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-4-1-81"
+       width="487.47388"
+       height="26.686001"
+       x="1577.6993"
+       y="-336.52905"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11974-0-0"
+       width="20"
+       height="20"
+       x="1148"
+       y="-291.99997"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1176.9711"
+       y="-278.15686"
+       id="text15802-5-5-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15804-1-42-0"
+         x="1176.9711"
+         y="-278.15686">Memory</tspan></text>
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11974-0-2-25"
+       width="20"
+       height="20"
+       x="1268"
+       y="-291.99997"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1296.9711"
+       y="-276.03555"
+       id="text15802-5-5-1-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15804-1-42-6-9"
+         x="1296.9711"
+         y="-276.03555">Free</tspan></text>
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11974-0-2-2-9"
+       width="20"
+       height="20"
+       x="1368"
+       y="-291.99997"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="1396.9711"
+       y="-276.03555"
+       id="text15802-5-5-1-1-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15804-1-42-6-5-1"
+         x="1396.9711"
+         y="-276.03555">Swap</tspan></text>
+    <rect
+       style="opacity:0.17142861;color:#000000;fill:url(#pattern13889-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect13444-34-9-9-2-4-1-8-0"
+       width="18.662081"
+       height="19.614937"
+       x="1368.4666"
+       y="-291.95795"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/swap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
 </svg>
