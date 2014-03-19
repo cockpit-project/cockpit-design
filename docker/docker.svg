@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1024px"
@@ -23,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="678.46946"
-     inkscape:cy="326.40307"
+     inkscape:zoom="0.5"
+     inkscape:cx="1874.3614"
+     inkscape:cy="298.98798"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -42,55 +41,7 @@
        id="grid9325" />
   </sodipodi:namedview>
   <defs
-     id="defs6021">
-    <pattern
-       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,-209.2328,-35.42893)"
-       id="pattern13889-8"
-       xlink:href="#pattern13810-3-7"
-       inkscape:collect="always" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#Strips1_1-5-1"
-       id="pattern13810-3-7"
-       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,0,0)" />
-    <pattern
-       inkscape:stockid="Stripes 1:1"
-       id="Strips1_1-5-1"
-       patternTransform="translate(0,0) scale(10,10)"
-       height="1"
-       width="2"
-       patternUnits="userSpaceOnUse"
-       inkscape:collect="always">
-      <rect
-         id="rect13095-1-6"
-         height="2"
-         width="1"
-         y="-0.5"
-         x="0"
-         style="fill:black;stroke:none" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#Strips1_1-9"
-       id="pattern13810-8"
-       patternTransform="matrix(3.6878178,3.6878178,-3.6878178,3.6878178,0,-79.99998)" />
-    <pattern
-       inkscape:stockid="Stripes 1:1"
-       id="Strips1_1-9"
-       patternTransform="translate(0,0) scale(10,10)"
-       height="1"
-       width="2"
-       patternUnits="userSpaceOnUse"
-       inkscape:collect="always">
-      <rect
-         id="rect13095-8"
-         height="2"
-         width="1"
-         y="-0.5"
-         x="0"
-         style="fill:black;stroke:none" />
-    </pattern>
-  </defs>
+     id="defs6021" />
   <metadata
      id="metadata6024">
     <rdf:RDF>
@@ -967,7 +918,7 @@
          x="1130.4994"
          y="30.766998">System name</tspan></text>
     <rect
-       y="148.59654"
+       y="262.55194"
        x="1148.585"
        height="200.43355"
        width="913.34167"
@@ -6519,7 +6470,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,906.37248,220.36721)"
+       transform="matrix(0.33209728,0,0,0.33209728,906.37248,334.32262)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2"
        xml:space="preserve"
@@ -6549,7 +6500,7 @@
          id="flowPara7630">             SizeRw: </flowPara><flowPara
          style="text-align:end;text-anchor:end;fill:#888a85"
          id="flowPara7632">SizeRootFs:</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1260.3725,220.90274)"
+       transform="matrix(0.33209728,0,0,0.33209728,1260.3725,334.85815)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8"
        xml:space="preserve"
@@ -11278,27 +11229,40 @@
        width="447.81876"
        height="90.509666"
        x="1149.7556"
-       y="380.70648" />
+       y="160.70648"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect15154-7"
        width="447.81876"
        height="90.509666"
        x="1614.1045"
-       y="380.70648" />
+       y="160.70648"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1150.4628,450.71006 36.4159,-32.17336 38.5699,22.26831 62.3178,-35.9792 44.8,44.79997 32.5032,-32.50329 41.0122,41.01219 46.3155,-46.31549 33.234,33.23402 20.8529,5.5875 46.1251,-12.35918 4.9338,-18.41311 38.3969,0"
+       d="m 1150.4628,230.71006 36.4159,-32.17336 38.5699,22.26831 62.3178,-35.9792 44.8,44.79997 32.5032,-32.50329 41.0122,41.01219 46.3155,-46.31549 33.234,33.23402 20.8529,5.5875 46.1251,-12.35918 4.9338,-18.41311 38.3969,0"
        id="path15174"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1615.0319,419.96995 118.7939,0 2.535,9.4605 137.4722,0 12.0434,6.95327 12.9573,-22.44276 99.4501,0 23.8483,41.30648 40.4984,0"
+       d="m 1615.0319,199.96995 118.7939,0 2.535,9.4605 137.4722,0 12.0434,6.95327 12.9573,-22.44276 99.4501,0 23.8483,17.26485 40.4984,0"
        id="path15176"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1156.0903,425.05414)"
+       transform="matrix(0.33209728,0,0,0.33209728,1156.0903,205.05414)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-4"
        xml:space="preserve"
@@ -11312,9 +11276,9 @@
            width="149.21382"
            id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3-2"
            style="fill:#3465a4" /></flowRegion><flowPara
-         style="font-size:30.11165809999999965px;text-align:start;text-anchor:start;fill:#3465a4"
+         style="font-size:30.1116581px;text-align:start;text-anchor:start;fill:#3465a4"
          id="flowPara7632-1-2">CPU</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1562.0903,425.05414)"
+       transform="matrix(0.33209728,0,0,0.33209728,1562.0903,205.05414)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-4-4"
        xml:space="preserve"
@@ -11328,9 +11292,9 @@
            width="149.21382"
            id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3-2-3"
            style="fill:#3465a4" /></flowRegion><flowPara
-         style="font-size:30.11165809999999965px;text-align:start;text-anchor:start;fill:#3465a4"
+         style="font-size:30.1116581px;text-align:start;text-anchor:start;fill:#3465a4"
          id="flowPara7632-1-2-0">50%</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1624.5756,425.05414)"
+       transform="matrix(0.33209728,0,0,0.33209728,1624.5756,205.05414)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-4-7"
        xml:space="preserve"
@@ -11346,7 +11310,7 @@
            style="fill:#3465a4" /></flowRegion><flowPara
          style="font-size:30.1116581px;text-align:start;text-anchor:start;fill:#3465a4"
          id="flowPara7632-1-2-9">CPU</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1990.1258,425.05414)"
+       transform="matrix(0.33209728,0,0,0.33209728,1990.1258,205.05414)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-4-4-9"
        xml:space="preserve"
