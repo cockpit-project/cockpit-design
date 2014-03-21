@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1024px"
@@ -22,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="3481.1527"
-     inkscape:cy="294.38887"
+     inkscape:zoom="1"
+     inkscape:cx="2311.3115"
+     inkscape:cy="1644.9469"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -58,6 +59,16 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      id="layer1">
+    <rect
+       style="opacity:0.1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#eaeaea;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10089"
+       width="819.00012"
+       height="196"
+       x="1925.9999"
+       y="-911"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9657-0"
@@ -11149,15 +11160,6 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1615.0319,199.96995 118.7939,0 2.535,9.4605 137.4722,0 12.0434,6.95327 12.9573,-22.44276 99.4501,0 23.8483,17.26485 40.4984,0"
-       id="path15176"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,1156.0903,205.05414)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3465a4;fill-opacity:1;stroke:none;font-family:Sans"
@@ -11955,5 +11957,781 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-1-1-4-0-8-70-4-6-5-0"
            style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara10171-7-8-9-1"
-         style="text-align:end;line-height:220.00000477000000387%;text-anchor:end;fill:#888a85">unlimited</flowPara></flowRoot>  </g>
+         style="text-align:end;line-height:220.00000477000000387%;text-anchor:end;fill:#888a85">unlimited</flowPara></flowRoot>    <path
+       style="fill:#babdb6;stroke:#eeeeec;stroke-width:0.99020946000000021px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1613.9951,206.50021 447.5098,0"
+       id="path8973"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#babdb6;stroke:#eeeeec;stroke-width:0.99020946000000021px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1613.9951,228.5049 447.5098,0"
+       id="path8973-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#babdb6;stroke:#eeeeec;stroke-width:0.99020946000000021px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1613.9951,182.4951 447.5098,0"
+       id="path8973-7-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#f57900;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1615.3661,197.7081 119.5625,0 2.2388,8.35534 136.5112,0 9.6973,9.69733 13.7902,-23.8852 100.3964,0 22.2991,17.22985 40.1384,0"
+       id="path8185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <image
+       y="-3406.1472"
+       x="3299.6516"
+       id="image9046"
+       xlink:href="file:///home/andreasn/scc/relevant-art/UI-Elements.png"
+       height="3200"
+       width="2744" />
+    <rect
+       style="color:#000000;fill:#740d11;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9069-9"
+       width="270"
+       height="20"
+       x="2371"
+       y="-1071" />
+    <rect
+       style="color:#000000;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9069-6-9"
+       width="270"
+       height="20"
+       x="2371"
+       y="-1091" />
+    <rect
+       style="color:#000000;fill:#75507b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9069-6-4-8"
+       width="270"
+       height="20"
+       x="2371"
+       y="-1111" />
+    <rect
+       style="color:#000000;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9069-6-4-2-5"
+       width="270"
+       height="20"
+       x="2371"
+       y="-1131" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 2371,-1051 29.6864,-33.4416 6.2366,13.3282 3.742,-23.0214 10.2281,8.9662 10.4775,-21.5674 10.9765,9.4509 23.6993,-12.3588 24.697,12.1165 12.2238,-9.6932 24.1981,2.9079 49.6437,-4.6873 7.6101,-5 10.1019,10.4143 30.1853,0 L 2641,-1122 l 0,71 z"
+       id="path9107-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <g
+       id="g9710"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-280)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-6"
+         d="m 2407.2467,-951 -2.9796,19.875 -5.7855,-13.3125 -11.0505,13.4375 233.5064,0 0,-20 -201.1071,0 -2.6325,5.84375 -6.1905,-5.84375 -3.7607,0 z"
+         style="color:#000000;fill:#740d11;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-6-4"
+         d="m 2564.3255,-971 -2.806,2 -45.9666,4.6875 -22.3901,-2.90625 -11.3109,9.6875 -22.882,-12.125 -21.9273,12.375 -10.1538,-9.46875 -7.0584,15.75 201.1071,0 0,-20 -8.9966,0 -6.0748,7.40625 -27.9445,0 -6.6823,-7.40625 -6.9138,0 z m -156.616,16.875 -0.4628,3.125 3.7607,0 -3.2979,-3.125 z"
+         style="color:#000000;fill:#af151a;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-6-4-2"
+         d="m 2620.9375,-982 -8.9966,11 8.9966,0 0,-11 z m -52.3886,8 -4.2234,3 6.9138,0 -2.6904,-3 z"
+         style="color:#000000;fill:#ed1c24;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069"
+         d="m 2387.4311,-931 -16.4311,20 249.9375,0 0,-20 -233.5064,0 z"
+         style="color:#000000;fill:#48080b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2369.5,-1211.5 252.2292,0"
+       id="path9049"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2369.5,-1231.5 252.2292,0"
+       id="path9049-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2369.5023,-1251.5 254.9976,0"
+       id="path9049-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2411.5,-1190.1923 0,-81.3077"
+       id="path9468-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2453.5,-1190.1923 0,-81.3077"
+       id="path9468-7-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2495.5,-1190.1923 0,-81.3077"
+       id="path9468-7-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2537.5,-1190.1923 0,-81.3077"
+       id="path9468-7-2-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2579.5,-1190.1923 0,-81.3077"
+       id="path9468-7-9-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2621.5,-1190.1923 0,-81.3077"
+       id="path9468-7-2-9-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2369.5,-1190.5 252.2292,0"
+       id="path9049-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2369.5277,-1190.1923 0,-81.3077"
+       id="path9468-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:none;stroke:#eeeeec;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2369.5001,-1271.5 254.9999,0"
+       id="path9049-9-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g9704"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,-280)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-6-92"
+         d="m 2266.7533,-951 2.9796,19.875 5.7855,-13.3125 11.0505,13.4375 -233.5064,0 0,-20 201.1071,0 2.6325,5.84375 6.1905,-5.84375 3.7607,0 z"
+         style="color:#000000;fill:#3e7a05;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-6-4-6"
+         d="m 2109.6745,-971 2.806,2 45.9666,4.6875 22.3901,-2.90625 11.3109,9.6875 22.882,-12.125 21.9273,12.375 10.1538,-9.46875 7.0584,15.75 -201.1071,0 0,-20 8.9966,0 6.0748,7.40625 27.9445,0 6.6823,-7.40625 6.9138,0 z m 156.616,16.875 0.4628,3.125 -3.7607,0 3.2979,-3.125 z"
+         style="color:#000000;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-6-4-2-1"
+         d="m 2053.0625,-982 8.9966,11 -8.9966,0 0,-11 z m 52.3886,8 4.2234,3 -6.9138,0 2.6904,-3 z"
+         style="color:#000000;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9069-4"
+         d="m 2286.5689,-931 16.4311,20 -249.9375,0 0,-20 233.5064,0 z"
+         style="color:#000000;fill:#274d03;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2304.5,-1211.5 -252.2292,0"
+       id="path9049-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2304.5,-1231.5 -252.2292,0"
+       id="path9049-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2304.5036,-1251.5 -252.0095,0"
+       id="path9049-9-2-48"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2262.5,-1190.1923 0,-81.3077"
+       id="path9468-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2220.5,-1190.1923 0,-81.3077"
+       id="path9468-7-2-91"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2178.5,-1190.1923 0,-81.3077"
+       id="path9468-7-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2136.5,-1190.1923 0,-81.3077"
+       id="path9468-7-2-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2094.5,-1190.1923 0,-81.3077"
+       id="path9468-7-9-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2052.5,-1190.1923 0,-81.3077"
+       id="path9468-7-2-9-8-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2304.5,-1190.5 -252.2292,0"
+       id="path9049-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2304.4723,-1190.1923 0,-81.3077"
+       id="path9468-4-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.15;fill:#5c3566;stroke:#eeeeec;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2304.5058,-1271.5 -252.0117,0"
+       id="path9049-9-2-4-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2449.5,-811.50005 252.2292,0"
+       id="path9049-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2449.5,-831.50005 252.2292,0"
+       id="path9049-9-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2449.5023,-851.50005 251.9976,0"
+       id="path9049-9-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:#f4f4f4;fill-opacity:1;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2491.5,-790.19231 0,-81.30779"
+       id="path9468-7-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2533.5,-790.19231 0,-81.30779"
+       id="path9468-7-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2575.5,-790.19231 0,-81.30779"
+       id="path9468-7-9-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2617.5,-790.19231 0,-81.30779"
+       id="path9468-7-2-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2659.5,-790.19231 0,-81.30779"
+       id="path9468-7-9-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2701.5,-790.19231 0,-81.30779"
+       id="path9468-7-2-9-8-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2449.5,-790.50005 252.2292,0"
+       id="path9049-5-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2449.5277,-790.19231 0,-81.30779"
+       id="path9468-4-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2449.5001,-871.50005 251.9999,0"
+       id="path9049-9-2-4-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#740d11;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2487.2467,-831.00005 -2.9796,19.875 -5.7855,-13.3125 -11.0505,13.4375 233.5064,0 0,-20 -201.1071,0 -2.6325,5.84375 -6.1905,-5.84375 -3.7607,0 z"
+       id="rect9069-6-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#af151a;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2644.3255,-851.00005 -2.806,2 -45.9666,4.6875 -22.3901,-2.90625 -11.3109,9.6875 -22.882,-12.125 -21.9273,12.375 -10.1538,-9.46875 -7.0584,15.75 201.1071,0 0,-20 -8.9966,0 -6.0748,7.40625 -27.9445,0 -6.6823,-7.40625 -6.9138,0 z m -156.616,16.875 -0.4628,3.125 3.7607,0 -3.2979,-3.125 z"
+       id="rect9069-6-4-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#ed1c24;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2700.9375,-862.00005 -8.9966,11 8.9966,0 0,-11 z m -52.3886,8 -4.2234,3 6.9138,0 -2.6904,-3 z"
+       id="rect9069-6-4-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#48080b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2467.4311,-811.00005 -16.4311,20 249.9375,0 0,-20 -233.5064,0 z"
+       id="rect9069-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2533.5,-790.47606 0,-56.17289"
+       id="path9468-7-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2491.4924,-790.29295 0,-40.32573"
+       id="path9468-7-2-7-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2617.5,-790.47607 0,-56.17289"
+       id="path9468-7-2-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2575.4924,-790.48705 0,-55.79517"
+       id="path9468-7-2-7-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2659.5,-789.95327 0,-53.55262"
+       id="path9468-7-2-7-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2700.4083,-811.5 -232.8856,0"
+       id="path9468-7-2-7-2-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2701.5109,-831.5 -201.0219,0"
+       id="path9468-7-2-7-2-3-3-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2701.9812,-851.5 -11.9515,0"
+       id="path9468-7-2-7-2-3-3-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2302.5,-811.50005 -252.2292,0"
+       id="path9049-4-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2302.5,-831.50005 -252.2292,0"
+       id="path9049-9-9-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2302.4977,-851.50005 -251.9976,0"
+       id="path9049-9-2-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:#f4f4f4;fill-opacity:1;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2260.5,-790.19231 0,-81.30779"
+       id="path9468-7-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2218.5,-790.19231 0,-81.30779"
+       id="path9468-7-2-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2176.5,-790.19231 0,-81.30779"
+       id="path9468-7-9-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2134.5,-790.19231 0,-81.30779"
+       id="path9468-7-2-9-6-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2092.5,-790.19231 0,-81.30779"
+       id="path9468-7-9-9-6-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2050.5,-790.19231 0,-81.30779"
+       id="path9468-7-2-9-8-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2302.5,-790.50005 -252.2292,0"
+       id="path9049-5-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2302.4723,-790.19231 0,-81.30779"
+       id="path9468-4-2-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.5;fill:none;stroke:#eaeaea;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2302.4999,-871.50005 -251.9999,0"
+       id="path9049-9-2-4-0-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#3e7a05;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2264.7533,-831.00005 2.9796,19.875 5.7855,-13.3125 11.0505,13.4375 -233.5064,0 0,-20 201.1071,0 2.6325,5.84375 6.1905,-5.84375 3.7607,0 z"
+       id="rect9069-6-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2107.6745,-851.00005 2.806,2 45.9666,4.6875 22.3901,-2.90625 11.3109,9.6875 22.882,-12.125 21.9273,12.375 10.1538,-9.46875 7.0584,15.75 -201.1071,0 0,-20 8.9966,0 6.0748,7.40625 27.9445,0 6.6823,-7.40625 6.9138,0 z m 156.616,16.875 0.4628,3.125 -3.7607,0 3.2979,-3.125 z"
+       id="rect9069-6-4-4-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2051.0625,-862.00005 8.9966,11 -8.9966,0 0,-11 z m 52.3886,8 4.2234,3 -6.9138,0 2.6904,-3 z"
+       id="rect9069-6-4-2-3-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#274d03;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 2284.5689,-811.00005 16.4311,20 -249.9375,0 0,-20 233.5064,0 z"
+       id="rect9069-0-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2218.5,-790.47606 0,-56.17289"
+       id="path9468-7-2-7-25"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2260.5076,-790.29295 0,-40.32573"
+       id="path9468-7-2-7-2-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2134.5,-790.47607 0,-56.17289"
+       id="path9468-7-2-7-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2176.5076,-790.48705 0,-55.79517"
+       id="path9468-7-2-7-2-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2092.5,-789.95327 0,-53.55262"
+       id="path9468-7-2-7-3-6-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2051.5917,-811.5 232.8856,0"
+       id="path9468-7-2-7-2-3-3-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2050.4891,-831.5 201.0219,0"
+       id="path9468-7-2-7-2-3-3-7-33"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.1;fill:none;stroke:#eeeeec;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2050.0188,-851.5 11.9515,0"
+       id="path9468-7-2-7-2-3-3-7-3-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.47812462px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2139.0471"
+       y="-753.23248"
+       id="text10064"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan10066"
+         x="2139.0471"
+         y="-753.23248">good</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.47812462px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2559.0471"
+       y="-753.23248"
+       id="text10064-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan10066-2"
+         x="2559.0471"
+         y="-753.23248">bad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.09503555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1970.0663"
+       y="-854.54712"
+       id="text10091-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="1970.0663"
+         y="-854.54712"
+         id="tspan10095-9">CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1968.7802"
+       y="-816.28571"
+       id="text10091-1-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="1968.7802"
+         y="-816.28571"
+         id="tspan10095-9-9">2%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.09503555px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2368.3025"
+       y="-857.84711"
+       id="text10091-1-36"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="2368.3025"
+         y="-857.84711"
+         id="tspan10095-9-1">Memory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2367.0164"
+       y="-819.58569"
+       id="text10091-1-3-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/cpu-mem-graph.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="2367.0164"
+         y="-819.58569"
+         id="tspan10095-9-9-5">2%</tspan></text>
+  </g>
 </svg>
