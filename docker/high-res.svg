@@ -70,9 +70,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="896.40398"
-     inkscape:cy="206.09075"
+     inkscape:zoom="1"
+     inkscape:cx="498.92599"
+     inkscape:cy="361.06341"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -2012,7 +2012,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-5-3-9-4" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-7-7-5-40-4-9-4"
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">24%</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#fcd1d1;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect10917-6-4-1-1-9"
        width="972.9881"
        height="37.060661"
@@ -2023,7 +2023,7 @@
        inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,38.941628,488.03739)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-overview-hires.png"
@@ -2034,11 +2034,12 @@
            x="2.8284271"
            height="52.827553"
            width="1083.8263"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0" /></flowRegion><flowPara
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0"
+           style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-7-7-5-55-4-3"
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Postgres database</flowPara></flowRoot>    <flowRoot
+         style="font-size:33.12282562000000041px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#888a85">Postgres database</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,375.94152,489.28079)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-5-8-3-0"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-overview-hires.png"
@@ -2049,11 +2050,12 @@
            x="2.8284271"
            height="58.849884"
            width="611.07318"
-           id="rect6155-9-4-9-3-0-00-9-2-5-5-3-9-5" /></flowRegion><flowPara
+           id="rect6155-9-4-9-3-0-00-9-2-5-5-3-9-5"
+           style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-7-7-5-40-4-9-6"
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"> /bin/bash /start.sh</flowPara></flowRoot>    <flowRoot
+         style="font-size:33.12282562000000041px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#888a85"> /bin/bash /start.sh</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,213.28477,489.31033)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-66-56-6-2-1-6"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-overview-hires.png"
@@ -2064,11 +2066,12 @@
            x="2.8284271"
            height="104.01737"
            width="499.66013"
-           id="rect6155-9-4-9-3-0-00-8-7-8-2-1-9-1" /></flowRegion><flowPara
+           id="rect6155-9-4-9-3-0-00-8-7-8-2-1-9-1"
+           style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-6-7-2-6-1-3-3"
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"> fedora:rawhide</flowPara></flowRoot>    <flowRoot
+         style="font-size:33.12282562000000041px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#888a85"> fedora:rawhide</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,931.87464,489.11429)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-5-8-1-5-0"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-overview-hires.png"
@@ -2079,7 +2082,8 @@
            x="2.8284271"
            height="46.805222"
            width="150.36481"
-           id="rect6155-9-4-9-3-0-00-9-2-5-5-3-4-9-6" /></flowRegion><flowPara
+           id="rect6155-9-4-9-3-0-00-9-2-5-5-3-4-9-6"
+           style="fill:#888a85" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-7-7-5-40-4-8-7-4"
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Stopped</flowPara></flowRoot>  </g>
+         style="font-size:33.12282562000000041px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#888a85">Stopped</flowPara></flowRoot>  </g>
 </svg>
