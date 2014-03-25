@@ -114,9 +114,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="2922.2878"
-     inkscape:cy="471.54732"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="791.80155"
+     inkscape:cy="481.77972"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,15 +199,15 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#004b7f;fill-opacity:1;stroke:none"
-       d="m 24.985762,187.1636 61.349261,22.9091 60.375597,1.52731 113.44761,-6.10911 105.17028,-17.5637 63.2969,6.1091 41.38649,11.4546 0,14.5091 -446.000007,0 0,-33.6 z"
+       d="m 24.985762,187.1636 61.349258,22.9091 60.3756,1.52731 113.44761,-6.10911 105.17028,-17.5637 63.2969,6.1091 41.38649,11.4546 0,14.5091 -446.000007,0 0,-33.6 z"
        id="path13594-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:#ed1c24;fill-opacity:1;stroke:none"
-       d="m 957.9965,171.50628 -137.54445,-12.37441 -109.63594,10.6066 -69.883,-12.02079 -88.91062,13.435 0,29.69849 445.97897,0.14883 0.0749,-56 z"
+       style="fill:#ce0e15;fill-opacity:1;stroke:none"
+       d="m 957.9965,171.50628 -137.54445,-12.37441 -109.63594,10.6066 -69.883,-12.02079 -88.91062,13.435 0,29.69849 L 998.0015,201 l 0.075,-56 z"
        id="path13600-3-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -215,8 +215,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:#af151a;fill-opacity:1;stroke:none"
-       d="m 992.74878,169.27547 -47.01714,16.75 -136.28859,1 -120.65695,-10 -46.40654,-17 -31.75177,4 -58.61868,17 0,33 445.86876,0 0.12213,-51 z"
+       style="fill:#970911;fill-opacity:1;stroke:none"
+       d="m 992.7488,169.27547 -47.01716,16.75 -136.28859,1 -120.65695,-10 -46.40654,-17 -31.75177,4 -58.61868,17 0,33 445.86879,0 0.1221,-51 z"
        id="path13598-4-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc"
@@ -225,7 +225,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#740d11;fill-opacity:1;stroke:none"
-       d="m 959.70786,200.82547 -106.07758,-6.4 -147.45681,3.4218 -69.09805,-25.8218 -80.16933,15.20001 -4.88833,3.19999 0,20 241.42939,7.53551 174.08214,-4.33551 z"
+       d="m 979.33613,200.82547 -111.11967,-6.4 -154.4657,3.4218 -72.3824,-25.8218 -83.97992,15.20001 -5.12068,3.19999 0,20 252.90496,7.53551 182.35658,-4.33551 z"
        id="path13596-6-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc"
@@ -233,8 +233,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:#48080b;fill-opacity:1;stroke:none"
-       d="m 997.02623,187.18849 -61.34915,22.89173 -60.3753,5.05896 -113.44725,-9.63729 -106.58476,5.41319 -61.88196,-16.8591 -41.38635,11.44591 0,14.49811 445.99854,0 0,-33.57453 z"
+       style="fill:#5c080c;fill-opacity:1;stroke:none"
+       d="m 997.0262,187.18849 -61.34912,22.89173 -60.3753,5.05896 -113.44725,-9.63729 -106.58476,5.41319 -61.88196,-16.8591 -41.38635,11.44591 0,14.49811 445.99854,0 0,-33.57453 z"
        id="path13594-2-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc"
@@ -2963,5 +2963,135 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-run-hires.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#efefef;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="rect7284"
+       width="57.75"
+       height="27.25"
+       x="928.25"
+       y="85.5" />
+    <path
+       style="fill:#250304;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 997.90445,203.55201 -20.32932,5.65686 -15.37958,1.94454 -23.15774,8.83883 58.68986,0 z"
+       id="path7286"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ef2930;fill-opacity:1;stroke:none"
+       d="M 998.125,145.1875 959.5,174.5 848,169.25 l 137,-18 13.04483,-8.47577 z"
+       id="path7288"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       style="color:#000000;fill:#f36166;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="143.3125" />
+    <rect
+       style="color:#000000;fill:#ef2930;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="147.125" />
+    <rect
+       style="color:#000000;fill:#ce0e15;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-9"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="150.8125" />
+    <rect
+       style="color:#000000;fill:#970911;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="154.625" />
+    <rect
+       style="color:#000000;fill:#5c080c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-2"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="158.375" />
+    <rect
+       style="color:#000000;fill:#250304;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-0"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="162.1875" />
+    <rect
+       style="color:#000000;fill:#f7999c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-22"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="139.46875" />
+    <rect
+       style="color:#000000;fill:#fbd1d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-22-0"
+       width="10.75"
+       height="3.875"
+       x="1002.0625"
+       y="135.66805" />
+    <rect
+       style="color:#000000;fill:#006bb4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6-3"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="154.625" />
+    <rect
+       style="color:#000000;fill:#004778;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-2-7"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="158.375" />
+    <rect
+       style="color:#000000;fill:#250304;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-0-5"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="162.1875" />
+    <rect
+       style="color:#000000;fill:#008ff0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6-3-6"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="151.06694" />
+    <rect
+       style="color:#000000;fill:#2daaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6-3-6-0"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="147.44302" />
+    <rect
+       style="color:#000000;fill:#69c2ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6-3-6-0-5"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="143.64232" />
+    <rect
+       style="color:#000000;fill:#a5daff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6-3-6-0-5-0"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="139.84161" />
+    <rect
+       style="color:#000000;fill:#e1f3ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7290-8-6-3-6-0-5-0-8"
+       width="10.75"
+       height="3.875"
+       x="1022.0625"
+       y="135.99672" />
   </g>
 </svg>
