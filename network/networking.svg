@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="374.33523"
-     inkscape:cy="303.21886"
+     inkscape:zoom="1"
+     inkscape:cx="634.42235"
+     inkscape:cy="317.71753"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -3673,17 +3673,7 @@
            height="67.883377"
            width="568.91693"
            id="rect6155-9-3-4-5-2" /></flowRegion><flowPara
-         id="flowPara6157-2-6-3-0-4">Sending</flowPara></flowRoot>    <rect
-       y="122.46269"
-       x="525.51562"
-       height="113"
-       width="353.09128"
-       id="rect6109-32-1-9-7"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
+         id="flowPara6157-2-6-3-0-4">Sending</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,524.26709,136.15386)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-4-0-8-6-7"
@@ -3785,15 +3775,6 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path6111-6-0-8-7"
-       d="m 525.91909,224.46749 43.0106,-0.54158 77.8971,-0.27079 41.8849,1.62474 24.5427,-44.06083 46.8339,16.33265 32.019,14.51976 26.7622,7.57136 26.2843,-3.02824 15.2927,5.26432 17.6241,-0.27079 0.62,13.25462 -352.7715,0 z"
-       style="fill:#729fcf;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cccccccccccccc" />
     <rect
        y="437.88477"
        x="138.77635"
@@ -3916,7 +3897,7 @@
            height="62.806847"
            width="286.62064"
            id="rect6155-4-1-4" /></flowRegion><flowPara
-         id="flowPara7946-5-3-2">Stockholm</flowPara></flowRoot>    <flowRoot
+         id="flowPara7946-5-3-2">eth0</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.30012949,0,0,0.30012949,154.11939,446.7634)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-1-0-9-7"
@@ -3930,7 +3911,7 @@
            height="62.806847"
            width="300.75668"
            id="rect6155-4-1-4-9" /></flowRegion><flowPara
-         id="flowPara7946-5-3-2-3">Malmo</flowPara></flowRoot>    <flowRoot
+         id="flowPara7946-5-3-2-3">eth1</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.30012949,0,0,0.30012949,154.11939,486.7634)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-1-0-9-7-4"
@@ -3944,7 +3925,7 @@
            height="55.738831"
            width="300.75668"
            id="rect6155-4-1-4-9-7" /></flowRegion><flowPara
-         id="flowPara7946-5-3-2-3-4">Uppsala</flowPara></flowRoot>    <flowRoot
+         id="flowPara7946-5-3-2-3-4">eth2</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.30012949,0,0,0.30012949,803.68299,408.88472)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-1-0-7-1-2"
@@ -4774,7 +4755,7 @@
            height="55.738831"
            width="300.75668"
            id="rect6155-4-1-4-9-7-2" /></flowRegion><flowPara
-         id="flowPara7946-5-3-2-3-4-3">Gothenburg</flowPara></flowRoot>    <path
+         id="flowPara7946-5-3-2-3-4-3">eth3</flowPara></flowRoot>    <path
        style="color:#000000;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 726.76587,491.67955 9.93288,16.77812 -19.86575,0 z"
        id="rect9730"
@@ -5530,5 +5511,94 @@
            height="71.136581"
            width="1126.2582"
            id="rect6155-4-1-4-5-9-9-4" /></flowRegion><flowPara
-         id="flowPara7946-5-3-2-6-4-6-5">Interfaces</flowPara></flowRoot>  </g>
+         id="flowPara7946-5-3-2-6-4-6-5">Interfaces</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.49986,151.04933 -352.49271,0"
+       id="path7196"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.49986,179.68715 -352.49271,0"
+       id="path7196-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.49986,207.97142 -352.49271,0"
+       id="path7196-9-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 210.96503,123.11862 0,112.78352"
+       id="path7196-9-8-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 281.56937,123.11862 0,112.78352"
+       id="path7196-9-9-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 352.17372,123.11862 0,112.78352"
+       id="path7196-9-8-7-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 421.89552,123.11862 0,112.78352"
+       id="path7196-9-9-7-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="122.46268"
+       x="523.51562"
+       height="113"
+       width="353.09128"
+       id="rect6109-32-1-8-6"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6111-6-0-5-6"
+       d="m 523.91909,227.10525 43.0106,-0.41495 20.5496,-10.16618 57.3475,9.95871 51.1349,-2.01431 15.2927,-4.8323 46.8339,3.31957 32.019,2.84432 26.7622,-2.39142 26.2843,-2.32016 15.2927,-2.09553 17.6241,-0.20747 0.62,16.28428 -352.7715,0 z"
+       style="fill:#729fcf;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 876.49986,151.04933 -352.49271,0"
+       id="path7196-98"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 876.49986,179.68715 -352.49271,0"
+       id="path7196-9-89"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 876.49986,207.97142 -352.49271,0"
+       id="path7196-9-8-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 594.96503,123.11862 0,112.78352"
+       id="path7196-9-8-7-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 665.56937,123.11862 0,112.78352"
+       id="path7196-9-9-7-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 736.17372,123.11862 0,112.78352"
+       id="path7196-9-8-7-8-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 805.89552,123.11862 0,112.78352"
+       id="path7196-9-9-7-6-5"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
