@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="844.90313"
-     inkscape:cy="-3069.4252"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="789.08465"
+     inkscape:cy="-2146.5412"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -121,7 +121,7 @@
     <rect
        y="2775.0293"
        x="237.23376"
-       height="388.89908"
+       height="409.40518"
        width="440.28537"
        id="rect6113-45-6-0-3-9-8-9-2"
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -166,7 +166,7 @@
            height="104.01737"
            width="499.66013"
            id="rect6155-9-4-9-3-0-3-8-8-0-4-9" /></flowRegion><flowPara
-         id="flowPara6157-2-9-3-3-7-24-8-5-6-6-9">Add new image</flowPara></flowRoot>    <rect
+         id="flowPara6157-2-9-3-3-7-24-8-5-6-6-9">Get new image</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.204;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8087-8"
        width="408.52649"
@@ -583,49 +583,17 @@
          style="font-size:30.1116581px;fill:#888a85" /></flowRoot>    <rect
        y="3093.4377"
        x="237.50256"
-       height="71.340622"
+       height="42.349243"
        width="440.06271"
        id="rect6113-4-7-4-4-8-8-1-7-2-2-4-6-0-7-6"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,303.2431,3144.5044)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot6151-5-2-0-1-5-2-3-5-4-34-8-5-8-9-4-1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-4-5-9-9-4-1-4-2-1-8"><rect
-           y="-121.54033"
-           x="2.8284271"
-           height="215.43051"
-           width="1119.9603"
-           id="rect6155-9-4-9-3-0-00-8-4-2-5-8-1-6-2-7-6"
-           style="fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara6157-2-9-3-3-7-0-6-4-6-6-9-4-4-8-9-2"
-         style="font-size:30.1116581px;font-weight:bold;fill:#3465a4;-inkscape-font-specification:Sans Bold">ehazlett/extracoolsearch</flowPara><flowPara
-         id="flowPara8994-0-6-4-4"
-         style="font-size:30.1116581px">This image is created extra cool</flowPara><flowPara
-         style="font-size:30.1116581px"
-         id="flowPara8166" /><flowPara
-         style="font-size:30.1116581px;fill:#888a85"
-         id="flowPara8168">Last updated Oct. 18, 2013, 4:27:57 am</flowPara><flowPara
-         id="flowPara8996-0-1-2-7"
-         style="font-size:30.1116581px" /></flowRoot>    <rect
+    <path
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect9217-05-8-1-6-0"
-       width="36.032486"
-       height="36.032486"
-       x="252.13269"
-       y="3105.9163"
-       rx="3.5"
-       ry="3.5"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       d="M 255.625 3105.9062 C 253.686 3105.9063 252.125 3107.4673 252.125 3109.4062 L 252.125 3135.2188 L 288.15625 3135.2188 L 288.15625 3109.4062 C 288.15625 3107.4673 286.59525 3105.9062 284.65625 3105.9062 L 255.625 3105.9062 z "
+       id="rect9217-05-8-1-6-0" />
     <path
        sodipodi:type="star"
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -736,13 +704,8 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:#eeeeec;fill-opacity:1;stroke:none"
-       d="m 278.6492,3119.4558 c -3.2376,2.0275 -5.2593,4.0037 -6.0481,7.6202 l -0.093,-0.4377 c -8.3993,2.5842 -14.0577,6.3766 -15.8111,14.2479 l 16.6887,0.031 c -2.7482,-4.016 -2.5491,-5.8418 0.1942,-9.4484 5.165,2.1633 8.705,0.8537 12.1066,-0.7766 0,0 -6.2681,-1.0695 -7.6529,-3.3942 -1.3846,-2.3247 0.6161,-7.8426 0.6161,-7.8426 z"
-       id="path8104-8-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       d="M 278.65625 3119.4688 C 275.41865 3121.4963 273.38255 3123.446 272.59375 3127.0625 L 272.5 3126.625 C 266.43107 3128.4922 261.7991 3131.0071 259.03125 3135.2188 L 271.53125 3135.2188 C 271.78166 3134.0798 272.48406 3132.9276 273.59375 3131.4688 C 278.75875 3133.6321 282.2859 3132.3178 285.6875 3130.6875 C 285.6875 3130.6875 279.41605 3129.6372 278.03125 3127.3125 C 276.64665 3124.9878 278.65625 3119.4688 278.65625 3119.4688 z "
+       id="path8104-8-6" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:3.10055876;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 270.116,2840.3884 c -6.1589,0 -11.3282,4.414 -12.4687,10.25 l -3.4688,0 0,5.375 3.5938,0 c 1.3304,5.5868 6.3623,9.75 12.3437,9.75 5.9814,0 11.0133,-4.1632 12.3437,-9.75 l 3.0938,0 0,-5.375 -2.9688,0 c -1.1405,-5.836 -6.3098,-10.25 -12.4687,-10.25 z m 0,3 c 4.5225,0 8.2684,3.0768 9.3437,7.25 l -18.6874,0 c 1.0753,-4.1732 4.8212,-7.25 9.3437,-7.25 z m -9.2187,12.625 18.4374,0 c -1.2397,3.9117 -4.8812,6.75 -9.2187,6.75 -4.3375,0 -7.979,-2.8383 -9.2187,-6.75 z"
@@ -2594,7 +2557,7 @@
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect12037"
        width="16"
-       height="341.87869"
+       height="310.76599"
        x="661"
        y="2822.2649"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
@@ -3623,7 +3586,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-1-1-4-0-8-7-4-8" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-7-7-5-5-2-3-4-8-0-8-2"
          style="text-anchor:middle;text-align:center">pops up empty search box</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,236.71472,3216.6308)"
+       transform="matrix(0.33209728,0,0,0.33209728,236.71472,3232.1871)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-8-7-7-0-1-4-0-2-2"
        xml:space="preserve"
@@ -5914,7 +5877,7 @@
     <rect
        y="2775.0293"
        x="877.23376"
-       height="388.89908"
+       height="409.40518"
        width="440.28537"
        id="rect6113-45-6-0-3-9-8-9-2-5"
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6039,7 +6002,7 @@
          id="flowPara8749">Please try another search term.</flowPara></flowRoot>    <rect
        y="2775.0293"
        x="1397.2339"
-       height="388.89908"
+       height="409.40518"
        width="440.28537"
        id="rect6113-45-6-0-3-9-8-9-2-5-8"
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6269,5 +6232,49 @@
            width="1088.4849"
            id="rect6155-9-4-9-3-0-00-9-2-5-1-1-4-0-8-7-4-8-6-1-1-1-3-6-3-1" /></flowRegion><flowPara
          style="text-align:start;text-anchor:start"
-         id="flowPara8749-5-1-9-1-2">bowery/java</flowPara></flowRoot>  </g>
+         id="flowPara8749-5-1-9-1-2">bowery/java</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8516"
+       width="115.25841"
+       height="33.941124"
+       x="550.12909"
+       y="3142.4646" />
+    <rect
+       style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8516-8"
+       width="115.25841"
+       height="33.941124"
+       x="246.78027"
+       y="3142.4646" />
+    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,594.84592,3192.3407)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-49-1-7-3-7-1-8"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-7-70-4-0-0-0-1"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="65.69149"
+           width="114.27206"
+           id="rect6155-9-4-9-3-0-3-8-8-0-4-9-3"
+           style="fill:#eeeeec" /></flowRegion><flowPara
+         id="flowPara6157-2-9-3-3-7-24-8-5-6-6-9-51">Get</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,278.93602,3192.3407)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-49-1-7-3-7-1-8-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-image-installation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-7-70-4-0-0-0-1-1"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="62.497665"
+           width="170.69627"
+           id="rect6155-9-4-9-3-0-3-8-8-0-4-9-3-3"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara6157-2-9-3-3-7-24-8-5-6-6-9-51-6">Cancel</flowPara></flowRoot>  </g>
 </svg>
