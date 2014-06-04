@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="3040.7656"
-     inkscape:cy="249.83864"
+     inkscape:zoom="0.5"
+     inkscape:cx="1700.7378"
+     inkscape:cy="-562.49719"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9114,9 +9114,9 @@
     <rect
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9974-7"
-       width="301.08832"
-       height="225.56497"
-       x="1462.4318"
+       width="378.48526"
+       height="253.83557"
+       x="1392.2064"
        y="1188.2632"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
@@ -9127,7 +9127,7 @@
        width="188.00879"
        height="20.999996"
        x="1561.6635"
-       y="1295.0947"
+       y="1262.5679"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -9138,26 +9138,6 @@
        height="20.999996"
        x="1560.6635"
        y="1234.7222"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect8009-6-5-6-5"
-       width="62"
-       height="21"
-       x="1560.1635"
-       y="1259.5947"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect8011-5-75-6-2"
-       width="26.870058"
-       height="17"
-       x="1593.2933"
-       y="1261.5947"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -9187,15 +9167,13 @@
          id="flowPara7995-0-0-99-5"
          style="line-height:179.99999523%;fill:#2e3436">Type</flowPara><flowPara
          style="line-height:179.99999523%;fill:#2e3436"
-         id="flowPara7641-5-4">Adresses</flowPara><flowPara
-         style="line-height:179.99999523%;fill:#2e3436"
-         id="flowPara47920-8-8-2">Routes</flowPara></flowRoot>    <rect
+         id="flowPara47920-8-8-2">Method</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7096-5-1-6-5-7-1-79-9-8"
        width="188.00879"
        height="20.999996"
        x="1561.6635"
-       y="1319.095"
+       y="1286.5681"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -9205,12 +9183,12 @@
        width="188.00879"
        height="20.999996"
        x="1561.6635"
-       y="1343.0947"
+       y="1310.5679"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1566.7864,1330.8395)"
+       transform="matrix(0.33209728,0,0,0.33209728,1566.7864,1298.3126)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-1-9-3-70-0-1-8-4"
        xml:space="preserve"
@@ -9267,7 +9245,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1381.8955,1331.7243)"
+       transform="matrix(0.33209728,0,0,0.33209728,1381.8955,1299.1974)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-1-9-3-7-32-2-5-7"
        xml:space="preserve"
@@ -9292,12 +9270,12 @@
        width="56.5"
        height="28.5"
        x="1692.1459"
-       y="1374.9243"
+       y="1400.9243"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.30012949,0,0,0.30012949,1700.416,1417.645)"
+       transform="matrix(0.30012949,0,0,0.30012949,1700.416,1443.645)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-9-7-2-1-6-3-7-4-4-6"
        xml:space="preserve"
@@ -9316,12 +9294,12 @@
        width="56.5"
        height="28.5"
        x="1628.1459"
-       y="1374.9243"
+       y="1400.9243"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.30012949,0,0,0.30012949,1634.8302,1417.645)"
+       transform="matrix(0.30012949,0,0,0.30012949,1634.8302,1443.645)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-9-7-2-1-6-3-7-4-7-7-5"
        xml:space="preserve"
@@ -9352,15 +9330,15 @@
          id="flowPara7053-6-3-04-6">Static</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9974-5-5"
-       width="301.08832"
+       width="378.48526"
        height="32.564972"
-       x="1462.4318"
+       x="1392.2064"
        y="1156.2632"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1559.3797,1205.3014)"
+       transform="matrix(0.33209728,0,0,0.33209728,1521.3797,1205.3014)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-1-9-9-1-6-5-1-1"
        xml:space="preserve"
@@ -9374,5 +9352,65 @@
            width="377.28754"
            id="rect6155-9-9-5-0-1-0-9-3-5"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara7053-6-3-4-9-1-1">Add connection</flowPara></flowRoot>  </g>
+         id="flowPara7053-6-3-4-9-1-1">Add connection</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7096-5-1-6-5-1-1-3-7-3"
+       width="188.00879"
+       height="20.999996"
+       x="1561.6635"
+       y="1342.5679"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7096-5-1-6-5-1-1-3-7-3-3"
+       width="188.00879"
+       height="20.999996"
+       x="1561.6635"
+       y="1366.5679"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,1566.7864,1378.3126)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-1-9-3-70-0-1-8-4-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-4-9-6-0-8-1-3-8-5"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="248.88376"
+           width="617.30957"
+           id="rect6155-9-9-5-7-5-1-9-36-3-0"
+           style="text-align:end;text-anchor:end;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara7979-6-1-9-3-7-6"
+         style="text-align:start;line-height:179.99999523%;text-anchor:start;fill:#2e3436">192.168.1.12</flowPara><flowPara
+         style="text-align:start;line-height:179.99999523%;text-anchor:start;fill:#2e3436"
+         id="flowPara7947-14-1-6">192.168.1.12</flowPara><flowPara
+         style="text-align:start;line-height:179.99999523%;text-anchor:start;fill:#2e3436"
+         id="flowPara7949-87-7-0" /><flowPara
+         id="flowPara8007-10-7-2-0-8-4"
+         style="text-align:start;line-height:179.99999523%;text-anchor:start;fill:#2e3436" /></flowRoot>    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,1381.8955,1379.1974)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-1-9-3-7-32-2-5-7-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/network/networking-interface.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-4-9-6-8-43-23-7-4-2"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="588.15033"
+           width="500.67502"
+           id="rect6155-9-9-5-7-4-6-4-1-4-1"
+           style="text-align:end;text-anchor:end;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara8001-2-13-7-8-4-6"
+         style="line-height:179.99999523%;fill:#2e3436">DNS</flowPara><flowPara
+         style="line-height:179.99999523%;fill:#2e3436"
+         id="flowPara47920-8-9-78-2-2">DNS Search Domains</flowPara></flowRoot>  </g>
 </svg>
