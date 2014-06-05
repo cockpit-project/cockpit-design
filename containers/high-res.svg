@@ -158,15 +158,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1823.2916"
-     inkscape:cy="557.15308"
+     inkscape:zoom="1"
+     inkscape:cx="1461.5761"
+     inkscape:cy="586.47114"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -879,10 +879,20 @@
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect10917-6-5"
-       width="924.41168"
+       width="924"
        height="311.44376"
-       x="1160.0884"
-       y="128.5"
+       x="1160.5"
+       y="127.5"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10917-0"
+       width="924"
+       height="41"
+       x="1160.5"
+       y="86.5"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2132,8 +2142,6 @@
            id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9"
            style="fill:#888a85" /></flowRegion><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara13658">Name:</flowPara><flowPara
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara6537">Id: </flowPara><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara13660">Created:</flowPara><flowPara
@@ -2165,16 +2173,16 @@
          id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-1-7-1-0-6"><rect
            y="-121.54033"
            x="2.8284271"
-           height="345.8844"
-           width="2262.2759"
+           height="279.63876"
+           width="1250.524"
            id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3"
            style="fill:#888a85" /></flowRegion><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara13711">8ebfa5c2019d2f479eba9b7b1b05307b87fbc8d6a9b2b841841a549c2522acc5</flowPara><flowPara
+         id="flowPara13711">b4388260a94f809f3a7a0ce8965ba718cb6a04e4da1c6cdb9d6817fca83e1e7a</flowPara><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara13713">2014-03-17T14:01:29.187753687Z</flowPara><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara13715">e222cee538026b1dbe4ea4d5c54f4ae03c6e2a4b3f1bbc9715bdd25abeea97a3</flowPara><flowPara
+         id="flowPara13715">tutum/wordpress:latest</flowPara><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara13717">/bin/bash /start.sh</flowPara><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -2189,7 +2197,7 @@
        id="rect12593-2-3-4"
        width="46"
        height="25"
-       x="1985.5443"
+       x="1905.5443"
        y="95.5"
        rx="0"
        ry="0"
@@ -2197,7 +2205,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1996.2993,141.61429)"
+       transform="matrix(0.33209728,0,0,0.33209728,1916.2993,141.61429)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-2"
        xml:space="preserve"
@@ -2216,7 +2224,7 @@
        id="rect12593-2-3-4-9"
        width="46"
        height="25"
-       x="2038.4775"
+       x="1958.4775"
        y="95.546204"
        rx="0"
        ry="0"
@@ -2224,7 +2232,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,2043.7967,141.6605)"
+       transform="matrix(0.33209728,0,0,0.33209728,1963.7967,141.6605)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-2-0"
        xml:space="preserve"
@@ -2331,7 +2339,7 @@
            id="rect6155-9-4-9-3-0-3-8-8-2-9-3-4-9-1-0-6-0-0"
            style="fill:#eeeeec" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-24-8-5-5-1-1-9-54-6-3-0-6-7"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Container suspicious_lumiere</flowPara></flowRoot>    <path
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Container suspicious lumiere</flowPara></flowRoot>    <path
        style="fill:none;stroke:#494949;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1367.5169,34.375 0,30.62636"
        id="path13229-5-0-3"
@@ -2420,7 +2428,7 @@
        id="rect12593-2-3-4-0"
        width="52.010406"
        height="25"
-       x="1927.5338"
+       x="1847.5338"
        y="95.5"
        rx="0"
        ry="0"
@@ -2428,7 +2436,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,1934.3976,141.61429)"
+       transform="matrix(0.33209728,0,0,0.33209728,1854.3976,141.61429)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-2-9"
        xml:space="preserve"
@@ -3490,5 +3498,48 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-limits.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-  </g>
+    <rect
+       style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12593-2-3-4-3"
+       width="55.955566"
+       height="25"
+       x="2009.5444"
+       y="95.5"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,2014.579,141.61429)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-2-95"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-4-8-0-6-0-0-4-8"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="58.849888"
+           width="186.49889"
+           id="rect6155-9-4-9-3-0-00-8-5-6-9-4-5-4-80" /></flowRegion><flowPara
+         id="flowPara6157-2-9-3-3-7-0-6-0-4-9-3-3-5-16"
+         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Commit</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.33209728,0,0,0.33209728,1170.6657,141.69251)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot6151-5-2-0-1-5-49-1-7-2-1-7-8-1-2-8-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-7-70-4-8-6-1-7-1-0-6-6"><rect
+           y="-121.54033"
+           x="2.8284271"
+           height="345.8844"
+           width="2262.2759"
+           id="rect6155-9-4-9-3-0-3-8-8-8-0-6-0-5-9-3-3"
+           style="fill:#888a85" /></flowRegion><flowPara
+         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara13721-9">suspicious lumiere</flowPara></flowRoot>  </g>
 </svg>
