@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1500.3433"
-     inkscape:cy="503.01362"
+     inkscape:zoom="1"
+     inkscape:cx="1656.1188"
+     inkscape:cy="467.16875"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -7306,9 +7306,9 @@
        style="fill:#d3d7cf;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999994;stroke-opacity:1;display:inline"
        id="rect11165-11-7-8-7"
        width="958.82379"
-       height="50.997223"
+       height="35.997223"
        x="1167.2971"
-       y="124.76334"
+       y="139.76335"
        inkscape:export-filename="/home/andreasn/SparkleShare/rhsc-design/next-gen-wireframes/journal/png/journal-datepicker-alt.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -7316,7 +7316,7 @@
        xml:space="preserve"
        id="flowRoot7608-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(-48.183769,254.16609)"><flowRegion
+       transform="translate(-48.183769,260.16609)"><flowRegion
          id="flowRegion7610-9"><rect
            id="rect7612-3"
            width="581.24182"
@@ -7324,67 +7324,11 @@
            x="1233.1942"
            y="-111.1627" /></flowRegion><flowPara
          id="flowPara7660-9"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">rpcbind</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7608-1"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="translate(-48.183769,958.6661)"><flowRegion
-         id="flowRegion7610-95"><rect
-           id="rect7612-4"
-           width="627.91089"
-           height="435.57776"
-           x="1233.1942"
-           y="-111.1627" /></flowRegion><flowPara
-         id="flowPara7618-2"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_SYSTEMD_SLICE=system.slice</flowPara><flowPara
-         id="flowPara7620-4"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_BOOT_ID=1b41f444e3b543148fff800631efb1af</flowPara><flowPara
-         id="flowPara7622-1"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_MACHINE_ID=7257f7fbcfd041e9bb0f3a17d183d1a4</flowPara><flowPara
-         id="flowPara7624-3"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_HOSTNAME=localhost.localdomain</flowPara><flowPara
-         id="flowPara7626-9"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">SYSLOG_FACILITY=3</flowPara><flowPara
-         id="flowPara7628-8"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_TRANSPORT=syslog</flowPara><flowPara
-         id="flowPara7630-9"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">PRIORITY=3</flowPara><flowPara
-         id="flowPara7632-5"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">SYSLOG_IDENTIFIER=rpcbind</flowPara><flowPara
-         id="flowPara7634-7"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_PID=492</flowPara><flowPara
-         id="flowPara7636-0"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_UID=32</flowPara><flowPara
-         id="flowPara7638-3"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_GID=32</flowPara><flowPara
-         id="flowPara7640-0"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_COMM=rpcbind</flowPara><flowPara
-         id="flowPara7642-5"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_EXE=/usr/sbin/rpcbind</flowPara><flowPara
-         id="flowPara7644-9"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_CMDLINE=/sbin/rpcbind -w</flowPara><flowPara
-         id="flowPara7646-8"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_CAP_EFFECTIVE=0</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7662-3">_SYSTEMD_CGROUP=/system.slice/rpcbind.service</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7664-3">_SYSTEMD_UNIT=rpcbind.service</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7666-1">_SELINUX_CONTEXT=system_u:system_r:rpcbind_t:s0</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7668-5">MESSAGE=Cannot open '/var/lib/rpcbind/portmap.xdr' file for reading, errno 2 (No such file or directory)</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7670-3">_SOURCE_REALTIME_TIMESTAMP=1404899201490372</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7676-1">MESSAGE_ID</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara7680-9">_SYSTEMD_UNIT</flowPara><flowPara
-         id="flowPara7660-1"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">_KERNEL_DEVICE</flowPara></flowRoot>    <text
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">rpcbind</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="2009.0958"
-       y="154.36816"
+       y="160.36816"
        id="text11235-4-9-4-9-0-9"
        sodipodi:linespacing="125%"
        inkscape:transform-center-x="12.534819"
@@ -7395,7 +7339,7 @@
          sodipodi:role="line"
          id="tspan11237-6-5-06-7-0-2"
          x="2009.0958"
-         y="154.36816"
+         y="160.36816"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">12:16 June 30, 2014</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -7512,5 +7456,59 @@
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#555753"
          id="flowPara9111" /><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#555753"
-         id="flowPara9113" /></flowRoot>  </g>
+         id="flowPara9113" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7608-1-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="translate(94.300419,325.23138)"><flowRegion
+         id="flowRegion7610-95-0"><rect
+           id="rect7612-4-1"
+           width="323.14786"
+           height="285.67114"
+           x="1233.1942"
+           y="-111.1627" /></flowRegion><flowPara
+         id="flowPara7618-2-9"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">system.slice</flowPara><flowPara
+         id="flowPara7620-4-9"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">1b41f444e3b543148fff800631efb1af</flowPara><flowPara
+         id="flowPara7622-1-9"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">7257f7fbcfd041e9bb0f3a17d183d1a4</flowPara><flowPara
+         id="flowPara7624-3-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">localhost.localdomain</flowPara><flowPara
+         id="flowPara7626-9-6"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">3</flowPara><flowPara
+         id="flowPara7628-8-8"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">syslog</flowPara><flowPara
+         id="flowPara7630-9-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">3</flowPara><flowPara
+         id="flowPara7632-5-9"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">rpcbind</flowPara><flowPara
+         id="flowPara7634-7-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">492</flowPara><flowPara
+         id="flowPara7636-0-7"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">32</flowPara><flowPara
+         id="flowPara7638-3-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">32</flowPara><flowPara
+         id="flowPara7640-0-9"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">rpcbind</flowPara><flowPara
+         id="flowPara7642-5-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">/usr/sbin/rpcbind</flowPara><flowPara
+         id="flowPara7644-9-4"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">/sbin/rpcbind -w</flowPara><flowPara
+         id="flowPara7646-8-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">0</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara7662-3-7">/system.slice/rpcbind.service</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara7664-3-9">rpcbind.service</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara7668-5-9">system_u:system_r:rpcbind_t:s0</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara7670-3-0">1404899201490372</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara7676-1-2">-</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="flowPara7680-9-1">-</flowPara><flowPara
+         id="flowPara7660-1-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">-</flowPara></flowRoot>  </g>
 </svg>
