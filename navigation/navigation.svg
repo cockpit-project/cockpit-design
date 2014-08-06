@@ -1104,16 +1104,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="470.41422"
-     inkscape:cy="-989.69333"
+     inkscape:zoom="1"
+     inkscape:cx="977.73224"
+     inkscape:cy="-1156.6231"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1142,10 +1142,10 @@
     <rect
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect18021"
-       width="1487.9999"
-       height="1141.0051"
-       x="1863.9999"
-       y="146.00002"
+       width="1290.01"
+       height="2657.042"
+       x="-121.55596"
+       y="-134.01427"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1366,13 +1366,6 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect8764"
-       width="215.11656"
-       height="704.27832"
-       x="-726"
-       y="596" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8764-3"
@@ -2346,24 +2339,17 @@
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8764-3-5-7-0-95-9-2-0"
-       width="335.87894"
-       height="114.94737"
+       width="336"
+       height="114.99999"
        x="302.5"
-       y="1768.5" />
+       y="1768.4999" />
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8764-3-5-7-0-95-9-2-6-4"
-       width="335.87894"
+       width="336.01154"
        height="114.94737"
-       x="661.62567"
+       x="661.4931"
        y="1770.5526" />
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect8764-3-5-7-0-95-9-2-6-2-8"
-       width="705.00464"
-       height="112"
-       x="300.5"
-       y="2714.5" />
     <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,308.86266,1817.9866)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2396,23 +2382,7 @@
            id="rect6155-9-4-9-3-0-00-8-2-2-65-7-4-6-0-0-7"
            style="fill:#2e3436" /></flowRegion><flowPara
          style="font-size:36.13399124px"
-         id="flowPara9926-0-2-4">Memory</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,311.86266,2768.9866)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot6151-5-2-0-1-5-2-3-0-3-0-3-3-6-0-2-2-2-7"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-4-2-0-1-0-8-3-2-8-8-2-5"><rect
-           y="-121.54033"
-           x="2.8284271"
-           height="67.267235"
-           width="472.02582"
-           id="rect6155-9-4-9-3-0-00-8-2-2-65-7-4-6-0-0-3-6-9"
-           style="fill:#2e3436" /></flowRegion><flowPara
-         style="font-size:36.13399124px"
-         id="flowPara9926-0-2-9-8-7">Disk I/O</flowPara></flowRoot>    <path
+         id="flowPara9926-0-2-4">Memory</flowPara></flowRoot>    <path
        style="fill:none;stroke:#292e34;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 278.5,1707.5 0,-38.875"
        id="path10106-4"
@@ -2560,22 +2530,16 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#729fcf;fill-opacity:1;stroke:none"
-       d="m 303.21463,1810.8471 46.37854,54.4525 36.72352,-57.2864 15.86181,38.056 10.54592,-21.4459 73.24579,0 28.82808,19.5414 45.80416,-14.41 57.08973,9.8369 19.96702,0 0.0376,42.3163 -334.48221,0 z"
+       d="m 304.00004,1810.9392 46.17302,54.4525 36.56078,-57.2864 15.79153,38.056 10.49918,-21.4459 72.92121,0 28.70034,19.5414 45.60118,-14.41 56.83675,9.8369 19.87854,0 L 637,1882 l -333,0 z"
        id="path8826-9-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
     <path
        style="fill:#729fcf;fill-opacity:1;stroke:none"
-       d="m 662.35698,1842.3997 9.70358,0 8.89894,-15.2156 18.13882,14.3937 34.99579,0 9.04497,-26.7864 16.41725,28.0702 25.48151,0 11.16569,-8.8602 12.74669,0 25.08415,-19.9049 19.82458,33.8962 38.95785,0 8.81636,-15.0742 24.45302,0 24.27743,19.2646 12.68562,-10.0663 33.73442,0 0.005,41.8231 -334.4324,0 z"
+       d="m 662.9757,1842.4241 9.66274,0 8.86149,-15.2287 18.06248,14.406 34.84853,0 9.00691,-26.8094 16.34815,28.0944 25.37428,0 11.1187,-8.8679 12.69305,0 24.97859,-19.922 19.74116,33.9254 38.7939,0 8.77926,-15.0872 24.35011,0 24.17527,19.2812 12.63223,-10.075 33.59246,0 L 996,1884 l -333.02502,0 z"
        id="path8824-3-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccc" />
-    <path
-       style="fill:#729fcf;fill-opacity:1;stroke:none"
-       d="m 302,2785.5145 29.74978,14.8582 48.06519,-11.141 32.25708,-7.4769 63.86014,-31.8943 49.73271,43.0215 24.9148,-37.3303 45.17251,39.0767 41.40312,-62.0351 29.82137,44.6819 49.63348,0 21.41122,-32.0808 30.19893,15.0825 32.03287,0 55.24117,-12.8043 31.09947,15.5323 27.52512,23.8107 33.23081,0 9.3488,30.1821 20.14016,-30.1764 27.18417,0.1768 -0.041,38.0019 -701.9822,0 z"
-       id="path8822-4-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccc" />
     <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,302.21966,1772.8728)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2661,19 +2625,19 @@
          id="flowPara11516">Error message eleven</flowPara><flowPara
          style="font-size:36.13399124px;line-height:200%;fill:#2e3436"
          id="flowPara11518">Error message twelve</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8764-3-5-7-0-9-8-3-7-3-3-1-5"
-       width="693"
+       width="695"
        height="46.999939"
-       x="304"
+       x="302.5"
        y="1893.5" />
     <rect
        style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9930-8"
        width="95"
-       height="28.949747"
-       x="887.07336"
-       y="1901.4437" />
+       height="29"
+       x="887"
+       y="1902" />
     <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,901.52546,1948.898)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
