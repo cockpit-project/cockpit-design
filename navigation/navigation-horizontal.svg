@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="566.64437"
-     inkscape:cy="576.91101"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="766.3715"
+     inkscape:cy="304.33208"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2950,7 +2950,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-131.6973,406.42926)"
+       transform="matrix(0.41472929,0,0,0.41472929,-106.94856,406.42926)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2980,5 +2980,27 @@
            height="70"
            x="591"
            y="788" /></flowRegion><flowPara
-         id="flowPara10136"></flowPara></flowRoot>  </g>
+         id="flowPara10136"></flowPara></flowRoot>    <g
+       style="display:inline"
+       id="g19746-4"
+       inkscape:label="dialog-warning"
+       transform="translate(-459.59385,303.29585)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         width="16"
+         height="16"
+         x="301"
+         y="257"
+         id="rect18110-8"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccsccscccccc"
+         id="path18112-7"
+         d="m 308.91905,257.09375 c -0.5255,-0.0286 -1.03823,0.28305 -1.4375,0.96875 l -6.25,11.59375 C 300.69808,270.61964 301.27977,272 302.3253,272 l 13.15625,0 c 0.98172,0 1.90311,-1.15939 1.21875,-2.34375 L 310.3878,258.125 c -0.39872,-0.64617 -0.94325,-1.00262 -1.46875,-1.03125 z m -0.0313,3.9375 c 0.54448,-0.0172 1.04849,0.48677 1.03125,1.03125 l 0,3.9375 c 0.007,0.52831 -0.47163,1.01424 -1,1.01424 -0.52836,0 -1.00747,-0.48593 -1,-1.01424 l 0,-3.9375 c -0.008,-0.4666 0.3541,-0.91253 0.8125,-1 0.0511,-0.0145 0.10345,-0.025 0.15625,-0.0313 z m -0.9687,6.96875 2,0 0,2 -2,0 0,-2 z"
+         style="color:#bebebe;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    </g>
+  </g>
 </svg>
