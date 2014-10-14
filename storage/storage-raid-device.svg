@@ -70,9 +70,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="985.4581"
-     inkscape:cy="541.12039"
+     inkscape:zoom="1"
+     inkscape:cx="715.9924"
+     inkscape:cy="623.11336"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1203,18 +1203,34 @@
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara6389-9-1" /></flowRoot>    <rect
        style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect12593-2-3-9"
-       width="59"
+       id="rect12593-2-3-2-3-6-1-2"
+       width="72.963196"
        height="25"
-       x="483.5"
+       x="475.5368"
        y="381.86218"
-       rx="1.5"
+       rx="1.5000001"
        ry="1.5"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-raid-device.png"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-volume-group.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 531,393.36218 4.5,5 4.5,-5 -9,0 z"
+       id="rect8739-6-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-volume-group.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#b7b7b7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 523.54931,381.86218 0,25.10229"
+       id="path8744-8-4-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-volume-group.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,493.05316,426.82301)"
+       transform="matrix(0.33209728,0,0,0.33209728,480.0128,427.82301)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-5"
        xml:space="preserve"
