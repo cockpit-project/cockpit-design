@@ -176,6 +176,37 @@
        id="linearGradient6760"
        xlink:href="#linearGradient8049-1"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7711-4"
+       id="linearGradient7717-3"
+       x1="35.8246"
+       y1="1310.2596"
+       x2="35.8246"
+       y2="1327.2241"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7711-4">
+      <stop
+         style="stop-color:#1ba7e1;stop-opacity:1;"
+         offset="0"
+         id="stop7713-2" />
+      <stop
+         style="stop-color:#1998cc;stop-opacity:1"
+         offset="1"
+         id="stop7715-8" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(3.1606596e-6,5.9960132e-5)"
+       y2="1327.2241"
+       x2="35.8246"
+       y1="1310.2596"
+       x1="35.8246"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient10731"
+       xlink:href="#linearGradient7711-4"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -184,9 +215,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1773.3544"
-     inkscape:cy="-314.13422"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="410.66086"
+     inkscape:cy="1850.8214"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3515,29 +3546,6 @@
          id="tspan10524-4-3-3"
          x="55.519547"
          y="-496.07916">-</tspan></text>
-    <rect
-       style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect12593-2-9-8-8"
-       width="25"
-       height="25"
-       x="50.5"
-       y="-766.13776"
-       rx="1.4999999"
-       ry="1.5"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-hires.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-size:16.51713562px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="55.973053"
-       y="-748.28235"
-       id="text10522-32"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10524-48"
-         x="55.973053"
-         y="-748.28235">+</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-9-7-6-8-2"
@@ -3582,5 +3590,31 @@
            y="81.013718"
            style="fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:170.00000477%;text-anchor:end;fill:#2e3436;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara10710">Host image replaced by big red error sign when server is unreachable/down</flowPara></flowRoot>  </g>
+         id="flowPara10710">Host image replaced by big red error sign when server is unreachable/down</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:url(#linearGradient10731);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6856-0-5"
+       width="24"
+       height="24"
+       x="52.443737"
+       y="-763.20764"
+       rx="1.0625"
+       ry="1.0625"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.16192818px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="57.483044"
+       y="-746.26282"
+       id="text7719-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7721-1"
+         x="57.483044"
+         y="-746.26282">+</tspan></text>
+  </g>
 </svg>
