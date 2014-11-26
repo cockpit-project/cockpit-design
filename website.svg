@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="448.22596"
-     inkscape:cy="-107.41826"
+     inkscape:cx="324.30529"
+     inkscape:cy="128.90353"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -202,6 +202,17 @@
          offset="1"
          id="stop11762-5" />
     </linearGradient>
+    <radialGradient
+       r="512.20709"
+       fy="107.55173"
+       fx="259.77087"
+       cy="107.55173"
+       cx="259.77087"
+       gradientTransform="matrix(1.2822927,-1.8899478e-5,0,0.45264958,-2257.2567,-342.55673)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient7297"
+       xlink:href="#linearGradient11758-67"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata6167">
@@ -211,7 +222,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -696,7 +707,7 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6532-9"
        width="1026.1946"
-       height="462.59058"
+       height="759.59058"
        x="1.3266037"
        y="373.39783"
        rx="0"
@@ -1538,10 +1549,84 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6174-5-1-7-7-7-1"
+       width="51.954788"
+       height="52"
+       x="160.04521"
+       y="862"
+       rx="4.9497476"
+       ry="4.9497476"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6174-5-1-7-1-7-4-5"
+       width="51.024162"
+       height="51.024162"
+       x="160"
+       y="970.55078"
+       rx="4.9497476"
+       ry="4.9497476"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 170.9338,980.7663 c -1.04855,0.04 -1.99599,1.0257 -1.99522,2.0751 l 0,12.6496 c 0.013,0.5345 0.21689,1.0625 0.59857,1.4366 l 14.6449,14.6449 c 1.38748,1.3874 3.72041,1.3874 5.10777,0 l 10.53475,-10.5347 c 1.38738,-1.3874 1.39229,-3.7253 0,-5.1078 l -14.6449,-14.5651 c -0.39619,-0.3909 -0.95998,-0.5782 -1.51637,-0.5587 l -12.7295,-0.04 z m 6.30489,3.8309 c 1.76309,0 3.19235,1.4292 3.19235,3.1923 0,1.7631 -1.42926,3.1924 -3.19235,3.1924 -1.76308,0 -3.19235,-1.4293 -3.19235,-3.1924 0,-1.7631 1.42927,-3.1923 3.19235,-3.1923 z"
        id="rect6212-7-4-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:3.3227849;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 170.87925,875 c -1.01858,0.1003 -1.8808,1.06646 -1.87925,2.10441 l 0,22.79102 c 0.003,1.10095 0.98951,2.10107 2.07508,2.10457 l 28.84984,0 c 1.08557,0 2.07164,-1.00362 2.07508,-2.10457 l 0,-22.79102 c -0.004,-1.10095 -0.98956,-2.1009 -2.07508,-2.10441 z m 4.77185,3.86789 20.28039,0 -10.42042,8.24241 z m -2.83714,3.77193 12.69711,9.79091 12.67498,-9.69435 0,15.39574 -25.37209,0 z"
+       id="path35600-8-0-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6174-5-1-7-1-6-3-0-1"
+       width="50.947826"
+       height="51.23793"
+       x="610.15637"
+       y="860.4726"
+       rx="4.9497476"
+       ry="4.9497476"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 625.29286,872.12529 c -3.5143,0 -6.3277,2.79038 -6.3277,6.27578 l 0,12.94956 c 0,3.4854 2.8134,6.31546 6.3277,6.31546 l 10.27704,0 7.66643,7.63494 0,-7.63494 2.60146,0 c 3.51429,0 6.32782,-2.83006 6.32782,-6.31546 l 0,-12.94956 c 0,-3.4854 -2.81353,-6.27578 -6.32782,-6.27578 z"
+       id="rect6087-9-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="sssscccsssss" />
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6174-5-1-7-1-6-3-0-1-6"
+       width="50.947826"
+       height="51.23793"
+       x="610.15637"
+       y="962.21863"
+       rx="4.9497476"
+       ry="4.9497476"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 622.2679,974.02991 a 1.6959373,1.6959373 0 0 0 -1.61628,1.69577 l 0,19.47492 a 1.6959373,1.6959373 0 0 0 1.21884,1.6426 c 4.5405,1.2834 8.67352,1.4698 12.82424,3.8421 0.0212,0.012 0.0318,0.041 0.053,0.053 a 1.6959373,1.6959373 0 0 0 0.0795,0.053 1.6959373,1.6959373 0 0 0 0.7684,0.3445 1.6959373,1.6959373 0 0 0 0.15898,0.026 1.6959373,1.6959373 0 0 0 0.13248,0 1.6959373,1.6959373 0 0 0 0.053,0 1.6959373,1.6959373 0 0 0 0.31796,-0.026 1.6959373,1.6959373 0 0 0 0.18547,-0.053 1.6959373,1.6959373 0 0 0 0.68891,-0.3709 c 4.1406,-2.3884 8.26476,-2.5814 12.79774,-3.8686 a 1.6959373,1.6959373 0 0 0 1.24533,-1.6427 l 0,-19.47482 a 1.6959373,1.6959373 0 0 0 -1.74876,-1.69577 1.6959373,1.6959373 0 0 0 -0.39744,0.053 c -3.87169,1.01401 -8.34896,1.16585 -13.08921,3.89497 -0.007,-0.004 -0.0196,0.004 -0.0265,0 -4.75923,-2.72809 -9.25038,-2.88042 -13.1422,-3.89497 a 1.6959373,1.6959373 0 0 0 -0.50343,-0.053 z m 1.77526,3.78898 c 3.50004,0.72742 6.83081,1.24847 10.14811,3.12651 l 0,15.7654 c -3.6186,-1.581 -7.01723,-2.0849 -10.14811,-2.8351 l 0,-16.05681 z m 23.74075,0 0,16.03031 c -3.1269,0.7549 -6.50277,1.2955 -10.12162,2.8881 l 0,-15.7919 c 3.3085,-1.88627 6.62835,-2.39653 10.12162,-3.12651 z"
+       id="rect6404"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-v3.png"
        inkscape:export-xdpi="90"
@@ -1721,41 +1806,6 @@
          id="tspan7350-2-6"
          x="783.57861"
          y="528.65137">(screenshot)</tspan></text>
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 614.9375,861 C 612.19534,861 610,863.19534 610,865.9375 l 0,43.09375 c 0,2.74216 2.19534,4.96875 4.9375,4.96875 l 43.125,0 c 2.74216,0 4.9375,-2.22659 4.9375,-4.96875 l 0,-43.09375 C 663,863.19534 660.80466,861 658.0625,861 z m 10,12.01126 23.125,0 c 2.74216,0 4.9375,2.19534 4.9375,4.9375 l 0,17.125 c 0,2.74216 -2.19534,4.9375 -4.9375,4.9375 l -3.0625,0 0,5.96875 -7.84375,-5.96875 -12.21875,0 c -2.74216,0 -4.9375,-2.19534 -4.9375,-4.9375 l 0,-17.125 c 0,-2.74216 2.19534,-4.9375 4.9375,-4.9375 z"
-       id="rect6174-5-1-7-7-7-1-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssssssssscccssss"
-       inkscape:export-filename="/home/andreasn/development/cockpit-project.github.io/item-irc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#787a75;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 167.9375,968 C 165.19534,968 163,970.19534 163,972.9375 l 0,43.0938 c 0,2.7421 2.19534,4.9687 4.9375,4.9687 l 43.125,0 c 2.74216,0 4.9375,-2.2266 4.9375,-4.9687 l 0,-43.0938 C 216,970.19534 213.80466,968 211.0625,968 l -43.125,0 z m 9,13 11.9375,0.0312 c 0.52154,-0.0184 1.03487,0.16302 1.40625,0.53125 l 13.75,13.71875 c 1.30507,1.30233 1.30047,3.5056 0,4.8125 l -9.875,9.9375 c -1.30046,1.3069 -3.48068,1.3069 -4.78125,0 l -13.75,-13.8125 c -0.35778,-0.35241 -0.5503,-0.84025 -0.5625,-1.34375 l 0,-11.90625 c -7.2e-4,-0.98855 0.89213,-1.93105 1.875,-1.96875 z M 183,985 c -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 0,-1.65685 -1.34315,-3 -3,-3 z"
-       id="rect6174-5-1-7-7-7-1-1-5"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/development/cockpit-project.github.io/item-tracker.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 614.9375,968 C 612.19534,968 610,970.19534 610,972.9375 l 0,43.0937 c 0,2.7422 2.19534,4.9688 4.9375,4.9688 l 43.125,0 c 2.74216,0 4.9375,-2.2266 4.9375,-4.9688 l 0,-43.0937 C 663,970.19534 660.80466,968 658.0625,968 z m 7.19286,11.93203 c 5.37516,0.41762 10.0266,1.96877 14.375,3.8125 4.70914,-1.97354 9.4761,-3.16193 14.25,-3.71875 1.10717,-0.12176 2.20795,0.85496 2.21875,1.96875 l 0.1875,19.96877 c 0.008,0.9059 -0.67854,1.7705 -1.5625,1.9687 -4.68655,1.0729 -9.47586,2.746 -14.34375,4.875 -0.52256,0.226 -1.14257,0.2143 -1.65625,-0.031 -4.44768,-2.1374 -9.24414,-3.3864 -14.15625,-4.7187 -0.83976,-0.2314 -1.47275,-1.0664 -1.46875,-1.9375 l 0,-20.18752 c 0.0219,-0.94611 0.97847,-2 2.15625,-2 z m 1.84375,4.40625 0,16.25002 c 3.63099,0.9847 7.299,2.0431 10.9375,3.5625 l 0,-16.78127 c -3.45859,-1.43698 -7.05321,-2.47282 -10.9375,-3.03125 z m 25.03125,0.0625 c -3.71684,0.58633 -7.40963,1.4886 -11.03125,3 l 0,16.81252 c 3.74354,-1.5257 7.47433,-2.7758 11.1875,-3.7188 z"
-       id="rect6174-5-1-7-7-7-1-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssssccccccccccccccccccccccc"
-       inkscape:export-filename="/home/andreasn/development/cockpit-project.github.io/item-documentation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 167.9375,861 C 165.19534,861 163,863.19534 163,865.9375 l 0,43.09375 c 0,2.74216 2.19534,4.96875 4.9375,4.96875 l 43.125,0 c 2.74216,0 4.9375,-2.22659 4.9375,-4.96875 l 0,-43.09375 C 216,863.19534 213.80466,861 211.0625,861 z m 7.0625,13.98353 29,0 c 1.04717,10e-5 1.9999,0.95283 2,2 l 0,23 c -1e-4,1.04717 -0.95283,1.9999 -2,2 l -29,0 c -1.04717,-10e-5 -1.9999,-0.95283 -2,-2 l 0,-23 c 0.0246,-0.90092 0.87039,-2 2,-2 z m 4.0625,4 10.5,8.40625 10.375,-8.40625 z M 202,882.45228 189.59375,892.54603 177,882.48353 l 0,15.5 25,0 z"
-       id="rect6174-5-1-7-7-7-1-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssssscccccccscccccccccc"
-       inkscape:export-filename="/home/andreasn/development/cockpit-project.github.io/item-ml.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
   </g>
   <g
      id="g7447"
