@@ -20,6 +20,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient12148">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12150" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient11528">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -123,7 +135,7 @@
        x2="-96.524094"
        y1="850.98334"
        x1="-96.524094"
-       gradientTransform="matrix(1.5498713,0,0,1.2258521,54.70707,-940.46037)"
+       gradientTransform="matrix(1.5498713,0,0,1.2258521,122.69865,-940.46037)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient11397"
        xlink:href="#linearGradient8049-1-5-1"
@@ -155,7 +167,7 @@
        x2="-94.911057"
        y1="853.4306"
        x1="-94.911057"
-       gradientTransform="matrix(1.5498713,0,0,1.2258521,244.70707,-940.46037)"
+       gradientTransform="matrix(1.5498713,0,0,1.2258521,312.69865,-940.46037)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient11443"
        xlink:href="#linearGradient8049-1-5-1-8"
@@ -192,6 +204,36 @@
          offset="1"
          id="stop10482-2-8-9" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12148"
+       id="linearGradient12154"
+       x1="24.885582"
+       y1="107.01873"
+       x2="19.471979"
+       y2="99.737297"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12148-5"
+       id="linearGradient12154-0"
+       x1="19.756907"
+       y1="105.5941"
+       x2="19.756907"
+       y2="96.46064"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12148-5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12150-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12152-2" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -201,8 +243,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="515.89604"
-     inkscape:cy="488.74583"
+     inkscape:cx="573.40682"
+     inkscape:cy="489.18847"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1078,7 +1120,7 @@
        id="rect7950-1-7-5"
        width="106.94112"
        height="26.96875"
-       x="-161.5"
+       x="-93.50843"
        y="98.893417"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
        inkscape:export-xdpi="90"
@@ -1089,7 +1131,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,-127.01679,61.954007)"
+       transform="matrix(0.43877157,0,0,0.43950533,-59.025215,61.954007)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1106,7 +1148,7 @@
        id="rect7950-1-7-5-4"
        width="106.94112"
        height="26.96875"
-       x="28.5"
+       x="96.49157"
        y="98.893417"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
        inkscape:export-xdpi="90"
@@ -1117,7 +1159,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,62.98321,61.954007)"
+       transform="matrix(0.43877157,0,0,0.43950533,130.97479,61.954007)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1131,7 +1173,7 @@
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara7970-3-7-6-9">Warning</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 118.5563,111.89697 4.02485,3.96521 3.91885,-4"
+       d="m 186.54788,111.89697 4.02485,3.96521 3.91885,-4"
        id="path8778-5-6-9-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
@@ -1140,7 +1182,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -71.4437,110.90567 4.02486,4.95651 3.91884,-5"
+       d="m -3.4521248,110.90567 4.02486008,4.95651 3.91883992,-5"
        id="path8778-5-6-9-7-3-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
@@ -1206,7 +1248,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,-171.51679,61.954008)"
+       transform="matrix(0.43877157,0,0,0.43950533,-105.52521,61.954008)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1222,7 +1264,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0-9-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,-1.51679,61.954008)"
+       transform="matrix(0.43877157,0,0,0.43950533,66.474785,61.954008)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1944,5 +1986,21 @@
            y="81.013718"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7970-3-7-6-9-4-1">2</flowPara></flowRoot>  </g>
+         id="flowPara7970-3-7-6-9-4-1">2</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:url(#linearGradient12154);stroke-width:6.44714975000000035;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path12146"
+       sodipodi:cx="30.847534"
+       sodipodi:cy="97.113029"
+       sodipodi:rx="13.700194"
+       sodipodi:ry="13.700194"
+       d="m 44.547729,97.113029 a 13.700194,13.700194 0 1 1 -27.400389,0 13.700194,13.700194 0 1 1 27.400389,0 z"
+       transform="matrix(0.62042919,0,0,0.62042919,-201.35003,51.610423)" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3.99999976;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -185.27835,103.93235 c 0.95141,-0.36823 1.98564,-0.57017 3.06703,-0.57017 4.69442,0 8.5,3.80558 8.5,8.5 0,4.69442 -3.80558,8.5 -8.5,8.5"
+       id="path12146-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+  </g>
 </svg>
