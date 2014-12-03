@@ -20,6 +20,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient9474">
+      <stop
+         style="stop-color:#1baae6;stop-opacity:1"
+         offset="0"
+         id="stop9476" />
+      <stop
+         style="stop-color:#1998cc;stop-opacity:1"
+         offset="1"
+         id="stop9478" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient8822">
       <stop
          style="stop-color:#3f3f3f;stop-opacity:1;"
@@ -52,28 +64,6 @@
        y1="1227.8451"
        x2="1.2711589"
        y2="1203.7383" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10889-6"
-       id="linearGradient10909-2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(198.52682,0,0,1,-222.48553,-1144.6048)"
-       x1="3"
-       y1="32"
-       x2="3"
-       y2="65" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient10889-6">
-      <stop
-         style="stop-color:#1b1b1b;stop-opacity:1"
-         offset="0"
-         id="stop10891-2" />
-      <stop
-         style="stop-color:#040404;stop-opacity:1"
-         offset="1"
-         id="stop10893-0" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8057-1"
@@ -364,28 +354,6 @@
          id="stop10893-4" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(2.7832031e-6,-1160)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient8822-4"
-       id="linearGradient8828-0"
-       x1="-30.642849"
-       y1="1214.7194"
-       x2="-30.642849"
-       y2="1239.7393"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient8822-4">
-      <stop
-         style="stop-color:#3f3f3f;stop-opacity:1;"
-         offset="0"
-         id="stop8824-0" />
-      <stop
-         style="stop-color:#303030;stop-opacity:1"
-         offset="1"
-         id="stop8826-3" />
-    </linearGradient>
-    <linearGradient
        y2="1203.7383"
        x2="1.2711589"
        y1="1227.8451"
@@ -395,6 +363,38 @@
        id="linearGradient9346"
        xlink:href="#linearGradient10889-7"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7711-49-7"
+       id="linearGradient7717-4-5"
+       x1="35.8246"
+       y1="1310.2596"
+       x2="35.8246"
+       y2="1327.2241"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-49.999998,-1286.0001)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7711-49-7">
+      <stop
+         style="stop-color:#1ba7e1;stop-opacity:1;"
+         offset="0"
+         id="stop7713-5-7" />
+      <stop
+         style="stop-color:#1998cc;stop-opacity:1"
+         offset="1"
+         id="stop7715-4-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9474"
+       id="linearGradient9480"
+       x1="624.91968"
+       y1="1246.3622"
+       x2="624.91968"
+       y2="1261.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92592588,0,0,0.92592588,-591.85182,31.841695)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -403,9 +403,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1115.1649"
-     inkscape:cy="-72.646842"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="318.62401"
+     inkscape:cy="491.72234"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1418,14 +1418,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:url(#linearGradient7717-4);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6856-0-0"
-       width="24"
-       height="24"
-       x="-26.499998"
-       y="1179.8623"
-       rx="1.0625"
-       ry="1.0625"
+       style="color:#000000;fill:url(#linearGradient9480);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6856-0-0-5"
+       width="24.999998"
+       height="24.999998"
+       x="-27.5"
+       y="1179.8622"
+       rx="1"
+       ry="1"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
