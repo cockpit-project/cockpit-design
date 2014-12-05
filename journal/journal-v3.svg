@@ -73,7 +73,7 @@
        x2="270.31888"
        y2="905.36218"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,3.56109)" />
+       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,33.560784)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10478-3">
@@ -95,7 +95,7 @@
        x2="270.31888"
        y2="905.36218"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,303.56109)" />
+       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,323.56109)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10478-3-5">
@@ -191,7 +191,7 @@
        x2="270.31888"
        y2="905.36218"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,603.56109)" />
+       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,623.56109)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10478-3-5-1">
@@ -234,6 +234,28 @@
          offset="1"
          id="stop12152-2" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10478-3-54"
+       id="linearGradient10484-2-7"
+       x1="270.31888"
+       y1="885.36218"
+       x2="270.31888"
+       y2="905.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6861637,0,0,0.45454544,-646.90293,33.560784)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10478-3-54">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10480-3-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop10482-2-9" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -243,8 +265,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="573.40682"
-     inkscape:cy="489.18847"
+     inkscape:cx="550.19812"
+     inkscape:cy="612.29894"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,10 +326,30 @@
          id="flowPara10136" /></flowRoot>    <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect18273-1-0-7"
-       width="1199"
-       height="923.92889"
-       x="-216.50293"
+       width="1199.0029"
+       height="928"
+       x="-216.50291"
        y="86.862183"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f5f5f5;fill-opacity:1;stroke:#dddddd;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect16617-3-8-7-6-8-4-6-4-0"
+       width="1154"
+       height="30"
+       x="-194.5"
+       y="321.86224"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f5f5f5;fill-opacity:1;stroke:#dddddd;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect16617-3-8-7-6-8-4-5-7"
+       width="1154"
+       height="30"
+       x="-194.5"
+       y="291.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -356,7 +398,7 @@
     <rect
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect10911-8-4-6-2"
-       width="89.497093"
+       width="86"
        height="40.999996"
        x="95"
        y="44.362179"
@@ -670,7 +712,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="291.86224"
+       y="351.86224"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -680,7 +722,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="321.86224"
+       y="381.86224"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -690,17 +732,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="351.86249"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#f5f5f5;fill-opacity:1;stroke:#dddddd;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect16617-3-8-7-6-8-46-8"
-       width="1154"
-       height="30"
-       x="-194.5"
-       y="381.86249"
+       y="411.86249"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -710,7 +742,7 @@
        width="1155.0221"
        height="4.9999995"
        x="-195.01108"
-       y="412.36249"
+       y="442.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -724,27 +756,29 @@
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6840-2-9-5-9-7-05"><rect
            id="rect6842-7-8-2-1-0-5"
-           width="166.51799"
-           height="617.65778"
+           width="122.1884"
+           height="648.20557"
            x="-57.831234"
            y="81.013718"
            style="line-height:250%;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara10956-8-9-0">12:18</flowPara><flowPara
+         id="flowPara10956-8-9-0">12:25</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara6435">12:14</flowPara><flowPara
+         id="flowPara6435">12:20</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara6437">12:14</flowPara><flowPara
+         id="flowPara6437">12:19</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara6439">12:14</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara10546-1">12:14</flowPara><flowPara
+         id="flowPara12330">12:14</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara6463">12:09</flowPara><flowPara
+         id="flowPara6463">12:10</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         id="flowPara12342">12:09</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara6465">12:08</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara6467">12:07</flowPara></flowRoot>    <flowRoot
+         id="flowPara12344">12:07</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-1-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
@@ -766,7 +800,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="441.86218"
+       y="461.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -776,7 +810,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="471.86218"
+       y="491.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -786,7 +820,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="501.86218"
+       y="521.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -796,7 +830,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="531.86218"
+       y="551.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -806,7 +840,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="561.86224"
+       y="581.86224"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -816,7 +850,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="591.86224"
+       y="611.86224"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -826,7 +860,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="621.86224"
+       y="641.86224"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -836,7 +870,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="651.86249"
+       y="671.86249"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -846,7 +880,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="681.86249"
+       y="701.86249"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -856,7 +890,7 @@
        width="1155.0221"
        height="4.9999995"
        x="-195.01108"
-       y="712.36249"
+       y="732.36249"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -864,7 +898,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-1-9-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-159.61538,408.58439)"
+       transform="matrix(0.41472929,0,0,0.41472929,-159.61538,428.58439)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -978,7 +1012,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,298.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,358.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
        id="path6472-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -991,7 +1025,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="305.36218"
+       y="365.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1001,7 +1035,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="302.36218"
+       y="362.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1022,14 +1056,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-283.36218"
+       y="-343.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,328.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
+       d="m -170.99684,388.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
        id="rect7286-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -1042,7 +1076,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-338.36218"
+       y="-398.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1053,14 +1087,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-341.36218"
+       y="-401.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,358.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,418.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
        id="path6472-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -1073,7 +1107,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="365.36218"
+       y="425.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1083,38 +1117,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="362.36218"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,388.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
-       id="rect7286-5-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccsccsccs"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect7245-9-7-8-5"
-       width="2"
-       height="5.0000005"
-       x="-172"
-       y="-398.36218"
-       transform="scale(1,-1)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect7245-2-1-4-2-3"
-       width="2"
-       height="2.0000002"
-       x="-172"
-       y="-401.36218"
-       transform="scale(1,-1)"
+       y="422.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1141,6 +1144,8 @@
          id="flowPara7484">Transmission is running short on storage space</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara7486">Leggings artisan pop-up cardigan you probably haven't heard of them</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         id="flowPara12346">Leggings artisan pop-up cardigan you probably haven't heard of them</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara7488">Odd Future Helvetica yr Brooklyn PBR.</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
@@ -1170,8 +1175,8 @@
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6840-2-9-5-9-7-05-9-5"><rect
            id="rect6842-7-8-2-1-0-5-1-8"
-           width="1755.5631"
-           height="680.74219"
+           width="1731.6934"
+           height="875.11035"
            x="-57.831234"
            y="81.013718"
            style="line-height:250%;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
@@ -1190,7 +1195,9 @@
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara7680">MiniDLNA</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara7682">Kernel</flowPara></flowRoot>    <rect
+         id="flowPara7682">Kernel</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         id="flowPara12414">Kernel</flowPara></flowRoot>    <rect
        style="color:#000000;fill:url(#linearGradient11397);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7950-1-7-5"
        width="106.94112"
@@ -1354,7 +1361,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0-9-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,66.474785,61.954008)"
+       transform="matrix(0.43877157,0,0,0.43950533,70.474785,61.954008)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1370,7 +1377,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-122.69729,436.2158)"
+       transform="matrix(0.41472929,0,0,0.41472929,-122.69729,456.2158)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1398,7 +1405,7 @@
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara6467-3">12:07</flowPara></flowRoot>    <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -175.0463,482.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
+       d="m -175.0463,502.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
        id="rect6469-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1407,7 +1414,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,510.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,530.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
        id="path6472-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -1420,7 +1427,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="517.36218"
+       y="537.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1430,7 +1437,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="514.36218"
+       y="534.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1440,7 +1447,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="-492.36218"
+       y="-512.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1451,14 +1458,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-495.36218"
+       y="-515.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,540.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
+       d="m -170.99684,560.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
        id="rect7286-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -1471,7 +1478,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-550.36218"
+       y="-570.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1482,14 +1489,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-553.36218"
+       y="-573.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -175.0463,572.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
+       d="m -175.0463,592.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
        id="rect6469-1-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1498,7 +1505,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,600.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,620.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
        id="path6472-4-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -1511,7 +1518,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="607.36218"
+       y="627.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1521,7 +1528,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="604.36218"
+       y="624.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1531,7 +1538,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="-582.36218"
+       y="-602.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1542,14 +1549,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-585.36218"
+       y="-605.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,630.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
+       d="m -170.99684,650.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
        id="rect7286-5-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -1562,7 +1569,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-640.36218"
+       y="-660.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1573,14 +1580,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-643.36218"
+       y="-663.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,660.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,680.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
        id="path6472-4-3-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -1593,7 +1600,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="667.36218"
+       y="687.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1603,13 +1610,13 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="664.36218"
+       y="684.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,690.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
+       d="m -170.99684,710.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
        id="rect7286-5-0-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -1622,7 +1629,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-700.36218"
+       y="-720.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1633,7 +1640,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-703.36218"
+       y="-723.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1642,7 +1649,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-5-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-62.69729,436.2158)"
+       transform="matrix(0.41472929,0,0,0.41472929,-62.69729,456.2158)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1684,7 +1691,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-5-5-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,618.30271,436.2158)"
+       transform="matrix(0.41472929,0,0,0.41472929,618.30271,456.2158)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1716,7 +1723,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="741.86218"
+       y="761.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1726,7 +1733,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="771.86218"
+       y="791.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1736,7 +1743,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="801.86218"
+       y="821.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1746,7 +1753,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="831.86218"
+       y="851.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1756,7 +1763,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="861.86224"
+       y="881.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1766,7 +1773,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="891.86224"
+       y="911.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1776,7 +1783,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="921.86224"
+       y="941.86218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1786,7 +1793,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="951.86249"
+       y="971.86249"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1796,7 +1803,7 @@
        width="1154"
        height="30"
        x="-194.5"
-       y="981.86249"
+       y="1001.8625"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1806,7 +1813,7 @@
        width="1155.0221"
        height="4.9999995"
        x="-195.01108"
-       y="1012.3625"
+       y="1032.3625"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1814,7 +1821,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-1-9-8-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-159.61538,708.58439)"
+       transform="matrix(0.41472929,0,0,0.41472929,-159.61538,728.58439)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1830,7 +1837,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-7-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-122.69729,736.2158)"
+       transform="matrix(0.41472929,0,0,0.41472929,-122.69729,756.2158)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1858,7 +1865,7 @@
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara6467-3-9">12:07</flowPara></flowRoot>    <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -175.0463,782.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
+       d="m -175.0463,802.3622 7.9196,0 4.1267,4.0143 0,8.061 -3.94993,3.9247 -8.06102,0 -3.98905,-4.0307 0,-7.8843 z"
        id="rect6469-8-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1867,7 +1874,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,810.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,830.3622 c -4.40564,0 -7.98384,3.5782 -7.98384,7.9838 0,4.4057 3.5782,8.0162 7.98384,8.0162 4.40564,0 8.01616,-3.6105 8.01616,-8.0162 0,-4.4056 -3.61052,-7.9838 -8.01616,-7.9838 z"
        id="path6472-3-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -1880,7 +1887,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="817.36218"
+       y="837.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1890,7 +1897,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="814.36218"
+       y="834.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1900,7 +1907,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="-792.36218"
+       y="-812.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1911,14 +1918,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-795.36218"
+       y="-815.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,840.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
+       d="m -170.99684,860.3443 c -0.42734,0 -0.85394,0.2842 -1.18139,0.8509 l -6.16631,10.6784 c -0.39419,0.6822 -0.96699,1.8272 -0.44897,2.4726 l 0.81553,1.016 13.93511,0 0.83622,-1.0085 c 0.52787,-0.6366 -0.076,-1.7959 -0.47132,-2.4801 l -6.13748,-10.6784 c -0.32744,-0.5667 -0.75405,-0.8509 -1.18139,-0.8509 z"
        id="rect7286-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -1931,7 +1938,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-850.36218"
+       y="-870.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -1942,14 +1949,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-853.36218"
+       y="-873.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -175.0463,872.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
+       d="m -175.0463,892.3622 7.9196,0 4.1267,4.0143 0,8.061 -3.94993,3.9247 -8.06102,0 -3.98905,-4.0307 0,-7.8843 z"
        id="rect6469-1-0-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1958,7 +1965,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,900.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       d="m -171.01616,920.3622 c -4.40564,0 -7.98384,3.5782 -7.98384,7.9838 0,4.4057 3.5782,8.0162 7.98384,8.0162 4.40564,0 8.01616,-3.6105 8.01616,-8.0162 0,-4.4056 -3.61052,-7.9838 -8.01616,-7.9838 z"
        id="path6472-4-6-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -1971,7 +1978,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="907.36218"
+       y="927.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1981,7 +1988,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="904.36218"
+       y="924.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1991,7 +1998,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="-882.36218"
+       y="-902.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -2002,14 +2009,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-885.36218"
+       y="-905.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,930.34432 c -0.42734,0 -0.85394,0.28416 -1.18139,0.85088 l -6.16631,10.67843 c -0.39419,0.68221 -0.96699,1.82716 -0.44897,2.47252 l 0.81553,1.01603 13.93511,0 0.83622,-1.00847 c 0.52787,-0.63659 -0.076,-1.7959 -0.47132,-2.48008 l -6.13748,-10.67843 c -0.32744,-0.56672 -0.75405,-0.85088 -1.18139,-0.85088 z"
+       d="m -170.99684,950.3443 c -0.42734,0 -0.85394,0.2842 -1.18139,0.8509 l -6.16631,10.6784 c -0.39419,0.6822 -0.96699,1.8272 -0.44897,2.4726 l 0.81553,1.016 13.93511,0 0.83622,-1.0085 c 0.52787,-0.6366 -0.076,-1.7959 -0.47132,-2.4801 l -6.13748,-10.6784 c -0.32744,-0.5667 -0.75405,-0.8509 -1.18139,-0.8509 z"
        id="rect7286-5-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -2022,7 +2029,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-940.36218"
+       y="-960.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -2033,14 +2040,14 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-943.36218"
+       y="-963.36218"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -171.01616,960.3622 c -4.40564,0 -7.98384,3.5782 -7.98384,7.9838 0,4.4057 3.5782,8.0162 7.98384,8.0162 4.40564,0 8.01616,-3.6105 8.01616,-8.0162 0,-4.4056 -3.61052,-7.9838 -8.01616,-7.9838 z"
+       d="m -171.01616,980.3622 c -4.40564,0 -7.98384,3.5782 -7.98384,7.9838 0,4.4057 3.5782,8.0162 7.98384,8.0162 4.40564,0 8.01616,-3.6105 8.01616,-8.0162 0,-4.4056 -3.61052,-7.9838 -8.01616,-7.9838 z"
        id="path6472-4-3-1-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss"
@@ -2053,7 +2060,7 @@
        width="2"
        height="5.9999995"
        x="-172"
-       y="967.36218"
+       y="987.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2063,13 +2070,13 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="964.36218"
+       y="984.36218"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -170.99684,990.3443 c -0.42734,0 -0.85394,0.2842 -1.18139,0.8509 l -6.16631,10.6784 c -0.39419,0.6822 -0.96699,1.8272 -0.44897,2.4726 l 0.81553,1.016 13.93511,0 0.83622,-1.0085 c 0.52787,-0.6366 -0.076,-1.7959 -0.47132,-2.4801 l -6.13748,-10.6784 c -0.32744,-0.5667 -0.75405,-0.8509 -1.18139,-0.8509 z"
+       d="m -170.99684,1010.3443 c -0.42734,0 -0.85394,0.2842 -1.18139,0.8509 l -6.16631,10.6784 c -0.39419,0.6822 -0.96699,1.8272 -0.44897,2.4726 l 0.81553,1.016 13.93511,0 0.83622,-1.0085 c 0.52787,-0.6366 -0.076,-1.7959 -0.47132,-2.4801 l -6.13748,-10.6784 c -0.32744,-0.5667 -0.75405,-0.8509 -1.18139,-0.8509 z"
        id="rect7286-5-0-9-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -2082,7 +2089,7 @@
        width="2"
        height="5.0000005"
        x="-172"
-       y="-1000.3622"
+       y="-1020.3622"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -2093,7 +2100,7 @@
        width="2"
        height="2.0000002"
        x="-172"
-       y="-1003.3622"
+       y="-1023.3622"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -2102,7 +2109,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-5-0-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-62.697285,736.2158)"
+       transform="matrix(0.41472929,0,0,0.41472929,-62.697285,756.2158)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2144,7 +2151,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-5-5-6-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:250%;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,618.30271,736.2158)"
+       transform="matrix(0.41472929,0,0,0.41472929,618.30271,756.2158)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2173,11 +2180,11 @@
          id="flowPara7682-0-5">Kernel</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect12087"
-       width="25.9375"
+       width="29.919312"
        height="21"
        x="920.08069"
        y="206.36218"
-       rx="3.181982"
+       rx="3.1819823"
        ry="3.181982"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
@@ -2201,7 +2208,7 @@
          id="flowPara7970-3-7-6-9-4">3</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect12087-5"
-       width="25.9375"
+       width="29.919323"
        height="21"
        x="920.08063"
        y="266.36218"
@@ -2248,5 +2255,192 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-  </g>
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12087-5-3"
+       width="30"
+       height="21"
+       x="920"
+       y="556.36584"
+       rx="3.181982"
+       ry="3.181982"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-3-0-6-6-8-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.43877157,0,0,0.43950533,954.95797,515.6187)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-9-2-6-4-4-1"><rect
+           id="rect6842-7-3-3-1-64-5-6-7-1-8-0"
+           width="46.93132"
+           height="59.4585"
+           x="-57.831234"
+           y="81.013718"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara7970-3-7-6-9-4-1-8">2</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -232.34811,107.29422 -42.53776,0"
+       id="path12229"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1039.1732,107.29421 -48.03984,0"
+       id="path12229-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 940,214.36218 0,6 5,-2.99376 -5,-3.00624 z"
+       id="rect12249"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 939.99995,564.36218 0,6 5,-2.99376 -5,-3.00624 z"
+       id="rect12249-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 946,274.36218 -6,0 2.99376,5 3.00624,-5 z"
+       id="rect12249-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7245-2-1-4-4"
+       width="2"
+       height="2.0000002"
+       x="-172"
+       y="-283.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12332"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:18px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion12334"><rect
+           id="rect12336"
+           width="10.606602"
+           height="25.455845"
+           x="150.61374"
+           y="536.84503" /></flowRegion><flowPara
+         id="flowPara12338"></flowPara></flowRoot>    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m -171.01616,328.36218 c -4.40564,0 -7.98384,3.5782 -7.98384,7.98384 0,4.40565 3.5782,8.01616 7.98384,8.01616 4.40564,0 8.01616,-3.61051 8.01616,-8.01616 0,-4.40564 -3.61052,-7.98384 -8.01616,-7.98384 z"
+       id="path6472-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7245-4-9"
+       width="2"
+       height="5.9999995"
+       x="-172"
+       y="335.36218"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7245-2-4-98"
+       width="2"
+       height="2.0000002"
+       x="-172"
+       y="332.36218"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -175.0463,298.36218 7.9196,0 4.1267,4.01436 0,8.06101 -3.94993,3.92463 -8.06102,0 -3.98905,-4.0307 0,-7.88424 z"
+       id="rect6469-1-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7245-9-0-3"
+       width="2"
+       height="5.9999995"
+       x="-172"
+       y="-308.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7245-2-1-4-4-3"
+       width="2"
+       height="2.0000002"
+       x="-172"
+       y="-311.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1033.4144,274.35487 -40.55168,0"
+       id="path12229-5-4"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-0-4-3-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.41472929,0,0,0.41472929,-422.96757,62.23992)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-3-5-4-9"><rect
+           id="rect6842-7-6-3-3-1"
+           width="421.62387"
+           height="64.885574"
+           x="-57.831234"
+           y="81.013718"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6844-4-1-1-6-7"
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Spinner indicates loading</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-0-4-3-1-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.41472929,0,0,0.41472929,1067.6162,63.24328)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-3-5-4-9-1"><rect
+           id="rect6842-7-6-3-3-1-2"
+           width="539.77325"
+           height="79.352844"
+           x="-57.831234"
+           y="81.013718"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6844-4-1-1-6-7-1"
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">filters affect the search bar</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-0-4-3-1-1-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.41472929,0,0,0.41472929,1067.6162,229.24329)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.svg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-3-5-4-9-1-4"><rect
+           id="rect6842-7-6-3-3-1-2-2"
+           width="539.77325"
+           height="79.352844"
+           x="-57.831234"
+           y="81.013718"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6844-4-1-1-6-7-1-0"
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">expanded double-entry</flowPara></flowRoot>  </g>
 </svg>
