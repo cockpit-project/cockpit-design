@@ -307,12 +307,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="467.12604"
-     inkscape:cy="860.6995"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="724.31558"
+     inkscape:cy="635.31421"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
@@ -338,10 +338,6 @@
        snapvisiblegridlinesonly="true"
        originx="217.14285px"
        originy="-37.142859px" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="425,837.5"
-       id="guide7653" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -2453,19 +2449,19 @@
        xml:space="preserve"
        id="flowRoot6838-2-0-4-3-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-422.96757,62.23992)"
+       transform="matrix(0.41472929,0,0,0.41472929,-422.96757,41.73992)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6840-2-3-5-4-9"><rect
            id="rect6842-7-6-3-3-1"
-           width="421.62387"
-           height="64.885574"
+           width="395.10052"
+           height="160.12842"
            x="-57.831234"
            y="81.013718"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-1-1-6-7"
-         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Spinner indicates loading</flowPara></flowRoot>    <flowRoot
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Blinking dot indicates that new journal messages are coming</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-0-4-3-1-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2740,10 +2736,10 @@
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara12870">bar stays when scrolling</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect12654-4"
        width="197.99998"
-       height="111.00428"
+       height="114.00429"
        x="96.499992"
        y="125.86217"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
@@ -2758,7 +2754,7 @@
        sodipodi:rx="4.5961943"
        sodipodi:ry="4.5961943"
        d="m 39.774756,92.605217 a 4.5961943,4.5961943 0 1 1 -9.192388,0 4.5961943,4.5961943 0 1 1 9.192388,0 z"
-       transform="matrix(0.97907112,0,0,0.97907112,-224.94231,21.19509)" />
+       transform="matrix(0.97907112,0,0,0.97907112,-205.94232,21.19509)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0-6-5"
@@ -2804,6 +2800,15 @@
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 274.5,171.89365 4.01098,4.96853 6.98902,-10"
        id="path12247-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 274.5,193.89365 4.01098,4.96853 6.98902,-10"
+       id="path12247-2-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
