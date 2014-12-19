@@ -527,8 +527,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="2105.8306"
-     inkscape:cy="-841.85926"
+     inkscape:cx="820.1846"
+     inkscape:cy="-480.1053"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1954,7 +1954,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-9-3-1-8-8"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#030303;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        transform="matrix(0.41472929,0,0,0.41472929,-176.31306,1666.7071)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
@@ -1965,22 +1965,22 @@
            height="557.99377"
            x="-57.831234"
            y="81.013718"
-           style="text-align:start;text-anchor:start;fill:#030303;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+           style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="flowPara9226-2">Strarting up domain controller</flowPara><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara9659">           Installing packages</flowPara><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara9661">           Opening up ports in the firewall</flowPara><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara9663">           Deploying services   <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Liberation Sans Italic"
+   style="font-style:italic;-inkscape-font-specification:Liberation Sans Italic;fill:#000000"
    id="flowSpan10889">this could take a while...</flowSpan><flowSpan
-   style="fill:#3465a4"
+   style="fill:#000000"
    id="flowSpan10885">   show details</flowSpan></flowPara><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara9665">           Creating target file</flowPara><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara9667">           Starting target</flowPara></flowRoot>    <path
        style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m -192.05652,1760.0235 5.14119,5.1474 9.95424,-9.9664"
@@ -3686,10 +3686,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 85.078312,1838.5943 67.066758,0"
-       id="path10887"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 155.93926,1825.7371 0,13.9645 8.75,-6.9823 -8.75,-6.9822 z"
+       id="rect7935-6-1-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
