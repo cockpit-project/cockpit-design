@@ -313,7 +313,8 @@
        y1="406.04684"
        x2="10.19198"
        y2="426.629"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5793103,0,0,1,34.965513,-1.8302661)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7135"
@@ -323,9 +324,9 @@
        x2="-165.77435"
        y2="2013.5463"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.82108327,0,0,0.84639006,1031.0905,-347.13108)" />
+       gradientTransform="matrix(0.82108327,0,0,0.84639006,-52.197088,122.38782)" />
     <linearGradient
-       gradientTransform="translate(-1.6467969e-6,499.9999)"
+       gradientTransform="translate(-1.6467969e-6,1159.9999)"
        inkscape:collect="always"
        xlink:href="#linearGradient8057-1-1-7-3"
        id="linearGradient8063-6-5-9-6"
@@ -347,7 +348,7 @@
          id="stop8061-0-1-6-8" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(-1.6467969e-6,499.9999)"
+       gradientTransform="translate(-1.6467969e-6,1159.9999)"
        y2="1519.3865"
        x2="255.55803"
        y1="1505.9514"
@@ -373,7 +374,7 @@
        xlink:href="#linearGradient10889-6-1-1-6"
        id="linearGradient10909-2-1-7-7"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(198.52682,0,0,1,-222.50492,1675.3789)"
+       gradientTransform="matrix(198.52682,0,0,1,-222.50492,2335.3789)"
        x1="3"
        y1="32"
        x2="3"
@@ -464,15 +465,59 @@
          id="stop8077-7" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(1.85715,1762.3571)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient8073-13"
+       id="linearGradient8079-4"
+       x1="10.19198"
+       y1="406.04684"
+       x2="10.19198"
+       y2="426.629"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5793103,0,0,1,34.965513,-1.8302661)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8073-13">
+      <stop
+         style="stop-color:#1ba6e0;stop-opacity:1;"
+         offset="0"
+         id="stop8075-5" />
+      <stop
+         style="stop-color:#1895c9;stop-opacity:1"
+         offset="1"
+         id="stop8077-13" />
+    </linearGradient>
+    <linearGradient
        y2="426.629"
        x2="10.19198"
        y1="406.04684"
        x1="10.19198"
+       gradientTransform="matrix(1.5793103,0,0,1,32.942497,2426.0833)"
        gradientUnits="userSpaceOnUse"
-       id="linearGradient9603"
-       xlink:href="#linearGradient8073-4"
+       id="linearGradient10012"
+       xlink:href="#linearGradient8073-13"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7135-5"
+       id="linearGradient7141-9"
+       x1="-162.71201"
+       y1="2013.5463"
+       x2="-165.77435"
+       y2="2013.5463"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82108327,0,0,0.84639006,1027.1151,-419.9565)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7135-5">
+      <stop
+         style="stop-color:#2e3436;stop-opacity:1;"
+         offset="0"
+         id="stop7137-2" />
+      <stop
+         style="stop-color:#2e3436;stop-opacity:0;"
+         offset="1"
+         id="stop7139-4" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -481,9 +526,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1168.1599"
-     inkscape:cy="-76.276961"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1295.8701"
+     inkscape:cy="-273.92831"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -521,7 +566,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -533,7 +578,7 @@
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect12817"
-       width="2275.6208"
+       width="3203.345"
        height="2952"
        x="-719.80707"
        y="-137.13782"
@@ -1440,12 +1485,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:url(#linearGradient8079);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.99999970000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#linearGradient8079);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.99999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7950-8-9-0-3"
-       width="145.00002"
+       width="229.00002"
        height="32"
-       x="-122.5"
-       y="399.86218"
+       x="-158.5"
+       y="398.03192"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -1455,19 +1500,19 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-75.989502,366.58792)"
+       transform="matrix(0.41472929,0,0,0.41472929,-111.98949,364.75765)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6840-2-4-6-0-68-1-7"><rect
            id="rect6842-7-3-3-1-64-1-6"
-           width="249.57965"
-           height="75.404434"
+           width="490.70078"
+           height="89.871704"
            x="-57.831234"
            y="81.013718"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7970-3-3-7">Set up Server Role</flowPara></flowRoot>    <rect
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara7970-3-3-7">Add a role or feature to this server</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7293-8"
        width="434.99286"
@@ -1810,8 +1855,8 @@
        id="rect7293-8-8"
        width="434.99286"
        height="294"
-       x="862.28265"
-       y="1222.3657"
+       x="-221.00493"
+       y="1691.8846"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1820,8 +1865,8 @@
        id="rect7252-07-4"
        width="63.243164"
        height="25"
-       x="1215.5021"
-       y="1474.8657"
+       x="132.21449"
+       y="1944.3846"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1830,8 +1875,8 @@
        id="rect7252-0-9-0"
        width="66.313705"
        height="25"
-       x="1139.469"
-       y="1474.8657"
+       x="56.181408"
+       y="1944.3846"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1840,16 +1885,16 @@
        id="rect7293-5-6-2"
        width="434.99286"
        height="44"
-       x="862.28265"
-       y="1178.3657"
+       x="-221.00493"
+       y="1647.8846"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="883.37872"
-       y="1205.0645"
+       x="-199.90886"
+       y="1674.5834"
        id="text7024-20-8-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1857,14 +1902,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7026-34-0-9"
-         x="883.37872"
-         y="1205.0645"
+         x="-199.90886"
+         y="1674.5834"
          style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Set up Server Role</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.64016736;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1233.2791"
-       y="1490.8997"
+       x="149.99147"
+       y="1960.4186"
        id="text7024-8-0-6-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1872,12 +1917,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7026-8-1-3-1"
-         x="1233.2791"
-         y="1490.8997"
+         x="149.99147"
+         y="1960.4186"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Done</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 1258.5,1196.8622 11,11"
+       d="m 175.21241,1666.3811 11,11"
        id="path8709-2-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1885,7 +1930,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 1269.5,1196.8622 -11,11"
+       d="m 186.21241,1666.3811 -11,11"
        id="path8709-4-6-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1894,8 +1939,8 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1154.0867"
-       y="1490.8997"
+       x="70.79908"
+       y="1960.4186"
        id="text7024-8-0-8-8-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1903,14 +1948,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7026-8-1-4-4-6"
-         x="1154.0867"
-         y="1490.8997"
+         x="70.79908"
+         y="1960.4186"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Cancel</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-9-3-1-8-8"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#030303;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,906.97453,1197.1882)"
+       transform="matrix(0.41472929,0,0,0.41472929,-176.31306,1666.7071)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -1934,7 +1979,7 @@
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara9667">           Starting target</flowPara></flowRoot>    <path
        style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 891.23107,1290.5046 5.14119,5.1474 9.95424,-9.9664"
+       d="m -192.05652,1760.0235 5.14119,5.1474 9.95424,-9.9664"
        id="path9170-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1942,7 +1987,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 891.23107,1324.9746 5.14119,5.1474 9.95424,-9.9663"
+       d="m -192.05652,1794.4935 5.14119,5.1474 9.95424,-9.9663"
        id="path9170-9-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -1950,7 +1995,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:none;stroke:url(#linearGradient7141);stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 893.7555,1356.2083 c 0.72725,-0.3211 1.5282,-0.4988 2.36941,-0.4988 3.32678,0 6.02367,2.78 6.02367,6.2093 0,0.5065 -0.0589,0.9989 -0.16985,1.4702"
+       d="m -189.53209,1825.7272 c 0.72725,-0.3211 1.5282,-0.4988 2.36941,-0.4988 3.32678,0 6.02367,2.78 6.02367,6.2093 0,0.5065 -0.0589,0.9989 -0.16985,1.4702"
        id="path6319-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssc"
@@ -1959,7 +2004,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 902.14857,1361.9188 c 0,3.4293 -2.69688,6.2093 -6.02366,6.2093 -3.32677,0 -6.02365,-2.78 -6.02365,-6.2093"
+       d="m -181.13902,1831.4377 c 0,3.4293 -2.69688,6.2093 -6.02366,6.2093 -3.32677,0 -6.02365,-2.78 -6.02365,-6.2093"
        id="path6319"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc"
@@ -1972,7 +2017,7 @@
        width="1199.0029"
        height="928"
        x="-216.50291"
-       y="1746.8622"
+       y="2406.8623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1982,7 +2027,7 @@
        width="1199.9347"
        height="25"
        x="-217"
-       y="1678.3622"
+       y="2338.3623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1992,7 +2037,7 @@
        width="1199.9347"
        height="3.0164661"
        x="-217"
-       y="1675.3458"
+       y="2335.3457"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2002,7 +2047,7 @@
        width="1199.9347"
        height="42.06501"
        x="-217"
-       y="1704.3622"
+       y="2364.3623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2012,7 +2057,7 @@
        width="20"
        height="3.9999993"
        x="-200.00293"
-       y="1716.3622"
+       y="2376.3623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2022,7 +2067,7 @@
        width="1199.9347"
        height="1"
        x="-217"
-       y="1703.3622"
+       y="2363.3623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2032,7 +2077,7 @@
        width="20"
        height="3.9999993"
        x="-200.00293"
-       y="1722.3622"
+       y="2382.3623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2042,7 +2087,7 @@
        width="20"
        height="3.9999993"
        x="-200.00293"
-       y="1728.3622"
+       y="2388.3623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2050,7 +2095,7 @@
        xml:space="preserve"
        id="flowRoot6838-29-0-7-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-143.91802,1679.8487)"
+       transform="matrix(0.41472929,0,0,0.41472929,-143.91802,2339.8487)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2066,7 +2111,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-0-4-3-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,28.000778,1681.3639)"
+       transform="matrix(0.41472929,0,0,0.41472929,28.000778,2341.3639)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2082,7 +2127,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-6-2-7-3-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,245.28638,1681.3639)"
+       transform="matrix(0.41472929,0,0,0.41472929,245.28638,2341.3639)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2098,7 +2143,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-6-7-5-6-7-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,353.28638,1681.3639)"
+       transform="matrix(0.41472929,0,0,0.41472929,353.28638,2341.3639)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2111,7 +2156,7 @@
            style="fill:#fffefe;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-2-6-8-9-1-0-1"
          style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffefe;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Storage</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,887.80579,1724.3485)"
+       transform="matrix(0.33209728,0,0,0.33209728,887.80579,2384.3485)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-0-3-9-0-0-5"
        xml:space="preserve"
@@ -2127,7 +2172,7 @@
            style="fill:#eeeeec" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-6-6-1-4-7-0-3">Jon Snow</flowPara></flowRoot>    <path
        style="color:#000000;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 959.03659,1690.175 4.9609,6.375 4.9608,-6.375 -9.9217,0 z"
+       d="m 959.03659,2350.175 4.9609,6.375 4.9608,-6.375 -9.9217,0 z"
        id="rect7522-4-5-3-4-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2141,14 +2186,14 @@
        sodipodi:cy="13.340287"
        sodipodi:rx="5.126524"
        sodipodi:ry="5.126524"
-       d="m 919.06201,13.340287 c 0,2.831301 -2.29522,5.126524 -5.12652,5.126524 -2.83131,0 -5.12653,-2.295223 -5.12653,-5.126524 0,-2.831301 2.29522,-5.1265238 5.12653,-5.1265238 2.8313,0 5.12652,2.2952228 5.12652,5.1265238 z"
-       transform="matrix(0.78025671,0,0,0.78025579,159.89298,1677.9536)"
+       d="m 919.06201,13.340287 a 5.126524,5.126524 0 1 1 -10.25305,0 5.126524,5.126524 0 1 1 10.25305,0 z"
+       transform="matrix(0.78025671,0,0,0.78025579,159.89298,2337.9536)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 869.96509,1692.3625 6.0645,0 c 1.6441,0 2.9678,1.3548 2.9678,3.0377 l 0,3.9623 -12,0 0,-3.9623 c 0,-1.6829 1.3236,-3.0377 2.9677,-3.0377 z"
+       d="m 869.96509,2352.3625 6.0645,0 c 1.6441,0 2.9678,1.3548 2.9678,3.0377 l 0,3.9623 -12,0 0,-3.9623 c 0,-1.6829 1.3236,-3.0377 2.9677,-3.0377 z"
        id="rect7656-2-8-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccss"
@@ -2161,7 +2206,7 @@
        width="1"
        height="25"
        x="854.99713"
-       y="1679.3622"
+       y="2339.3623"
        rx="0"
        ry="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2171,7 +2216,7 @@
        style="display:inline"
        id="g19746-6-7-2-4"
        inkscape:label="dialog-warning"
-       transform="translate(499.99728,1427.3625)"
+       transform="translate(499.99728,2087.3625)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -2190,7 +2235,7 @@
          style="color:#bebebe;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     </g>
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,820.04119,1724.3485)"
+       transform="matrix(0.33209728,0,0,0.33209728,820.04119,2384.3485)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-3-0-3-6-8-4-0-5"
        xml:space="preserve"
@@ -2210,7 +2255,7 @@
        width="1"
        height="25"
        x="786.99713"
-       y="1679.3622"
+       y="2339.3623"
        rx="0"
        ry="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2220,7 +2265,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-6-7-9-6-9-5-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,453.28638,1681.3639)"
+       transform="matrix(0.41472929,0,0,0.41472929,453.28638,2341.3639)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2236,7 +2281,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-3-7-0-1-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,136.08438,1681.6139)"
+       transform="matrix(0.41472929,0,0,0.41472929,136.08438,2341.6139)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2250,7 +2295,7 @@
          id="flowPara6844-4-2-04-1-6-8"
          style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffefe;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Journal</flowPara></flowRoot>    <path
        style="fill:none;stroke:#fffefe;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 472.46648,1723.4539 5.0382,5.0381 4.9055,-5.0823"
+       d="m 472.46648,2383.4539 5.0382,5.0381 4.9055,-5.0823"
        id="path8778-5-6-9-7-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
@@ -2261,7 +2306,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-6-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-154.49118,1752.5684)"
+       transform="matrix(0.41472929,0,0,0.41472929,-154.49118,2412.5684)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2297,7 +2342,7 @@
        width="69"
        height="22"
        x="-65.500015"
-       y="1955.8623"
+       y="2615.8623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2307,7 +2352,7 @@
        width="104"
        height="21.999998"
        x="-65.500015"
-       y="2002.8623"
+       y="2662.8623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2315,7 +2360,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-40.242432,1750.1707)"
+       transform="matrix(0.41472929,0,0,0.41472929,-40.242432,2410.1707)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2349,7 +2394,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-1-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,212.92327,1744.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,212.92327,2404.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2365,7 +2410,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-9-8-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,872.42329,1744.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,872.42329,2404.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2381,7 +2426,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-5-4-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,212.92327,1928.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,212.92327,2588.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2397,7 +2442,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-5-0-6-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,212.92327,2122.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,212.92327,2782.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2413,7 +2458,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-5-0-1-4-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,210.92327,2312.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,210.92327,2972.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2429,7 +2474,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-5-2-9-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,835.92329,1928.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,835.92329,2588.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2445,7 +2490,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-5-0-8-5-8"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,873.84359,2122.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,873.84359,2782.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2461,7 +2506,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-7-5-0-1-3-0-0"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,846.27869,2312.3246)"
+       transform="matrix(0.41472929,0,0,0.41472929,846.27869,2972.3246)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2479,13 +2524,13 @@
        width="681.98212"
        height="119.01783"
        x="190.5179"
-       y="2382.8621"
+       y="3042.8621"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.50002,2412.8622 681.69057,0"
+       d="m 190.50002,3072.8622 681.69057,0"
        id="path8848-2-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2493,7 +2538,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,2442.8622 681.69049,0"
+       d="m 190.5,3102.8622 681.69049,0"
        id="path8848-8-4-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2501,7 +2546,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,2471.8801 681.69049,0"
+       d="m 190.5,3131.8801 681.69049,0"
        id="path8848-8-2-88-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2509,7 +2554,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 285.51789,2383.0833 0,118.793"
+       d="m 285.51789,3043.0833 0,118.793"
        id="path8886-35-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2517,7 +2562,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 379.51789,2383.0833 0,118.793"
+       d="m 379.51789,3043.0833 0,118.793"
        id="path8886-4-90-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2525,7 +2570,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 473.51789,2383.0833 0,118.793"
+       d="m 473.51789,3043.0833 0,118.793"
        id="path8886-1-16-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2533,7 +2578,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 567.51789,2383.0833 0,118.793"
+       d="m 567.51789,3043.0833 0,118.793"
        id="path8886-4-3-6-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2541,7 +2586,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 662.51789,2383.0833 0,118.793"
+       d="m 662.51789,3043.0833 0,118.793"
        id="path8886-4-3-9-66-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2549,7 +2594,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755.5,2383.0833 0,118.793"
+       d="m 755.5,3043.0833 0,118.793"
        id="path8886-4-3-9-2-3-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2557,7 +2602,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:0.69387758;fill:#3cafff;fill-opacity:1;stroke:none"
-       d="m 191,2439.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
+       d="m 191,3099.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
        id="path13600-4-9-1-3-1-5-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2569,13 +2614,13 @@
        width="681.98212"
        height="119.01783"
        x="190.5179"
-       y="2182.8623"
+       y="2842.8623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.50002,2212.8622 681.69057,0"
+       d="m 190.50002,2872.8622 681.69057,0"
        id="path8848-9-3-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2583,7 +2628,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,2242.8622 681.69049,0"
+       d="m 190.5,2902.8622 681.69049,0"
        id="path8848-8-0-4-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2591,7 +2636,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,2271.8801 681.69049,0"
+       d="m 190.5,2931.8801 681.69049,0"
        id="path8848-8-2-7-1-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2599,7 +2644,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 285.51789,2183.0833 0,118.793"
+       d="m 285.51789,2843.0833 0,118.793"
        id="path8886-9-9-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2607,7 +2652,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 379.51789,2183.0833 0,118.793"
+       d="m 379.51789,2843.0833 0,118.793"
        id="path8886-4-9-9-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2615,7 +2660,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 473.51789,2183.0833 0,118.793"
+       d="m 473.51789,2843.0833 0,118.793"
        id="path8886-1-1-6-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2623,7 +2668,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 567.51789,2183.0833 0,118.793"
+       d="m 567.51789,2843.0833 0,118.793"
        id="path8886-4-3-8-1-3"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2631,7 +2676,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 662.51789,2183.0833 0,118.793"
+       d="m 662.51789,2843.0833 0,118.793"
        id="path8886-4-3-9-8-3-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2639,7 +2684,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755.5,2183.0833 0,118.793"
+       d="m 755.5,2843.0833 0,118.793"
        id="path8886-4-3-9-2-6-4-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2647,7 +2692,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:0.69387758;fill:#3cafff;fill-opacity:1;stroke:none"
-       d="m 191,2239.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
+       d="m 191,2899.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
        id="path13600-4-9-1-3-1-8-3-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2659,13 +2704,13 @@
        width="681.98212"
        height="119.01783"
        x="190.5179"
-       y="1990.8623"
+       y="2650.8623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.50002,2020.8622 681.69057,0"
+       d="m 190.50002,2680.8622 681.69057,0"
        id="path8848-6-9-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2673,7 +2718,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,2050.8622 681.69049,0"
+       d="m 190.5,2710.8622 681.69049,0"
        id="path8848-8-20-2-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2681,7 +2726,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,2079.8801 681.69049,0"
+       d="m 190.5,2739.8801 681.69049,0"
        id="path8848-8-2-8-9-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2689,7 +2734,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 285.51789,1991.0833 0,118.793"
+       d="m 285.51789,2651.0833 0,118.793"
        id="path8886-3-5-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2697,7 +2742,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 379.51789,1991.0833 0,118.793"
+       d="m 379.51789,2651.0833 0,118.793"
        id="path8886-4-5-4-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2705,7 +2750,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 473.51789,1991.0833 0,118.793"
+       d="m 473.51789,2651.0833 0,118.793"
        id="path8886-1-18-6-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2713,7 +2758,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 567.51789,1991.0833 0,118.793"
+       d="m 567.51789,2651.0833 0,118.793"
        id="path8886-4-3-3-3-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2721,7 +2766,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 662.51789,1991.0833 0,118.793"
+       d="m 662.51789,2651.0833 0,118.793"
        id="path8886-4-3-9-6-5-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2729,7 +2774,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755.5,1991.0833 0,118.793"
+       d="m 755.5,2651.0833 0,118.793"
        id="path8886-4-3-9-2-7-9-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2737,7 +2782,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:0.69387758;fill:#3cafff;fill-opacity:1;stroke:none"
-       d="m 191,2047.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
+       d="m 191,2707.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
        id="path13600-4-9-1-3-1-2-8-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2749,13 +2794,13 @@
        width="681.98212"
        height="119.01783"
        x="190.5179"
-       y="1802.8622"
+       y="2462.8623"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.50002,1832.8622 681.69057,0"
+       d="m 190.50002,2492.8622 681.69057,0"
        id="path8848-5-1-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2763,7 +2808,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,1862.8622 681.69049,0"
+       d="m 190.5,2522.8622 681.69049,0"
        id="path8848-8-3-2-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2771,7 +2816,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,1891.8801 681.69049,0"
+       d="m 190.5,2551.8801 681.69049,0"
        id="path8848-8-2-3-2-3"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2779,7 +2824,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 285.51789,1803.0833 0,118.793"
+       d="m 285.51789,2463.0833 0,118.793"
        id="path8886-94-0-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2787,7 +2832,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 379.51789,1803.0833 0,118.793"
+       d="m 379.51789,2463.0833 0,118.793"
        id="path8886-4-1-0-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2795,7 +2840,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 473.51789,1803.0833 0,118.793"
+       d="m 473.51789,2463.0833 0,118.793"
        id="path8886-1-8-1-3"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2803,7 +2848,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 567.51789,1803.0833 0,118.793"
+       d="m 567.51789,2463.0833 0,118.793"
        id="path8886-4-3-7-3-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2811,7 +2856,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 662.51789,1803.0833 0,118.793"
+       d="m 662.51789,2463.0833 0,118.793"
        id="path8886-4-3-9-0-5-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2819,7 +2864,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#c7c7c7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 755.5,1803.0833 0,118.793"
+       d="m 755.5,2463.0833 0,118.793"
        id="path8886-4-3-9-2-0-5-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2827,7 +2872,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:0.69387758;fill:#3cafff;fill-opacity:1;stroke:none"
-       d="m 191,1859.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
+       d="m 191,2519.395 196.00544,24.7869 242.49721,-8.2623 106.71991,-17.5574 135.77743,19.6229 0,43.3771 -680.99999,0 z"
        id="path13600-4-9-1-3-1-6-6-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2839,7 +2884,7 @@
        width="280"
        height="90.000122"
        x="-180.5"
-       y="2053.8621"
+       y="2713.8621"
        rx="3.767767"
        ry="3.7677672"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2849,7 +2894,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-7-5"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-143.05321,2023.6615)"
+       transform="matrix(0.41472929,0,0,0.41472929,-143.05321,2683.6615)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2877,7 +2922,7 @@
    style="fill:#3465a4"
    id="flowSpan7857">service4</flowSpan></flowPara></flowRoot>    <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -72.39285,2101.7193 137,0"
+       d="m -72.39285,2761.7193 137,0"
        id="path7859"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2885,7 +2930,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -166.73434,2125.7193 43.43297,0"
+       d="m -166.73434,2785.7193 43.43297,0"
        id="path7859-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2893,7 +2938,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -114.73434,2125.7193 43.43297,0"
+       d="m -114.73434,2785.7193 43.43297,0"
        id="path7859-5-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2901,7 +2946,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -64.73434,2125.7193 43.43297,0"
+       d="m -64.73434,2785.7193 43.43297,0"
        id="path7859-5-5-3"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2909,7 +2954,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -12.73434,2125.7193 43.43297,0"
+       d="m -12.73434,2785.7193 43.43297,0"
        id="path7859-5-5-3-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2969,7 +3014,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
-       d="m 415.2259,1644.5444 0,-59.397 1006.7048,0 0,-257.3868 -119.4092,0"
+       d="m -44.7741,1624.5444 0,-59.397 1471.3995,0 0,-257.3868 -119.4092,0"
        id="path7933-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -2978,7 +3023,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 423.76061,1643.7049 -17.5,0 8.75,8.75 8.75,-8.75 z"
+       d="m -36.23939,1623.7049 -17.5,0 8.75,8.75 8.75,-8.75 z"
        id="rect7935-6-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -2990,7 +3035,7 @@
        width="280"
        height="90.000122"
        x="-563.5"
-       y="2057.8621"
+       y="2717.8621"
        rx="3.767767"
        ry="3.7677672"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3000,7 +3045,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-7-5-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-499.55321,2027.6615)"
+       transform="matrix(0.41472929,0,0,0.41472929,-499.55321,2687.6615)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -3028,7 +3073,7 @@
    style="fill:#3465a4"
    id="flowSpan7857-1">service4</flowSpan></flowPara></flowRoot>    <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -428.89285,2105.7193 137,0"
+       d="m -428.89285,2765.7193 137,0"
        id="path7859-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3036,7 +3081,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -523.23434,2129.7193 43.43297,0"
+       d="m -523.23434,2789.7193 43.43297,0"
        id="path7859-5-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3044,7 +3089,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -471.23434,2129.7193 43.43297,0"
+       d="m -471.23434,2789.7193 43.43297,0"
        id="path7859-5-5-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3052,7 +3097,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -421.23434,2129.7193 43.43297,0"
+       d="m -421.23434,2789.7193 43.43297,0"
        id="path7859-5-5-3-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3060,7 +3105,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -369.23434,2129.7193 43.43297,0"
+       d="m -369.23434,2789.7193 43.43297,0"
        id="path7859-5-5-3-5-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3068,7 +3113,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -541.42548,2072.7496 c -0.66215,0 -1.32316,0.4402 -1.83052,1.3184 l -9.55456,16.546 c -0.61079,1.0568 -1.49833,2.8311 -0.69567,3.831 l 1.26364,1.5742 21.59213,0 1.2957,-1.5625 c 0.81793,-0.9862 -0.11769,-2.7828 -0.73031,-3.8427 l -9.50987,-16.546 c -0.50736,-0.8782 -1.16837,-1.3184 -1.83054,-1.3184 z"
+       d="m -541.42548,2732.7496 c -0.66215,0 -1.32316,0.4402 -1.83052,1.3184 l -9.55456,16.546 c -0.61079,1.0568 -1.49833,2.8311 -0.69567,3.831 l 1.26364,1.5742 21.59213,0 1.2957,-1.5625 c 0.81793,-0.9862 -0.11769,-2.7828 -0.73031,-3.8427 l -9.50987,-16.546 c -0.50736,-0.8782 -1.16837,-1.3184 -1.83054,-1.3184 z"
        id="rect7286-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccsccsccs"
@@ -3081,7 +3126,7 @@
        width="3.0989537"
        height="7.747385"
        x="-542.97986"
-       y="-2088.2717"
+       y="-2748.2717"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
@@ -3092,7 +3137,7 @@
        width="3.0989537"
        height="3.098954"
        x="-542.97986"
-       y="-2092.9202"
+       y="-2752.9202"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
@@ -3101,7 +3146,7 @@
        xml:space="preserve"
        style="font-size:12.48770905px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-572.36267"
-       y="2006.8082"
+       y="2666.8081"
        id="text9578"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3110,76 +3155,22 @@
          sodipodi:role="line"
          id="tspan9580"
          x="-572.36267"
-         y="2006.8082">error state</tspan></text>
+         y="2666.8081">error state</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -540.99775,2011.1792 0,51.9723"
+       d="m -540.99775,2671.1792 0,51.9723"
        id="path9582"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;fill:url(#linearGradient9603);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect7950-8-9-0-3-1"
-       width="145.00002"
-       height="32"
-       x="-120.64285"
-       y="2162.2192"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       rx="2"
-       ry="2" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-1-1-6-7-7-5-7"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-74.132355,2128.9451)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6840-2-4-6-0-68-1-7-8"><rect
-           id="rect6842-7-3-3-1-64-1-6-1"
-           width="249.57965"
-           height="75.404434"
-           x="-57.831234"
-           y="81.013718"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7970-3-3-7-8">Set up Server Role</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -57.14285,2206.2332 0,51.9723 -418,0"
-       id="path9582-3"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-size:12.48770905px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-635.10602"
-       y="2256.5151"
-       id="text9578-8"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan9580-0"
-         x="-635.10602"
-         y="2256.5151">should it be possible</tspan><tspan
-         sodipodi:role="line"
-         x="-635.10602"
-         y="2272.1248"
-         id="tspan9669">to install several roles?</tspan></text>
-    <rect
-       style="color:#000000;fill:#efefef;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1"
+       style="color:#000000;fill:#efefef;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect9671"
        width="19.000002"
        height="19.000122"
        x="73.5"
-       y="2059.8621"
+       y="2719.8621"
        rx="2.1875"
        ry="2.1875"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3187,7 +3178,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 77.96875,2066.3309 5.002597,6.0313 5.028653,-6.0313 -10.03125,0 z"
+       d="m 77.96875,2726.3309 5.002597,6.0313 5.028653,-6.0313 -10.03125,0 z"
        id="rect9673"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3199,7 +3190,7 @@
        width="19.000002"
        height="19.000122"
        x="-310.5"
-       y="2063.8621"
+       y="2723.8621"
        rx="2.1875"
        ry="2.1875"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3207,7 +3198,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -306.03125,2070.3309 5.0026,6.0313 5.02865,-6.0313 -10.03125,0 z"
+       d="m -306.03125,2730.3309 5.0026,6.0313 5.02865,-6.0313 -10.03125,0 z"
        id="rect9673-2"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3215,7 +3206,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="color:#000000;fill:#efefef;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -302.16014,2086.2934 -8.56415,8.564 -37.77571,0 0,29.6096 88.99594,0 0,-29.6096 -34.09192,0 z"
+       d="m -302.16014,2746.2934 -8.56415,8.564 -37.77571,0 0,29.6096 88.99594,0 0,-29.6096 -34.09192,0 z"
        id="rect9699"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc"
@@ -3226,7 +3217,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-7-5-6-6"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-317.9708,2061.3086)"
+       transform="matrix(0.41472929,0,0,0.41472929,-317.9708,2721.3086)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -3246,7 +3237,7 @@
        xml:space="preserve"
        style="font-size:12.48770905px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-349.10602"
-       y="1974.1818"
+       y="2634.1816"
        id="text9578-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3255,14 +3246,14 @@
          sodipodi:role="line"
          id="tspan9580-9"
          x="-349.10602"
-         y="1974.1818">kind of ugly if</tspan><tspan
+         y="2634.1816">kind of ugly if</tspan><tspan
          sodipodi:role="line"
          x="-349.10602"
-         y="1989.7914"
+         y="2649.7913"
          id="tspan9790">only one action</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -302.7411,1997.5528 0,51.9723"
+       d="m -302.7411,2657.5528 0,51.9723"
        id="path9582-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
@@ -3292,5 +3283,363 @@
            y="81.013718"
            style="line-height:200%;fill:#030303;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara9226-57">additional settings</flowPara></flowRoot>  </g>
+         id="flowPara9226-57">additional settings</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:url(#linearGradient10012);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.99999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7950-8-9-0-3-6"
+       width="229.00002"
+       height="32"
+       x="-160.52301"
+       y="2825.9453"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="2"
+       ry="2" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-5-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.41472929,0,0,0.41472929,-114.0125,2792.6713)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-7-6"><rect
+           id="rect6842-7-3-3-1-64-1-6-9"
+           width="490.70078"
+           height="89.871704"
+           x="-57.831234"
+           y="81.013718"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara7970-3-3-7-2">Add a role or feature to this server</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7293-8-8-7"
+       width="434.99286"
+       height="294"
+       x="858.30725"
+       y="1219.5403"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.64016736;color:#000000;fill:#1896ca;fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7252-07-4-6"
+       width="63.243164"
+       height="25"
+       x="1211.5266"
+       y="1472.0403"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f3f3f3;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7252-0-9-0-9"
+       width="66.313705"
+       height="25"
+       x="1135.4937"
+       y="1472.0403"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7293-5-6-2-0"
+       width="434.99286"
+       height="44"
+       x="858.30725"
+       y="1175.5403"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="879.40332"
+       y="1202.2391"
+       id="text7024-20-8-2-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7026-34-0-9-9"
+         x="879.40332"
+         y="1202.2391"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Set up Server Role</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.64016736;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1229.3037"
+       y="1488.0743"
+       id="text7024-8-0-6-6-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7026-8-1-3-1-8"
+         x="1229.3037"
+         y="1488.0743"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Done</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1254.5246,1194.0368 11,11"
+       id="path8709-2-4-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1265.5246,1194.0368 -11,11"
+       id="path8709-4-6-7-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1150.1113"
+       y="1488.0743"
+       id="text7024-8-0-8-8-1-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7026-8-1-4-4-6-8"
+         x="1150.1113"
+         y="1488.0743"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Cancel</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-9-3-1-8-8-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#030303;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.41472929,0,0,0.41472929,902.99917,1194.3628)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-6-8-9-3-5-3"><rect
+           id="rect6842-7-3-3-1-64-1-5-8-2-4-8-5"
+           width="634.43347"
+           height="548.61633"
+           x="-57.831234"
+           y="81.013718"
+           style="text-align:start;text-anchor:start;fill:#030303;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara9226-2-4">Strarting up domain controller</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9659-9">           Installing packages</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9661-9">           Opening up ports in the firewall</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9663-9">           Deploying services</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9665-4">           Creating target file</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9667-0">           Starting target</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:url(#linearGradient7141-9);stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 889.78017,1283.3829 c 0.7272,-0.3211 1.5282,-0.4988 2.3694,-0.4988 3.3268,0 6.0236,2.78 6.0236,6.2093 0,0.5065 -0.059,0.9989 -0.1698,1.4702"
+       id="path6319-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 898.17317,1289.0934 c 0,3.4293 -2.6968,6.2093 -6.0236,6.2093 -3.3268,0 -6.0237,-2.78 -6.0237,-6.2093"
+       id="path6319-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9973-2"
+       width="240.47061"
+       height="8.0318613"
+       x="1034.3818"
+       y="1284.3622"
+       rx="0"
+       ry="0" />
+    <rect
+       style="color:#000000;fill:#1896ca;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9973-3-5"
+       width="155.61816"
+       height="8.0318613"
+       x="1034.3818"
+       y="1284.3622"
+       rx="0"
+       ry="0" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7293-8-8-6"
+       width="434.99286"
+       height="294"
+       x="318.99506"
+       y="1691.8846"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;color:#000000;fill:#1896ca;fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7252-07-4-66"
+       width="63.243164"
+       height="25"
+       x="672.21448"
+       y="1944.3846"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f3f3f3;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7252-0-9-0-8"
+       width="66.313705"
+       height="25"
+       x="596.1814"
+       y="1944.3846"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7293-5-6-2-3"
+       width="434.99286"
+       height="44"
+       x="318.99506"
+       y="1647.8846"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="340.09113"
+       y="1674.5834"
+       id="text7024-20-8-2-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7026-34-0-9-1"
+         x="340.09113"
+         y="1674.5834"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Set up Server Role</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="689.99146"
+       y="1960.4186"
+       id="text7024-8-0-6-6-18"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7026-8-1-3-1-0"
+         x="689.99146"
+         y="1960.4186"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans">Done</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 715.21241,1666.3811 11,11"
+       id="path8709-2-4-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 726.21241,1666.3811 -11,11"
+       id="path8709-4-6-7-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="610.79907"
+       y="1960.4186"
+       id="text7024-8-0-8-8-1-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7026-8-1-4-4-6-4"
+         x="610.79907"
+         y="1960.4186"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Cancel</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-9-3-1-8-8-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#030303;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.41472929,0,0,0.41472929,363.68694,1666.7071)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-6-8-9-3-5-7"><rect
+           id="rect6842-7-3-3-1-64-1-5-8-2-4-8-3"
+           width="634.43347"
+           height="548.61633"
+           x="-57.831234"
+           y="81.013718"
+           style="text-align:start;text-anchor:start;fill:#030303;fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+         id="flowPara9226-2-46">Strarting up domain controller</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9659-0">           Installing packages</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9661-6">           Opening up ports in the firewall</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9663-94">           Deploying services</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9665-9">           Creating target file</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:300%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara9667-3">           Starting target</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 347.94348,1760.0235 5.14119,5.1474 9.95424,-9.9664"
+       id="path9170-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 347.94348,1794.4935 5.14119,5.1474 9.95424,-9.9663"
+       id="path9170-9-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 347.94348,1832.0235 5.14119,5.1474 9.95424,-9.9664"
+       id="path9170-9-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 347.94348,1866.4935 5.14119,5.1474 9.95424,-9.9663"
+       id="path9170-9-2-4-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 347.94348,1902.4935 5.14119,5.1474 9.95424,-9.9663"
+       id="path9170-9-2-4-2-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/roles/roles.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
 </svg>
