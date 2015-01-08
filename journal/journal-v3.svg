@@ -20,6 +20,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient18658">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop18660" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop18662" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient11528">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -353,6 +365,16 @@
        id="linearGradient8006"
        xlink:href="#linearGradient8049-1-5-1-0"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18658"
+       id="linearGradient18664"
+       x1="1163.5442"
+       y1="88.716133"
+       x2="1168.4055"
+       y2="83.854774"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71514418,0,0,0.71500024,114.03094,45.149424)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -361,9 +383,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="731.52765"
-     inkscape:cy="281.73136"
+     inkscape:zoom="0.25"
+     inkscape:cx="-430.3306"
+     inkscape:cy="1233.0239"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -401,7 +423,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -887,23 +909,7 @@
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara6465">12:08</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-         id="flowPara12344">12:07</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-3-3-9-2-1-9"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,-163.15335,-235.65825)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6840-2-9-5-9-7-8-2"><rect
-           id="rect6842-7-8-2-1-0-0-3"
-           width="142.85101"
-           height="64.829239"
-           x="-57.831234"
-           y="81.013718"
-           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara10546-5-5">July 3</flowPara></flowRoot>    <rect
+         id="flowPara12344">12:07</flowPara></flowRoot>    <rect
        style="color:#000000;fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect16617-3-8-48-5"
        width="1154"
@@ -1249,34 +1255,6 @@
          id="flowPara7682">Kernel</flowPara><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:250%;fill:#2e3436;fill-opacity:1;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
          id="flowPara12414">Kernel</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:url(#linearGradient11397);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect7950-1-7-5"
-       width="106.94112"
-       height="26.96875"
-       x="-82.500008"
-       y="-201.10658"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       rx="1.281631"
-       ry="1.2816308" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-1-1-6-7-3-0"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,-48.01679,-238.04599)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6840-2-4-6-0-68-9-2"><rect
-           id="rect6842-7-3-3-1-64-5-6"
-           width="223.8457"
-           height="67.137596"
-           x="-57.831234"
-           y="81.013718"
-           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7970-3-7-6">Today</flowPara></flowRoot>    <rect
        style="color:#000000;fill:url(#linearGradient11443);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7950-1-7-5-4"
        width="198.00844"
@@ -1308,15 +1286,6 @@
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 244.54788,111.89697 4.02485,3.96521 3.91885,-4"
        id="path8778-5-6-9-7-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 7.5563002,-189.09433 4.0248598,4.95651 3.91884,-5"
-       id="path8778-5-6-9-7-3-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
@@ -1393,22 +1362,6 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-1-1-6-7-3-0-9"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.43877157,0,0,0.43950533,-107.59827,-238.04599)"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6840-2-4-6-0-68-9-2-67"><rect
-           id="rect6842-7-3-3-1-64-5-6-0"
-           width="103.62369"
-           height="69.412872"
-           x="-57.831234"
-           y="81.013718"
-           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#030303;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7970-3-7-6-6">Interval:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-3-0-9-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2104,7 +2057,7 @@
        xml:space="preserve"
        id="flowRoot6838-2-0-4-3-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.41472929,0,0,0.41472929,1055.0324,41.73992)"
+       transform="matrix(0.41472929,0,0,0.41472929,1055.0324,56.942716)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -2116,7 +2069,7 @@
            y="81.013718"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-1-1-6-7"
-         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Blinking dot indicates that new journal messages are coming</flowPara></flowRoot>    <flowRoot
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Spinner when new messages are loading</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-0-4-3-1-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2399,19 +2352,6 @@
        height="114.00429"
        x="62.499992"
        y="125.86217"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path6499"
-       sodipodi:cx="35.178562"
-       sodipodi:cy="92.605217"
-       sodipodi:rx="4.5961943"
-       sodipodi:ry="4.5961943"
-       d="m 39.774756,92.605217 c 0,2.538408 -2.057786,4.596194 -4.596194,4.596194 -2.538408,0 -4.596194,-2.057786 -4.596194,-4.596194 0,-2.538408 2.057786,-4.596194 4.596194,-4.596194 2.538408,0 4.596194,2.057786 4.596194,4.596194 z"
-       transform="matrix(0.97907112,0,0,0.97907112,920.05769,21.19509)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3632,5 +3572,17 @@
            y="81.013718"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7915-2-9-8-4">error</flowPara></flowRoot>  </g>
+         id="flowPara7915-2-9-8-4">error</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3.99999976;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 957.99156,111.36218 c 0,3.83934 -3.11302,6.95175 -6.95312,6.95175 -3.84012,0 -6.95314,-3.11241 -6.95314,-6.95175"
+       id="path17860-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="color:#000000;fill:none;stroke:url(#linearGradient18664);stroke-width:3.99999976;stroke-miterlimit:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 944.26906,112.89054 c -0.12915,-0.4833 -0.20596,-0.99375 -0.2222,-1.52836 0,-3.83934 3.11302,-6.95175 6.95314,-6.95175"
+       id="path17860"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
 </svg>
