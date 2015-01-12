@@ -862,8 +862,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="448.67052"
-     inkscape:cy="401.99491"
+     inkscape:cx="980.4117"
+     inkscape:cy="-97.671796"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -901,7 +901,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4326,7 +4326,10 @@
          style="font-size:28.93453789000000143px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#cc0000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          id="flowPara7970-3-7-6-6-8-2-4-6-3">urror</flowPara></flowRoot>    <g
        id="g7800"
-       transform="translate(84.852814,0)">
+       transform="translate(84.852814,0)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-search.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          transform="matrix(2.5899578,0,0,2.5899567,-2140.2348,399.88537)"
          inkscape:export-ydpi="90"
@@ -4367,7 +4370,10 @@
            style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#888a85;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">No results for 'urror'</flowPara></flowRoot>    </g>
     <g
        id="g7800-2"
-       transform="translate(84.852818,740)">
+       transform="translate(84.852818,740)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-search.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          transform="matrix(2.5899578,0,0,2.5899567,-2140.2348,399.88537)"
          inkscape:export-ydpi="90"
@@ -4424,11 +4430,13 @@
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion6840-2-4-6-0-68-9-2-05-09-0-0-7"><rect
            id="rect6842-7-3-3-1-64-5-6-91-1-8-4-6"
-           width="2687.7476"
-           height="71.6604"
+           width="2684.5244"
+           height="129.57971"
            x="-57.831234"
            y="81.013718"
            style="fill:#3465a4;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-         id="flowPara7970-3-7-6-91-5-6-6-0">If an invalid date is inputted the label goes red and an error message shows up. The date field remains unchanged.</flowPara></flowRoot>  </g>
+         id="flowPara7970-3-7-6-91-5-6-6-0">If an invalid date is inputted the label goes red and an error message shows up. The date field remains unchanged.</flowPara><flowPara
+         style="font-size:28.93453789px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#3465a4;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         id="flowPara7935">Open question is if it should try to get back 2014-05-12 in the search input somehow at this point. Probably OK if not.</flowPara></flowRoot>  </g>
 </svg>
