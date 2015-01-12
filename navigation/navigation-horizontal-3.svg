@@ -403,9 +403,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="318.62401"
-     inkscape:cy="491.72234"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-97.145336"
+     inkscape:cy="1051.0545"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -443,7 +443,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -617,7 +617,7 @@
        sodipodi:cy="13.340287"
        sodipodi:rx="5.126524"
        sodipodi:ry="5.126524"
-       d="m 919.06201,13.340287 a 5.126524,5.126524 0 1 1 -10.25305,0 5.126524,5.126524 0 1 1 10.25305,0 z"
+       d="m 919.06201,13.340287 c 0,2.831301 -2.29522,5.126524 -5.12652,5.126524 -2.83131,0 -5.12653,-2.295223 -5.12653,-5.126524 0,-2.831301 2.29522,-5.1265238 5.12653,-5.1265238 2.8313,0 5.12652,2.2952228 5.12652,5.1265238 z"
        transform="matrix(0.78025671,0,0,0.78025579,159.89583,1097.9533)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
        inkscape:export-xdpi="90"
@@ -855,7 +855,7 @@
        sodipodi:cy="13.340287"
        sodipodi:rx="5.126524"
        sodipodi:ry="5.126524"
-       d="m 919.06201,13.340287 a 5.126524,5.126524 0 1 1 -10.25305,0 5.126524,5.126524 0 1 1 10.25305,0 z"
+       d="m 919.06201,13.340287 c 0,2.831301 -2.29522,5.126524 -5.12652,5.126524 -2.83131,0 -5.12653,-2.295223 -5.12653,-5.126524 0,-2.831301 2.29522,-5.1265238 5.12653,-5.1265238 2.8313,0 5.12652,2.2952228 5.12652,5.1265238 z"
        transform="matrix(0.78025671,0,0,0.78025579,159.91227,17.9699)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
        inkscape:export-xdpi="90"
@@ -1132,14 +1132,7 @@
          style="font-size:33.75695801px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
          id="flowPara16605-5-5-8-0-7-6-9">Cockpit</flowPara><flowPara
          style="font-size:33.75695801px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
-         id="flowPara16599-5-2-3-1-8-7-3" /></flowRoot>    <image
-       y="-1289.6898"
-       x="1781.9717"
-       id="image9977"
-       xlink:href="file:///home/andreasn/Pictures/Screenshot%20from%202014-10-28%2012:31:47.png"
-       height="1080"
-       width="1920" />
-    <rect
+         id="flowPara16599-5-2-3-1-8-7-3" /></flowRoot>    <rect
        style="color:#000000;fill:url(#linearGradient6760);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7950-1"
        width="69"
