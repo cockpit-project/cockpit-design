@@ -275,9 +275,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1555.8935"
-     inkscape:cy="-168.07782"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="737.33954"
+     inkscape:cy="-240.82694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1128,7 +1128,7 @@
            y="81.013718"
            style="fill:#fffefe;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-6-14"
-         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffefe;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Dashboard</flowPara></flowRoot>    <flowRoot
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffefe;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Dashboard?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-3-8-4-9"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1240,5 +1240,80 @@
            y="81.013718"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-2-5-9-2-4-3-0-8-6-4"
-         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Terminal</flowPara></flowRoot>  </g>
+         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Terminal</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#75507b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 637,12 0,-51"
+       id="path7902"
+       inkscape:connector-curvature="0"
+       transform="translate(-217.14285,15.219323)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.04680634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="397.13043"
+       y="-32.750374"
+       id="text7904"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7906"
+         x="397.13043"
+         y="-32.750374">gluster</tspan></text>
+    <path
+       style="fill:none;stroke:#75507b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.85715,27.219335 0,-51"
+       id="path7902-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.04680634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="242.13342"
+       y="-48.306713"
+       id="text7904-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7906-0"
+         x="242.13342"
+         y="-48.306713"
+         style="text-align:center;text-anchor:middle">aggregated</tspan><tspan
+         sodipodi:role="line"
+         x="242.13342"
+         y="-31.998203"
+         id="tspan7932"
+         style="text-align:center;text-anchor:middle">systemd journals</tspan></text>
+    <path
+       style="fill:none;stroke:#75507b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 319.85715,27.21929 0,-24.500004"
+       id="path7902-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.04680634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="322.13342"
+       y="-5.8067627"
+       id="text7904-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="322.13342"
+         y="-5.8067627"
+         id="tspan7932-6"
+         style="text-align:center;text-anchor:middle">flannel</tspan></text>
+    <path
+       style="fill:none;stroke:#75507b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.85715,27.219291 0,-24.5000039"
+       id="path7902-2-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.04680634px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="148.13342"
+       y="-5.8067622"
+       id="text7904-7-4-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="148.13342"
+         y="-5.8067622"
+         id="tspan7932-6-3"
+         style="text-align:center;text-anchor:middle">kubernetes</tspan></text>
+  </g>
 </svg>
