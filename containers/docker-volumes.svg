@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="docker-volumes.svg">
   <defs
      id="defs4">
@@ -610,16 +610,6 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(3.068455,0,0,0.92592595,-3016.7351,-472.1737)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient10157"
-       xlink:href="#linearGradient8076-9-0-01-0-2-6"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
        gradientTransform="matrix(3.0833361,0,0,0.92592595,-2629.2307,-412.4453)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient10157-8"
@@ -1129,6 +1119,36 @@
        id="linearGradient8789"
        xlink:href="#linearGradient8076-9-0-2-8-8"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.59523814,0,0,0.9259259,43.678593,-392.19544)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8334-0-2-5"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(2.6190505,0,0,0.92592595,-2632.7144,-391.92394)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient10434-9"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9-4-70"
+       id="linearGradient15645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59523814,0,0,0.9259259,-282.32142,-548.19546)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1137,14 +1157,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="374.33307"
-     inkscape:cy="253.2983"
+     inkscape:zoom="1"
+     inkscape:cx="614.1129"
+     inkscape:cy="313.87702"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -1177,7 +1197,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1187,12 +1207,12 @@
      id="layer1"
      transform="translate(217.14285,-15.219323)">
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect18273-1"
        width="1051"
        height="1553.3776"
-       x="-216.48352"
-       y="-23.121338"
+       x="-216.54602"
+       y="-23.058838"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1450,7 +1470,7 @@
        sodipodi:cy="934.84375"
        sodipodi:rx="8.40625"
        sodipodi:ry="8.40625"
-       d="m 1110.1875,934.84375 c 0,4.64264 -3.7636,8.40625 -8.4062,8.40625 -4.6427,0 -8.4063,-3.76361 -8.4063,-8.40625 0,-4.64264 3.7636,-8.40625 8.4063,-8.40625 4.6426,0 8.4062,3.76361 8.4062,8.40625 z"
+       d="m 1110.1875,934.84375 a 8.40625,8.40625 0 0 1 -8.4062,8.40625 8.40625,8.40625 0 0 1 -8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4062,8.40625 z"
        transform="matrix(1.0111524,0,0,1.0111524,-924.0688,-667.90732)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
@@ -1463,7 +1483,7 @@
        sodipodi:cy="934.84375"
        sodipodi:rx="8.40625"
        sodipodi:ry="8.40625"
-       d="m 1110.1875,934.84375 c 0,4.64264 -3.7636,8.40625 -8.4062,8.40625 -4.6427,0 -8.4063,-3.76361 -8.4063,-8.40625 0,-4.64264 3.7636,-8.40625 8.4063,-8.40625 4.6426,0 8.4062,3.76361 8.4062,8.40625 z"
+       d="m 1110.1875,934.84375 a 8.40625,8.40625 0 0 1 -8.4062,8.40625 8.40625,8.40625 0 0 1 -8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4062,8.40625 z"
        transform="matrix(1.0111524,0,0,1.0111524,-986.0688,-700.90733)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
@@ -1636,7 +1656,7 @@
            style="text-align:center;line-height:100%;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
          style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara6934-2-4-4-4-72-5-4">container volume</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:url(#linearGradient10157);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8074-5-2-0-2-3-0"
        width="128.87512"
        height="25"
@@ -1645,18 +1665,9 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 498.148,598.91884 4.0515,3.9652 3.9449,-4"
-       id="path8778-5-3-7-7-5-0-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,395.0723,636.00264)"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.33209728,0,0,0.33209728,390.8223,636.00264)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-7-9"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
@@ -1668,46 +1679,9 @@
            height="46.905838"
            width="281.70514"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-2-5"
-           style="text-align:center;line-height:100%;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara6934-2-4-4-4-72-5-4-2-9">projects</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect8074-5-2-0-3-2-2-9"
-       width="128.87512"
-       height="129.24976"
-       x="384.64783"
-       y="612.63403"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 395.9861,641.6338 0,1.77275 -5.9861,0 0,8.25 11,0 0,-10.02275 z"
-       id="rect9892-6-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 396.9652,631.6338 393,627.5823 l 4,-3.9449"
-       id="path8778-5-3-7-7-5-0-8-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 501.0348,651.6338 505,647.5823 501,643.6374"
-       id="path8778-5-3-7-7-5-0-8-1-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.1116581px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-2-9">/home/projectx</flowPara></flowRoot>    <rect
        style="color:#000000;fill:url(#linearGradient10323);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8074-5-2-0-2-3-0-0"
        width="129.06262"
@@ -1820,94 +1794,6 @@
            style="text-align:end;line-height:259.99999046%;text-anchor:end;fill:#888a85" /></flowRegion><flowPara
          style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:309.99999046%;text-anchor:end;fill:#888a85;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="flowPara8195-32-1">Volumes</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.33209728,0,0,0.33209728,405.0556,656.37227)"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-2-9-5-1-7"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-8-3-2-1-7"><rect
-           y="-121.54033"
-           x="2.8284271"
-           height="443.18753"
-           width="279.18195"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-3-1-4-8-3"
-           style="text-align:center;line-height:100%;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-         id="flowPara9878-9-3">go up</flowPara><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara9890-0-4">myproject1</flowPara><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara9882-7-4">myproject2</flowPara><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara9884-6-6">clientsite-alpha</flowPara><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara9886-6-4">responsive-testing</flowPara><flowPara
-         style="font-size:30.1116581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;text-anchor:start;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara9888-8-4">borker-mix.img</flowPara></flowRoot>    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 395.9861,661.6338 0,1.77275 -5.9861,0 0,8.25 11,0 0,-10.02275 z"
-       id="rect9892-6-4-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 501.0348,671.6338 505,667.5823 501,663.6374"
-       id="path8778-5-3-7-7-5-0-8-1-1-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 395.9861,681.6338 0,1.77275 -5.9861,0 0,8.25 11,0 0,-10.02275 z"
-       id="rect9892-6-4-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 501.0348,691.6338 505,687.5823 501,683.6374"
-       id="path8778-5-3-7-7-5-0-8-1-1-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 395.9861,701.6338 0,1.77275 -5.9861,0 0,8.25 11,0 0,-10.02275 z"
-       id="rect9892-6-4-7-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 501.0348,711.6338 505,707.5823 501,703.6374"
-       id="path8778-5-3-7-7-5-0-8-1-1-8-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 391.0133,720.64719 0,11 9,0 0,-11 -9,0 z m 1,1 7,0 0,9 -7,0 0,-9 z m 1.0313,1.96875 0,1.03125 4.9687,0 0,-1.03125 -4.9687,0 z m 0,2 0,1.03125 4.9687,0 0,-1.03125 -4.9687,0 z m 0,2 0,1.03125 4.9687,0 0,-1.03125 -4.9687,0 z"
-       id="rect10789"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,397.7841,879.02334)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-2-9-5-1-7-3"
@@ -2374,7 +2260,7 @@
        sodipodi:cy="934.84375"
        sodipodi:rx="8.40625"
        sodipodi:ry="8.40625"
-       d="m 1110.1875,934.84375 c 0,4.64264 -3.7636,8.40625 -8.4062,8.40625 -4.6427,0 -8.4063,-3.76361 -8.4063,-8.40625 0,-4.64264 3.7636,-8.40625 8.4063,-8.40625 4.6426,0 8.4062,3.76361 8.4062,8.40625 z"
+       d="m 1110.1875,934.84375 a 8.40625,8.40625 0 0 1 -8.4062,8.40625 8.40625,8.40625 0 0 1 -8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4062,8.40625 z"
        transform="matrix(1.0111524,0,0,1.0111524,-924.06882,272.09268)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
@@ -2387,7 +2273,7 @@
        sodipodi:cy="934.84375"
        sodipodi:rx="8.40625"
        sodipodi:ry="8.40625"
-       d="m 1110.1875,934.84375 c 0,4.64264 -3.7636,8.40625 -8.4062,8.40625 -4.6427,0 -8.4063,-3.76361 -8.4063,-8.40625 0,-4.64264 3.7636,-8.40625 8.4063,-8.40625 4.6426,0 8.4062,3.76361 8.4062,8.40625 z"
+       d="m 1110.1875,934.84375 a 8.40625,8.40625 0 0 1 -8.4062,8.40625 8.40625,8.40625 0 0 1 -8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4063,-8.40625 8.40625,8.40625 0 0 1 8.4062,8.40625 z"
        transform="matrix(1.0111524,0,0,1.0111524,-986.06882,239.09267)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
@@ -2768,5 +2654,332 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7663"
+       width="24.014626"
+       height="23.914974"
+       x="488.94998"
+       y="588.39532" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#b7b7b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7663-0"
+       width="1.0778491"
+       height="24.887247"
+       x="480.93182"
+       y="587.86499" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.95999995;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="m 496.92177,594.38968 -7.06406,7.5457 3.02746,3.23388 7.06406,-7.5457 -3.02746,-3.23388 z m -7.56864,8.08468 -0.50457,0.53899 -0.0158,3.21703 3.04323,0.0168 0.50457,-0.53898 -3.02745,-3.23387 z"
+       id="rect13523"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect15401"
+       width="89.139458"
+       height="38.895107"
+       x="424.48291"
+       y="612.89093" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path15403"
+       cx="433.5722"
+       cy="626.92932"
+       r="4.9939418" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path15403-5"
+       cx="433.5722"
+       cy="639.92242"
+       r="4.9939418" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-7-9-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(442.45688,621.79348)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-7-3-2-0"><rect
+           y="-0.50959605"
+           x="-0.85927469"
+           height="11.157884"
+           width="72.163528"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-2-5-4"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-2-9-0">read and write</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-7-9-6-9"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(442.45688,634.34463)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-7-3-2-0-0"><rect
+           y="-0.50959605"
+           x="-0.85927469"
+           height="11.157884"
+           width="72.163528"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-2-5-4-7"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-2-9-0-3">read only</flowPara></flowRoot>    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 501.92222,600.43807 3.98633,3.98633 3.98633,-3.98633 -7.97266,0 z"
+       id="rect15468"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path15473"
+       cx="433.52798"
+       cy="626.92926"
+       r="3.4913397" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f4f4f4;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect14515-6-5-3-9-5-6-5-5-5-1-6-0-5"
+       width="468"
+       height="33.044189"
+       x="265.5"
+       y="663.86218"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-2-0-2-3-0-7"
+       width="128.87512"
+       height="25"
+       x="384.64783"
+       y="667.88403"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-7-9-9"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(261.75,663.36218)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-7-3-2-1"><rect
+           y="12.277247"
+           x="131.01161"
+           height="15.577301"
+           width="93.553513"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-2-5-0"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-2-9-5">/home/projectx</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient10434-9);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-2-0-2-1-8"
+       width="110.00012"
+       height="25"
+       x="270.50342"
+       y="668.13379"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 364.5036,679.1686 4.0515,3.9652 3.9449,-4"
+       id="path8778-5-3-7-7-5-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-0-2"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(265,663.36218)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-7-1-7"><rect
+           y="12.527008"
+           x="10.710413"
+           height="15.577301"
+           width="93.553513"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-1-0"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-8-1">host folder or file</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect7019-1-1-8-6"
+       width="154"
+       height="24.999998"
+       x="517.5"
+       y="667.86218"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8334-0-2-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-1-6-5-7-0"
+       width="25"
+       height="25"
+       x="703.5"
+       y="667.86218"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-0-66-0-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(265,663.36218)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-1-8-0-3"><rect
+           y="10.563237"
+           x="421.47803"
+           height="16.077303"
+           width="59.553505"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-7-9-5-0"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000"
+         id="flowPara6934-2-4-4-5-8-2-3">+</flowPara></flowRoot>    <g
+       id="g9295-8-2-3"
+       style="opacity:0.5"
+       transform="translate(298.0077,156.00003)"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="511.86218"
+         x="377.5"
+         height="25"
+         width="25"
+         id="rect8074-5-1-8-2-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient15645);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/docker/docker-container-hires.png"
+         xml:space="preserve"
+         id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-0-8-7-9-4"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.23482824,-0.23482824,0.23482824,0.23482824,391.863,570.2044)"><flowRegion
+           id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-1-1-4-8-2"><rect
+             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+             id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-7-1-2-2-4"
+             width="179.32549"
+             height="48.411427"
+             x="2.8284271"
+             y="-121.54033" /></flowRegion><flowPara
+           id="flowPara6934-2-4-4-5-6-0-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.17865372px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000">+</flowPara></flowRoot>    </g>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#888a85;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-0-89-5-8-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(482.14285,648.14286)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-9-8-6-1-1"><rect
+           y="27.47476"
+           x="41.851864"
+           height="12.925653"
+           width="133.50505"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-2-3-6-0-0"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#888a85" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#888a85"
+         id="flowPara6934-2-4-4-4-7-0-3-5-8">/path/in/container</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7663-1"
+       width="24.014626"
+       height="23.914974"
+       x="488.94998"
+       y="668.39532" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#b7b7b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7663-0-1"
+       width="1.0778491"
+       height="24.887247"
+       x="480.93182"
+       y="667.86499" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.95999995;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="m 496.92177,674.38968 -7.06406,7.5457 3.02746,3.23388 7.06406,-7.5457 -3.02746,-3.23388 z m -7.56864,8.08468 -0.50457,0.53899 -0.0158,3.21703 3.04323,0.0168 0.50457,-0.53898 -3.02745,-3.23387 z"
+       id="rect13523-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect15401-6"
+       width="89.139458"
+       height="38.895107"
+       x="424.48291"
+       y="692.89093" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path15403-8"
+       cx="433.5722"
+       cy="706.92932"
+       r="4.9939418" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path15403-5-3"
+       cx="433.5722"
+       cy="719.92242"
+       r="4.9939418" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-7-9-6-0"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(442.45688,701.79348)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-7-3-2-0-1"><rect
+           y="-0.50959605"
+           x="-0.85927469"
+           height="11.157884"
+           width="72.163528"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-2-5-4-0"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-2-9-0-8">read and write</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-05-00-0-27-7-9-6-9-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(442.45688,714.34463)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-9-96-4-7-3-2-0-0-3"><rect
+           y="-0.50959605"
+           x="-0.85927469"
+           height="11.157884"
+           width="72.163528"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-77-7-35-7-2-5-4-7-7"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-4-72-5-4-2-9-0-3-8">read only</flowPara></flowRoot>    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 501.92222,680.43807 3.98633,3.98633 3.98633,-3.98633 -7.97266,0 z"
+       id="rect15468-6"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path15473-4"
+       cx="433.52798"
+       cy="719.875"
+       r="3.4913397" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cc0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 488.68231,675.10096 10.6066,10.6066"
+       id="path15647"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
