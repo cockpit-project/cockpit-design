@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="service-listing.svg"
    inkscape:export-filename="/data/src/cockpit-design/kubernetes/service-listing.png"
    inkscape:export-xdpi="90"
@@ -238,6 +238,38 @@
          offset="1"
          id="stop7715-4-2" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient8082"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.57738095,0,0,0.86414141,159.33178,-554.56464)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076">
+      <stop
+         style="stop-color:#1baae6;stop-opacity:1"
+         offset="0"
+         id="stop8078" />
+      <stop
+         style="stop-color:#1999ce;stop-opacity:1"
+         offset="1"
+         id="stop8080" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient8082-0"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.57738095,0,0,0.86414141,-639.5268,-988.82285)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -247,8 +279,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="728.73283"
-     inkscape:cy="526.22295"
+     inkscape:cx="1280.5784"
+     inkscape:cy="139.97409"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -286,7 +318,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -362,7 +394,7 @@
          id="flowPara6157-2-9-3-3-7-0-6-7-0-6-9"
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">redis-master</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33250916,0,0,0.33209728,-11.351202,480.20406)"
-       style="font-size:33.10230255px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:33.10230255px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-49-1-7-7-8-0-6"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
@@ -376,7 +408,7 @@
            id="rect6155-9-4-9-3-0-3-8-8-2-99-6-9"
            style="font-size:33.10230255px" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-24-8-5-5-3-4-1"
-         style="font-size:33.10230255px">Services</flowPara></flowRoot>    <flowRoot
+         style="font-size:33.10230255px">Kubernetes Services</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,-11.111402,593.3679)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot6151-5-2-0-1-5-2-6-8-28-6-8-6"
@@ -617,7 +649,7 @@
        sodipodi:nodetypes="cc" />
     <flowRoot
        transform="matrix(0.33209728,0,0,0.33209728,-152.89139,551.67453)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-7-9-8"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
@@ -630,10 +662,12 @@
            width="330.28207"
            id="rect6155-9-4-9-3-0-00-8-5-6-9-4-5-1-6-5" /></flowRegion><flowPara
          id="flowPara6157-2-9-3-3-7-0-6-0-4-9-3-3-4-2-4"
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Click row</flowPara><flowPara
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara3498">goes to details</flowPara><flowPara
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.12282562px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Click row</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.12282562px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara3498">goes to browse</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.12282562px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara3794">view for service</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.12282562px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
          id="flowPara3500" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#af151a;fill-opacity:1;stroke:none;font-family:Overpass;-inkscape-font-specification:Overpass"
@@ -1012,7 +1046,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
        xml:space="preserve"
        id="flowRoot4595"
-       style="font-size:33.10230255px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:33.10230255px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.33250916,0,0,0.33209728,508.6488,480.20406)"><flowRegion
          id="flowRegion4597"><rect
            style="font-size:33.10230255px"
@@ -1022,7 +1056,7 @@
            x="2.8284271"
            y="-121.54033" /></flowRegion><flowPara
          style="font-size:33.10230255px"
-         id="flowPara4601">Nodes</flowPara></flowRoot>    <flowRoot
+         id="flowPara4601">Kubernetes Nodes</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
@@ -1199,42 +1233,6 @@
            y="-121.54033" /></flowRegion><flowPara
          style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          id="flowPara4691">Address</flowPara></flowRoot>    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
-       ry="1.5"
-       rx="1.5"
-       y="434.39999"
-       x="771.45898"
-       height="24"
-       width="46"
-       id="rect4693"
-       style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <flowRoot
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
-       xml:space="preserve"
-       id="flowRoot4695"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.33209728,0,0,0.33209728,779.9602,479.86792)"><flowRegion
-         id="flowRegion4697"><rect
-           id="rect4699"
-           width="82.613655"
-           height="73.905716"
-           x="2.8284271"
-           y="-121.54033" /></flowRegion><flowPara
-         style="font-size:33.12282562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara4701">All</flowPara></flowRoot>    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
-       sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0"
-       id="path4703"
-       d="m 799.447,444.82502 4.4676,4.92859 4.5323,-5.00001"
-       style="fill:none;stroke:#2e3436;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
@@ -1507,5 +1505,107 @@
        x="187.38329"
        y="139.45105"
        transform="translate(-217.14285,15.219323)" />
-  </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074"
+       width="24.25"
+       height="23.331818"
+       x="799.35858"
+       y="434.75821"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.85681818,0,0,0.85681818,792.77622,430.46768)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6"><rect
+           y="9.4286079"
+           x="-7.5587869"
+           height="21.577303"
+           width="59.053505"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowPara6934-2-4-4-9"></flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate;clip-rule:nonzero;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       id="rect8074-5"
+       width="55"
+       height="27"
+       x="401.69794"
+       y="431.81207"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(402.43541,430.19597)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1"><rect
+           y="9.4286079"
+           x="-3.5587871"
+           height="16.077303"
+           width="59.553505"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+         id="flowPara6934-2-4-4">Deploy</flowPara></flowRoot>    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#75507b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 829.11102,448.21932 27.65343,0"
+       id="path7518-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-3-9-7-3-7-2-7-9-8-0"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(864.32385,443.03578)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-4-8-0-6-0-0-6-4-6-5"><rect
+           y="-2.4343007"
+           x="-0.20937234"
+           height="46.668884"
+           width="109.68578"
+           id="rect6155-9-4-9-3-0-00-8-5-6-9-4-5-1-6-5-2" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara3500-6">Add minion dialog</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
+       inkscape:connector-curvature="0"
+       id="path3796"
+       d="m 829.11102,566.21932 27.65343,0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#75507b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(864.32385,561.03578)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
+       xml:space="preserve"
+       id="flowRoot3798"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3800"><rect
+           id="rect3802"
+           width="109.68578"
+           height="46.668884"
+           x="-0.20937234"
+           y="-2.4343007" /></flowRegion><flowPara
+         id="flowPara3804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Clicking row goes to</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara3806">Node details view</flowPara></flowRoot>  </g>
 </svg>
