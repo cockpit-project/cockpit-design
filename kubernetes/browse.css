@@ -1,0 +1,53 @@
+
+.kube-browse {
+    margin: 10px;
+}
+
+.kube-service {
+    border-color: #D0D0D0;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #F0F0F0;
+    border-bottom-width: 2px;
+    border-bottom-color: #F8F8F8;
+    border-radius: 4px 4px 0 0;
+    max-width: 700px;
+    margin-bottom: 3px;
+}
+
+.kube-deploy-config {
+    border-color: #D0D0D0;
+    border-width: 1px;
+    border-radius: 4px;
+    max-width: 700px;
+    background-color: #F8F8F8;
+    text-align: center;
+    padding: 10px;
+}
+
+.kube-deployment {
+    text-align: left;
+    border-color: #D0D0D0;
+    background-color: #F0F0F0;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.kube-deployment H3 {
+    margin-bottom: 10px;
+}
+
+.kube-pod {
+    text-align: center;
+    border-color: #D0D0D0;
+    background-color: white;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    max-width: 200px;
+}

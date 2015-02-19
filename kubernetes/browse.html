@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cluster Browse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="files/patternfly/patternfly.css" rel="stylesheet" media="screen, print">
+    <link href="browse.css" rel="stylesheet" media="screen, print">
+    <script src="files/jquery/jquery.js"></script>
+    <script src="files/patternfly/js/patternfly.js"></script>
+    <style>
+      .faded {
+        opacity: 0.5
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-pf faded" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img src="files/brand.svg" alt="PatternFly Enterprise Application" />
+        </a>
+      </div>
+      <div class="collapse navbar-collapse navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-utility">
+          <li>
+            <a href="#">Note: Install fonts manually</a>
+          </li>
+          <li>
+            <a href="#">Note: None of this is part of the design</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              <span class="pficon pficon-user"></span>
+              Brian Johnson <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="#">Dummy</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-primary">
+          <li class="active">
+            <a href="#" class="active">Browse</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-8 col-md-9">
+
+          <div class="page-header page-header-bleed-right">
+            <div class="actions pull-right">
+              <input class="form-control" type="text" value="TODO: Label Filter">
+            </div>
+            <!-- Contextual title -->
+            <h1>Cluster Title</h1>
+          </div>
+
+          <div class="kube-browse">
+
+            <div class="kube-service panel-heading">
+              <span class="pull-right" title="TCP">
+                <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
+                172.121.17.2:5432 to port 8080
+              </span>
+              <!-- The name of the service -->
+              <h3 class="panel-title">Front-end</h3>
+            </div>
+
+            <div class="kube-deploy-config panel">
+                <span>2 hours ago, triggered by new image for openshift/origin-ruby-sample:latest</span>
+
+                <div class="kube-deployment panel">
+                    <h3 class="panel-title">Ruby-helloworld</h3>
+
+                    <ul>
+                        <li>Image: openshift/origin-ruby-sample (2929292380abcd)</li>
+                        <li>Build: ruby-sample-build (e92a9939...)</li>
+                        <li>Source:Added license (Psjuy33100) authored by jdoe</li>
+                    </ul>
+
+                    <div class="kube-pod panel">
+                        <p>Running<br>172.17.2.226</p>
+                    </div>
+                </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-sm-4 col-md-3 sidebar-pf sidebar-pf-right">
+      <div class="sidebar-header sidebar-header-bleed-left sidebar-header-bleed-right">
+        <div class="actions pull-right">
+          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+            <span class="pficon pficon-close"></span>
+          </button>
+        </div>
+            <h2 class="h5">Details</h2>
+          </div>
+          <ul class="list-group">
+            <li class="list-group-item active">
+              <h3 class="list-group-item-heading">Duis eu augue lectus</h3>
+              <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+            </li>
+            <li class="list-group-item">
+              <h3 class="list-group-item-heading">Donec dictum odio eu turpis rutrum</h3>
+              <p class="list-group-item-text">Etiam sit amet ultricies ligula.</p>
+            </li>
+            <li class="list-group-item">
+              <h3 class="list-group-item-heading">At egestas nibh dictum</h3>
+              <p class="list-group-item-text">Maecenas vitae tempus mauris.</p>
+            </li>
+            <li class="list-group-item active">
+              <h3 class="list-group-item-heading">Phasellus dictum posuere ante sit</h3>
+              <p class="list-group-item-text">Pellentesque rutrum justo in congue tristique.</p>
+            </li>
+            <li class="list-group-item">
+              <h3 class="list-group-item-heading">Amet commodo</h3>
+              <p class="list-group-item-text">Pellentesque in leo elit.</p>
+            </li>
+            <li class="list-group-item">
+              <h3 class="list-group-item-heading">Nunc viverra purus libero</h3>
+              <p class="list-group-item-text">Nulla lacinia lorem quis enim posuere dictum.</p>
+            </li>
+            <li class="list-group-item active">
+              <h3 class="list-group-item-heading">Non faucibus augue dapibus at</h3>
+              <p class="list-group-item-text">Fusce id rutrum ante, eget vestibulum dolor</p>
+            </li>
+            <li class="list-group-item">
+              <h3 class="list-group-item-heading">Vivamus at semper</h3>
+              <p class="list-group-item-text">Duis sagittis vitae neque at vehicula.</p>
+            </li>
+            <li class="list-group-item">
+              <h3 class="list-group-item-heading">Sed sit amet dolor</h3>
+              <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+            </li>
+          </ul>
+          <p><a href="#">See all messages</a></p>
+        </div>
+      </div>
+    </div>
+        
+  </body>
+</html>
