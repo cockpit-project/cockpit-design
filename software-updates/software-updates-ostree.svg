@@ -457,9 +457,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="259.55055"
-     inkscape:cy="-965.76111"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="2064.8132"
+     inkscape:cy="-1318.7302"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -497,7 +497,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -765,7 +765,7 @@
          style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffefe;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Networking</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-3-6-7-9-2"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:none"
        transform="matrix(0.41472929,0,0,0.41472929,491.28934,23.3636)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
@@ -778,7 +778,7 @@
            y="81.013718"
            style="fill:#fffefe;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-2-6-8-8-9"
-         style="font-size:36.16817093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffefe;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">System</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.16817093px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">Tools</flowPara></flowRoot>    <path
        style="fill:none;stroke:#fffefe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 522.46942,65.4536 5.03813,5.0381 4.90556,-5.0823"
        id="path8778-5-3"
@@ -1864,22 +1864,12 @@
            style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara6934-2-4-4-9-0-2-4">Apply and restart</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect7019-4-1-4-2-1"
-       width="845.06085"
-       height="33.03384"
-       x="-35.232681"
-       y="1250.9017"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect7019-4-1-4-1-3"
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1283.8212"
+       y="1223.8212"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1889,7 +1879,7 @@
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1316.8837"
+       y="1256.8837"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1899,7 +1889,7 @@
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1349.8705"
+       y="1289.8705"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1909,7 +1899,7 @@
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1382.933"
+       y="1322.933"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1919,7 +1909,7 @@
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1415.8524"
+       y="1355.8524"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1929,7 +1919,7 @@
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1448.9149"
+       y="1388.9149"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1939,12 +1929,12 @@
        width="845.06085"
        height="33.03384"
        x="-35.232681"
-       y="1481.7113"
+       y="1421.7113"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(92.30071,194.15905)"
+       transform="translate(92.30071,134.15905)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-57"
        xml:space="preserve"
@@ -1960,7 +1950,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-0-4">samba-common</flowPara></flowRoot>    <flowRoot
-       transform="translate(92.30071,160.47705)"
+       transform="translate(92.30071,100.47705)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-67"
        xml:space="preserve"
@@ -1976,7 +1966,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-0-1-2">btrfs-progs</flowPara></flowRoot>    <flowRoot
-       transform="translate(92.30071,126.47703)"
+       transform="translate(92.30071,66.47703)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-6"
        xml:space="preserve"
@@ -1992,7 +1982,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-0-1-1-0">bash</flowPara></flowRoot>    <flowRoot
-       transform="translate(91.30071,227.97707)"
+       transform="translate(91.30071,167.97707)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-0-9"
        xml:space="preserve"
@@ -2008,7 +1998,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-7-5">systemd</flowPara></flowRoot>    <flowRoot
-       transform="translate(92.30071,326.15907)"
+       transform="translate(92.30071,266.15907)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-3-7"
        xml:space="preserve"
@@ -2024,7 +2014,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-0-3-5">systemd-libs</flowPara></flowRoot>    <flowRoot
-       transform="translate(92.30071,292.47707)"
+       transform="translate(92.30071,232.47707)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-6-7"
        xml:space="preserve"
@@ -2040,7 +2030,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-0-1-10-3">systemd-devel</flowPara></flowRoot>    <flowRoot
-       transform="translate(92.30071,258.47707)"
+       transform="translate(92.30071,198.47707)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4"
        xml:space="preserve"
@@ -2056,7 +2046,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-0-1-1-7-1">systemd-compat-libs</flowPara></flowRoot>    <flowRoot
-       transform="translate(634.48091,127.92683)"
+       transform="translate(754.48091,65.92683)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-8-4"
        xml:space="preserve"
@@ -2136,7 +2126,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara8195-5-3-4-9-77-3">NetworkManager-glib</flowPara></flowRoot>    <flowRoot
-       transform="translate(634.48091,0.92681)"
+       transform="translate(754.48091,0.92681)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-8-4-0"
        xml:space="preserve"
@@ -2179,23 +2169,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-34-2-1"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara8195-5-3-4-6-9-8">Security updates</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-35-9-8-7"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(92.30071,95.97701)"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-5-5-1-5"><rect
-           y="1151.8732"
-           x="-112.64377"
-           height="39.093994"
-           width="197.81796"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-34-2-1-3"
-           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:300%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara8195-5-3-4-6-9-8-4">Additional software updates</flowPara></flowRoot>    <rect
+         id="flowPara8195-5-3-4-6-9-8">Software updates</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.17399998;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect9330"
        width="235.84727"
@@ -2652,7 +2626,7 @@
            y="-3.8919868"
            style="fill:#fffefe;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-2-6-8-8-9-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">System</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">Tools</flowPara></flowRoot>    <path
        style="fill:none;stroke:#fffefe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 522.46964,1003.4542 5.03813,5.0381 4.90556,-5.0823"
        id="path8778-5-3-5"
@@ -2757,7 +2731,7 @@
            y="-3.8919868"
            style="fill:#fffefe;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-2-6-8-8-9-5-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">System</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">Tools</flowPara></flowRoot>    <path
        style="fill:none;stroke:#fffefe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1862.4696,1003.4542 5.0382,5.0381 4.9055,-5.0823"
        id="path8778-5-3-5-3"
@@ -3173,7 +3147,7 @@
            y="-3.8919868"
            style="fill:#fffefe;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara6844-4-2-6-8-8-9-5-97"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">System</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#fffefe;fill-opacity:1">Tools</flowPara></flowRoot>    <path
        style="fill:none;stroke:#fffefe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 522.46964,1963.4542 5.03813,5.0381 4.90556,-5.0823"
        id="path8778-5-3-5-4"
