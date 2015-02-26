@@ -60,10 +60,15 @@
     margin-right: 10px;
     margin-bottom: 0px;
     max-width: 200px;
+    min-height: 65px;
 }
 
 .kube-pod:first-child {
     margin-left: 20px;
+}
+
+.kube-pod p:last-child {
+    margin-bottom: 0px;
 }
 
 .kube-deployment .fa-li {
@@ -92,11 +97,32 @@
     padding-right: 5px;
 }
 
-.kube-browse .row > div:first-child {
+.kube-browse > .row > div:first-child {
     padding-left: 20px;
 }
 
-.kube-browse .row > div:last-child {
+.kube-browse > .row > div:last-child {
     padding-right: 20px;
 }
 
+.kube-status-icon {
+    float: right;
+    line-height: 100%;
+}
+
+.kube-status-icon .kube-failed {
+    color: #af151a;
+}
+
+
+.kube-pod > .kube-status-icon {
+    font-size: 12px;
+}
+
+.kube-pod > .kube-status-icon .fa-exclamation-triangle {
+    font-size: 15px;
+}
+
+.kube-deployment > .kube-status-icon {
+    font-size: 24px;
+}

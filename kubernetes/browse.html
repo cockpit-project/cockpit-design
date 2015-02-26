@@ -89,6 +89,9 @@
                 </div>
 
                 <div class="kube-deployment panel">
+                  <div class="kube-status-icon" title="Scaling Up">
+                    <span class="fa fa-chevron-circle-up"/>
+                  </div>
                     <h3 class="panel-title">Ruby-helloworld</h3>
 
                     <ul class="fa-ul">
@@ -106,6 +109,12 @@
                         </div>
                         <div class="col-md-3 kube-pod panel">
                             <p>Running<br>172.17.2.227</p>
+                        </div>
+                        <div class="col-md-3 kube-pod panel">
+                          <div class="kube-status-icon" title="Pending">
+                            <div class="spinner spinner-xs"></div>
+                          </div>
+                          <p>Pending</p>
                         </div>
                     </div>
                 </div>
@@ -168,7 +177,10 @@
                     80, 443
                 </div>
                 <div class="kube-deployment panel">
-                    <h3 class="panel-title">Apache</h3>
+                  <div class="kube-status-icon" title="Pods failed to be scheduled">
+                    <span class="kube-failed fa fa-exclamation-triangle"></span>
+                  </div>
+                  <h3 class="panel-title">Apache</h3>
 
                     <ul class="fa-ul">
                         <li><i class="fa-li fa fa-cube"></i>Image: <code>apache (3930293920...)</code></li>
@@ -176,9 +188,15 @@
                     </ul>
 
                     <div class="row">
-                        <div class="col-md-3 kube-pod panel">
-                            <p>Running<br>172.17.5.203</p>
+                      <div class="col-md-3 kube-pod panel">
+                        <p>Running<br>172.17.5.203</p>
+                      </div>
+                      <div class="col-md-3 kube-pod panel">
+                        <div class="kube-status-icon" title="Pods failed to be scheduled">
+                          <span class="kube-failed fa fa-exclamation-triangle"></span>
                         </div>
+                        <p>Failed</p>
+                      </div>
                     </div>
                 </div>
             </div>
@@ -250,6 +268,9 @@
                     </ul>
 
                     <div class="kube-pod panel">
+                      <div class="kube-status-icon" title="Pending">
+                        <span class="fa fa-pause"></span>
+                      </div>
                       <p>Pending<br>172.107.8.13</p>
                     </div>
                   </div>
@@ -278,7 +299,10 @@
                     </ul>
 
                     <div class="kube-pod panel">
-                      <p>Pending<br>172.17.9.99</p>
+                      <div class="kube-status-icon" title="Starting">
+                        <div class="spinner spinner-xs"></div>
+                      </div>
+                      <p>Starting<br>172.17.9.99</p>
                     </div>
                   </div>
                 </div>
