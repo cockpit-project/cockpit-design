@@ -1,6 +1,7 @@
 
 .kube-browse {
     margin: 10px;
+    max-width: 700px;
 }
 
 .kube-service {
@@ -11,7 +12,6 @@
     border-bottom-width: 2px;
     border-bottom-color: #F8F8F8;
     border-radius: 4px 4px 0 0;
-    max-width: 700px;
     margin-bottom: 3px;
 }
 
@@ -19,7 +19,6 @@
     border-color: #D0D0D0;
     border-width: 1px;
     border-radius: 4px;
-    max-width: 700px;
     background-color: #F8F8F8;
     text-align: center;
     padding: 10px;
@@ -36,6 +35,14 @@
     margin-top: 10px;
     margin-bottom: 0px;
     margin-right: 60px;
+}
+
+.kube-deploy-config.kube-small {
+    padding-right: 10px;
+}
+
+.kube-deploy-config.kube-small .kube-deployment {
+    margin-right: 0px;
 }
 
 .kube-deployment h3 {
@@ -79,3 +86,17 @@
     margin-top: 50px;
     width: 60px;
 }
+
+.kube-browse .row > div {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.kube-browse .row > div:first-child {
+    padding-left: 20px;
+}
+
+.kube-browse .row > div:last-child {
+    padding-right: 20px;
+}
+

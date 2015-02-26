@@ -68,6 +68,9 @@
 
           <div class="kube-browse">
 
+
+
+
             <div class="kube-service panel-heading">
               <span class="pull-right" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
@@ -81,7 +84,6 @@
                 <div>
                     2 hours ago, triggered by new image for <code>openshift/origin-ruby-sample:latest</code>
                 </div>
-
                 <div class="kube-ports">
                     8080
                 </div>
@@ -90,9 +92,12 @@
                     <h3 class="panel-title">Ruby-helloworld</h3>
 
                     <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-cube"></i>Image: <code>openshift/origin-ruby-sample (2929292380abcd)</code></li>
-                        <li><i class="fa-li fa fa-refresh"></i>Build: <code>ruby-sample-build (e92a9939...)</code></li>
-                        <li><i class="fa-li fa fa-code"></i></span>Source: Added license (Psjuy33100) authored by jdoe</li>
+                        <li><i class="fa-li fa fa-cube"></i>Image:
+                            <code>openshift/origin-ruby-sample (2929292380abcd)</code></li>
+                        <li><i class="fa-li fa fa-refresh"></i>Build:
+                            <code>ruby-sample-build (e92a9939...)</code></li>
+                        <li><i class="fa-li fa fa-code"></i>Source:
+                            Added license (Psjuy33100) authored by jdoe</li>
                     </ul>
 
                     <div class="row">
@@ -105,6 +110,9 @@
                     </div>
                 </div>
             </div>
+
+
+
 
             <div class="kube-service panel-heading">
               <span class="pull-right" title="TCP">
@@ -134,6 +142,148 @@
                 </div>
             </div>
 
+
+
+
+            <div class="kube-service panel-heading">
+              <span class="pull-right" title="TCP">
+                <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
+                172.10.17.5:80
+              </span>
+              <!-- The name of the service -->
+              <h3 class="panel-title">Static Files</h3>
+            </div>
+
+            <div class="kube-service panel-heading">
+              <span class="pull-right" title="TCP">
+                <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
+                172.10.17.5:443
+              </span>
+              <!-- The name of the service -->
+              <h3 class="panel-title">Static Files (https)</h3>
+            </div>
+
+            <div class="kube-deploy-config panel">
+                <div class="kube-ports">
+                    80, 443
+                </div>
+                <div class="kube-deployment panel">
+                    <h3 class="panel-title">Apache</h3>
+
+                    <ul class="fa-ul">
+                        <li><i class="fa-li fa fa-cube"></i>Image: <code>apache (3930293920...)</code></li>
+                        <li><i class="fa-li fa fa-hdd-o"></i>Volume: <code>static-files</code></li>
+                    </ul>
+
+                    <div class="row">
+                        <div class="col-md-3 kube-pod panel">
+                            <p>Running<br>172.17.5.203</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="kube-service panel-heading">
+                  <span class="pull-right" title="TCP">
+                    172.10.17.5:27017
+                  </span>
+                  <h3 class="panel-title">MongoDB</h3>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-4">
+                <div class="kube-service panel-heading">
+                  <span class="pull-right" title="TCP">
+                    172.10.17.5:28017
+                  </span>
+                  <h3 class="panel-title">Status</h3>
+                </div>
+              </div>
+              <div class="col-md-4">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-4">
+                <div class="kube-deploy-config kube-small panel">
+                  <div class="kube-deployment panel">
+                    <h3 class="panel-title">MongoDB Master</h3>
+
+                    <ul class="fa-ul">
+                      <li><i class="fa-li fa fa-cube"></i><code>mongodb:2.6.8</code></li>
+                      <li><i class="fa-li fa fa-hdd-o"></i><code>mongodb-master</code></li>
+                    </ul>
+
+                    <div class="kube-pod panel">
+                      <p>Running<br>172.17.5.203</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="kube-deploy-config kube-small panel">
+                  <div class="kube-deployment panel">
+                    <h3 class="panel-title">MongoDB Shard A</h3>
+
+                    <ul class="fa-ul">
+                      <li><i class="fa-li fa fa-cube"></i><code>mongodb-shard</code></li>
+                      <li><i class="fa-li fa fa-hdd-o"></i><code>shard-a</code></li>
+                    </ul>
+
+                    <div class="kube-pod panel">
+                      <p>Running<br>172.107.8.12</p>
+                    </div>
+                  </div>
+                  <div class="kube-deployment panel">
+                    <h3 class="panel-title">MongoDB Shard A</h3>
+
+                    <ul class="fa-ul">
+                      <li><i class="fa-li fa fa-cube"></i><code>mongodb-new</code></li>
+                      <li><i class="fa-li fa fa-hdd-o"></i><code>mongodb-shard-a</code></li>
+                    </ul>
+
+                    <div class="kube-pod panel">
+                      <p>Pending<br>172.107.8.13</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="kube-deploy-config kube-small panel">
+                  <div class="kube-deployment panel">
+                    <h3 class="panel-title">MongoDB Shard B</h3>
+
+                    <ul class="fa-ul">
+                      <li><i class="fa-li fa fa-cube"></i><code>mongodb-shard</code></li>
+                      <li><i class="fa-li fa fa-hdd-o"></i><code>shard-b</code></li>
+                    </ul>
+
+                    <div class="kube-pod panel">
+                      <p>Running<br>172.207.9.99</p>
+                    </div>
+                  </div>
+                  <div class="kube-deployment panel">
+                    <h3 class="panel-title">MongoDB Shard A</h3>
+
+                    <ul class="fa-ul">
+                      <li><i class="fa-li fa fa-cube"></i><code>mongodb-new</code></li>
+                      <li><i class="fa-li fa fa-hdd-o"></i><code>mongodb-shard-a</code></li>
+                    </ul>
+
+                    <div class="kube-pod panel">
+                      <p>Pending<br>172.17.9.99</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
