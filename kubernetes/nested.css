@@ -149,6 +149,10 @@
     margin-right: 0px;
 }
 
+.kube-details .sidebar-content {
+    padding-right: 10px;
+}
+
 .sidebar-content > *:first-child {
     margin-top: 10px;
 }
