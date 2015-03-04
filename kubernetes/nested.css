@@ -130,3 +130,25 @@
 .kube-details .affix {
     top: 20px;
 }
+
+.kube-details {
+    padding-right: 0px;
+}
+
+.kube-details .sidebar-header,
+.kube-details .sidebar-content {
+    margin-right: 0px;
+}
+
+.sidebar-content > *:first-child {
+    margin-top: 10px;
+}
+
+.sidebar-content dl.dl-horizontal dt {
+    width: 80px;
+    text-align: left;
+}
+
+.sidebar-content dl.dl-horizontal dd {
+    margin-left: 90px;
+}
