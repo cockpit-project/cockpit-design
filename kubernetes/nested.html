@@ -72,7 +72,7 @@
 
 
 
-            <div class="kube-service panel-heading">
+            <div class="kube-service panel-heading" data-uid="front-end">
               <span class="pull-right" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.121.17.2:80 to port 8080
@@ -81,15 +81,15 @@
               <h3 class="panel-title">Front-end</h3>
             </div>
 
-            <div class="kube-deploy-config panel">
-                <div>
+            <div class="kube-deploy-config panel" data-uid="ruby-helloworld-deploy-config">
+                <p>
                     2 hours ago, triggered by new image for <code>openshift/origin-ruby-sample:latest</code>
-                </div>
+                </p>
                 <div class="kube-ports">
                     8080
                 </div>
 
-                <div class="kube-deployment panel">
+                <div class="kube-deployment panel" data-uid="ruby-helloworld-deployment">
                   <div class="kube-status-icon" title="Scaling Up">
                     <span class="fa fa-chevron-circle-up"/>
                   </div>
@@ -105,13 +105,13 @@
                     </ul>
 
                     <div class="row">
-                        <div class="col-md-3 kube-pod panel">
+                        <div class="col-md-3 kube-pod panel" data-uid="ruby-helloworld-pod-1">
                             <p>Running<br>172.17.2.226</p>
                         </div>
-                        <div class="col-md-3 kube-pod panel">
+                        <div class="col-md-3 kube-pod panel" data-uid="ruby-helloworld-pod-2">
                             <p>Running<br>172.17.2.227</p>
                         </div>
-                        <div class="col-md-3 kube-pod panel">
+                        <div class="col-md-3 kube-pod panel" data-uid="ruby-helloworld-pod-3">
                           <div class="kube-status-icon" title="Pending">
                             <div class="spinner spinner-xs"></div>
                           </div>
@@ -322,27 +322,185 @@
             <h2 class="h5">Details</h2>
           </div>
           <div class="sidebar-content" data-spy="affix" data-offset-top="148">
-            <h3>Service</h3>
-            <dl class="dl-horizontal">
-              <dt>Name</dt><dd>Front-end</dd>
-              <dt>Portal IP</dt><dd>172.121.17.2</dd>
-              <dt>Port</dt><dd>8080</dd>
-              <dt>Protocol</dt><dd>TCP</dd>
-              <dt>Session Affinity</dt><dd>None</dd>
-            </dl>
-            <h3>Selector</h3>
-            <dl class="dl-horizontal">
-              <dt>name</dt><dd>ruby-sample</dd>
-            </dl>
-            <h3>Labels</h3>
-            <dl class="dl-horizontal">
-              <dt>name</dt><dd>ruby-helloworld-sample</dd>
-            </dl>
-            <p><a href="#">More</a></p>
           </div>
         </div>
       </div>
     </div>
 
+    <div id="details-front-end" hidden>
+      <h3>Service</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>Front-end</dd>
+        <dt>Portal IP</dt><dd>172.121.17.2</dd>
+        <dt>Port</dt><dd>8080</dd>
+        <dt>Protocol</dt><dd>TCP</dd>
+        <dt>Session Affinity</dt><dd>None</dd>
+      </dl>
+      <h3>Selector</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-sample</dd>
+      </dl>
+      <h3>Labels</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-helloworld-sample</dd>
+      </dl>
+      <p><a href="#">More</a></p>
+    </div>
+
+    <div id="details-ruby-helloworld-deploy-config" hidden>
+      <h3>Deployment Configuration</h3>
+      <dl class="dl-horizontal">
+        <dt>Triggered</dt><dd>2015-03-04 15:16</dd>
+        <dt>Image</dt><dd>origin-ruby-sample:latest</dd>
+      </dl>
+      <h3>Labels</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-helloworld-sample</dd>
+      </dl>
+      <p><a href="#">More</a></p>
+    </div>
+
+    <div id="details-ruby-helloworld-deployment" hidden>
+      <h3>Deployment</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>Ruby-helloworld</dd>
+        <dt>Replicas</dt><dd>3 target</dd>
+        <dt>Triggered</dt><dd>2015-03-04 15:16</dd>
+        <dt>Image</dt><dd>origin-ruby-sample:latest</dd>
+        <dt>Image ID</dt><dd>0beee7f478c8</dd>
+        <dt>Build</dt><dd>ruby-sample-build</dd>
+        <dt>Build ID</dt><dd>81b1b696a77a</dd>
+        <dt>Commit</dt><dd>Added license (Psjuy33100)</dd>
+        <dt>Author</dt><dd>jdoe</dd>
+      </dl>
+      <div class="kube-status-icon" title="Scaling Up">
+        <span class="fa fa-chevron-circle-up"/>
+      </div>
+      <h3>Status</h3>
+      <dl class="dl-horizontal">
+        <dt>Summary</dt><dd>Scaling up</dd>
+        <dt>Replicas</dt><dd>2 of 3</dd>
+      </dl>
+      <h3>Selector</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-sample</dd>
+      </dl>
+      <h3>Labels</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-helloworld-sample</dd>
+      </dl>
+      <p><a href="#">More</a></p>
+    </div>
+
+    <div id="details-ruby-helloworld-pod-1" hidden>
+      <h3>Pod</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>Ruby-helloworld</dd>
+        <dt>Restart Policy</dt><dd>Always</dd>
+        <dt>DNS Policy</dt><dd>Cluster First</dd>
+      </dl>
+
+      <h3>Container</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>ruby-helloworld-database</dd>
+        <dt>Image</dt><dd>origin-ruby-sample:latest</dd>
+        <dt>Volumes</dt><dd>None</dd>
+        <dt>Ports</dt><dd>3306/TCP</dd>
+        <dt>Pull Policy</dt><dd>If not present</dd>
+      </dl>
+      <h3>Status</h3>
+      <dl class="dl-horizontal">
+        <dt>Summary</dt><dd>Running</dd>
+        <dt>Host</dt><dd>aws-host4</dd>
+        <dt>Host IP</dt><dd>180.45.1.3</dd>
+        <dt>Pod IP</dt><dd>172.17.2.227</dd>
+        <dt>Restart Count</dt><dd>0</dd>
+      </dl>
+      <h3>Labels</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-helloworld</dd>
+      </dl>
+      <p><a href="#">More</a></p>
+    </div>
+
+    <div id="details-ruby-helloworld-pod-2" hidden>
+      <h3>Pod</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>Ruby-helloworld</dd>
+        <dt>Restart Policy</dt><dd>Always</dd>
+        <dt>DNS Policy</dt><dd>Cluster First</dd>
+      </dl>
+
+      <h3>Container</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>ruby-helloworld-database</dd>
+        <dt>Image</dt><dd>origin-ruby-sample:latest</dd>
+        <dt>Volumes</dt><dd>None</dd>
+        <dt>Ports</dt><dd>3306/TCP</dd>
+        <dt>Pull Policy</dt><dd>If not present</dd>
+      </dl>
+      <h3>Status</h3>
+      <dl class="dl-horizontal">
+        <dt>Summary</dt><dd>Running</dd>
+        <dt>Host</dt><dd>atomic-host3</dd>
+        <dt>Host IP</dt><dd>10.0.1.3</dd>
+        <dt>Pod IP</dt><dd>172.17.2.226</dd>
+        <dt>Restart Count</dt><dd>2</dd>
+      </dl>
+      <h3>Labels</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-helloworld</dd>
+      </dl>
+      <p><a href="#">More</a></p>
+    </div>
+
+    <div id="details-ruby-helloworld-pod-3" hidden>
+      <h3>Pod</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>Ruby-helloworld</dd>
+        <dt>Restart Policy</dt><dd>Always</dd>
+        <dt>DNS Policy</dt><dd>Cluster First</dd>
+      </dl>
+
+      <h3>Container</h3>
+      <dl class="dl-horizontal">
+        <dt>Name</dt><dd>ruby-helloworld-database</dd>
+        <dt>Image</dt><dd>origin-ruby-sample:latest</dd>
+        <dt>Volumes</dt><dd>None</dd>
+        <dt>Ports</dt><dd>3306/TCP</dd>
+        <dt>Pull Policy</dt><dd>If not present</dd>
+      </dl>
+      <div class="kube-status-icon" title="Pending">
+        <div class="spinner spinner-sm"></div>
+      </div>
+      <h3>Status</h3>
+      <dl class="dl-horizontal">
+        <dt>Summary</dt><dd>Pending</dd>
+        <dt>Host</dt><dd>atomic-host1</dd>
+        <dt>Host IP</dt><dd>10.0.1.1</dd>
+      </dl>
+      <h3>Labels</h3>
+      <dl class="dl-horizontal">
+        <dt>name</dt><dd>ruby-helloworld</dd>
+      </dl>
+      <p><a href="#">More</a></p>
+    </div>
+
+    <div id="details-fallback" hidden>
+      <p>TODO: Details for this object not filled in on the design page.</p>
+    </div>
+
+    <script>
+        $(".kube-browse").on("click", "div", function() {
+            $(".kube-browse div.active").removeClass("active");
+            $(this).addClass("active");
+
+            var uid = $(this).attr("data-uid") || "fallback";
+            var html = $("#details-" + uid).html();
+            $(".sidebar-content").empty().html(html);
+
+            return false;
+        });
+    </script>
   </body>
 </html>
