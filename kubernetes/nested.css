@@ -126,3 +126,7 @@
 .kube-deployment > .kube-status-icon {
     font-size: 24px;
 }
+
+.kube-details .affix {
+    top: 20px;
+}
