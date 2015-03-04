@@ -78,7 +78,7 @@
 
 
 
-            <div class="kube-service panel-heading" data-uid="front-end">
+            <div class="kube-service kube-clickable panel-heading" data-uid="front-end">
               <span class="pull-right" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.121.17.2:80 to port 8080
@@ -87,7 +87,7 @@
               <h3 class="panel-title">Front-end</h3>
             </div>
 
-            <div class="kube-deploy-config panel" data-uid="ruby-helloworld-deploy-config">
+            <div class="kube-deploy-config kube-clickable panel" data-uid="ruby-helloworld-deploy-config">
                 <p>
                     2 hours ago, triggered by new image for <code>openshift/origin-ruby-sample:latest</code>
                 </p>
@@ -95,7 +95,7 @@
                     8080
                 </div>
 
-                <div class="kube-deployment panel" data-uid="ruby-helloworld-deployment">
+                <div class="kube-deployment kube-clickable panel" data-uid="ruby-helloworld-deployment">
                   <div class="kube-status-icon" title="Scaling Up">
                     <span class="fa fa-chevron-circle-up"/>
                   </div>
@@ -111,13 +111,13 @@
                     </ul>
 
                     <div class="row">
-                        <div class="col-md-3 kube-pod panel" data-uid="ruby-helloworld-pod-1">
+                        <div class="col-md-3 kube-clickable kube-pod panel" data-uid="ruby-helloworld-pod-1">
                             <p>Running<br>172.17.2.226</p>
                         </div>
-                        <div class="col-md-3 kube-pod panel" data-uid="ruby-helloworld-pod-2">
+                        <div class="col-md-3 kube-clickable kube-pod panel" data-uid="ruby-helloworld-pod-2">
                             <p>Running<br>172.17.2.227</p>
                         </div>
-                        <div class="col-md-3 kube-pod panel" data-uid="ruby-helloworld-pod-3">
+                        <div class="col-md-3 kube-clickable kube-pod panel" data-uid="ruby-helloworld-pod-3">
                           <div class="kube-status-icon" title="Pending">
                             <div class="spinner spinner-xs"></div>
                           </div>
@@ -130,7 +130,7 @@
 
 
 
-            <div class="kube-service panel-heading">
+            <div class="kube-service kube-clickable panel-heading">
               <span class="pull-right" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.121.17.5:3306
@@ -139,11 +139,11 @@
               <h3 class="panel-title">Database</h3>
             </div>
 
-            <div class="kube-deploy-config panel">
+            <div class="kube-deploy-config kube-clickable panel">
                 <div class="kube-ports">
                     3306
                 </div>
-                <div class="kube-deployment panel">
+                <div class="kube-deployment kube-clickable panel">
                     <h3 class="panel-title">Ruby-helloworld</h3>
 
                     <ul class="fa-ul">
@@ -151,7 +151,7 @@
                     </ul>
 
                     <div class="row">
-                        <div class="col-md-3 kube-pod panel">
+                        <div class="col-md-3 kube-pod kube-clickable panel">
                             <p>Running<br>172.17.2.201</p>
                         </div>
                     </div>
@@ -161,7 +161,7 @@
 
 
 
-            <div class="kube-service panel-heading">
+            <div class="kube-service kube-clickable panel-heading">
               <span class="pull-right" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.10.17.5:80
@@ -170,7 +170,7 @@
               <h3 class="panel-title">Static Files</h3>
             </div>
 
-            <div class="kube-service panel-heading">
+            <div class="kube-service kube-clickable panel-heading">
               <span class="pull-right" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.10.17.5:443
@@ -179,11 +179,11 @@
               <h3 class="panel-title">Static Files (https)</h3>
             </div>
 
-            <div class="kube-deploy-config panel">
+            <div class="kube-deploy-config kube-clickable panel">
                 <div class="kube-ports">
                     80, 443
                 </div>
-                <div class="kube-deployment panel">
+                <div class="kube-deployment kube-clickable panel">
                   <div class="kube-status-icon" title="Pods failed to be scheduled">
                     <span class="kube-failed fa fa-exclamation-triangle"></span>
                   </div>
@@ -195,7 +195,7 @@
                     </ul>
 
                     <div class="row">
-                      <div class="col-md-3 kube-pod panel">
+                      <div class="col-md-3 kube-pod kube-clickable panel">
                         <p>Running<br>172.17.5.203</p>
                       </div>
                       <div class="col-md-3 kube-pod panel">
@@ -213,7 +213,7 @@
 
             <div class="row">
               <div class="col-md-12">
-                <div class="kube-service panel-heading">
+                <div class="kube-service kube-clickable panel-heading">
                   <span class="pull-right" title="TCP">
                     172.10.17.5:27017
                   </span>
@@ -224,7 +224,7 @@
 
             <div class="row">
               <div class="col-md-4">
-                <div class="kube-service panel-heading">
+                <div class="kube-service kube-clickable panel-heading">
                   <span class="pull-right" title="TCP">
                     172.10.17.5:28017
                   </span>
@@ -237,8 +237,8 @@
 
             <div class="row">
               <div class="col-md-4">
-                <div class="kube-deploy-config kube-small panel">
-                  <div class="kube-deployment panel">
+                <div class="kube-deploy-config kube-small kube-clickable panel">
+                  <div class="kube-deployment kube-clickable panel">
                     <h3 class="panel-title">MongoDB Master</h3>
 
                     <ul class="fa-ul">
@@ -246,15 +246,15 @@
                       <li><i class="fa-li fa fa-hdd-o"></i><code>mongodb-master</code></li>
                     </ul>
 
-                    <div class="kube-pod panel">
+                    <div class="kube-pod kube-clickable panel">
                       <p>Running<br>172.17.5.203</p>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
-                <div class="kube-deploy-config kube-small panel">
-                  <div class="kube-deployment panel">
+                <div class="kube-deploy-config kube-small kube-clickable panel">
+                  <div class="kube-deployment kube-clickable panel">
                     <h3 class="panel-title">MongoDB Shard A</h3>
 
                     <ul class="fa-ul">
@@ -262,14 +262,14 @@
                       <li><i class="fa-li fa fa-hdd-o"></i><code>mongodb-shard-a</code></li>
                     </ul>
 
-                    <div class="kube-pod panel">
+                    <div class="kube-pod kube-clickable panel">
                       <div class="kube-status-icon" title="Waiting">
                         <span class="fa fa-pause"></span>
                       </div>
                       <p>Waiting<br>172.107.8.13</p>
                     </div>
                   </div>
-                  <div class="kube-deployment panel">
+                  <div class="kube-deployment kube-clickable panel">
                     <h3 class="panel-title">MongoDB Shard A</h3>
 
                     <ul class="fa-ul">
@@ -277,15 +277,15 @@
                       <li><i class="fa-li fa fa-hdd-o"></i><code>shard-a</code></li>
                     </ul>
 
-                    <div class="kube-pod panel">
+                    <div class="kube-pod kube-clickable panel">
                       <p>Running<br>172.107.8.12</p>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
-                <div class="kube-deploy-config kube-small panel">
-                  <div class="kube-deployment panel">
+                <div class="kube-deploy-config kube-small kube-clickable panel">
+                  <div class="kube-deployment kube-clickable panel">
                     <h3 class="panel-title">MongoDB Shard A</h3>
 
                     <ul class="fa-ul">
@@ -293,14 +293,14 @@
                       <li><i class="fa-li fa fa-hdd-o"></i><code>mongodb-shard-a</code></li>
                     </ul>
 
-                    <div class="kube-pod panel">
+                    <div class="kube-pod kube-clickable panel">
                       <div class="kube-status-icon" title="Pending">
                         <div class="spinner spinner-xs"></div>
                       </div>
                       <p>Pending<br>172.17.9.99</p>
                     </div>
                   </div>
-                  <div class="kube-deployment panel">
+                  <div class="kube-deployment kube-clickable panel">
                     <h3 class="panel-title">MongoDB Shard B</h3>
 
                     <ul class="fa-ul">
@@ -308,7 +308,7 @@
                       <li><i class="fa-li fa fa-hdd-o"></i><code>shard-b</code></li>
                     </ul>
 
-                    <div class="kube-pod panel">
+                    <div class="kube-pod kube-clickable panel">
                       <p>Running<br>172.207.9.99</p>
                     </div>
                   </div>
@@ -328,6 +328,7 @@
             <h2 class="h5">Details</h2>
           </div>
           <div class="sidebar-content" data-spy="affix" data-offset-top="148">
+            <p><i>No object selected</i></p>
           </div>
         </div>
       </div>
@@ -493,11 +494,12 @@
     </div>
 
     <div id="details-fallback" hidden>
-      <p>TODO: Details for this object not filled in on the design page.</p>
+      <p><i>TODO: Fill in details here.</i></p>
+      <p><a href="#">More</a></p>
     </div>
 
     <script>
-        $(".kube-browse").on("click", "div", function() {
+        $(".kube-browse").on("click", "div.kube-clickable", function() {
             $(".kube-browse div.active").removeClass("active");
             $(this).addClass("active");
 
