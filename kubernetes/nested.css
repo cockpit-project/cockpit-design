@@ -4,6 +4,10 @@
     max-width: 700px;
 }
 
+.kube-browse .panel p:last-child {
+    margin-bottom: 0;
+}
+
 .kube-service {
     border-color: #D0D0D0;
     border-width: 1px;
