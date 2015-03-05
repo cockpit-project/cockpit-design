@@ -26,6 +26,7 @@
     text-align: center;
     padding: 10px;
     padding-right: 0px;
+    margin-bottom: 35px;
 }
 
 .kube-deployment {
@@ -37,11 +38,18 @@
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 0px;
-    margin-right: 60px;
+}
+
+.kube-browse > .kube-deployment {
+    margin-bottom: 35px;
 }
 
 .kube-deploy-config.kube-small {
     padding-right: 10px;
+}
+
+.kube-deploy-config .kube-deployment {
+    margin-right: 60px;
 }
 
 .kube-deploy-config.kube-small .kube-deployment {
@@ -86,10 +94,6 @@
 
 .kube-container:first-child {
     border-left: none;
-}
-
-.kube-pod:first-child {
-    margin-left: 20px;
 }
 
 .kube-pod p:last-child {
@@ -153,6 +157,15 @@
 }
 
 .kube-deployment > .kube-status-icon {
+    font-size: 24px;
+}
+
+.kube-deploy-config > .kube-status-icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.kube-deploy > .kube-status-icon {
     font-size: 24px;
 }
 
