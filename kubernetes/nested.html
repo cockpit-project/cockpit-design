@@ -79,7 +79,7 @@
 
 
             <div class="kube-service kube-clickable panel-heading" data-uid="front-end">
-              <span class="pull-right" title="TCP">
+              <span class="pull-right" data-toggle="tooltip" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.121.17.2:80 to port 8080
               </span>
@@ -94,7 +94,7 @@
                 </div>
 
                 <div class="kube-deployment kube-clickable panel" data-uid="ruby-helloworld-deployment">
-                  <div class="kube-status-icon" title="Scaling Up">
+                  <div class="kube-status-icon" data-toggle="tooltip" title="Scaling Up">
                     <span class="fa fa-chevron-circle-up"/>
                   </div>
                     <h3 class="panel-title">Ruby-helloworld</h3>
@@ -116,7 +116,7 @@
                             <p>Running<br>172.17.2.227</p>
                         </div>
                         <div class="col-md-3 kube-clickable kube-pod panel" data-uid="ruby-helloworld-pod-3">
-                          <div class="kube-status-icon" title="Pending">
+                          <div class="kube-status-icon" data-toggle="tooltip" title="Pending">
                             <div class="spinner spinner-xs"></div>
                           </div>
                           <p>Pending</p>
@@ -173,7 +173,7 @@
                 <dt>Commit</dt><dd>Added license (Psjuy33100)</dd>
                 <dt>Author</dt><dd>jdoe</dd>
               </dl>
-              <div class="kube-status-icon" title="Scaling Up">
+              <div class="kube-status-icon" data-toggle="tooltip" title="Scaling Up">
                 <span class="fa fa-chevron-circle-up"/>
               </div>
               <h3>Status</h3>
@@ -273,7 +273,7 @@
                 <dt>Ports</dt><dd>3306/TCP</dd>
                 <dt>Pull Policy</dt><dd>If not present</dd>
               </dl>
-              <div class="kube-status-icon" title="Pending">
+              <div class="kube-status-icon" data-toggle="tooltip" title="Pending">
                 <div class="spinner spinner-sm"></div>
               </div>
               <h3>Status</h3>
@@ -295,7 +295,7 @@
 
 
             <div class="kube-service kube-clickable panel-heading">
-              <span class="pull-right" title="TCP">
+              <span class="pull-right" data-toggle="tooltip" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.121.17.5:3306
               </span>
@@ -326,7 +326,7 @@
 
 
             <div class="kube-service kube-clickable panel-heading">
-              <span class="pull-right" title="TCP">
+              <span class="pull-right" data-toggle="tooltip" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.10.17.5:80
               </span>
@@ -335,7 +335,7 @@
             </div>
 
             <div class="kube-service kube-clickable panel-heading">
-              <span class="pull-right" title="TCP">
+              <span class="pull-right" data-toggle="tooltip" title="TCP">
                 <!-- for non-TCP traffic, we display the transport layer protocol. Otherwise TCP is assumed -->
                 172.10.17.5:443
               </span>
@@ -348,7 +348,7 @@
                     80, 443
                 </div>
                 <div class="kube-deployment kube-clickable panel">
-                  <div class="kube-status-icon" title="Pods failed to be scheduled">
+                  <div class="kube-status-icon" data-toggle="tooltip" title="Pods failed to be scheduled">
                     <span class="kube-failed fa fa-exclamation-triangle"></span>
                   </div>
                   <h3 class="panel-title">Apache</h3>
@@ -362,8 +362,8 @@
                       <div class="col-md-3 kube-pod kube-clickable panel">
                         <p>Running<br>172.17.5.203</p>
                       </div>
-                      <div class="col-md-3 kube-pod panel">
-                        <div class="kube-status-icon" title="Pods failed to be scheduled">
+                      <div class="col-md-3 kube-pod panel kube-clickable">
+                        <div class="kube-status-icon" data-toggle="tooltip" title="Pods failed to be scheduled">
                           <span class="kube-failed fa fa-exclamation-triangle"></span>
                         </div>
                         <p>Failed</p>
@@ -380,7 +380,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="kube-service kube-clickable panel-heading" data-uid="freeipa-dns-service">
-                  <span class="pull-right" title="UDP">
+                  <span class="pull-right" data-toggle="tooltip" title="UDP">
                     172.10.17.5:53/UDP
                   </span>
                   <h3 class="panel-title">FreeIPA DNS</h3>
@@ -390,7 +390,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="kube-service kube-clickable panel-heading" data-uid="freeipa-ldap-service">
-                  <span class="pull-right" title="TCP">
+                  <span class="pull-right" data-toggle="tooltip" title="TCP">
                     172.10.17.5:389
                   </span>
                   <h3 class="panel-title">FreeIPA LDAP</h3>
@@ -400,7 +400,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="kube-service kube-clickable panel-heading" data-uid="freeipa-ldap-service">
-                  <span class="pull-right" title="TCP">
+                  <span class="pull-right" data-toggle="tooltip" title="TCP">
                     172.10.17.5:80
                   </span>
                   <h3 class="panel-title">FreeIPA Admin Interface</h3>
@@ -685,7 +685,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="kube-service kube-clickable panel-heading">
-                  <span class="pull-right" title="TCP">
+                  <span class="pull-right" data-toggle="tooltip" title="TCP">
                     172.10.17.5:27017
                   </span>
                   <h3 class="panel-title">MongoDB</h3>
@@ -696,7 +696,7 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="kube-service kube-clickable panel-heading">
-                  <span class="pull-right" title="TCP">
+                  <span class="pull-right" data-toggle="tooltip" title="TCP">
                     172.10.17.5:28017
                   </span>
                   <h3 class="panel-title">Status</h3>
@@ -733,7 +733,7 @@
                     </ul>
 
                     <div class="kube-pod kube-clickable panel">
-                      <div class="kube-status-icon" title="Waiting">
+                      <div class="kube-status-icon" data-toggle="tooltip" title="Waiting">
                         <span class="fa fa-pause"></span>
                       </div>
                       <p>Waiting<br>172.107.8.13</p>
@@ -764,7 +764,7 @@
                     </ul>
 
                     <div class="kube-pod kube-clickable panel">
-                      <div class="kube-status-icon" title="Pending">
+                      <div class="kube-status-icon" data-toggle="tooltip" title="Pending">
                         <div class="spinner spinner-xs"></div>
                       </div>
                       <p>Pending<br>172.17.9.99</p>
@@ -831,6 +831,8 @@
 
             return false;
         });
+
+        $('[data-toggle="tooltip"]').tooltip()
     </script>
   </body>
 </html>
