@@ -41,6 +41,9 @@
   background: #fff;
 }
 
+.kube-deployment .panel-title{font-weight: normal;}
+
+
 .kube-pod{
   min-height: 70px;
   text-align: center;
