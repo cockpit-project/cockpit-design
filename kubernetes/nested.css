@@ -1,3 +1,19 @@
+.kube-icon{
+  background-image: url(icon.png);
+  background-repeat: no-repeat;
+  background-position:  center top;
+  background-size: 18px auto;
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.kube-icon.cluster{
+  background-position:  center bottom;
+  }
+
+
 .kube-browse {
 /*    margin: 10px;
     max-width: 700px;*/
