@@ -7,9 +7,11 @@
   height: 18px;
   display: inline-block;
   vertical-align: middle;
+  margin: 0;
+  padding: 0;
 }
 
-.kube-icon.cluster{
+.kube-icon.container{
   background-position:  center bottom;
   }
 
@@ -45,9 +47,13 @@
 
 
 .kube-pod{
-  min-height: 70px;
+  min-height: 84px;
   text-align: center;
 }
+
+.kube-pod-fail{
+  border-color:#af151a
+  }
 
 /*
 .kube-service {
