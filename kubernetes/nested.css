@@ -1,13 +1,29 @@
-
+body{
+//  background: rgba(0,0,0,.05);
+}
 .kube-browse {
     margin: 10px;
-    max-width: 700px;
+/*    max-width: 700px;*/
 }
 
 .kube-browse .panel p:last-child {
     margin-bottom: 0;
 }
 
+.kube-board{
+  background: rgba(0,0,0,.02);
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 1px;
+  margin-bottom: 5px;
+}
+
+
+.kube-deploy-config {
+    margin-bottom: 35px;
+}
+
+/*
 .kube-service {
     border-color: #D0D0D0;
     border-width: 1px;
@@ -39,6 +55,8 @@
     margin-top: 10px;
     margin-bottom: 0px;
 }
+*/
+
 
 .kube-browse > .kube-deployment {
     margin-bottom: 35px;
@@ -60,6 +78,23 @@
     margin-bottom: 15px;
 }
 
+
+.kube-pod-container{ 
+  margin-left: -10px;
+  overflow: auto;
+  zoom: 1;
+}
+
+.kube-pod-container .kube-pod{
+  float: left;
+  width: 33.3%;
+}
+
+.kube-pod .kube-board{
+  margin-left: 10px;
+}
+
+/*
 .kube-pod {
     text-align: center;
     border-color: #D0D0D0;
@@ -81,6 +116,8 @@
 .kube-pod .row {
     margin: 0px;
 }
+
+*/
 
 .kube-container {
     border-top: 1px dashed #D0D0D0;
