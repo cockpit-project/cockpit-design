@@ -79,21 +79,6 @@ body{
 }
 
 
-.kube-pod-container{ 
-  margin-left: -10px;
-  overflow: auto;
-  zoom: 1;
-}
-
-.kube-pod-container .kube-pod{
-  float: left;
-  width: 33.3%;
-}
-
-.kube-pod .kube-board{
-  margin-left: 10px;
-}
-
 /*
 .kube-pod {
     text-align: center;
@@ -159,7 +144,9 @@ body{
     float: right;
     border-top: 1px solid #D0D0D0;
     margin-top: 50px;
-    width: 60px;
+    width: 70px;
+    margin-right: -10px;
+    text-align: center;
 }
 
 .kube-browse .row > div {

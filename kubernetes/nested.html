@@ -114,21 +114,21 @@
                         </li>
                     </ul>
 
-                    <div class="kube-pod-container">
-                        <div class="kube-pod">
-                          <div class="kube-clickable kube-board" data-uid="ruby-helloworld-pod-1">
+                    <div class="row">
+                        <div class="col-md-4">
+                          <div class="kube-clickable kube-pod kube-board" data-uid="ruby-helloworld-pod-1">
                             <p>Running<br>172.17.2.226</p>
                           </div>
                         </div>
 
-                        <div class="kube-pod">
-                          <div class="kube-clickable  kube-board" data-uid="ruby-helloworld-pod-2">
+                        <div class="col-md-4">
+                          <div class="kube-clickable kube-pod kube-board" data-uid="ruby-helloworld-pod-2">
                               <p>Running<br>172.17.2.227</p>
                           </div>
                         </div>
                         
-                        <div class="kube-pod">
-                          <div class="kube-clickable kube-board" data-uid="ruby-helloworld-pod-3">
+                        <div class="col-md-4">
+                          <div class="kube-clickable kube-pod kube-board" data-uid="ruby-helloworld-pod-3">
                             <div class="kube-status-icon" data-toggle="tooltip" title="Pending">
                               <div class="spinner spinner-xs"></div>
                             </div>
@@ -327,10 +327,13 @@
                     <ul class="fa-ul">
                         <li><i class="fa-li fa fa-cube"></i>Image: <code>mariadb (3930293920...)</code></li>
                     </ul>
-
+                    <div class="row">
+                      <div class="col-md-12">
                         <div class="kube-pod kube-clickable kube-board">
                             <p>Running<br>172.17.2.201</p>
                         </div>
+                      </div>
+                    </div>
                 </div>
             </div>
 
@@ -370,15 +373,15 @@
                         <li><i class="fa-li fa fa-hdd-o"></i>Volume: <code>static-files</code></li>
                     </ul>
 
-                    <div class="kube-pod-container">
-                      <div class="kube-pod">
-                        <div class="kube-clickable kube-board">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="kube-clickable kube-pod kube-board">
                           <p>Running<br>172.17.5.203</p>
                         </div>
                       </div>
                       
-                      <div class="kube-pod">
-                        <div class="kube-clickable kube-board">
+                      <div class="col-md-6">
+                        <div class="kube-clickable kube-pod kube-board">
                           <div class="kube-status-icon" data-toggle="tooltip" title="Pods failed to be scheduled">
                             <span class="kube-failed fa fa-exclamation-triangle"></span>
                           </div>
@@ -386,6 +389,10 @@
                         </div>
                       </div>
                     </div>
+
+
+
+
                 </div>
             </div>
 
@@ -863,11 +870,15 @@
                 <li><i class="fa-li fa fa-hdd-o"></i>Volume: <code>static-files</code></li>
               </ul>
               <div class="row">
-                <div class="col-md-3 kube-pod kube-clickable kube-board">
-                  <p>Running<br>172.17.5.203</p>
+                <div class="col-md-6">
+                  <div class="kube-pod kube-clickable kube-board">
+                    <p>Running<br>172.17.5.203</p>
+                  </div>
                 </div>
-                <div class="col-md-3 kube-pod kube-board kube-clickable">
-                  <p>Running<br>172.17.5.204</p>
+                <div class="col-md-6">
+                  <div class="kube-pod kube-board kube-clickable">
+                    <p>Running<br>172.17.5.204</p>
+                  </div>
                 </div>
               </div>
             </div>
