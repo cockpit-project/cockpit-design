@@ -23,6 +23,10 @@ body{
     margin-bottom: 35px;
 }
 
+.kube-deployment{
+  background: #fff;
+}
+
 /*
 .kube-service {
     border-color: #D0D0D0;
