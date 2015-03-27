@@ -15,7 +15,7 @@ body{
   border: 1px solid #ddd;
   padding: 10px;
   border-radius: 1px;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 
@@ -71,9 +71,11 @@ body{
     margin-bottom: 35px;
 }
 
+/*
 .kube-deploy-config.kube-small {
     padding-right: 10px;
 }
+*/
 
 .kube-deploy-config .kube-deployment {
     margin-right: 60px;
@@ -113,6 +115,7 @@ body{
 
 */
 
+/*
 .kube-container {
     border-top: 1px dashed #D0D0D0;
     border-left: 1px dashed #D0D0D0;
@@ -126,6 +129,7 @@ body{
 .kube-container:first-child {
     border-left: none;
 }
+*/
 
 .kube-pod p:last-child {
     margin-bottom: 0px;
@@ -140,7 +144,7 @@ body{
     margin-left: 50px;
 }
 
-.kube-deployment .row {
+.kube-deployment .row, .kube-pod .row, .kube-deploy-config .row {
     margin: 0px;
 }
 

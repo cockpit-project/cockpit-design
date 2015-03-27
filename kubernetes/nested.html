@@ -95,7 +95,7 @@
 
                 <div class="kube-deployment kube-clickable kube-board" data-uid="ruby-helloworld-deployment">
                   <div class="kube-status-icon" data-toggle="tooltip" title="Scaling Up">
-                    <span class="fa fa-chevron-circle-up"/>
+                    <span class="fa fa-chevron-circle-up"></span>
                   </div>
                     <h3 class="panel-title">Ruby-helloworld</h3>
 
@@ -188,7 +188,7 @@
                 <dt>Author</dt><dd>jdoe</dd>
               </dl>
               <div class="kube-status-icon" data-toggle="tooltip" title="Scaling Up">
-                <span class="fa fa-chevron-circle-up"/>
+                <span class="fa fa-chevron-circle-up"></span>
               </div>
               <h3>Status</h3>
               <dl class="dl-horizontal">
@@ -457,17 +457,26 @@
                     </ul>
                   </div>
                 </div>
-                <div class="kube-pod kube-clickable kube-pod-large kube-board"data-uid="freeipa-pod">
+                <div class="kube-pod kube-clickable kube-pod-large kube-board" data-uid="freeipa-pod">
                   <p>Running   172.28.38.5</p>
+                  
                   <div class="row">
-                    <div class="kube-container kube-clickable col-md-4" data-uid="freeipa-container-ldap">
-                      freeipa-ldap
+                    <div class="col-md-4">
+                      <div class="kube-container kube-clickable kube-board" data-uid="freeipa-container-ldap">
+                        freeipa-ldap
+                      </div>
                     </div>
-                    <div class="kube-container kube-clickable col-md-4" data-uid="freeipa-container-dns">
-                      freeipa-dns
+
+                    <div class="col-md-4">
+                      <div class="kube-container kube-clickable kube-board" data-uid="freeipa-container-dns">
+                        freeipa-dns
+                      </div>
                     </div>
-                    <div class="kube-container kube-clickable col-md-4" data-uid="freeipa-container-admin">
-                      freeipa-webui
+                    
+                    <div class="col-md-4">
+                      <div class="kube-container kube-clickable kube-board" data-uid="freeipa-container-admin">
+                        freeipa-webui
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -599,7 +608,7 @@
                 <dt>Host IP</dt><dd>172.27.0.4</dd>
                 <dt>Pod IP</dt><dd>172.28.38.5</dd>
                 <dt>Restart Count</dt><dd>0</dd>
-              </dd>
+              </dl>
               <h3>Labels</h3>
               <dl class="dl-horizontal">
                 <dt>name</dt><dd>freeipa</dd>
@@ -706,32 +715,27 @@
 
 
 
-            <div class="row">
-              <div class="col-md-12">
-                <div class="kube-service kube-clickable kube-board">
-                  <span class="pull-right" data-toggle="tooltip" title="TCP">
-                    172.10.17.5:27017
-                  </span>
-                  <h3 class="panel-title">MongoDB</h3>
-                </div>
-              </div>
+            <div class="kube-service kube-clickable kube-board">
+              <span class="pull-right" data-toggle="tooltip" title="TCP">
+                172.10.17.5:27017
+              </span>
+              <h3 class="panel-title">MongoDB</h3>
             </div>
+
+            <div class="kube-service kube-clickable kube-board">
+              <span class="pull-right" data-toggle="tooltip" title="TCP">
+                172.10.17.5:28017
+              </span>
+              <h3 class="panel-title">Status</h3>
+            </div>
+
+
+
+
+            <div class="kube-deploy-config kube-small kube-clickable kube-board">
 
             <div class="row">
               <div class="col-md-4">
-                <div class="kube-service kube-clickable kube-board">
-                  <span class="pull-right" data-toggle="tooltip" title="TCP">
-                    172.10.17.5:28017
-                  </span>
-                  <h3 class="panel-title">Status</h3>
-                </div>
-              </div>
-              <div class="col-md-4">
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <div class="kube-deploy-config kube-small kube-clickable kube-board">
                   <div class="kube-deployment kube-clickable kube-board">
                     <h3 class="panel-title">MongoDB Master</h3>
 
@@ -860,6 +864,11 @@
 
 
 
+
+
+
+
+
             <div class="kube-deployment kube-clickable kube-board">
               <div class="kube-status-icon" data-toggle="tooltip" title="Pods are inaccessible without a Service">
                 <span class="kube-failed fa fa-exclamation-triangle"></span>
@@ -885,15 +894,26 @@
 
 
 
+
+
+
+
             <div class="kube-pod kube-clickable kube-board" data-uid="build-pod">
               <p>Running   172.28.38.5</p>
+              
               <div class="row">
-                <div class="kube-container kube-clickable col-md-6" data-uid="build-1">
-                  build-1
+                <div class="col-md-6">
+                  <div class="kube-container kube-clickable kube-board" data-uid="build-1">
+                    build-1
+                  </div>
                 </div>
-                <div class="kube-container kube-clickable col-md-6" data-uid="build-2">
-                  build-2
+                
+                <div class="col-md-6">
+                  <div class="kube-container kube-clickable kube-board" data-uid="build-2">
+                    build-2
+                  </div>
                 </div>
+              
               </div>
             </div>
 
@@ -914,7 +934,7 @@
                 <dt>Host IP</dt><dd>172.27.0.4</dd>
                 <dt>Pod IP</dt><dd>172.28.38.5</dd>
                 <dt>Restart Count</dt><dd>0</dd>
-              </dd>
+              </dl>
               <h3>Labels</h3>
               <dl class="dl-horizontal">
                 <dt>name</dt><dd>myproject</dd>
