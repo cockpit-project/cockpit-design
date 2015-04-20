@@ -449,6 +449,58 @@
        y2="1163.3622"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(3.3800886,0,0,1.0015779,-3079.2619,940.1579)" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.59523817,0,0,0.92604302,-694.3154,23.672563)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076-9">
+      <stop
+         style="stop-color:#f8f8f8;stop-opacity:1"
+         offset="0"
+         id="stop8078-7" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="1"
+         id="stop8080-4" />
+    </linearGradient>
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.59523817,0,0,0.92604302,-669.3154,23.672535)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-1"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.59523817,0,0,0.92604302,-694.3154,1023.6725)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-8"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.59523817,0,0,0.92604302,-669.3154,1023.6725)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-1-0"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -457,16 +509,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="713.06311"
-     inkscape:cy="-549.78565"
+     inkscape:zoom="0.12500001"
+     inkscape:cx="-294.75517"
+     inkscape:cy="-1878.0033"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -507,13 +559,13 @@
      id="layer1"
      transform="translate(217.14285,-15.219323)">
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="rect18273-5-4"
-       width="3193.5713"
-       height="2880.6514"
-       x="-799.32593"
-       y="-34.483635"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-1-0);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-1-2"
+       width="25.000002"
+       height="25.003162"
+       x="-9.4938002"
+       y="2083.8643"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -2964,13 +3016,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:1.00000012;marker:none;enable-background:accumulate"
-       id="rect18273-5-45-2"
-       width="1196.7765"
-       height="809.79102"
-       x="-216.74008"
-       y="1986.0834"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-8);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-6"
+       width="25.000002"
+       height="25.003162"
+       x="-34.493801"
+       y="2083.8643"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -3129,15 +3181,25 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       inkscape:export-ydpi="90"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-1);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-1"
+       width="25.000002"
+       height="25.003162"
+       x="-9.4938021"
+       y="1083.8643"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
-       y="1083.8737"
-       x="-34.471104"
-       height="24.99999"
-       width="24.99999"
-       id="rect29254-4"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#b7b7b7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5"
+       width="25.000002"
+       height="25.003162"
+       x="-34.493805"
+       y="1083.8643"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -3145,32 +3207,15 @@
        inkscape:connector-curvature="0"
        id="rect9876-9-0-7"
        d="m -17.971094,1090.806 0,9.8901 -9,-4.9451 9,-4.945 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-    <g
-       id="g15990"
-       style="opacity:0.553"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d5258;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         transform="scale(-1,1)"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#b7b7b7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect29254-4-3"
-         width="24.99999"
-         height="24.99999"
-         x="-15.488193"
-         y="1083.8737"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         d="m -1.0117863,1090.806 0,9.8901 8.9999999,-4.9451 -8.9999999,-4.945 z"
-         id="rect9876-9-0-7-6"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-    </g>
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
+       inkscape:connector-curvature="0"
+       id="rect9876-9-0-7-6"
+       d="m -1.0117863,1090.806 0,9.8901 8.9999999,-4.9451 -8.9999999,-4.945 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d5258;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-2-6-7-6);fill-opacity:1;fill-rule:nonzero;stroke:#a40000;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-58-8-3-6"
@@ -3393,7 +3438,15 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-6-5-2-5-5-1"
            style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara8916-7">Update 2014-12-23 - 9 changes</flowPara></flowRoot>    <rect
+         id="flowPara8916-7">Update 2014-12-23 - 9 changes</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
+       inkscape:connector-curvature="0"
+       id="rect9876-9-0-7-4"
+       d="m -17.971087,2090.806 0,9.8901 -9,-4.9451 9,-4.945 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d5258;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
@@ -3408,9 +3461,9 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
        inkscape:connector-curvature="0"
-       id="rect9876-9-0-7-8"
-       d="m -17.971087,2090.806 0,9.8901 -9,-4.9451 9,-4.945 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+       id="rect9876-9-0-7-6-0"
+       d="m -1.0117772,2090.806 0,9.8901 9,-4.9451 -9,-4.945 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4d5258;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -3422,14 +3475,6 @@
        id="rect29254-4-3-9"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#b7b7b7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="scale(-1,1)" />
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/historical-data/historical-data.png"
-       inkscape:connector-curvature="0"
-       id="rect9876-9-0-7-6-6"
-       d="m -1.0117872,2090.806 0,9.8901 9,-4.9451 -9,-4.945 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,6;stroke-dashoffset:0"
        d="m -48.14285,2094.2193 -89,0 0,212 -229,0"
