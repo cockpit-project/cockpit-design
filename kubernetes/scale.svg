@@ -391,17 +391,7 @@
        xlink:href="#linearGradient8076-9-4-70-0-2-4-3"
        id="linearGradient5505"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3095238,0,0,1,-1336.2501,-493.22353)"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8076-9-4-70-0-2-4-3-5"
-       id="linearGradient5555"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3095238,0,0,1,-1340.2501,-493.22353)"
+       gradientTransform="matrix(1.3095238,0,0,1,-1344.2501,-493.22353)"
        x1="1133.7847"
        y1="1149.5696"
        x2="1133.7847"
@@ -416,6 +406,16 @@
        y1="1149.5696"
        x2="1133.7847"
        y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient4463"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8095238,0,0,1,-1830.9786,-493.4592)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -424,9 +424,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="703.19377"
-     inkscape:cy="670.73503"
+     inkscape:zoom="0.5"
+     inkscape:cx="609.48474"
+     inkscape:cy="495.39421"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -754,7 +754,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(232.96484,284.9194)"><flowRegion
+       transform="translate(198.96484,284.9194)"><flowRegion
          id="flowRegion8938"><rect
            y="70.164452"
            x="-206.87547"
@@ -763,7 +763,7 @@
            id="rect8940"
            style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#888a85" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara8942">Invalid input</flowPara><flowPara
+         id="flowPara8942">Click Adjust, validation fails</flowPara><flowPara
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#888a85"
          id="flowPara8944" /><flowPara
          id="flowPara8946"
@@ -822,7 +822,7 @@
          id="flowPara8986" /><flowPara
          id="flowPara8988"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#888a85">eg: my application</flowPara></flowRoot>    <flowRoot
-       transform="translate(84.96484,696.9194)"
+       transform="translate(92.96484,676.9194)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
@@ -832,18 +832,32 @@
          id="flowRegion8992"><rect
            style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#888a85"
            id="rect8994"
-           width="330.55707"
-           height="126.93295"
+           width="400.56064"
+           height="236.53452"
            x="-206.87547"
            y="70.164452" /></flowRegion><flowPara
          id="flowPara8996"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000">Dialog behavior:</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara4396">Dialog stays open until operation completes.</flowPara><flowPara
+         id="flowPara4465">Dialog stays open until operation completes.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara9000">Failures allow user to retry operation.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara9008">When operation completes successfully, dialog closes.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4469" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4471">Validation Behavior</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4475">Validation happens when clicking 'Adjust'. Remove any errors, add new ones.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4485">Errors added below relevant fields</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4477">Adjust button remains enabled, even when dialog incomplete</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4479">No validation while typing, or focus changes</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara4481">If field has error, on keypress/change, set 'visibility: hidden' on error</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara3595" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
@@ -888,23 +902,6 @@
          y="199.60097"
          style="font-size:10px"
          id="tspan9014">by clicking Cancel.</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text9022"
-       y="730.69244"
-       x="-68.551987"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan9032"
-         style="font-size:10px"
-         y="730.69244"
-         x="-68.551987"
-         sodipodi:role="line">Invalid, incomplete input disables Adjust button</tspan><tspan
-         style="font-size:10px"
-         y="743.19244"
-         x="-68.551987"
-         sodipodi:role="line"
-         id="tspan5557">Note that the user cannot type anything but numbers</tspan></text>
     <flowRoot
        transform="translate(-8.03516,122.9194)"
        inkscape:export-ydpi="90"
@@ -1048,13 +1045,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        y="651.63867"
-       x="115.35712"
+       x="107.35712"
        height="27"
        width="55"
        id="rect5463"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient5505);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <flowRoot
-       transform="translate(-385.17801,264.13869)"
+       transform="translate(-393.17801,264.13869)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
@@ -1169,33 +1166,7 @@
            x="-131.37547"
            y="84.664452" /></flowRegion><flowPara
          id="flowPara5543"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#d40000">The maximum number of replicas is 128</flowPara></flowRoot>    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="651.63867"
-       x="179.35712"
-       height="27"
-       width="76"
-       id="rect5545"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient5555);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <flowRoot
-       transform="translate(-153.03516,248.91939)"
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       xml:space="preserve"
-       id="flowRoot5547"
-       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion5549"><rect
-           style="line-height:100%;text-align:center;text-anchor:middle;fill:#999999"
-           id="rect5551"
-           width="59.553505"
-           height="16.077303"
-           x="341.33353"
-           y="411.64795" /></flowRegion><flowPara
-         id="flowPara5553"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#999999">Adjust</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#d40000">The maximum number of replicas is 128</flowPara></flowRoot>    <g
        id="g3997">
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none"
@@ -1585,5 +1556,48 @@
            id="rect4055"
            style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#d40000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#d40000"
-         id="flowPara4057">Not a valid service name</flowPara></flowRoot>  </g>
+         id="flowPara4057">Not a valid service name</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4463);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4452"
+       width="76"
+       height="27"
+       x="174.87857"
+       y="651.40295"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4455"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-157.51371,248.68364)"><flowRegion
+         id="flowRegion4457"><rect
+           y="411.64795"
+           x="341.33353"
+           height="16.077303"
+           width="59.553505"
+           id="rect4459"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowPara4461">Adjust</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text9022"
+       y="704.01587"
+       x="-103.58264"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan9032"
+         style="font-size:10px"
+         y="704.01587"
+         x="-103.58264"
+         sodipodi:role="line" /><tspan
+         style="font-size:10px"
+         y="716.51587"
+         x="-103.58264"
+         sodipodi:role="line"
+         id="tspan5557">Note that the user cannot type anything but numbers, in numeric fields</tspan></text>
+  </g>
 </svg>
