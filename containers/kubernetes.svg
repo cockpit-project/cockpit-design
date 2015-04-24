@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="kubernetes.svg">
   <defs
      id="defs4">
@@ -177,16 +177,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1682.3648"
-     inkscape:cy="568.31182"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="1465.4485"
+     inkscape:cy="347.79306"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -217,7 +217,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -307,7 +307,7 @@
        sodipodi:cy="13.340287"
        sodipodi:rx="5.126524"
        sodipodi:ry="5.126524"
-       d="m 919.06201,13.340287 a 5.126524,5.126524 0 1 1 -10.25305,0 5.126524,5.126524 0 1 1 10.25305,0 z"
+       d="m 919.06201,13.340287 a 5.126524,5.126524 0 0 1 -5.12652,5.126524 5.126524,5.126524 0 0 1 -5.12653,-5.126524 5.126524,5.126524 0 0 1 5.12653,-5.1265238 5.126524,5.126524 0 0 1 5.12652,5.1265238 z"
        transform="matrix(0.78025671,0,0,0.78025579,159.89589,17.969979)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/kubernetes.png"
        inkscape:export-xdpi="90"
@@ -571,13 +571,6 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="ccccccccccc" />
-    <image
-       y="-1289.6898"
-       x="1781.9717"
-       id="image9977"
-       xlink:href="file:///home/andreasn/Pictures/Screenshot%20from%202014-10-28%2012:31:47.png"
-       height="1080"
-       width="1920" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-9-49-4-4-8"
@@ -1147,7 +1140,7 @@
        sodipodi:cy="-988.1875"
        sodipodi:rx="1.6875"
        sodipodi:ry="1.6875"
-       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 1 1 -3.375,0 1.6875,1.6875 0 1 1 3.375,0 z"
+       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 0 1 -1.6875,1.6875 1.6875,1.6875 0 0 1 -1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,1.6875 z"
        transform="matrix(0.88888889,0,0,0.88888889,-90.663737,1041.2676)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/kubernetes.png"
        inkscape:export-xdpi="90"
@@ -1160,7 +1153,7 @@
        sodipodi:cy="-988.1875"
        sodipodi:rx="1.6875"
        sodipodi:ry="1.6875"
-       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 1 1 -3.375,0 1.6875,1.6875 0 1 1 3.375,0 z"
+       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 0 1 -1.6875,1.6875 1.6875,1.6875 0 0 1 -1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,1.6875 z"
        transform="matrix(0.88888889,0,0,0.88888889,-90.663688,1059.2676)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/kubernetes.png"
        inkscape:export-xdpi="90"
@@ -1173,7 +1166,7 @@
        sodipodi:cy="-988.1875"
        sodipodi:rx="1.6875"
        sodipodi:ry="1.6875"
-       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 1 1 -3.375,0 1.6875,1.6875 0 1 1 3.375,0 z"
+       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 0 1 -1.6875,1.6875 1.6875,1.6875 0 0 1 -1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,1.6875 z"
        transform="matrix(0.88888889,0,0,0.88888889,-90.663688,1073.2676)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/kubernetes.png"
        inkscape:export-xdpi="90"
@@ -1186,7 +1179,7 @@
        sodipodi:cy="-988.1875"
        sodipodi:rx="1.6875"
        sodipodi:ry="1.6875"
-       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 1 1 -3.375,0 1.6875,1.6875 0 1 1 3.375,0 z"
+       d="m 1165.125,-988.1875 a 1.6875,1.6875 0 0 1 -1.6875,1.6875 1.6875,1.6875 0 0 1 -1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,-1.6875 1.6875,1.6875 0 0 1 1.6875,1.6875 z"
        transform="matrix(0.88888889,0,0,0.88888889,-90.663688,1107.2676)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/kubernetes.png"
        inkscape:export-xdpi="90"
@@ -1372,7 +1365,7 @@
        sodipodi:cy="-956.07831"
        sodipodi:rx="4.1100583"
        sodipodi:ry="4.1100583"
-       d="m 939.47975,-956.07831 a 4.1100583,4.1100583 0 1 1 -8.22012,0 4.1100583,4.1100583 0 1 1 8.22012,0 z"
+       d="m 939.47975,-956.07831 a 4.1100583,4.1100583 0 0 1 -4.11006,4.11006 4.1100583,4.1100583 0 0 1 -4.11006,-4.11006 4.1100583,4.1100583 0 0 1 4.11006,-4.11006 4.1100583,4.1100583 0 0 1 4.11006,4.11006 z"
        transform="translate(-218.87041,1187.7454)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/kubernetes.png"
        inkscape:export-xdpi="90"
