@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pods Listing</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../files/patternfly/patternfly.css" rel="stylesheet" media="screen, print">
+    <link href="pods.css" rel="stylesheet" media="screen, print">
+    <script src="../files/jquery/jquery.js"></script>
+    <script src="../files/bootstrap/bootstrap.js"></script>
+    <script src="../files/patternfly/js/patternfly.js"></script>
+    <style>
+      .faded {
+        opacity: 0.5
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-pf faded" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img src="../files/brand.svg" alt="PatternFly Enterprise Application" />
+        </a>
+      </div>
+      <div class="collapse navbar-collapse navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-utility">
+          <li>
+            <a href="#">Note: Install fonts manually</a>
+          </li>
+          <li>
+            <a href="#">Note: None of this is part of the design</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              <span class="pficon pficon-user"></span>
+              Brian Johnson <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="#">Dummy</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-primary">
+          <li class="active">
+            <a href="#" class="active">Dashboard</a>
+          </li>
+          <li class="active">
+            <a href="#" class="active">Overview</a>
+          </li>
+          <li class="active">
+            <a href="#" class="active">Topology</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+
+          <div class="page-header page-header-bleed-right">
+            <div class="actions pull-right">
+	      Side navigation not included.
+            </div>
+            <h1>Design: Pod Listing</h1>
+          </div>
+
+
+          <div class="kube-listing">
+
+	    <div class="kube-pod panel">
+                  <div class="kube-icon">
+                    <span class="kube-failed fa fa-exclamation-triangle"></span>
+                  </div>
+              <h3 class="panel-title">database-xu1zf</h3>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="kube-info">
+                    <dl compact="compact">
+                      <dt>Namespace</dt>
+                      <dd>example</dd>
+                      <dt>Restart Policy</dt>
+                      <dd>always</dd>
+                      <dt>Node</dt><dd>atomic-node-1 (192.168.11.5)</dd>
+                      <dt>Status</dt><dd>Running</dd>
+                      <dt>Address</dt><dd>172.17.0.1</dd>
+                    </dl>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="kube-state">
+                    <dl>
+                      <dt class="header full">Labels</dt>
+                      <dt>name</dt>
+                      <dd>database</dd>
+                      <dt>template</dt>
+                      <dd>ruby-helloworld-sample</dd>
+                    </dl>
+                  </div>
+                </div>
+              </div>
+
+              <div class="kube-ports">
+                <div class="kube-port">
+                  3306/TCP
+                </div>
+              </div>
+
+              <div class="kube-container panel">
+                <ul class="nav nav-pills nav-tabs-pf nav-tabs-clean">
+                  <li class="active"><a href="#">Status</a></li>
+                  <li><a href="#">Console</a></li>
+                  <li><a href="#">Shell</a></li>
+                </ul>
+                <h3 class="panel-title">ruby-helloworld-database</h3>
+                <div class="row">
+                  <div class="col-md-6">
+                    <dl>
+                      <dt>Image</dt>
+                      <dd>mysql</dd>
+                      <dt>Image ID</dt>
+                      <dd class="kube-id">56f320bd6adc</dd>
+                      <dt>Container ID</dt>
+                      <dd class="kube-id">3bea393c9c75</dd>
+                      <dt class="kube-ports">Ports</dt>
+                      <dd class="kube-ports">3306/TCP</dd>
+                      <dt>State</dt>
+                      <dd>Running</dd>
+                      <dt>Since</dt>
+                      <dd>2015-05-18T13:27:06Z</dd>
+                      <dt>Restart Count</dt>
+                      <dd>1</dd>
+                    </dl>
+                  </div>
+                  <div class="col-md-6">
+                    <dl>
+                      <dt class="header full">Environment</dt>
+                      <dd class="kube-id full">MYSQL_ROOT_PASSWORD=rqHfvnTo</dd>
+                      <dd class="kube-id full">MYSQL_DATABASE=root</dd>
+                    </dl>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+	    <div class="kube-pod panel">
+              <div class="kube-icon">
+                <div class="spinner"></div>
+              </div>
+              <h3 class="panel-title">frontend-30azf</h3>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="kube-info">
+                    <dl compact="compact">
+                      <dt>Namespace</dt>
+                      <dd>example</dd>
+                      <dt>Node</dt><dd>atomic-node-2 (192.168.11.8)</dd>
+                      <dt>Status</dt><dd>Pending</dd>
+                      <dt>Address</dt><dd>172.17.0.3</dd>
+                      <dt>Restart Policy</dt>
+                      <dd>always</dd>
+                    </dl>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="kube-state">
+                    <dl>
+                      <dt class="header full">Labels</dt>
+                      <dt>name</dt>
+                      <dd>frontend</dd>
+                      <dt>template</dt>
+                      <dd>ruby-helloworld-sample</dd>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <div class="kube-ports">
+                <div class="kube-port">
+                  8080/TCP
+                </div>
+              </div>
+
+              <div class="kube-container panel">
+                <ul class="nav nav-pills nav-tabs-pf nav-tabs-clean">
+                  <li><a href="#">Status</a></li>
+                  <li><a href="#">Console</a></li>
+                  <li class="active"><a href="#">Shell</a></li>
+                </ul>
+                <h3 class="panel-title">ruby-helloworld</h3>
+                <div class="row">
+                  <div class="col-md-6">
+                    <dl>
+                      <dt>Image</dt>
+                      <dd>openshift/ruby-hello-world</dd>
+                      <dt>Image ID</dt>
+                      <dd class="kube-id">c9917ac09d5bc</dd>
+                      <dt>Container ID</dt>
+                      <dd class="kube-id">bf6c5f989a81</dd>
+                      <dt class="kube-ports">Ports</dt>
+                      <dd class="kube-ports">8080/TCP</dd>
+                        <dt>State</dt>
+                        <dd>Running</dd>
+                        <dt>Since</dt>
+                        <dd>2015-05-18T13:27:06Z</dd>
+                        <dt>Restart Count</dt>
+                        <dd>1</dd>
+                    </dl>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="kube-state">
+                      <dl>
+                      <dt class="header full">Environment</dt>
+                      <dd class="kube-id full">ADMIN_USERNAME=admin</dd>
+                      <dd class="kube-id full">ADMIN_PASSWORD=xImx1tHR</dd>
+                      <dd class="kube-id full">MYSQL_ROOT_PASSWORD=rqHfvnTo</dd>
+                      <dd class="kube-id full">MYSQL_DATABASE=root</dd>
+                      </dl>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="kube-ports">
+                <div class="kube-port">
+                  8443/TCP
+                </div>
+              </div>
+
+              <div class="kube-container panel">
+                <ul class="nav nav-pills nav-tabs-pf nav-tabs-clean">
+                  <li><a href="#">Status</a></li>
+                  <li><a href="#">Console</a></li>
+                  <li class="active"><a href="#">Shell</a></li>
+                </ul>
+                <h3 class="panel-title">ruby-helloworld-ssl</h3>
+
+                <!-- This is pretty much how this is rendered -->
+                <div class="console">
+                  <div class="terminal">
+                    <div></div>
+                    <div>[root@frontend]# echo this is a terminal&nbsp;</div>
+                    <div>this is a terminal&nbsp;</div>
+                    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                    <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div>
+                    <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div>
+                    <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div>
+                    <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div>
+                    <div>&nbsp;</div>
+                  </div>
+                </div>
+              </div>
+
+            <!-- end listing -->
+            </div>
+
+
+	  </div>
+	</div>
+      </div>
+    </div>
+  </body>
+</html>
