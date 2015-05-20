@@ -69,10 +69,6 @@
     font-weight: normal;
 }
 
-.kube-listing dd.full {
-    margin-left: 10px;
-}
-
 .kube-listing dt.full {
     text-align: left;
     min-width: none;
@@ -184,6 +180,8 @@ div.kube-ports .kube-port:after {
     }
     .kube-listing .kube-pod > .row {
          margin-left: 0px;
+	 /* TODO: Should be dependent on ports */
+	 margin-right: 70px;
     }
     div.kube-ports {
 	 display: block;
