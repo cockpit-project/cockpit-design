@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Pods Listing</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../files/patternfly/patternfly.css" rel="stylesheet" media="screen, print">
     <link href="pods.css" rel="stylesheet" media="screen, print">
@@ -256,6 +257,26 @@
                     <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div> <div>&nbsp;</div>
                     <div>&nbsp;</div>
                   </div>
+                </div>
+              </div>
+
+              <div class="kube-ports">
+                <div class="kube-port">
+                  8001/TCP
+                </div>
+              </div>
+
+              <div class="kube-container panel">
+                <ul class="nav nav-pills nav-tabs-pf nav-tabs-clean">
+                  <li><a href="#">Status</a></li>
+                  <li class="active"><a href="#">Console</a></li>
+                  <li><a href="#">Shell</a></li>
+                </ul>
+                <h3 class="panel-title">ruby-helloworld-ssl</h3>
+
+                <!-- This is pretty much how this is rendered -->
+                <div class="console">
+                  <pre class="logs">Mär 19 15:08:54 This is some log output</pre>
                 </div>
               </div>
 
