@@ -1,5 +1,5 @@
 
-.kube-listing .kube-pod {
+.kube-details .kube-pod {
     border-color: #D0D0D0;
     background-color: #F0F0F0;
     border-width: 1px;
@@ -10,16 +10,16 @@
     clear: both;
 }
 
-.kube-listing .kube-pod h3 {
+.kube-details .kube-pod h3 {
     margin-bottom: 15px;
 }
 
-.kube-listing {
+.kube-details {
     margin: 10px;
     max-width: 900px;
 }
 
-.kube-listing .kube-container {
+.kube-details .kube-container {
     background-color: white;
     border-radius: 4px;
     padding: 0 20px 10px 10px;
@@ -28,17 +28,18 @@
     margin-bottom: 0px;
 }
 
-.kube-listing .kube-container .panel-title {
+.kube-details .kube-container .panel-title {
     margin-top: 10px;
 }
 
-    .kube-listing .kube-container .nav {
-	float: right;
-    	margin-top: 0px;
-    }
-    .kube-listing .kube-container .nav:after {
-	clear: right;
-    }
+.kube-details .kube-container .nav {
+    float: right;
+    margin-top: 0px;
+}
+
+.kube-details .kube-container .nav:after {
+    clear: right;
+}
 
 /* Right align the pills */
 .nav-tabs-clean > li:first-child > a {
@@ -49,12 +50,12 @@
     left: 15px !important;
 }
 
-.kube-listing dl {
+.kube-details dl {
     margin-bottom: 0px;
     clear: both;
 }
 
-.kube-listing dt {
+.kube-details dt {
     clear: left;
     float: left;
     width: 25%;
@@ -69,23 +70,23 @@
     font-weight: normal;
 }
 
-.kube-listing dt.full {
+.kube-details dt.full {
     text-align: left;
     min-width: none;
     max-width: none;
     float: none;
 }
 
-.kube-listing dt.header {
+.kube-details dt.header {
     padding-top: 10px;
     font-weight: bold;
 }
 
-.kube-listing dt.header:first-child {
+.kube-details dt.header:first-child {
     padding-top: 0px;
 }
 
-.kube-listing dd {
+.kube-details dd {
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -169,16 +170,16 @@ div.kube-ports .kube-port:after {
 }
 
 @media(min-width: 970px) {
-    .kube-listing .kube-pod {
+    .kube-details .kube-pod {
 	 padding-right: 0px;
     }
-    .kube-listing dl {
+    .kube-details dl {
 	 margin-bottom: 10px;
     }
-    .kube-listing .kube-container {
+    .kube-details .kube-container {
 	 padding: 0px 20px 0px 20px;
     }
-    .kube-listing .kube-pod > .row {
+    .kube-details .kube-pod > .row {
          margin-left: 0px;
 	 /* TODO: Should be dependent on ports */
 	 margin-right: 70px;
