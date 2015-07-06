@@ -523,12 +523,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="369.29899"
-     inkscape:cy="678.03666"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="475.44441"
+     inkscape:cy="653.61629"
      inkscape:document-units="px"
-     inkscape:current-layer="g7553-4"
-     showgrid="true"
+     inkscape:current-layer="layer3"
+     showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
@@ -4376,7 +4376,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="notations"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#5c3566;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 36.294252,246.64343 -93.12964,0"
@@ -4705,5 +4705,30 @@
          id="flowPara6844-4-1-1-6-7-2-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1">New, unseen messages are present above.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
-         id="flowPara8429">Click to jump to top.</flowPara></flowRoot>  </g>
+         id="flowPara8429">Click to jump to top.</flowPara></flowRoot>    <path
+       style="display:inline;fill:none;stroke:#75507b;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 322.66398,-32.694054 0,111.533934"
+       id="path12229-5-1-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-0-4-3-1-1-9-3"
+       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-v3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-187.08882,-95.484728)"><flowRegion
+         id="flowRegion6840-2-3-5-4-9-1-3-6"><rect
+           id="rect6842-7-6-3-3-1-2-8-5"
+           width="193.60242"
+           height="61.587616"
+           x="406.86298"
+           y="-3.8919864"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         id="flowPara12652-7">In multi-machine setups, allows to select and deselect what hosts to show</flowPara></flowRoot>  </g>
 </svg>
