@@ -535,6 +535,16 @@
          stdDeviation="2.4121093"
          id="feGaussianBlur11546-6" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient8082-5-5"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.61994989,0,0,0.92604302,147.307,-544.28641)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -543,9 +553,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1230.9606"
-     inkscape:cy="197.67593"
+     inkscape:zoom="1"
+     inkscape:cx="823.70752"
+     inkscape:cy="498.4407"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2884,5 +2894,31 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-  </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-5-5);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-6-8"
+       width="26.037895"
+       height="25.003162"
+       x="834.52142"
+       y="515.90521"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
+       xml:space="preserve"
+       id="flowRoot4477-3-89"
+       style="font-style:normal;font-weight:normal;font-size:26.62030792px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(1051.1643,500.18589)"><flowRegion
+         id="flowRegion4479-7-25"><rect
+           id="rect4481-0-6"
+           width="20.077091"
+           height="29.548092"
+           x="-211.41054"
+           y="13.310338"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.04942703px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff"
+         id="flowPara4483-6-1">+</flowPara></flowRoot>  </g>
 </svg>
