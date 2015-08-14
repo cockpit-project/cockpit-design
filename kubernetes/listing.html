@@ -59,10 +59,14 @@ table.kube-listing > tbody > tr.kube-labels > td {
   padding-left: 40px !important;
 }
 
+tr.kube-labels i.fa-search {
+  padding-right: 2px;
+}
+
 tr.kube-labels span {
   padding-left: 5px;
   padding-right: 5px;
-  color: #616161;
+  font-weight: normal;
 }
 
 table.kube-listing tr th,
@@ -220,17 +224,14 @@ table.kube-listing .kube-status {
                 <tr>
                   <td class="kube-name">database</td>
                   <td class="kube-ns">default</td>
-                  <td class="kube-status">Ready</td>
-                  <td class="kube-address">Endpoint: 172.0.1.2:8080<br>Cluster: 18.0.0.1:8080</td>
+                  <td class="kube-status">Not Ready</td>
+                  <td class="kube-address">Cluster: 172.30.4.52:5434</td>
                 </tr>
                 <tr class="kube-labels">
                   <td colspan="5">
-                    <i class="fa fa-tags"></i><span>name=test</span><span>selector=value</span>
-                  </td>
-                </tr>
-                <tr class="kube-labels">
-                  <td colspan="5">
-                    <i class="fa fa-search"></i><span>name=test</span>
+                    <i class="fa fa-tags"></i><span>name=database</span>
+                    <span>template=ruby-helloworld-sample</span><br>
+                    <i class="fa fa-search"></i><span>name=database</span><br>
                   </td>
                 </tr>
               </tbody>
@@ -239,7 +240,14 @@ table.kube-listing .kube-status {
                   <td class="kube-name">frontend</td>
                   <td class="kube-ns">default</td>
                   <td class="kube-status">Ready</td>
-                  <td class="kube-address">Endpoint: 172.0.1.2:8080<br>Cluster: 18.0.0.1:8080</td>
+                  <td class="kube-address">Endpoint: 172.17.0.6:8080<br>Cluster: 172.30.165.162:80</td>
+                </tr>
+                <tr class="kube-labels">
+                  <td colspan="5">
+                    <i class="fa fa-tags"></i><span>name=frontend</span>
+                    <span>template=ruby-helloworld-sample</span><br>
+                    <i class="fa fa-search"></i><span>name=frontend</span><br>
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -252,11 +260,36 @@ table.kube-listing .kube-status {
                 <tr>
                   <th class="kube-name" translatable="yes">Name</th>
                   <th class="kube-ns" translatable="yes">Namespace</th>
-
                   <th translatable="yes">Replicas</th>
                 </tr>
               </thead>
               <tbody>
+                <tr>
+                  <td class="kube-name">database</td>
+                  <td class="kube-ns">default</td>
+                  <td>0 of 1</td>
+                </tr>
+                <tr class="kube-labels">
+                  <td colspan="5">
+                    <i class="fa fa-tags"></i><span>name=database</span>
+                    <span>template=ruby-helloworld-sample</span><br>
+                    <i class="fa fa-search"></i><span>name=database</span><br>
+                  </td>
+                </tr>
+              </tbody>
+              <tbody>
+                <tr>
+                  <td class="kube-name">frontend</td>
+                  <td class="kube-ns">default</td>
+                  <td>1</td>
+                </tr>
+                <tr class="kube-labels">
+                  <td colspan="5">
+                    <i class="fa fa-tags"></i><span>name=frontend</span>
+                    <span>template=ruby-helloworld-sample</span><br>
+                    <i class="fa fa-search"></i><span>name=frontend</span><br>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
@@ -270,11 +303,25 @@ table.kube-listing .kube-status {
                   <th class="kube-ns" translatable="yes">Namespace</th>
 
                   <th class="kube-status" translatable="yes">Status</th>
-                  <!-- Containers sublisting: Ports/protocol Volume mount names, State, restart count -->
                   <th translatable="yes">Age</th>
+                  <!-- Containers sublisting: Ports/protocol Volume mount names, State, restart count -->
                 </tr>
               </thead>
               <tbody>
+                <tr>
+                  <td class="kube-name">database-pv8it</td>
+                  <td class="kube-ns">default</td>
+                  <th>Running</th>
+                  <th>5 days</th>
+                </tr>
+                <tr class="kube-labels">
+                  <td colspan="5">
+                    <i class="fa fa-tags"></i><span>name=frontend</span>
+                    <span>template=ruby-helloworld-sample</span><br>
+                    <i class="fa fa-cube"></i><span>ruby-helloworld</span>
+                    <span class="pficon pficon-image"></span><span>openshift/ruby-hello-world</span><span>Ready</span>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
