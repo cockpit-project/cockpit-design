@@ -3,5 +3,5 @@ all:
 
 install-fonts:
 	mkdir -p ~/.local/share/fonts/
-	cp -v files/patternfly/fonts/*.ttf ~/.local/share/fonts/
+	cp -v bower_components/patternfly/dist/fonts/*.ttf ~/.local/share/fonts/
 	@fc-cache

@@ -1,0 +1,11 @@
+*~
+.*.json
+/kubernetes/bower_components/*/less/
+/kubernetes/bower_components/*/bower.json
+/kubernetes/bower_components/*/src/
+/kubernetes/bower_components/*/tests-src/
+/kubernetes/bower_components/*/README.md
+/kubernetes/bower_components/*/bower.json
+/kubernetes/bower_components/*/components/
+/kubernetes/bower_components/*/dist/*.min.*
+/kubernetes/bower_components/*/dist/*/*.min.*
