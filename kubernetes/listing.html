@@ -6,10 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="bower_components/patternfly/dist/css/patternfly.css" rel="stylesheet" media="screen, print">
     <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/patternfly/components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="bower_components/patternfly/dist/js/patternfly.js"></script>
     <style>
       /* Filler to layout frame */
-      .faded { opacity: 0.5 }
+      .navbar { position: fixed; width: 100%; left: 0px; top: 0px; z-index: 5; };
       .kube-sidebar { width: 100px; }
       .kube-sidebar ul { margin: 0; padding: 0; list-style: none; width: 90px; border-right: 1px solid #dadada;
         height: 100%; position: fixed; background-color: #fafafa; top: 0px; margin-top: 82px; }
@@ -17,50 +18,69 @@
       .kube-sidebar ul li a { border-bottom: 0; background-color: #fff; padding: 15px 10px; text-align: center;
         display: block; color: inherit; text-decoration: none; position: relative; }
       .kube-sidebar ul li a:hover { background-color: #f6f6f6; }
-      .kube-sidebar ul li.active a:hover { background-color: #fff; } 
+      .kube-sidebar ul li.active a:hover { background-color: #fff; }
       .kube-sidebar ul li a .fa { display: inline; font-size: 20px; color: #b3b3b3; }
-      .kube-sidebar ul li.active a .fa { color: #0099d3; } 
+      .kube-sidebar ul li.active a .fa { color: #0099d3; }
       .kube-sidebar ul li.active a:after { content: ''; width: 4px; height: 100%; left: 0; top: 0;
         display: block; position: absolute; background-color: #0099d3; }
-      #content { margin-left: 95px; margin-top: 25px; }
+      .kube-details { position: fixed; right: 0px; top: 0px; padding-top: 97px; height: 100%; }
+      .kube-details .sidebar-header { margin-top: 0px; }
+      .kube-details .sidebar-header h2 { margin-top: 0px; }
       .table > thead { background-color: white; background-image: none; }
       .table > thead > tr > th { border-bottom-width: 1px; }
       .table > thead > tr > th:first-child, .table > tbody > tr > td:first-child { padding-left: 15px; }
-      .table th, .table td { padding-top: 8px !important; padding-bottom: 8px !important; }
-      .table td.icons { padding: 5px !important; text-align: center; }
+      .table > thead > tr > th { padding-top: 8px; padding-bottom: 8px; }
       .table td { cursor: pointer; }
+      #content { margin-left: 95px; margin-top: 85px; margin-right: 25%; }
 
-      #content ul.nav-tabs { margin-bottom: 15px; }
-      #content th { font-weight: normal; white-space: nowrap; }
-      #content td:first-child { font-weight: bold; }
+#content ul.nav-tabs { margin-bottom: 15px; }
 
+#content th { font-weight: normal; white-space: nowrap; }
+
+/* Work around firefox rendering bug, selected falls over otherwise */
+table.kube-listing {
+  border-collapse: separate;
+}
+
+/* Make entire body hover */
 table.kube-listing > tbody:hover > tr > td,
 table.kube-listing > tbody:hover > tr > th {
   background-color: #d5ecf9;
 }
 
-table.kube-listing > tbody + tbody {
-  border-width: 1px;
+table.kube-listing > tbody > tr > td {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
-table.kube-listing > tbody > tr > td {
-  border-top: none !important;
-  padding: 5px 0 0 15px !important;
+table.kube-listing > tbody > tr + tr > td {
+  border-top: none;
 }
 
 table.kube-listing > tbody > tr:first-child > td {
-  padding-top: 10px !important;
+  padding-top: 10px;
+  border-top: none;
 }
 
 table.kube-listing > tbody > tr:last-child > td {
-  padding-bottom: 10px !important;
+  padding-bottom: 10px;
 }
 
+table.kube-listing > tbody + tbody > tr:first-child > td {
+  border-top: 1px solid #DDD;
+}
+
+/*
 table.kube-listing > tbody > tr.kube-labels > td {
-  padding-left: 40px !important;
+  padding-left: 20px;
 }
 
-tr.kube-labels i.fa-search {
+tr.kube-labels {
+  color: #818181;
+}
+
+tr.kube-labels i {
+  padding-left: 20px;
   padding-right: 2px;
 }
 
@@ -69,6 +89,7 @@ tr.kube-labels span {
   padding-right: 5px;
   font-weight: normal;
 }
+*/
 
 table.kube-listing tr th,
 table.kube-listing tr td {
@@ -86,56 +107,40 @@ table.kube-listing .kube-status {
   width: 100px;
 }
 
+table.kube-listing .kube-name {
+  font-weight: bold;
+}
+
+table.kube-listing tr.kube-container .kube-name {
+  font-weight: normal;
+}
+
+.kube-details {
+    padding-right: 0px;
+}
+
+.kube-details .sidebar-header,
+.kube-details .sidebar-content {
+    margin-right: 0px;
+}
+
+.kube-details .sidebar-content {
+    padding-right: 10px;
+}
+
+.kube-listing tbody.selected tr td:first-child {
+  border-left: 10px solid #DDD;
+}
+.kube-listing tbody.selected tr td:last-child {
+  border-right: 10px solid #DDD;
+}
+
     </style>
   </head>
   <body>
 
-    <!-- PLACEHOLDER -->
-    <nav class="navbar navbar-default navbar-pf faded" role="navigation">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-          <img src="files/brand.svg" alt="PatternFly Enterprise Application" />
-        </a>
-      </div>
-      <div class="collapse navbar-collapse navbar-collapse-1">
-        <ul class="nav navbar-nav navbar-utility">
-          <li>
-            <a href="#">Note: Install fonts manually</a>
-          </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <span class="pficon pficon-user"></span>
-              Brian Johnson <b class="caret"></b>
-            </a>
-            <ul class="dropdown-menu">
-              <li>
-                <a href="#">Dummy</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-primary">
-          <li>
-            <a href="#">Machines</a>
-          </li>
-          <li>
-            <a href="#">Dashboard</a>
-          </li>
-          <li class="active">
-            <a href="#" class="active">Cluster</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
 
-
-    <!-- SIDEBAR -->
+    <!-- SIDEBAR PLACEHOLDER -->
     <div class="kube-sidebar">
       <div>
         <ul>
@@ -186,7 +191,7 @@ table.kube-listing .kube-status {
                 <tr>
                   <td class="kube-name">node-1</td>
                   <td class="kube-status">Ready</td>
-                  <td>172.0.1.2</td>
+                  <td class="kube-address">172.0.1.2</td>
                   <td>4 CPU, 4G RAM<br>Red Hat Enterpise Linux Atomic Host 7.1</td>
                 </tr>
               </tbody>
@@ -228,13 +233,15 @@ table.kube-listing .kube-status {
                   <td class="kube-status">Not Ready</td>
                   <td class="kube-address">Cluster: 172.30.4.52:5434</td>
                 </tr>
+                <!--
                 <tr class="kube-labels">
                   <td colspan="5">
                     <i class="fa fa-tags"></i><span>name=database</span>
-                    <span>template=ruby-helloworld-sample</span><br>
-                    <i class="fa fa-search"></i><span>name=database</span><br>
+                    <span>template=ruby-helloworld-sample</span>
+                    <i class="fa fa-search"></i><span>name=database</span>
                   </td>
                 </tr>
+                -->
               </tbody>
               <tbody>
                 <tr>
@@ -243,13 +250,15 @@ table.kube-listing .kube-status {
                   <td class="kube-status">Ready</td>
                   <td class="kube-address">Endpoint: 172.17.0.6:8080<br>Cluster: 172.30.165.162:80</td>
                 </tr>
+                <!--
                 <tr class="kube-labels">
                   <td colspan="5">
                     <i class="fa fa-tags"></i><span>name=frontend</span>
-                    <span>template=ruby-helloworld-sample</span><br>
+                    <span>template=ruby-helloworld-sample</span>
                     <i class="fa fa-search"></i><span>name=frontend</span><br>
                   </td>
                 </tr>
+                -->
               </tbody>
             </table>
           </div>
@@ -261,36 +270,43 @@ table.kube-listing .kube-status {
                 <tr>
                   <th class="kube-name" translatable="yes">Name</th>
                   <th class="kube-ns" translatable="yes">Namespace</th>
-                  <th translatable="yes">Replicas</th>
+                  <th class="kube-status" translatable="yes">Replicas</th>
+                  <th></th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td class="kube-name">database</td>
                   <td class="kube-ns">default</td>
-                  <td>0 of 1</td>
+                  <td class="kube-status">0 of 1</td>
+                  <td></td>
                 </tr>
+                <!--
                 <tr class="kube-labels">
                   <td colspan="5">
                     <i class="fa fa-tags"></i><span>name=database</span>
-                    <span>template=ruby-helloworld-sample</span><br>
-                    <i class="fa fa-search"></i><span>name=database</span><br>
+                    <span>template=ruby-helloworld-sample</span>
+                    <i class="fa fa-search"></i><span>name=database</span>
                   </td>
                 </tr>
+                -->
               </tbody>
               <tbody>
                 <tr>
                   <td class="kube-name">frontend</td>
                   <td class="kube-ns">default</td>
-                  <td>1</td>
+                  <td class="kube-status">1</td>
+                  <td></td>
                 </tr>
+                <!--
                 <tr class="kube-labels">
                   <td colspan="5">
                     <i class="fa fa-tags"></i><span>name=frontend</span>
-                    <span>template=ruby-helloworld-sample</span><br>
+                    <span>template=ruby-helloworld-sample</span>
                     <i class="fa fa-search"></i><span>name=frontend</span><br>
                   </td>
                 </tr>
+                -->
               </tbody>
             </table>
           </div>
@@ -304,7 +320,8 @@ table.kube-listing .kube-status {
                   <th class="kube-ns" translatable="yes">Namespace</th>
 
                   <th class="kube-status" translatable="yes">Status</th>
-                  <th translatable="yes">Age</th>
+                  <th class="kube-address" translatable="yes">Address</th>
+                  <th translatable="yes">Image</th>
                   <!-- Containers sublisting: Ports/protocol Volume mount names, State, restart count -->
                 </tr>
               </thead>
@@ -312,17 +329,25 @@ table.kube-listing .kube-status {
                 <tr>
                   <td class="kube-name">database-pv8it</td>
                   <td class="kube-ns">default</td>
-                  <th>Running</th>
-                  <th>5 days</th>
+                  <td class="kube-status">Running 5 days</td>
+                  <td class="kube-address">1.2.3.4</td>
+                  <td></td>
                 </tr>
+                <tr class="kube-container">
+                  <td class="kube-name">ruby-helloworld</td>
+                  <td class="kube-ns"></td>
+                  <td class="kube-status">21 restarts</td>
+                  <td class="kube-address">3306/TCP</td>
+                  <td>mysql</td>
+                </tr>
+                <!--
                 <tr class="kube-labels">
                   <td colspan="5">
                     <i class="fa fa-tags"></i><span>name=frontend</span>
-                    <span>template=ruby-helloworld-sample</span><br>
-                    <i class="fa fa-cube"></i><span>ruby-helloworld</span>
-                    <span class="pficon pficon-image"></span><span>openshift/ruby-hello-world</span><span>Ready</span>
+                    <span>template=ruby-helloworld-sample</span>
                   </td>
                 </tr>
+                -->
               </tbody>
             </table>
           </div>
@@ -330,6 +355,77 @@ table.kube-listing .kube-status {
         </div>
       </div>
     </div>
+
+    <div class="col-sm-4 col-md-3 sidebar-pf sidebar-pf-right kube-details">
+      <div class="sidebar-header sidebar-header-bleed-left sidebar-header-bleed-right">
+        <div class="actions pull-right">
+          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+            <span class="pficon pficon-close"></span>
+          </button>
+        </div>
+        <h2 class="h5">Details</h2>
+      </div>
+      <div class="sidebar-content">
+        <p><i>No object selected</i></p>
+      </div>
+    </div>
+
+    <!-- PLACEHOLDER SCRIPT -->
+    <script>
+        $(".kube-listing").on("click", "tbody", function() {
+            $(".kube-listing tbody").removeClass("selected");
+            $(this).addClass("selected");
+
+            var name = $(".kube-name", this).text();
+            $(".sidebar-content").empty().html("<p>TODO: Show details for " + name + "</p>");
+
+            return false;
+        });
+    </script>
+
+    <!-- PLACEHOLDER -->
+    <nav class="navbar navbar-default navbar-pf faded" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          PatternFly Enterprise Application
+        </a>
+      </div>
+      <div class="collapse navbar-collapse navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-utility">
+          <li>
+            <a href="#">Note: Install fonts manually</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              <span class="pficon pficon-user"></span>
+              Brian Johnson <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="#">Dummy</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-primary">
+          <li>
+            <a href="#">Machines</a>
+          </li>
+          <li>
+            <a href="#">Dashboard</a>
+          </li>
+          <li class="active">
+            <a href="#" class="active">Cluster</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
 
   </body>
 </html>
