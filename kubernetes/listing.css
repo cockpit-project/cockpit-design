@@ -1,63 +1,71 @@
 
-table.kube-listing th {
-    font-weight: normal;
+.kube-listing {
+    margin-right: 25%;
+    padding-right: 15px;
+}
+
+.kube-listing table tbody {
+    cursor: pointer;
+}
+
+.kube-listing table thead th {
+    font-weight: normal !important;
     white-space: nowrap;
 }
 
 /* Work around firefox rendering bug, selected falls over otherwise */
-table.kube-listing {
+.kube-listing table {
   border-collapse: separate;
 }
 
 /* Make entire body hover */
-table.kube-listing > tbody:hover > tr > td,
-table.kube-listing > tbody:hover > tr > th {
+.kube-listing table > tbody:hover > tr > td,
+.kube-listing table > tbody:hover > tr > th {
   background-color: #d5ecf9;
 }
 
-table.kube-listing > tbody > tr > td {
+.kube-listing table > tbody > tr > td {
   padding-top: 5px;
   padding-bottom: 5px;
 }
 
-table.kube-listing > tbody > tr + tr > td {
+.kube-listing table > tbody > tr + tr > td {
   border-top: none;
 }
 
-table.kube-listing > tbody > tr:first-child > td {
+.kube-listing table > tbody > tr:first-child > td {
   padding-top: 10px;
-  border-top: none;
 }
 
-table.kube-listing > tbody > tr:last-child > td {
+.kube-listing table > tbody > tr:last-child > td {
   padding-bottom: 10px;
 }
 
-table.kube-listing > tbody + tbody > tr:first-child > td {
+.kube-listing table > tbody + tbody > tr:first-child > td {
   border-top: 1px solid #DDD;
 }
 
-table.kube-listing tr th,
-table.kube-listing tr td {
+.kube-listing table tr th,
+.kube-listing table tr td {
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
 }
 
-table.kube-listing .kube-name,
-table.kube-listing .kube-ns {
+.kube-listing table .kube-col-name,
+.kube-listing table .kube-col-ns {
   width: 150px;
 }
 
-table.kube-listing .kube-status {
+.kube-listing table .kube-col-status {
   width: 100px;
 }
 
-table.kube-listing .kube-name {
+.kube-listing table .kube-col-name {
   font-weight: bold;
 }
 
-table.kube-listing tr.kube-container .kube-name {
+.kube-listing table tr.kube-row-container .kube-col-name {
   font-weight: normal;
 }
 

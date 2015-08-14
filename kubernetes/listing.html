@@ -30,45 +30,44 @@
 
     <!-- PLACEHOLDER -->
     <div id="content" class="container-fluid"
-         style="margin-left: 95px; margin-top: 85px; margin-right: 25%;">
+         style="margin-left: 95px; margin-top: 85px; margin-right: 20px;">
 
       <!-- ADDED -->
-      <div class="row">
-        <div class="col-md-12">
+      <div class="kube-listing">
 
           <h2>Nodes</h2>
           <div class="panel panel-default">
-            <table id="Nodes" class="table kube-listing">
+            <table id="Nodes" class="table">
               <thead>
                 <tr>
-                  <th class="kube-name" translatable="yes">Name</th>
-                  <th class="kube-status" translatable="yes">Status</th>
+                  <th class="kube-col-name" translatable="yes">Name</th>
+                  <th class="kube-col-status" translatable="yes">Status</th>
 
-                  <th class="kube-address" translatable="yes">Address</th>
+                  <th class="kube-col-address" translatable="yes">Address</th>
                   <th class="kube-more" translatable="yes"></th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td class="kube-name">node-1</td>
-                  <td class="kube-status">Ready</td>
-                  <td class="kube-address">172.0.1.2</td>
+                  <td class="kube-col-name">node-1</td>
+                  <td class="kube-col-status">Ready</td>
+                  <td class="kube-col-address">172.0.1.2</td>
                   <td>4 CPU, 4G RAM<br>Red Hat Enterpise Linux Atomic Host 7.1</td>
                 </tr>
               </tbody>
               <tbody>
                 <tr>
-                  <td class="kube-name">node-2.rha</td>
-                  <td class="kube-status">Ready</td>
-                  <td class="kube-address">172.0.1.3</td>
+                  <td class="kube-col-name">node-2.rha</td>
+                  <td class="kube-col-status">Ready</td>
+                  <td class="kube-col-address">172.0.1.3</td>
                   <td>2 CPU, 8G RAM<br>Red Hat Enterpise Linux Atomic Host 7.1</td>
                 </tr>
               </tbody>
               <tbody>
                 <tr>
-                  <td class="kube-name">node-3.rha</td>
-                  <td class="kube-status">Ready</td>
-                  <td class="kube-address">172.0.1.4</td>
+                  <td class="kube-col-name">node-3.rha</td>
+                  <td class="kube-col-status">Ready</td>
+                  <td class="kube-col-address">172.0.1.4</td>
                   <td>1 CPU, 2G RAM<br>Red Hat Enterpise Linux 7.1</td>
                 </tr>
               </tbody>
@@ -77,22 +76,22 @@
 
           <h2>Services</h2>
           <div class="panel panel-default">
-            <table id="Services" class="table kube-listing">
+            <table id="Services" class="table">
               <thead>
                 <tr>
-                  <th class="kube-name" translatable="yes">Name</th>
-                  <th class="kube-ns" translatable="yes">Namespace</th>
-                  <th class="kube-status" translatable="yes">Status</th>
+                  <th class="kube-col-name" translatable="yes">Name</th>
+                  <th class="kube-col-ns" translatable="yes">Namespace</th>
+                  <th class="kube-col-status" translatable="yes">Status</th>
 
-                  <th class="kube-address" translatable="yes">Addresses</th>
+                  <th class="kube-col-address" translatable="yes">Addresses</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td class="kube-name">database</td>
-                  <td class="kube-ns">default</td>
-                  <td class="kube-status">Not Ready</td>
-                  <td class="kube-address">Cluster: 172.30.4.52:5434</td>
+                  <td class="kube-col-name">database</td>
+                  <td class="kube-col-ns">default</td>
+                  <td class="kube-col-status">Not Ready</td>
+                  <td class="kube-col-address">Cluster: 172.30.4.52:5434</td>
                 </tr>
                 <!--
                 <tr class="kube-labels">
@@ -106,10 +105,10 @@
               </tbody>
               <tbody>
                 <tr>
-                  <td class="kube-name">frontend</td>
-                  <td class="kube-ns">default</td>
-                  <td class="kube-status">Ready</td>
-                  <td class="kube-address">Endpoint: 172.17.0.6:8080<br>Cluster: 172.30.165.162:80</td>
+                  <td class="kube-col-name">frontend</td>
+                  <td class="kube-col-ns">default</td>
+                  <td class="kube-col-status">Ready</td>
+                  <td class="kube-col-address">Endpoint: 172.17.0.6:8080<br>Cluster: 172.30.165.162:80</td>
                 </tr>
                 <!--
                 <tr class="kube-labels">
@@ -126,20 +125,20 @@
 
           <h2>Replication Controllers</h2>
           <div class="panel panel-default">
-            <table id="ReplicationController" class="table kube-listing">
+            <table id="ReplicationController" class="table">
               <thead>
                 <tr>
-                  <th class="kube-name" translatable="yes">Name</th>
-                  <th class="kube-ns" translatable="yes">Namespace</th>
-                  <th class="kube-status" translatable="yes">Replicas</th>
+                  <th class="kube-col-name" translatable="yes">Name</th>
+                  <th class="kube-col-ns" translatable="yes">Namespace</th>
+                  <th class="kube-col-status" translatable="yes">Replicas</th>
                   <th></th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td class="kube-name">database</td>
-                  <td class="kube-ns">default</td>
-                  <td class="kube-status">0 of 1</td>
+                  <td class="kube-col-name">database</td>
+                  <td class="kube-col-ns">default</td>
+                  <td class="kube-col-status">0 of 1</td>
                   <td></td>
                 </tr>
                 <!--
@@ -154,9 +153,9 @@
               </tbody>
               <tbody>
                 <tr>
-                  <td class="kube-name">frontend</td>
-                  <td class="kube-ns">default</td>
-                  <td class="kube-status">1</td>
+                  <td class="kube-col-name">frontend</td>
+                  <td class="kube-col-ns">default</td>
+                  <td class="kube-col-status">1</td>
                   <td></td>
                 </tr>
                 <!--
@@ -174,31 +173,31 @@
 
           <h2>Pods</h2>
           <div class="panel panel-default">
-            <table id="Pods" class="table kube-listing">
+            <table id="Pods" class="table">
               <thead>
                 <tr>
-                  <th class="kube-name" translatable="yes">Name</th>
-                  <th class="kube-ns" translatable="yes">Namespace</th>
+                  <th class="kube-col-name" translatable="yes">Name</th>
+                  <th class="kube-col-ns" translatable="yes">Namespace</th>
 
-                  <th class="kube-status" translatable="yes">Status</th>
-                  <th class="kube-address" translatable="yes">Address</th>
+                  <th class="kube-col-status" translatable="yes">Status</th>
+                  <th class="kube-col-address" translatable="yes">Address</th>
                   <th translatable="yes">Image</th>
                   <!-- Containers sublisting: Ports/protocol Volume mount names, State, restart count -->
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td class="kube-name">database-pv8it</td>
-                  <td class="kube-ns">default</td>
-                  <td class="kube-status">Running 5 days</td>
-                  <td class="kube-address">1.2.3.4</td>
+                  <td class="kube-col-name">database-pv8it</td>
+                  <td class="kube-col-ns">default</td>
+                  <td class="kube-col-status">Running 5 days</td>
+                  <td class="kube-col-address">1.2.3.4</td>
                   <td></td>
                 </tr>
                 <tr class="kube-container">
-                  <td class="kube-name">ruby-helloworld</td>
-                  <td class="kube-ns"></td>
-                  <td class="kube-status">21 restarts</td>
-                  <td class="kube-address">3306/TCP</td>
+                  <td class="kube-col-name">ruby-helloworld</td>
+                  <td class="kube-col-ns"></td>
+                  <td class="kube-col-status">21 restarts</td>
+                  <td class="kube-col-address">3306/TCP</td>
                   <td>mysql</td>
                 </tr>
                 <!--
@@ -213,7 +212,6 @@
             </table>
           </div>
 
-        </div>
       </div>
     </div>
 
@@ -238,7 +236,7 @@
             $(".kube-listing tbody").removeClass("selected");
             $(this).addClass("selected");
 
-            var name = $(".kube-name", this).text();
+            var name = $(".kube-col-name", this).text();
             $(".sidebar-content").empty().html("<p>TODO: Show details for " + name + "</p>");
 
             return false;
