@@ -1,0 +1,69 @@
+
+table.kube-listing th {
+    font-weight: normal;
+    white-space: nowrap;
+}
+
+/* Work around firefox rendering bug, selected falls over otherwise */
+table.kube-listing {
+  border-collapse: separate;
+}
+
+/* Make entire body hover */
+table.kube-listing > tbody:hover > tr > td,
+table.kube-listing > tbody:hover > tr > th {
+  background-color: #d5ecf9;
+}
+
+table.kube-listing > tbody > tr > td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+table.kube-listing > tbody > tr + tr > td {
+  border-top: none;
+}
+
+table.kube-listing > tbody > tr:first-child > td {
+  padding-top: 10px;
+  border-top: none;
+}
+
+table.kube-listing > tbody > tr:last-child > td {
+  padding-bottom: 10px;
+}
+
+table.kube-listing > tbody + tbody > tr:first-child > td {
+  border-top: 1px solid #DDD;
+}
+
+table.kube-listing tr th,
+table.kube-listing tr td {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+table.kube-listing .kube-name,
+table.kube-listing .kube-ns {
+  width: 150px;
+}
+
+table.kube-listing .kube-status {
+  width: 100px;
+}
+
+table.kube-listing .kube-name {
+  font-weight: bold;
+}
+
+table.kube-listing tr.kube-container .kube-name {
+  font-weight: normal;
+}
+
+.kube-listing tbody.selected tr td:first-child {
+  border-left: 10px solid #DDD;
+}
+.kube-listing tbody.selected tr td:last-child {
+  border-right: 10px solid #DDD;
+}

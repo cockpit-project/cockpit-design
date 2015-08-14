@@ -4,141 +4,13 @@
     <title>Cockpit Cluster Dashboard</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="bower_components/patternfly/dist/css/patternfly.css" rel="stylesheet" media="screen, print">
+    <link href="kubernetes.css" rel="stylesheet" media="screen, print">
+    <link href="listing.css" rel="stylesheet" media="screen, print">
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/patternfly/components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="bower_components/patternfly/dist/js/patternfly.js"></script>
-    <style>
-      /* Filler to layout frame */
-      .navbar { position: fixed; width: 100%; left: 0px; top: 0px; z-index: 5; };
-      .kube-sidebar { width: 100px; }
-      .kube-sidebar ul { margin: 0; padding: 0; list-style: none; width: 90px; border-right: 1px solid #dadada;
-        height: 100%; position: fixed; background-color: #fafafa; top: 0px; margin-top: 82px; }
-      .kube-sidebar ul li { border-bottom: 1px solid #dadada; display: block; font-size: 13px; }
-      .kube-sidebar ul li a { border-bottom: 0; background-color: #fff; padding: 15px 10px; text-align: center;
-        display: block; color: inherit; text-decoration: none; position: relative; }
-      .kube-sidebar ul li a:hover { background-color: #f6f6f6; }
-      .kube-sidebar ul li.active a:hover { background-color: #fff; }
-      .kube-sidebar ul li a .fa { display: inline; font-size: 20px; color: #b3b3b3; }
-      .kube-sidebar ul li.active a .fa { color: #0099d3; }
-      .kube-sidebar ul li.active a:after { content: ''; width: 4px; height: 100%; left: 0; top: 0;
-        display: block; position: absolute; background-color: #0099d3; }
-      .kube-details { position: fixed; right: 0px; top: 0px; padding-top: 97px; height: 100%; }
-      .kube-details .sidebar-header { margin-top: 0px; }
-      .kube-details .sidebar-header h2 { margin-top: 0px; }
-      .table > thead { background-color: white; background-image: none; }
-      .table > thead > tr > th { border-bottom-width: 1px; }
-      .table > thead > tr > th:first-child, .table > tbody > tr > td:first-child { padding-left: 15px; }
-      .table > thead > tr > th { padding-top: 8px; padding-bottom: 8px; }
-      .table td { cursor: pointer; }
-      #content { margin-left: 95px; margin-top: 85px; margin-right: 25%; }
-
-#content ul.nav-tabs { margin-bottom: 15px; }
-
-#content th { font-weight: normal; white-space: nowrap; }
-
-/* Work around firefox rendering bug, selected falls over otherwise */
-table.kube-listing {
-  border-collapse: separate;
-}
-
-/* Make entire body hover */
-table.kube-listing > tbody:hover > tr > td,
-table.kube-listing > tbody:hover > tr > th {
-  background-color: #d5ecf9;
-}
-
-table.kube-listing > tbody > tr > td {
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-
-table.kube-listing > tbody > tr + tr > td {
-  border-top: none;
-}
-
-table.kube-listing > tbody > tr:first-child > td {
-  padding-top: 10px;
-  border-top: none;
-}
-
-table.kube-listing > tbody > tr:last-child > td {
-  padding-bottom: 10px;
-}
-
-table.kube-listing > tbody + tbody > tr:first-child > td {
-  border-top: 1px solid #DDD;
-}
-
-/*
-table.kube-listing > tbody > tr.kube-labels > td {
-  padding-left: 20px;
-}
-
-tr.kube-labels {
-  color: #818181;
-}
-
-tr.kube-labels i {
-  padding-left: 20px;
-  padding-right: 2px;
-}
-
-tr.kube-labels span {
-  padding-left: 5px;
-  padding-right: 5px;
-  font-weight: normal;
-}
-*/
-
-table.kube-listing tr th,
-table.kube-listing tr td {
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
-}
-
-table.kube-listing .kube-name,
-table.kube-listing .kube-ns {
-  width: 150px;
-}
-
-table.kube-listing .kube-status {
-  width: 100px;
-}
-
-table.kube-listing .kube-name {
-  font-weight: bold;
-}
-
-table.kube-listing tr.kube-container .kube-name {
-  font-weight: normal;
-}
-
-.kube-details {
-    padding-right: 0px;
-}
-
-.kube-details .sidebar-header,
-.kube-details .sidebar-content {
-    margin-right: 0px;
-}
-
-.kube-details .sidebar-content {
-    padding-right: 10px;
-}
-
-.kube-listing tbody.selected tr td:first-child {
-  border-left: 10px solid #DDD;
-}
-.kube-listing tbody.selected tr td:last-child {
-  border-right: 10px solid #DDD;
-}
-
-    </style>
   </head>
   <body>
-
 
     <!-- SIDEBAR PLACEHOLDER -->
     <div class="kube-sidebar">
@@ -156,22 +28,11 @@ table.kube-listing tr.kube-container .kube-name {
       </div>
     </div>
 
-    <!-- CONTENT -->
-    <div id="content" class="container-fluid">
+    <!-- PLACEHOLDER -->
+    <div id="content" class="container-fluid"
+         style="margin-left: 95px; margin-top: 85px; margin-right: 25%;">
 
-      <!-- ADDED       <ul class="nav nav-tabs">
-        <li class="active"><a href="#">Nodes</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Pods</a></li>
-        <li><a href="#">Replication Controllers</a></li>
-        <li><a href="#">Volumes</a></li>
-        <li><a href="#">Secrets</a></li>
-        <li><a href="#">Accounts</a></li>
-        <li><a href="#">Components</a></li>
-      </ul>
--->
-
-
+      <!-- ADDED -->
       <div class="row">
         <div class="col-md-12">
 
@@ -356,6 +217,7 @@ table.kube-listing tr.kube-container .kube-name {
       </div>
     </div>
 
+    <!-- RENDERED DIFFERENTLY -->
     <div class="col-sm-4 col-md-3 sidebar-pf sidebar-pf-right kube-details">
       <div class="sidebar-header sidebar-header-bleed-left sidebar-header-bleed-right">
         <div class="actions pull-right">
