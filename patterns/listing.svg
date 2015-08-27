@@ -226,9 +226,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="576.32788"
-     inkscape:cy="2596.7642"
+     inkscape:zoom="0.35"
+     inkscape:cx="1363.2311"
+     inkscape:cy="1533.2428"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -238,8 +238,8 @@
      inkscape:snap-grids="true"
      inkscape:window-width="1563"
      inkscape:window-height="913"
-     inkscape:window-x="1866"
-     inkscape:window-y="57"
+     inkscape:window-x="1943"
+     inkscape:window-y="52"
      inkscape:window-maximized="0"
      inkscape:snap-others="false">
     <inkscape:grid
@@ -258,7 +258,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1424,11 +1424,11 @@
        sodipodi:linespacing="125%"
        id="text4847"
        y="-2051.9048"
-       x="318.92578"
+       x="338.92578"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-2051.9048"
-         x="318.92578"
+         x="338.92578"
          id="tspan4849"
          sodipodi:role="line">fedora/apache:latest</tspan></text>
     <text
@@ -2341,7 +2341,7 @@
        height="24.999998"
        width="199.38066"
        id="rect6474"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        sodipodi:linespacing="125%"
        id="text6476"
@@ -2856,35 +2856,32 @@
     <path
        inkscape:connector-curvature="0"
        id="path5158"
-       d="m 223.59754,-1430.2625 130.5639,0"
+       d="m 223.59754,-1426.2625 139.1502,0"
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="45.888046"
-       y="-1425.144"
+       x="44.459476"
+       y="-1455.144"
        id="text5164"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="45.888046"
-         y="-1425.144"
-         id="tspan5168">Press to pin item, and keep</tspan><tspan
+         x="44.459476"
+         y="-1455.144"
+         id="tspan5168" /><tspan
          sodipodi:role="line"
-         x="45.888046"
-         y="-1409.519"
-         id="tspan5172">open even if another is selected.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="69.161392"
-       y="-1384.9766"
-       id="text5178"
-       sodipodi:linespacing="125%"><tspan
+         x="44.459476"
+         y="-1439.519"
+         id="tspan4768" /><tspan
          sodipodi:role="line"
-         id="tspan5180"
-         x="69.161392"
-         y="-1384.9766">Black when pinned.</tspan></text>
+         x="44.459476"
+         y="-1423.894"
+         id="tspan5172">Press star to keep panel</tspan><tspan
+         sodipodi:role="line"
+         x="44.459476"
+         y="-1408.269"
+         id="tspan4778">open even if another is selected.</tspan></text>
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 827.31719,-2052.9694 108.5715,0"
@@ -2907,38 +2904,344 @@
          id="tspan5140">cursor: pointer</tspan></text>
     <path
        style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1017.6051,-1427.9174 108.5715,0"
+       d="m 1009.0188,-1427.9174 23.2144,0"
        id="path5150"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1043.3467"
+       y="-1433.0798"
+       id="text5152"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1043.3467"
+         y="-1433.0798"
+         id="tspan5156">Action buttons</tspan><tspan
+         sodipodi:role="line"
+         x="1043.3467"
+         y="-1417.4548"
+         id="tspan4780">go here.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5142"
+       y="-1372.6028"
+       x="153.40733"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-1372.6028"
+         x="153.40733"
+         id="tspan5144"
+         sodipodi:role="line">Item has been clicked</tspan><tspan
+         id="tspan5146"
+         y="-1356.9778"
+         x="153.40733"
+         sodipodi:role="line">cursor: normal</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4653"
+       d="m 833.31719,-2266.9694 39.35721,0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="881.07141"
+       y="-2272.0664"
+       id="text4655"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2272.0664"
+         id="tspan4659">Filter bar filters the list.</tspan><tspan
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2256.4414"
+         id="tspan4696">Can have additional filter controls.</tspan><tspan
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2240.8164"
+         id="tspan4698" /><tspan
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2225.1914"
+         id="tspan4684">Text filter operates on listed</tspan><tspan
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2209.5664"
+         id="tspan4690">information (not panels below).</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 833.31719,-2174.9694 39.35721,0"
+       id="path4663"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4665"
+       y="-2170.0664"
+       x="881.07141"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4667"
+         y="-2170.0664"
+         x="881.07141"
+         sodipodi:role="line">Metadata is gray, real data</tspan><tspan
+         y="-2154.4414"
+         x="881.07141"
+         sodipodi:role="line"
+         id="tspan4669">is black and visible.</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4671"
+       d="m 833.31719,-2094.9694 39.35721,0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="881.07141"
+       y="-2100.0664"
+       id="text4674"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4678"
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2100.0664">List contains just enough information</tspan><tspan
+         sodipodi:role="line"
+         x="881.07141"
+         y="-2084.4414"
+         id="tspan4682">about items to filter</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4700"
+       y="-1920.0664"
+       x="881.07141"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4704"
+         y="-1920.0664"
+         x="881.07141"
+         sodipodi:role="line">List can contain multiple different</tspan><tspan
+         y="-1904.4414"
+         x="881.07141"
+         sodipodi:role="line"
+         id="tspan4708">kinds of items, grouped.</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4710"
+       d="m 755.31719,-1916.9694 108.5715,0"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4712"
+       y="-1718.0461"
+       x="54.870518"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4716"
+         y="-1718.0461"
+         x="54.870518"
+         sodipodi:role="line">Name column is bold.</tspan><tspan
+         y="-1702.4211"
+         x="54.870518"
+         sodipodi:role="line"
+         id="tspan4720">Middle click name column opens new tab with</tspan><tspan
+         y="-1686.7961"
+         x="54.870518"
+         sodipodi:role="line"
+         id="tspan4722">just this item in panel.</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4710-0"
+       d="m 197.36407,-1772.0853 0.48518,43.4366"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 284.86302,-1372.0039 77.27667,0"
+       id="path4763"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="45.45686"
+       y="-1448.7349"
+       id="text4770"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         x="45.45686"
+         y="-1448.7349">Clicking list item panel with detailed view</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 292.85714,-1453.0664 69.28572,0"
+       id="path4774"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1059.9181"
-       y="-1440.2941"
-       id="text5152"
+       x="40"
+       y="-596.20935"
+       id="text4782"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1059.9181"
-         y="-1440.2941"
-         id="tspan5156">Action buttons fo here.</tspan></text>
+         id="tspan4784"
+         x="40"
+         y="-596.20935">Item has been</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="-580.58435"
+         id="tspan4786">pinned to keep</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="-564.95935"
+         id="tspan4788">panel open.</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text5142"
-       y="-1338.317"
-       x="159.12161"
+       id="text4790"
+       y="-110.20935"
+       x="34"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-1338.317"
-         x="159.12161"
-         id="tspan5144"
-         sodipodi:role="line">Item has been clicked</tspan><tspan
-         y="-1322.692"
-         x="159.12161"
+         id="tspan4796"
+         y="-110.20935"
+         x="34"
+         sodipodi:role="line">Another panel was</tspan><tspan
+         y="-94.584351"
+         x="34"
          sodipodi:role="line"
-         id="tspan5198">Individual images are shown</tspan><tspan
-         id="tspan5146"
-         y="-1307.067"
-         x="159.12161"
-         sodipodi:role="line">cursor: normal</tspan></text>
+         id="tspan4804">also opened.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="55.714283"
+       y="-997.63776"
+       id="text4806"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4808"
+         x="55.714283"
+         y="-997.63776">Unless above star clicked ...</tspan><tspan
+         sodipodi:role="line"
+         x="55.714283"
+         y="-982.01276"
+         id="tspan4810">when another item is clicked, the</tspan><tspan
+         sodipodi:role="line"
+         x="55.714283"
+         y="-966.38776"
+         id="tspan4812">second panel is shown, and the is hidden.</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 258.57143,-986.2092 101.42857,0"
+       id="path4822"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.36044,-591.156 44.44671,0"
+       id="path4824"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.42857,-96.2092 48.57143,0"
+       id="path4826"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 606.57143,-840.2092 1e-5,-22.85714"
+       id="path4828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="602.85718"
+       y="-872.63782"
+       id="text4830"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4832"
+         x="602.85718"
+         y="-872.63782">When any panel has is pinned, then</tspan><tspan
+         sodipodi:role="line"
+         x="602.85718"
+         y="-857.01282"
+         id="tspan4834">     the star button appers in filter bar.</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4836"
+       d="m 786.57143,159.7908 1e-5,-22.85714"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4838"
+       y="127.36218"
+       x="782.85718"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4842"
+         y="127.36218"
+         x="782.85718"
+         sodipodi:role="line">Pressing the star button in filter bar</tspan><tspan
+         y="142.98718"
+         x="782.85718"
+         sodipodi:role="line"
+         id="tspan4848">    only shows panels, no other listed items.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1057.5001"
+       y="184.8622"
+       id="text4852"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4854"
+         x="1057.5001"
+         y="184.8622">Other filter options</tspan><tspan
+         sodipodi:role="line"
+         x="1057.5001"
+         y="200.4872"
+         id="tspan4856">are grayed out</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1029.2857,188.7908 21.7857,0"
+       id="path4858"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 353.55339,327.0727 -78.7919,0"
+       id="path4860"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="70.649765"
+       y="322.84927"
+       id="text4862"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4864"
+         x="70.649765"
+         y="322.84927">Tabs to show various aspects of</tspan><tspan
+         sodipodi:role="line"
+         x="70.649765"
+         y="338.47427"
+         id="tspan4866">the object displayed in the panel.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.428574"
+       y="-2390.4949"
+       id="text4868"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4870"
+         x="41.428574"
+         y="-2390.4949"
+         style="font-size:20px">Listing Pattern</tspan></text>
   </g>
 </svg>
