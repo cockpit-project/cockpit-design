@@ -131,16 +131,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8076-9"
-       id="linearGradient8168"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.59523813,0,0,0.92592589,-403.13105,-602.55177)"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8076-9"
        id="linearGradient8232"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.3095238,0,0,1,-525.09681,-235.78125)"
@@ -166,9 +156,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="181.35056"
-     inkscape:cy="120.29012"
+     inkscape:zoom="0.7"
+     inkscape:cx="397.02253"
+     inkscape:cy="465.12207"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -251,7 +241,7 @@
          id="tspan4389"
          x="32.741802"
          y="198.11946"
-         style="font-weight:bold">Modify and Delete Objects</tspan></text>
+         style="font-weight:bold">Adjust and Delete Objects</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -311,7 +301,7 @@
          id="tspan5278"
          y="454.93359"
          x="81.285713"
-         sodipodi:role="line">Type</tspan><tspan
+         sodipodi:role="line">Replicas</tspan><tspan
          id="tspan5280"
          style="font-weight:bold;line-height:160.00000238%"
          y="474.93359"
@@ -343,7 +333,7 @@
          x="181.28571"
          y="454.93359"
          id="tspan5290"
-         style="font-weight:normal;line-height:160.00000238%">Cluster IP</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%">1</tspan><tspan
          id="tspan5292"
          sodipodi:role="line"
          x="181.28571"
@@ -611,7 +601,7 @@
          id="tspan8052"
          x="80.500793"
          y="607.75793"
-         style="font-size:20px">ReplicationController</tspan></text>
+         style="font-size:20px">Service</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -773,7 +763,7 @@
          y="847.75793"
          x="80.500793"
          id="tspan8114"
-         sodipodi:role="line">ReplicationController</tspan></text>
+         sodipodi:role="line">Pod</tspan></text>
     <text
        sodipodi:linespacing="160%"
        id="text8116"
@@ -800,7 +790,7 @@
          id="tspan8124"
          y="934.93359"
          x="81.285713"
-         sodipodi:role="line">Type</tspan><tspan
+         sodipodi:role="line">Restart policy</tspan><tspan
          id="tspan8126"
          style="font-weight:bold;line-height:160.00000238%"
          y="954.93359"
@@ -817,7 +807,7 @@
          id="tspan8130"
          x="181.28571"
          y="874.93359"
-         style="font-weight:normal;line-height:160.00000238%">database</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%">database-1yjjc</tspan><tspan
          sodipodi:role="line"
          x="181.28571"
          y="894.93359"
@@ -832,7 +822,7 @@
          x="181.28571"
          y="934.93359"
          id="tspan8136"
-         style="font-weight:normal;line-height:160.00000238%">Cluster IP</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%">Always</tspan><tspan
          id="tspan8138"
          sodipodi:role="line"
          x="181.28571"
@@ -873,36 +863,6 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#ffffff"
              id="flowPara8152"></flowPara></flowRoot>      </g>
     </g>
-    <g
-       id="g8154"
-       transform="translate(35.03046,365.60155)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8168);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect8156"
-         width="25"
-         height="25"
-         x="256.69052"
-         y="457.50574"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <flowRoot
-         transform="matrix(0.93333333,0,0,1,27.211092,-898.57926)"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
-         xml:space="preserve"
-         id="flowRoot8158"
-         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-           id="flowRegion8160"><rect
-             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
-             id="rect8162"
-             width="87.712509"
-             height="19.071384"
-             x="215.40733"
-             y="1360.9525" /></flowRegion><flowPara
-           id="flowPara8164"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#000000"></flowPara></flowRoot>    </g>
     <path
        inkscape:connector-curvature="0"
        id="path8170"
