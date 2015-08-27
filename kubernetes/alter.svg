@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="900"
+   viewBox="0 0 1600 900"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="alter.svg"
+   inkscape:export-filename="/data/src/cockpit-design/kubernetes/alter.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="Destructive">
+      <stop
+         style="stop-color:#c82929;stop-opacity:1"
+         offset="0"
+         id="stop8078-2-4" />
+      <stop
+         style="stop-color:#a30000;stop-opacity:1"
+         offset="1"
+         id="stop8080-9-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Destructive"
+       id="linearGradient5306"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5952381,0,0,0.92592592,407.58748,-652.31743)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient6556"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59523813,0,0,0.92592589,-403.13105,-602.55177)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076-9">
+      <stop
+         style="stop-color:#f8f8f8;stop-opacity:1"
+         offset="0"
+         id="stop4471" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="1"
+         id="stop4473" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient3514-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8095238,0,0,1,-1013.8253,-736.01692)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076">
+      <stop
+         style="stop-color:#1baae6;stop-opacity:1"
+         offset="0"
+         id="stop8078" />
+      <stop
+         style="stop-color:#1999ce;stop-opacity:1"
+         offset="1"
+         id="stop8080" />
+    </linearGradient>
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(1.3095238,0,0,1,-525.09681,-735.78125)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-3"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Destructive"
+       id="linearGradient8104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5952381,0,0,0.92592592,407.58748,-652.31743)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient8106"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59523813,0,0,0.92592589,-403.13105,-602.55177)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Destructive"
+       id="linearGradient8166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5952381,0,0,0.92592592,407.58748,-652.31743)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient8168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59523813,0,0,0.92592589,-403.13105,-602.55177)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient8232"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3095238,0,0,1,-525.09681,-235.78125)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Destructive"
+       id="linearGradient5306-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5952381,0,0,0.92592592,-659.32158,-1059.5577)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="181.35056"
+     inkscape:cy="120.29012"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     gridtolerance="10000"
+     showguides="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1563"
+     inkscape:window-height="913"
+     inkscape:window-x="1866"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:snap-others="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4156"
+       empspacing="10"
+       dotted="true"
+       visible="true"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-152.36219)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="360.62445"
+       y="350.30618"
+       id="text4332"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4334"
+         x="360.62445"
+         y="350.30618" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="347.85715"
+       y="629.50507"
+       id="text4359"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4361"
+         x="347.85715"
+         y="629.50507" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4411"
+       y="582.37537"
+       x="334.28571"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="582.37537"
+         x="334.28571"
+         id="tspan4413"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.62573242px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.741802"
+       y="198.11946"
+       id="text4386"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4389"
+         x="32.741802"
+         y="198.11946"
+         style="font-weight:bold">Modify and Delete Objects</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-links.png"
+       ry="0"
+       rx="0"
+       y="328.83398"
+       x="65.718987"
+       height="200"
+       width="296.397"
+       id="rect5262"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeec;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-links.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5264"
+       d="m 66.21889,328.83398 0,200"
+       style="fill:none;stroke:#b7b7b7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5266"
+       y="367.75793"
+       x="80.500793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:20px"
+         y="367.75793"
+         x="80.500793"
+         id="tspan5268"
+         sodipodi:role="line">ReplicationController</tspan></text>
+    <text
+       sodipodi:linespacing="160%"
+       id="text5270"
+       y="394.93359"
+       x="81.285713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         y="394.93359"
+         x="81.285713"
+         id="tspan5272"
+         sodipodi:role="line">Name</tspan><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan5274"
+         y="414.93359"
+         x="81.285713"
+         sodipodi:role="line">Namespace</tspan><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan5276"
+         y="434.93359"
+         x="81.285713"
+         sodipodi:role="line">Created</tspan><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan5278"
+         y="454.93359"
+         x="81.285713"
+         sodipodi:role="line">Type</tspan><tspan
+         id="tspan5280"
+         style="font-weight:bold;line-height:160.00000238%"
+         y="474.93359"
+         x="81.285713"
+         sodipodi:role="line">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="181.28571"
+       y="394.93359"
+       id="text5282"
+       sodipodi:linespacing="160%"><tspan
+         sodipodi:role="line"
+         id="tspan5284"
+         x="181.28571"
+         y="394.93359"
+         style="font-weight:normal;line-height:160.00000238%">database</tspan><tspan
+         sodipodi:role="line"
+         x="181.28571"
+         y="414.93359"
+         id="tspan5286"
+         style="font-weight:normal;line-height:160.00000238%">test</tspan><tspan
+         sodipodi:role="line"
+         x="181.28571"
+         y="434.93359"
+         id="tspan5288"
+         style="font-weight:normal;line-height:160.00000238%">Aug 26, 2015 11:08:06 AM</tspan><tspan
+         sodipodi:role="line"
+         x="181.28571"
+         y="454.93359"
+         id="tspan5290"
+         style="font-weight:normal;line-height:160.00000238%">Cluster IP</tspan><tspan
+         id="tspan5292"
+         sodipodi:role="line"
+         x="181.28571"
+         y="474.93359"
+         style="font-weight:normal;line-height:160.00000238%">...</tspan></text>
+    <g
+       id="g6612"
+       transform="translate(-76.969542,-175.04062)">
+      <g
+         id="g5294"
+         style="opacity:1"
+         transform="translate(-666.33763,110.40761)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient5306);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect5296"
+           width="25"
+           height="25"
+           x="1067.4091"
+           y="407.7403"
+           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot5298"
+           xml:space="preserve"
+           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           transform="translate(820.7,-948.65472)"><flowRegion
+             id="flowRegion5300"><rect
+               y="1360.9525"
+               x="215.40733"
+               height="19.071384"
+               width="87.712509"
+               id="rect5302"
+               style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#ffffff"
+             id="flowPara5304"></flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g6605"
+       transform="translate(35.03046,-114.39845)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6546"
+         width="25"
+         height="25"
+         x="256.69052"
+         y="457.50574"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <flowRoot
+         transform="matrix(0.93333333,0,0,1,27.211092,-898.57926)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+         xml:space="preserve"
+         id="flowRoot6558"
+         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion6560"><rect
+             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+             id="rect6562"
+             width="87.712509"
+             height="19.071384"
+             x="215.40733"
+             y="1360.9525" /></flowRegion><flowPara
+           id="flowPara6564"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#000000"></flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="65.714287"
+       y="261.50504"
+       id="text6620"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6622"
+         x="65.714287"
+         y="261.50504">Interim button position. Once we have the design pattern</tspan><tspan
+         sodipodi:role="line"
+         x="65.714287"
+         y="277.13004"
+         id="tspan6624">that we're using for images, in all the other views, then we'll</tspan><tspan
+         sodipodi:role="line"
+         x="65.714287"
+         y="292.75504"
+         id="tspan6626">move these buttons.</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect10917-6-4-1-1-9-0-8-9-91"
+       width="419.36789"
+       height="110.13564"
+       x="668.32648"
+       y="341.08118"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(815.11808,280.36168)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-3"><rect
+           y="70.164452"
+           x="-206.87547"
+           height="109.54386"
+           width="132.43576"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-3"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#888a85" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888a85"
+         id="flowPara12023">Replicas</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="rect10917-6-4-1-1-9-0-8-9-9-7"
+       width="420.07037"
+       height="43.998161"
+       x="667.97522"
+       y="297.58105"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-0-0"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(667.82646,145.21885)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-9-0"><rect
+           y="168.16122"
+           x="17.569654"
+           height="25.623243"
+           width="225.01648"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-6-0"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-0-0">Adjust Replication Controller</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-9"
+       width="55"
+       height="27"
+       x="926.51038"
+       y="409.08093"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(423.97523,21.58097)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-0"><rect
+           y="396.42862"
+           x="498.47638"
+           height="16.077303"
+           width="59.553505"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-8"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000"
+         id="flowPara6934-2-4-4-8">Cancel</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="359.41162"
+       x="758.79822"
+       height="24.999998"
+       width="37.424355"
+       id="rect4466"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-6-4"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(972.1181,280.36168)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-3-8"><rect
+           y="70.164452"
+           x="-206.87547"
+           height="72.043861"
+           width="257.43576"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-3-8"
+           style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="flowPara12023-1">3</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="408.84521"
+       x="992.03192"
+       height="27"
+       width="76"
+       id="rect3478-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3514-5);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(659.63953,6.12592)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       xml:space="preserve"
+       id="flowRoot3490-6"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3492-3"><rect
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+           id="rect3494-6"
+           width="59.553505"
+           height="16.077303"
+           x="341.33353"
+           y="411.64795" /></flowRegion><flowPara
+         id="flowPara3496-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff">Adjust</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305.71428,318.79077 350.71429,0"
+       id="path7994"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="751.45197"
+       y="483.82904"
+       id="text7996"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7998"
+         x="751.45197"
+         y="483.82904">Use standard dialog behavior pattern</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeec;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="rect8046"
+       width="296.397"
+       height="200"
+       x="65.718987"
+       y="568.83398"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-links.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#b7b7b7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.21889,568.83398 0,200"
+       id="path8048"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-links.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80.500793"
+       y="607.75793"
+       id="text8050"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8052"
+         x="80.500793"
+         y="607.75793"
+         style="font-size:20px">ReplicationController</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="81.285713"
+       y="634.93359"
+       id="text8054"
+       sodipodi:linespacing="160%"><tspan
+         sodipodi:role="line"
+         id="tspan8056"
+         x="81.285713"
+         y="634.93359"
+         style="font-weight:bold;line-height:160.00000238%">Name</tspan><tspan
+         sodipodi:role="line"
+         x="81.285713"
+         y="654.93359"
+         id="tspan8058"
+         style="font-weight:bold;line-height:160.00000238%">Namespace</tspan><tspan
+         sodipodi:role="line"
+         x="81.285713"
+         y="674.93359"
+         id="tspan8060"
+         style="font-weight:bold;line-height:160.00000238%">Created</tspan><tspan
+         sodipodi:role="line"
+         x="81.285713"
+         y="694.93359"
+         id="tspan8062"
+         style="font-weight:bold;line-height:160.00000238%">Type</tspan><tspan
+         sodipodi:role="line"
+         x="81.285713"
+         y="714.93359"
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan8064">...</tspan></text>
+    <text
+       sodipodi:linespacing="160%"
+       id="text8066"
+       y="634.93359"
+       x="181.28571"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-weight:normal;line-height:160.00000238%"
+         y="634.93359"
+         x="181.28571"
+         id="tspan8068"
+         sodipodi:role="line">database</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%"
+         id="tspan8070"
+         y="654.93359"
+         x="181.28571"
+         sodipodi:role="line">test</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%"
+         id="tspan8072"
+         y="674.93359"
+         x="181.28571"
+         sodipodi:role="line">Aug 26, 2015 11:08:06 AM</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%"
+         id="tspan8074"
+         y="694.93359"
+         x="181.28571"
+         sodipodi:role="line">Cluster IP</tspan><tspan
+         style="font-weight:normal;line-height:160.00000238%"
+         y="714.93359"
+         x="181.28571"
+         sodipodi:role="line"
+         id="tspan8076">...</tspan></text>
+    <g
+       transform="translate(-76.969542,64.95938)"
+       id="g8078">
+      <g
+         transform="translate(-666.33763,110.40761)"
+         style="opacity:1"
+         id="g8080">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+           y="407.7403"
+           x="1067.4091"
+           height="25"
+           width="25"
+           id="rect8082"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8104);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        <flowRoot
+           transform="translate(820.7,-948.65472)"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+           xml:space="preserve"
+           id="flowRoot8084"
+           style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+             id="flowRegion8086"><rect
+               style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+               id="rect8088"
+               width="87.712509"
+               height="19.071384"
+               x="215.40733"
+               y="1360.9525" /></flowRegion><flowPara
+             id="flowPara8090"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#ffffff"></flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(35.03046,125.60155)"
+       id="g8092">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         y="457.50574"
+         x="256.69052"
+         height="25"
+         width="25"
+         id="rect8094"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8106);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot8096"
+         xml:space="preserve"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         transform="matrix(0.93333333,0,0,1,27.211092,-898.57926)"><flowRegion
+           id="flowRegion8098"><rect
+             y="1360.9525"
+             x="215.40733"
+             height="19.071384"
+             width="87.712509"
+             id="rect8100"
+             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#000000"
+           id="flowPara8102"></flowPara></flowRoot>    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-links.png"
+       ry="0"
+       rx="0"
+       y="808.83398"
+       x="65.718987"
+       height="200"
+       width="296.397"
+       id="rect8108"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeec;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/journal/journal-links.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8110"
+       d="m 66.21889,808.83398 0,200.00002"
+       style="fill:none;stroke:#b7b7b7;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8112"
+       y="847.75793"
+       x="80.500793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:20px"
+         y="847.75793"
+         x="80.500793"
+         id="tspan8114"
+         sodipodi:role="line">ReplicationController</tspan></text>
+    <text
+       sodipodi:linespacing="160%"
+       id="text8116"
+       y="874.93359"
+       x="81.285713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         y="874.93359"
+         x="81.285713"
+         id="tspan8118"
+         sodipodi:role="line">Name</tspan><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan8120"
+         y="894.93359"
+         x="81.285713"
+         sodipodi:role="line">Namespace</tspan><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan8122"
+         y="914.93359"
+         x="81.285713"
+         sodipodi:role="line">Created</tspan><tspan
+         style="font-weight:bold;line-height:160.00000238%"
+         id="tspan8124"
+         y="934.93359"
+         x="81.285713"
+         sodipodi:role="line">Type</tspan><tspan
+         id="tspan8126"
+         style="font-weight:bold;line-height:160.00000238%"
+         y="954.93359"
+         x="81.285713"
+         sodipodi:role="line">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="181.28571"
+       y="874.93359"
+       id="text8128"
+       sodipodi:linespacing="160%"><tspan
+         sodipodi:role="line"
+         id="tspan8130"
+         x="181.28571"
+         y="874.93359"
+         style="font-weight:normal;line-height:160.00000238%">database</tspan><tspan
+         sodipodi:role="line"
+         x="181.28571"
+         y="894.93359"
+         id="tspan8132"
+         style="font-weight:normal;line-height:160.00000238%">test</tspan><tspan
+         sodipodi:role="line"
+         x="181.28571"
+         y="914.93359"
+         id="tspan8134"
+         style="font-weight:normal;line-height:160.00000238%">Aug 26, 2015 11:08:06 AM</tspan><tspan
+         sodipodi:role="line"
+         x="181.28571"
+         y="934.93359"
+         id="tspan8136"
+         style="font-weight:normal;line-height:160.00000238%">Cluster IP</tspan><tspan
+         id="tspan8138"
+         sodipodi:role="line"
+         x="181.28571"
+         y="954.93359"
+         style="font-weight:normal;line-height:160.00000238%">...</tspan></text>
+    <g
+       id="g8140"
+       transform="translate(-76.969542,304.95938)">
+      <g
+         id="g8142"
+         style="opacity:1"
+         transform="translate(-666.33763,110.40761)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8166);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect8144"
+           width="25"
+           height="25"
+           x="1067.4091"
+           y="407.7403"
+           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot8146"
+           xml:space="preserve"
+           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           transform="translate(820.7,-948.65472)"><flowRegion
+             id="flowRegion8148"><rect
+               y="1360.9525"
+               x="215.40733"
+               height="19.071384"
+               width="87.712509"
+               id="rect8150"
+               style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#ffffff"
+             id="flowPara8152"></flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g8154"
+       transform="translate(35.03046,365.60155)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8168);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect8156"
+         width="25"
+         height="25"
+         x="256.69052"
+         y="457.50574"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <flowRoot
+         transform="matrix(0.93333333,0,0,1,27.211092,-898.57926)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+         xml:space="preserve"
+         id="flowRoot8158"
+         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion8160"><rect
+             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+             id="rect8162"
+             width="87.712509"
+             height="19.071384"
+             x="215.40733"
+             y="1360.9525" /></flowRegion><flowPara
+           id="flowPara8164"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#000000"></flowPara></flowRoot>    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path8170"
+       d="m 305.71428,554.79077 178.98836,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="505.13718"
+       y="559.57019"
+       id="text8172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8174"
+         x="505.13718"
+         y="559.57019">Show standard Adjust Service dialog.</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 381.71428,834.79077 263.27407,0"
+       id="path8176"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="841.08118"
+       x="668.32648"
+       height="110.13564"
+       width="419.36789"
+       id="rect8182"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="797.58105"
+       x="667.97522"
+       height="43.998161"
+       width="420.07037"
+       id="rect8192"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(667.82646,645.21885)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       xml:space="preserve"
+       id="flowRoot8194"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion8196"><rect
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000"
+           id="rect8198"
+           width="420.01648"
+           height="18.480389"
+           x="17.569654"
+           y="168.16122" /></flowRegion><flowPara
+         id="flowPara8200"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Please confirm deletion</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="909.08093"
+       x="926.51038"
+       height="27"
+       width="55"
+       id="rect8202"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8232);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(423.97523,521.58097)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       xml:space="preserve"
+       id="flowRoot8204"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion8206"><rect
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+           id="rect8208"
+           width="59.553505"
+           height="16.077303"
+           x="498.47638"
+           y="396.42862" /></flowRegion><flowPara
+         id="flowPara8210"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000">Cancel</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient5306);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate;clip-rule:nonzero;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       id="rect8222"
+       width="76"
+       height="27"
+       x="992.03192"
+       y="908.84521"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot8224"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(659.63953,506.12592)"><flowRegion
+         id="flowRegion8226"><rect
+           y="411.64795"
+           x="341.33353"
+           height="16.077303"
+           width="59.553505"
+           id="rect8228"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowPara8230">Delete</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="685"
+       y="858.07648"
+       id="text8236"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8238"
+         x="685"
+         y="858.07648" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="686.42859"
+       y="871.64789"
+       id="text8240"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8242"
+         x="686.42859"
+         y="871.64789">Deleting a Pod will kill all associated containers. Pods may be</tspan><tspan
+         sodipodi:role="line"
+         x="686.42859"
+         y="887.27289"
+         id="tspan8244">automatically again in some cases.</tspan></text>
+  </g>
+</svg>
