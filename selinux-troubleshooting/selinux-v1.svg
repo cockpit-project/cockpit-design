@@ -455,9 +455,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="607.42242"
-     inkscape:cy="-395.6877"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="769.21039"
+     inkscape:cy="-268.70532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1180,7 +1180,9 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586">If you want to use the plugin package: You must turn off SELinux controls on the Firefox plugins.</flowPara></flowRoot>    <rect
+         id="flowPara10586"><flowSpan
+   style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan11412">If you want to use the plugin package:</flowSpan> You must turn off SELinux controls on the Firefox plugins.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5"
        width="27.045908"
@@ -1275,7 +1277,9 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-6"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10584">If you want to allow system to run with NIS: You must tell SELinux about this by enabling the nis_enabled boolean.</flowPara></flowRoot>    <rect
+         id="flowPara10584"><flowSpan
+   style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan11414">If you want to allow system to run with NIS:</flowSpan> You must tell SELinux about this by enabling the nis_enabled boolean.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-34);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-5"
        width="27.045908"
@@ -1451,7 +1455,9 @@
              x="-112.64377"
              y="1151.8732" /></flowRegion><flowPara
            id="flowPara10301-08-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000">If you want to allow mozilla plugin domain to bind unreserved tcp/udp ports: You must tell SELinux about this by enabling the mozilla_bind...</flowPara></flowRoot>      <rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"><flowSpan
+   style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan11416">If you want to allow mozilla plugin domain to bind unreserved tcp/udp ports:</flowSpan> You must tell SELinux about this by enabling the mozilla_bind...</flowPara></flowRoot>      <rect
          transform="scale(-1,1)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1548,7 +1554,9 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-6-7"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10584-4">If you want to allow mozilla plugin to use Bluejeans: You must tell SELinux about this by enabling the mozilla_bind...</flowPara></flowRoot>    <rect
+         id="flowPara10584-4"><flowSpan
+   style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan11418">If you want to allow mozilla plugin to use Bluejeans:</flowSpan> You must tell SELinux about this by enabling the mozilla_bind...</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-34-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-5-1"
        width="27.045908"
