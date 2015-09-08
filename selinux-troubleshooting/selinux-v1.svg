@@ -435,9 +435,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="339.70758"
-     inkscape:cy="10.819665"
+     inkscape:zoom="1"
+     inkscape:cx="629.13084"
+     inkscape:cy="-167.26998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1439,7 +1439,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(205.4624,-51.478873)"
+       transform="translate(192.9624,-51.478873)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5"
        xml:space="preserve"
@@ -1454,5 +1454,56 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6">SELinux is preventing /usr/lib64/firefox/plugin_container to access bluejeans</flowPara></flowRoot>  </g>
+         id="flowPara10586-6">SELinux stopped <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="flowSpan10632">plugin_container</flowSpan> to access <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="flowSpan10634">name_bind</flowSpan> on <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="flowSpan10636">port 5795/tcp</flowSpan></flowPara></flowRoot>    <path
+       style="fill:#ec7a08;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 639.83058,96.461886 11,-17.9669 c 0.31784,-0.31784 0.70094,-0.36013 1,-0.0332 l 10,18 c 0.0141,0.6574 -0.49022,0.9857 -1,1 l -20,0 c -0.60462,-0.016 -0.98037,-0.4686 -1,-1 z"
+       id="path7760"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6931-8"
+       width="3"
+       height="7"
+       x="649.83087"
+       y="84.461784" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6931-4-3"
+       width="3"
+       height="3"
+       x="649.83087"
+       y="92.461784" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6913-6"
+       width="26"
+       height="17"
+       x="871.88312"
+       y="1098.9968"
+       rx="1"
+       ry="1" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
+       xml:space="preserve"
+       id="flowRoot4477-9-1-2"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(878.67262,1103.6384)"><flowRegion
+         id="flowRegion4479-9-2-1"><rect
+           id="rect4481-8-7-4"
+           width="17.746969"
+           height="12.900081"
+           x="-0.096579373"
+           y="-2.4343007"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1"
+         id="flowPara4483-5-2-1">12</flowPara></flowRoot>  </g>
 </svg>
