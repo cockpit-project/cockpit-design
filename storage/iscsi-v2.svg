@@ -240,9 +240,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="639.9133"
-     inkscape:cy="1274.9875"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1454.6356"
+     inkscape:cy="1314.7307"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3866,16 +3866,16 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-mount-size.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(1115.1017,105.58325)"><flowRegion
+       transform="translate(1115.1017,25.58325)"><flowRegion
          id="flowRegion6840-2-9-5-9-7-05-1-4-9-0-1-2-0"><rect
            id="rect6842-7-8-2-1-0-5-8-8-0-8-3-93-3"
-           width="261.12485"
-           height="25.873959"
+           width="536.18939"
+           height="23.752638"
            x="65.402893"
            y="34.014103"
            style="line-height:250%;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
-         id="flowPara12025-7-6-7-4">iqn.2014-03.com.example.server:database</flowPara></flowRoot>    <path
+         id="flowPara12025-7-6-7-4">iqn.2014-03.com.example.server:database requires authentication</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1450.178,-41.90048 0,27.58582"
        id="path13005-9-8"
@@ -3889,21 +3889,55 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-3-3-9-2-4-3-7-1-2-9-9-9-9"
-       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:250%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-mount-size.png"
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect10472-5-0-5-9"
+       width="428.16153"
+       height="24.967661"
+       x="1288.4116"
+       y="102.3396"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(1115.1017,65.583246)"><flowRegion
-         id="flowRegion6840-2-9-5-9-7-05-1-4-9-0-1-2-0-7"><rect
-           id="rect6842-7-8-2-1-0-5-8-8-0-8-3-93-3-0"
-           width="261.12485"
-           height="25.873959"
-           x="65.402893"
-           y="34.014103"
-           style="line-height:250%;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
-         id="flowPara12025-7-6-7-4-4">Username and password for....</flowPara></flowRoot>  </g>
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
+       x="1274.595"
+       y="119.07605"
+       id="text11000-49-8-3-5-37-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-5-3-7"
+         x="1274.595"
+         y="119.07605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Username</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect10472-5-0-2-1-0"
+       width="428.16153"
+       height="24.967661"
+       x="1288.4116"
+       y="142.3396"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
+       x="1274.595"
+       y="159.07605"
+       id="text11000-49-8-3-5-3-34-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-5-5-7-6"
+         x="1274.595"
+         y="159.07605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Password</tspan></text>
+  </g>
 </svg>
