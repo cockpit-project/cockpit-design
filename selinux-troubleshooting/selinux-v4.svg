@@ -443,9 +443,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="3294.6526"
-     inkscape:cy="-1468.2992"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1423.5608"
+     inkscape:cy="-1248.7774"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2654,5 +2654,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
          id="flowPara7646-5-6-2">SELinux Access Control</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
-         id="flowPara7644-1-4-2">&gt; Tools</flowPara></flowRoot>  </g>
+         id="flowPara7644-1-4-2">&gt; Tools</flowPara></flowRoot>    <flowRoot
+       transform="translate(1117.7044,1007.9894)"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-9-5-1-7-8"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-9-9-7-2-7-4-6-2-6-4-0-6-0-8"><rect
+           y="1151.8732"
+           x="-112.64377"
+           height="22.016846"
+           width="507.60806"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-2-5-8-8-0-7"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara10301-0-2-4-4-6-1">If you want to allow dnsmasq to have read access on the localtime symlink file</flowPara></flowRoot>  </g>
 </svg>
