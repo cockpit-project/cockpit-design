@@ -286,6 +286,16 @@
          stdDeviation="2.4121093"
          id="feGaussianBlur11546-1-3-1" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient9428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59523813,0,0,0.92592589,168.36733,-673.93545)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -294,9 +304,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1453.2872"
-     inkscape:cy="577.86942"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="821.78753"
+     inkscape:cy="853.52917"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1886,7 +1896,7 @@
        style="opacity:0.48800001"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,80)">
+       transform="translate(-30.097087,80)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-1);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="rect6546-70"
@@ -4750,5 +4760,32 @@
          x="1902.3292"
          y="-745.40021"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.62650299px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Add iSCSI storage dialog - Error states</tspan></text>
+    <g
+       id="g8957-8"
+       transform="translate(548.28256,10.783365)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient9428);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6546-0-9-6"
+         width="25"
+         height="25"
+         x="828.1889"
+         y="386.12222"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         y="-320.7002"
+         x="873.08466"
+         height="14.126301"
+         width="4.9866748"
+         id="rect8896-2-1"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect8898-3-3"
+         d="m 833.49217,401.2358 -1.0938,4.61875 4.6188,-1.09371 -3.525,-3.52504 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
