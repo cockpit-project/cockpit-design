@@ -304,9 +304,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1298.8732"
-     inkscape:cy="943.58902"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1664.7153"
+     inkscape:cy="1453.0214"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3260,13 +3260,13 @@
        transform="translate(589,-604.61786)"><flowRegion
          id="flowRegion6840-2-9-5-9-7-05-1-6-6-2"><rect
            id="rect6842-7-8-2-1-0-5-8-5-9-7"
-           width="107.05988"
-           height="36.160763"
+           width="84.432449"
+           height="36.867863"
            x="17.294773"
            y="-3.9753666"
            style="line-height:250%;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:250%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#2e3436;fill-opacity:1"
-         id="flowPara10546-1-5-0-1-1">iSSCI Targets</flowPara></flowRoot>    <rect
+         id="flowPara10546-1-5-0-1-1">iSSCI Target</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-2);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-8"
        width="25"
@@ -3417,8 +3417,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1286.595"
-       y="-537.32849"
+       x="1304.2727"
+       y="-611.22119"
        id="text11000-49-8-3-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
@@ -3426,16 +3426,16 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan11002-1-0-8-6"
-         x="1286.595"
-         y="-537.32849"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Leave Username and Password blank for no credetials</tspan></text>
+         x="1304.2727"
+         y="-611.22119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Use authentication when connecting</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10472-5-0-5"
        width="428.16153"
        height="24.967661"
        x="1288.4116"
-       y="-617.6604"
+       y="-597.6604"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3443,7 +3443,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
        x="1274.595"
-       y="-600.92395"
+       y="-580.92395"
        id="text11000-49-8-3-5-37"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
@@ -3452,7 +3452,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-8-5-3"
          x="1274.595"
-         y="-600.92395"
+         y="-580.92395"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Username</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -3460,7 +3460,7 @@
        width="428.16153"
        height="24.967661"
        x="1288.4116"
-       y="-577.6604"
+       y="-557.6604"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3468,7 +3468,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
        x="1274.595"
-       y="-560.92395"
+       y="-540.92395"
        id="text11000-49-8-3-5-3-34"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
@@ -3477,7 +3477,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-8-5-5-7"
          x="1274.595"
-         y="-560.92395"
+         y="-540.92395"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Password</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter11544-9-6);enable-background:accumulate"
@@ -4422,9 +4422,9 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10472-9-4"
-       width="428.16153"
+       width="508.16153"
        height="24.967661"
-       x="1288.4116"
+       x="1208.4116"
        y="-917.6604"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
@@ -4432,7 +4432,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
-       x="1274.595"
+       x="1194.595"
        y="-900.92401"
        id="text11000-49-8-03-5"
        sodipodi:linespacing="125%"
@@ -4441,9 +4441,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan11002-1-0-6-3"
-         x="1274.595"
+         x="1194.595"
          y="-900.92401"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Client IQN Name</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Name</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect10472-8-3-4-1"
@@ -4534,7 +4534,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1296.595"
+       x="1216.595"
        y="-901.32849"
        id="text11000-49-8-3-3-9"
        sodipodi:linespacing="125%"
@@ -4543,7 +4543,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan11002-1-0-8-6-6"
-         x="1296.595"
+         x="1216.595"
          y="-901.32849"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">iqn.2014-03.example.client</tspan></text>
     <path
@@ -4799,5 +4799,15 @@
          d="m 833.49217,401.2358 -1.0938,4.61875 4.6188,-1.09371 -3.525,-3.52504 z"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999976;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect10472-5-0-5-7"
+       width="10.060658"
+       height="10.060659"
+       x="1288.4601"
+       y="-620.01685"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
