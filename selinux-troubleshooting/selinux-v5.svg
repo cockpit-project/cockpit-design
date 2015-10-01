@@ -398,16 +398,6 @@
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Destructive"
-       id="linearGradient8082-2-6-7-6-9"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1190476,0,0,0.92750422,-1548.4197,155.05215)" />
-    <linearGradient
        y2="1203.7383"
        x2="1.2711589"
        y1="1227.8451"
@@ -462,7 +452,7 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(2.4036617,0,0,0.92294558,-1888.9052,436.222)"
+       gradientTransform="matrix(2.4036617,0,0,0.92294558,-1888.9052,408.222)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-9-5-4-8-26-0-5-2-8"
        xlink:href="#linearGradient8076-9"
@@ -472,7 +462,7 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(2.4037235,0,0,0.9275752,-1889.0066,390.9217)"
+       gradientTransform="matrix(2.4037235,0,0,0.9275752,-1889.0066,362.9217)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-9-5-8-8-5-9-6-8"
        xlink:href="#linearGradient8076-9"
@@ -482,7 +472,7 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(2.4037235,0,0,0.92526038,-1889.0066,351.5718)"
+       gradientTransform="matrix(2.4037235,0,0,0.92526038,-1889.0066,323.5718)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-9-9-7-5-0-4-1"
        xlink:href="#linearGradient8076-9"
@@ -527,6 +517,16 @@
        id="linearGradient8099-9-9-7-5-0-4-1-4"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(2.1343495,0,0,0.92526038,-1565.0917,157.57175)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-9-9-7-5-0-4-1-0"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="517.03712"
-     inkscape:cy="-945.71695"
+     inkscape:zoom="0.5"
+     inkscape:cx="769.57542"
+     inkscape:cy="-296.82922"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1865,17 +1865,17 @@
          id="flowPara7997-1-9">Terminal</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
          id="flowPara7995-3-7">SELinux Access Control</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-2-6-7-6-9);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-58-8-3-6-0"
-       width="89"
-       height="25.042614"
-       x="800.54474"
-       y="1216.9167"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-9-9-7-5-0-4-1-0);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-1-85-5-0-4-7-3-2"
+       width="89.642685"
+       height="24.982031"
+       x="800.83563"
+       y="1216.8677"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-9-0-5-5-4"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
@@ -1888,8 +1888,8 @@
            height="19.071384"
            width="87.712509"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-3-0-3-5-6"
-           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000;"
          id="flowPara6934-2-4-4-9-0-2-4-8-3">Clear all</flowPara></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -201.79418,1355.349 6.12869,5.8447 6.12869,-5.8447"
@@ -2794,7 +2794,7 @@
        width="100.95639"
        height="24.982031"
        x="775.52191"
-       y="1410.8677"
+       y="1382.8677"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2804,7 +2804,7 @@
        width="100.95639"
        height="25.044531"
        x="775.52191"
-       y="1452.8677"
+       y="1424.8677"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2814,12 +2814,12 @@
        width="100.9538"
        height="24.919531"
        x="775.55469"
-       y="1492.8677"
+       y="1464.8677"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(196.3588,264.5274)"
+       transform="translate(196.3588,236.5274)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-1-2-2-9"
        xml:space="preserve"
@@ -2835,7 +2835,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara10301-0-1-4-3-4">If you want to use the plugin package you must turn off SELinux controls on the Firefox plugins.</flowPara></flowRoot>    <flowRoot
-       transform="translate(195.5192,306.5273)"
+       transform="translate(195.5192,278.5273)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-9-5-1-2-9"
        xml:space="preserve"
@@ -2851,7 +2851,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara10301-0-2-4-2-9-9">If you want to allow mozilla plugin domain to connect to the network using TCP.</flowPara></flowRoot>    <flowRoot
-       transform="translate(195.5192,344.5273)"
+       transform="translate(195.5192,316.5273)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-9-5-7-2-9-3"
        xml:space="preserve"
@@ -2889,7 +2889,7 @@
    id="flowSpan10634-4-5-0-1-3-3">name_connect</flowSpan> on <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10636-6-4-0-8-0-4">port 4001/tcp</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="translate(916.50282,262.42614)"
+       transform="translate(916.50282,234.42614)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-1-4-6-4-0-7"
        xml:space="preserve"
@@ -2905,7 +2905,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara10301-0-1-1-9-3-0-0">Turn off</flowPara></flowRoot>    <flowRoot
-       transform="translate(920.03835,304.07258)"
+       transform="translate(920.03835,276.07258)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-1-4-7-8-3-5-1"
        xml:space="preserve"
@@ -2921,7 +2921,7 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara10301-0-1-1-0-8-5-9-4">Turn on</flowPara></flowRoot>    <flowRoot
-       transform="translate(916.4339,344.1938)"
+       transform="translate(916.4339,316.1938)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-1-4-7-0-4-6-2-0-8-6-7-4"
        xml:space="preserve"
@@ -2968,14 +2968,14 @@
          style="font-size:12.5px;fill:#4cacdc;fill-opacity:1">Details</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e3e3e0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 79.010323,1443.8694 798.056677,0"
+       d="m 79.010323,1415.8694 798.056677,0"
        id="path8295-6-1-4"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e3e3e0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 77.936233,1485.8446 799.117367,0"
+       d="m 77.936233,1457.8446 799.117367,0"
        id="path8295-1-4-3-9"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -3105,13 +3105,13 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#000000"
          id="flowPara10301-0-1-1-7-9-1-6">12 occurences</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#e3e3e0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 79.01032,1399.8694 798.05668,0"
+       d="m 79.01032,1371.8694 798.05668,0"
        id="path8295-6-1-4-7"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(195.03935,218.0283)"
+       transform="translate(195.03935,186.0283)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-1-3-9-2-9-3-8"
        xml:space="preserve"
@@ -3127,8 +3127,8 @@
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara10301-0-1-1-7-9-1-6-0">Ways to resolve this issue</flowPara></flowRoot>    <flowRoot
-       transform="translate(196.3588,184.5274)"
-       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(701.3588,184.5274)"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#555753;fill-opacity:1;stroke:none;"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-4-1-2-2-9-4"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
@@ -3140,8 +3140,8 @@
            height="25.138084"
            width="374.34506"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-2-1-9-2-9-9"
-           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#555753;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#555753;"
          id="flowPara10301-0-1-4-3-4-4">Occured between 2015-01-12 12:12 and 2015-06 01:22</flowPara></flowRoot>    <rect
        y="2214.5474"
        x="65.519836"
