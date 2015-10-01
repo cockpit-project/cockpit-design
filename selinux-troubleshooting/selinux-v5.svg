@@ -348,16 +348,6 @@
          id="stop8080-9-9" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Destructive"
-       id="linearGradient8082-2-6-7-6"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1190476,0,0,0.92750422,-1548.4198,-930.94786)" />
-    <linearGradient
        y2="1203.7383"
        x2="1.2711589"
        y1="1227.8451"
@@ -527,6 +517,16 @@
        id="linearGradient8099-9-9-7-5-0-4-1-0"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(2.1343495,0,0,0.92526038,-1565.0917,-928.42825)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-9-9-7-5-0-4-1-0-0"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -535,9 +535,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="769.57542"
-     inkscape:cy="-296.82922"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="627.19907"
+     inkscape:cy="-454.3949"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -959,32 +959,32 @@
          id="flowPara7997-1">Terminal</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
          id="flowPara7995-3">SELinux Access Control</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-2-6-7-6);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-58-8-3-6"
-       width="89"
-       height="25.042614"
-       x="800.54474"
-       y="130.91675"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-9-9-7-5-0-4-1-0-0);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-1-85-5-0-4-7-3-2-0"
+       width="89.642685"
+       height="24.982031"
+       x="800.83563"
+       y="130.86768"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-9-0-5-5"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-9-0-5-5-4-8"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(586.88771,-1222.6073)"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-3-7-6-3"><rect
+       transform="translate(586.88773,-1222.6073)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-3-7-6-3-3-5"><rect
            y="1360.9525"
            x="215.40733"
            height="19.071384"
            width="87.712509"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-3-0-3-5"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-3-0-3-5-6-8"
            style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara6934-2-4-4-9-0-2-4-8">Clear all</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#000000"
+         id="flowPara6934-2-4-4-9-0-2-4-8-3-3">Clear all</flowPara></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -201.79418,269.349 6.12869,5.8447 6.12869,-5.8447"
        id="rect7984-3"
@@ -1946,9 +1946,11 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-14-6-3-1"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6-3-0-9-3-5">SELinux stopped <flowSpan
+         id="flowPara10586-6-3-0-9-3-5"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-   id="flowSpan10632-0-3-7-3-9">foo</flowSpan> to access <flowSpan
+   id="flowSpan10632-0-3-7-3-9"><flowSpan
+   style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan8976">Denied</flowSpan> foo</flowSpan> to access <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10634-4-5-1-1-2">lorem-ipsum</flowSpan> on <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
@@ -1995,9 +1997,11 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-14-6-2-6-2"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6-3-0-9-2-2-0">SELinux stopped <flowSpan
+         id="flowPara10586-6-3-0-9-2-2-0"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-   id="flowSpan10632-0-3-7-1-7-3">cats</flowSpan> to access <flowSpan
+   id="flowSpan10632-0-3-7-1-7-3"><flowSpan
+   style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan8978">Denied</flowSpan> cats</flowSpan> to access <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10634-4-5-1-0-1-9">dogfood</flowSpan> on <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
@@ -2031,9 +2035,11 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-1-6-6-8-5-7-6-4"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6-3-4-4-8-1-2-1-8-7">SELinux stopped <flowSpan
+         id="flowPara10586-6-3-4-4-8-1-2-1-8-7"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-   id="flowSpan10632-0-5-1-0-4-3-5-5-2">dhclient</flowSpan> to read the symlink <flowSpan
+   id="flowSpan10632-0-5-1-0-4-3-5-5-2"><flowSpan
+   style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan8972">Denied</flowSpan> dhclient</flowSpan> to read the symlink <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10634-4-7-5-7-8-8-0-2-7">/etc/localtime</flowSpan></flowPara></flowRoot>    <flowRoot
        transform="translate(195.606,390.3422)"
@@ -2051,9 +2057,11 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-1-6-6-8-5-7-6-0-8"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-2">SELinux stopped <flowSpan
+         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-2"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-   id="flowSpan10632-0-5-1-0-4-3-5-5-9-7">domperidoo</flowSpan> to read the file <flowSpan
+   id="flowSpan10632-0-5-1-0-4-3-5-5-9-7"><flowSpan
+   style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan8974">Denied</flowSpan> domperidoo</flowSpan> to read the file <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10634-4-7-5-7-8-8-0-2-9-3">/etc/foo</flowSpan></flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
@@ -3046,7 +3054,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-14-4-8-6-5"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6-3-0-2-3-3-69">SELinux stopped <flowSpan
+         id="flowPara10586-6-3-0-2-3-3-69">Denied <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10632-0-3-8-6-0-0">plugin_container</flowSpan> to access <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
