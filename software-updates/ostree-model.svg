@@ -20,6 +20,34 @@
   <defs
      id="defs4">
     <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4651"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4537"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#aa0000;stroke-width:1pt;stroke-opacity:1;fill:#aa0000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4648"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4528"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#aa0000;stroke-width:1pt;stroke-opacity:1;fill:#aa0000;fill-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
        inkscape:stockid="TriangleInM"
        orient="auto"
        refY="0.0"
@@ -668,8 +696,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="615.34612"
-     inkscape:cy="370.35146"
+     inkscape:cx="687.25994"
+     inkscape:cy="361.26416"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -687,7 +715,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -828,7 +856,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="beginning"
+     inkscape:label="01-beginning"
      style="display:none">
     <text
        xml:space="preserve"
@@ -851,7 +879,7 @@
          sodipodi:role="line"
          id="tspan28657"
          x="508.04581"
-         y="438.18521">machine-a is running this</tspan></text>
+         y="438.18521">host-a is running this</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 622.25396,377.07096 -29.29442,44.44671"
@@ -861,14 +889,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="213.1422"
+       x="306.35815"
        y="595.26392"
        id="text28661"
        sodipodi:linespacing="160%"><tspan
          sodipodi:role="line"
          id="tspan28663"
-         x="213.1422"
-         y="595.26392">trees, both downloaded and not</tspan></text>
+         x="306.35815"
+         y="595.26392"
+         style="text-align:center;text-anchor:middle">trees, both downloaded and not</tspan><tspan
+         sodipodi:role="line"
+         x="306.35815"
+         y="615.26392"
+         id="tspan4684"
+         style="text-align:center;text-anchor:middle">each circle in an OS state</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 202.85714,592.28571 -40.71428,3.57143"
@@ -888,7 +922,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="upgrade-heisen"
+     inkscape:label="02-upgrade-heisen"
      style="display:none">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
@@ -917,12 +951,12 @@
          y="59.883064"
          x="638.71576"
          id="tspan28683"
-         sodipodi:role="line">You upgrade ... where will you end up?</tspan></text>
+         sodipodi:role="line">rpm-ostree upgrade ... where will you end up?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="upgrade-state"
+     inkscape:label="03-upgrade-state"
      style="display:none">
     <path
        sodipodi:nodetypes="csc"
@@ -988,7 +1022,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="upgrade-two-systems"
+     inkscape:label="04-upgrade-two-systems"
      style="display:none">
     <circle
        transform="translate(0,-284.36216)"
@@ -1043,7 +1077,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     inkscape:label="upgrade-non-idempotent"
+     inkscape:label="05-upgrade-non-idempotent"
      id="g8038"
      inkscape:groupmode="layer"
      style="display:none">
@@ -1120,7 +1154,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="rollback-two-systems"
+     inkscape:label="06-rollback-two-systems"
      id="g10797"
      inkscape:groupmode="layer">
     <circle
@@ -1140,7 +1174,7 @@
          y="59.883064"
          x="638.71576"
          id="tspan28683-6-6-3"
-         sodipodi:role="line">If you rollback two systems ...</tspan></text>
+         sodipodi:role="line">If you rpm-ostree rollback two systems ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1179,7 +1213,7 @@
      style="display:none"
      inkscape:groupmode="layer"
      id="g10801"
-     inkscape:label="rollback-not-idempotent">
+     inkscape:label="07-rollback-not-idempotent">
     <circle
        transform="translate(0,-284.36216)"
        r="14.285714"
@@ -1187,12 +1221,6 @@
        cx="637.14288"
        id="circle10803"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8036);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0055d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="circle10805"
-       cx="757.14288"
-       cy="481.71432"
-       r="14.285714" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1250,9 +1278,15 @@
          x="688.24884"
          id="tspan28762-8-7"
          sodipodi:role="line">but host-b went here</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0055d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle10805"
+       cx="757.14288"
+       cy="481.71432"
+       r="14.285714" />
   </g>
   <g
-     inkscape:label="rollback-again"
+     inkscape:label="08-rollback-again"
      id="g13999"
      inkscape:groupmode="layer"
      style="display:none">
@@ -1301,7 +1335,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="deployments-history"
+     inkscape:label="09-deployments-history"
      id="g28928"
      inkscape:groupmode="layer">
     <path
@@ -1388,7 +1422,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="deployments"
+     inkscape:label="10-deployments"
      style="display:none">
     <path
        id="path28632"
@@ -1419,7 +1453,7 @@
          y="502.3299" /></text>
   </g>
   <g
-     inkscape:label="deployments-and-future"
+     inkscape:label="11-deployments-and-future"
      id="g28635"
      inkscape:groupmode="layer"
      style="display:none">
@@ -1464,7 +1498,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="axis-example"
+     inkscape:label="12-axis-example"
      style="display:none">
     <path
        id="path17718"
@@ -1508,7 +1542,7 @@
          id="tspan29432" /></text>
   </g>
   <g
-     inkscape:label="axis-multiple"
+     inkscape:label="13-axis-multiple"
      id="g20781"
      inkscape:groupmode="layer"
      style="display:none">
@@ -1535,12 +1569,18 @@
          x="638.71576"
          id="tspan28683-6-6-3-5-9-4-6-4"
          sodipodi:role="line">Usability suggestion: multiple &quot;axes&quot; or &quot;timelines&quot;</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0055d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle10805-1-1"
+       cx="577.14288"
+       cy="535.71436"
+       r="14.285714" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="axis-deployment-history"
-     style="display:inline">
+     inkscape:label="14-axis-deployment-history"
+     style="display:none">
     <path
        sodipodi:nodetypes="cccccccccccccc"
        inkscape:connector-curvature="0"
@@ -1575,7 +1615,7 @@
        id="path24395"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker17611)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4651)"
        d="m 514.46351,324.02309 c -27.15394,6.03421 -50.18543,31.90415 -70.12765,91.22552"
        id="path24393"
        inkscape:connector-curvature="0" />
@@ -1602,5 +1642,11 @@
        id="path22087"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0055d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle10805-1"
+       cx="577.14288"
+       cy="535.71436"
+       r="14.285714" />
   </g>
 </svg>
