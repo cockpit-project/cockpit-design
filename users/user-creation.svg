@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="744.09448"
+   height="1200"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -21,9 +21,9 @@
   <defs
      id="defs4">
     <filter
-       color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter11544">
+       id="filter11544"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.4121093"
@@ -56,8 +56,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="190.65213"
-     inkscape:cy="160.8331"
+     inkscape:cx="197.23489"
+     inkscape:cy="605.61081"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,14 +87,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,147.63782)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter11544);enable-background:accumulate"
        id="rect10472-8-36"
@@ -105,14 +106,14 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(1,0,0,1.2345346,20,-9.3871795)" />
+       transform="matrix(1,0,0,1.2345346,20,-149.38718)" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect10472-8"
        width="598.0152"
        height="267.01578"
        x="71.840622"
-       y="83.96273"
+       y="-56.03727"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -122,7 +123,7 @@
        width="453.16153"
        height="24.967661"
        x="195.51331"
-       y="164.93526"
+       y="24.935257"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -130,7 +131,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62234"
-       y="181.05849"
+       y="41.058487"
        id="text11000"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -139,11 +140,11 @@
          sodipodi:role="line"
          id="tspan11002"
          x="184.62234"
-         y="181.05849"
+         y="41.058487"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Password</tspan></text>
     <path
        style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 629.98578,145.13045 5,5 5,-5"
+       d="m 629.98578,5.13045 5,5 5,-5"
        id="path10125"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -151,7 +152,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 629.98578,117.01972 5,5 5,-5"
+       d="m 629.98578,-22.98028 5,5 5,-5"
        id="path10125-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -161,7 +162,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
        x="185.01462"
-       y="153.05849"
+       y="13.058487"
        id="text11000-49"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -170,13 +171,13 @@
          sodipodi:role="line"
          id="tspan11002-1"
          x="185.01462"
-         y="153.05849"
+         y="13.058487"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">User Name</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="186.8557"
-       y="123.71597"
+       y="-16.284027"
        id="text11000-49-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -185,7 +186,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0"
          x="186.8557"
-         y="123.71597"
+         y="-16.284027"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Real Name</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -193,7 +194,7 @@
        width="597.83252"
        height="42.885574"
        x="72.018845"
-       y="-84.130089"
+       y="55.869911"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
@@ -202,7 +203,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:73.38059998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="88.44236"
-       y="70.357414"
+       y="-69.642586"
        id="text11000-49-8-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -211,7 +212,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-1"
          x="88.44236"
-         y="70.357414"
+         y="-69.642586"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Create New Account</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -219,7 +220,7 @@
        width="55"
        height="25"
        x="594.52515"
-       y="316.99722"
+       y="176.99722"
        rx="1.0439569"
        ry="1.0439569"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -231,7 +232,7 @@
        width="55"
        height="25"
        x="530.52521"
-       y="316.99722"
+       y="176.99722"
        rx="1.0439569"
        ry="1.0439569"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -241,7 +242,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="604.85608"
-       y="333.99167"
+       y="193.99167"
        id="text11000-4-6-0-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -250,13 +251,13 @@
          sodipodi:role="line"
          id="tspan11002-9-1-8-9"
          x="604.85608"
-         y="333.99167"
+         y="193.99167"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Create</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="540.76813"
-       y="333.99167"
+       y="193.99167"
        id="text11000-4-6-0-4-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -265,7 +266,7 @@
          sodipodi:role="line"
          id="tspan11002-9-1-8-9-2"
          x="540.76813"
-         y="333.99167"
+         y="193.99167"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Cancel</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a94442;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -273,7 +274,7 @@
        width="453.16153"
        height="24.967661"
        x="195.51331"
-       y="193.8867"
+       y="53.886703"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -281,7 +282,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62234"
-       y="209.05849"
+       y="69.058487"
        id="text11000-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -290,7 +291,7 @@
          sodipodi:role="line"
          id="tspan11002-5"
          x="184.62234"
-         y="209.05849"
+         y="69.058487"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Confirm</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -298,7 +299,7 @@
        width="453.16153"
        height="24.967661"
        x="195.40282"
-       y="106.92399"
+       y="-33.076012"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -308,7 +309,7 @@
        width="453.16153"
        height="24.967661"
        x="195.40282"
-       y="135.87544"
+       y="-4.1245565"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -316,7 +317,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none"
        x="195.97684"
-       y="233.05849"
+       y="93.058487"
        id="text11000-0-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -325,13 +326,13 @@
          sodipodi:role="line"
          id="tspan11002-5-5"
          x="195.97684"
-         y="233.05849"
+         y="93.058487"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#a94442;fill-opacity:1">The passwords do not match</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="204.94603"
-       y="123.71597"
+       y="-16.284027"
        id="text11000-49-8-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -340,13 +341,13 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2"
          x="204.94603"
-         y="123.71597"
+         y="-16.284027"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Åker Ljugare</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="204.94603"
-       y="151.71597"
+       y="11.715973"
        id="text11000-49-8-8-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -355,7 +356,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5"
          x="204.94603"
-         y="151.71597"
+         y="11.715973"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">ljugare</tspan></text>
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -364,7 +365,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="207"
-       cy="178.36218"
+       cy="38.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -373,7 +374,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="217"
-       cy="178.36218"
+       cy="38.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -382,7 +383,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="227"
-       cy="178.36218"
+       cy="38.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -391,7 +392,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="237"
-       cy="178.36218"
+       cy="38.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -400,7 +401,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="247"
-       cy="178.36218"
+       cy="38.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -409,7 +410,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="257"
-       cy="178.36218"
+       cy="38.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -418,7 +419,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="207"
-       cy="206.36218"
+       cy="66.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -427,7 +428,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="217"
-       cy="206.36218"
+       cy="66.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -436,7 +437,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="227"
-       cy="206.36218"
+       cy="66.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -445,7 +446,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="237"
-       cy="206.36218"
+       cy="66.362183"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -454,7 +455,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="247"
-       cy="206.36218"
+       cy="66.362183"
        r="3.25" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -462,7 +463,7 @@
        width="13.005631"
        height="13.005631"
        x="194.5625"
-       y="270.85852"
+       y="130.85852"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -470,7 +471,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="212.94601"
-       y="280.716"
+       y="140.716"
        id="text11000-49-8-8-0-8-1-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -479,13 +480,13 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-5-4-1"
          x="212.94601"
-         y="280.716"
+         y="140.716"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Make this an administrator account</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62234"
-       y="281.05847"
+       y="141.05847"
        id="text11000-0-6-0-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -494,7 +495,7 @@
          sodipodi:role="line"
          id="tspan11002-5-0-96-8"
          x="184.62234"
-         y="281.05847"
+         y="141.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Access</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter11544-8);enable-background:accumulate"
@@ -506,14 +507,14 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(1,0,0,1.2425533,20,370.33786)" />
+       transform="matrix(1,0,0,1.2425533,20,230.33786)" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect10472-8-8"
        width="598.0152"
        height="288.9361"
        x="71.840622"
-       y="443.96271"
+       y="303.96271"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -523,7 +524,7 @@
        width="453.16153"
        height="24.967661"
        x="195.51332"
-       y="544.93524"
+       y="404.93524"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -531,7 +532,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62236"
-       y="561.05847"
+       y="421.05847"
        id="text11000-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -540,11 +541,11 @@
          sodipodi:role="line"
          id="tspan11002-7"
          x="184.62236"
-         y="561.05847"
+         y="421.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Password</tspan></text>
     <path
        style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 629.98578,525.13043 5,5 5,-5"
+       d="m 629.98578,385.13043 5,5 5,-5"
        id="path10125-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -552,7 +553,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 629.98578,497.0197 5,5 5,-5"
+       d="m 629.98578,357.0197 5,5 5,-5"
        id="path10125-7-0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -562,7 +563,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
        x="185.01463"
-       y="533.05847"
+       y="393.05847"
        id="text11000-49-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -571,13 +572,13 @@
          sodipodi:role="line"
          id="tspan11002-1-4"
          x="185.01463"
-         y="533.05847"
+         y="393.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">User Name</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="186.8557"
-       y="503.71594"
+       y="363.71594"
        id="text11000-49-8-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -586,7 +587,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-5"
          x="186.8557"
-         y="503.71594"
+         y="363.71594"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Real Name</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -594,7 +595,7 @@
        width="597.83252"
        height="42.885574"
        x="72.018845"
-       y="-464.13007"
+       y="-324.13007"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
@@ -603,7 +604,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:73.38059998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="88.44236"
-       y="450.35742"
+       y="310.35742"
        id="text11000-49-8-0-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -612,7 +613,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-1-8"
          x="88.44236"
-         y="450.35742"
+         y="310.35742"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Create New Account</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -620,7 +621,7 @@
        width="55"
        height="25"
        x="594.52515"
-       y="696.99719"
+       y="556.99719"
        rx="1.0439569"
        ry="1.0439569"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -632,7 +633,7 @@
        width="55"
        height="25"
        x="530.52521"
-       y="696.99719"
+       y="556.99719"
        rx="1.0439569"
        ry="1.0439569"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -642,7 +643,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="604.85608"
-       y="713.9917"
+       y="573.9917"
        id="text11000-4-6-0-4-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -651,13 +652,13 @@
          sodipodi:role="line"
          id="tspan11002-9-1-8-9-0"
          x="604.85608"
-         y="713.9917"
+         y="573.9917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Create</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="540.76813"
-       y="713.9917"
+       y="573.9917"
        id="text11000-4-6-0-4-7-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -666,7 +667,7 @@
          sodipodi:role="line"
          id="tspan11002-9-1-8-9-2-1"
          x="540.76813"
-         y="713.9917"
+         y="573.9917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Cancel</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -674,7 +675,7 @@
        width="453.16153"
        height="24.967661"
        x="195.40282"
-       y="486.92395"
+       y="346.92395"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -684,7 +685,7 @@
        width="453.16153"
        height="24.967661"
        x="195.40282"
-       y="515.87543"
+       y="375.87543"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -692,7 +693,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="204.94603"
-       y="503.71594"
+       y="363.71594"
        id="text11000-49-8-8-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -701,13 +702,13 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-6"
          x="204.94603"
-         y="503.71594"
+         y="363.71594"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Åker Ljugare</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="204.94603"
-       y="531.71594"
+       y="391.71594"
        id="text11000-49-8-8-0-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -716,7 +717,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-0"
          x="204.94603"
-         y="531.71594"
+         y="391.71594"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">ljugare</tspan></text>
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -725,7 +726,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="207.00002"
-       cy="558.36218"
+       cy="418.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -734,7 +735,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="217.00002"
-       cy="558.36218"
+       cy="418.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -743,7 +744,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="227.00002"
-       cy="558.36218"
+       cy="418.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -752,7 +753,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="237.00002"
-       cy="558.36218"
+       cy="418.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -761,7 +762,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="247.00002"
-       cy="558.36218"
+       cy="418.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -770,7 +771,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="257"
-       cy="558.36218"
+       cy="418.36218"
        r="3.25" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -778,7 +779,7 @@
        width="13.005631"
        height="13.005631"
        x="194.56252"
-       y="650.85852"
+       y="510.85852"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -786,7 +787,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="212.94603"
-       y="660.716"
+       y="520.716"
        id="text11000-49-8-8-0-8-1-6-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -795,13 +796,13 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-5-4-1-5"
          x="212.94603"
-         y="660.716"
+         y="520.716"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Make this an administrator account</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62236"
-       y="661.05847"
+       y="521.05847"
        id="text11000-0-6-0-9-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -810,7 +811,7 @@
          sodipodi:role="line"
          id="tspan11002-5-0-96-8-7"
          x="184.62236"
-         y="661.05847"
+         y="521.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Access</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter11544-8-8);enable-background:accumulate"
@@ -822,14 +823,14 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(1,0,0,1.2508021,20,771.43879)" />
+       transform="matrix(1,0,0,1.2508021,20,631.43879)" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect10472-8-8-2"
        width="598.0152"
        height="293.17871"
        x="71.840622"
-       y="843.96271"
+       y="703.96271"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -839,7 +840,7 @@
        width="453.16153"
        height="24.967661"
        x="195.51332"
-       y="944.93518"
+       y="804.93518"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -847,7 +848,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62236"
-       y="961.05847"
+       y="821.05847"
        id="text11000-4-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -856,11 +857,11 @@
          sodipodi:role="line"
          id="tspan11002-7-2"
          x="184.62236"
-         y="961.05847"
+         y="821.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Password</tspan></text>
     <path
        style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 629.98578,925.1304 5,5 5,-5"
+       d="m 629.98578,785.1304 5,5 5,-5"
        id="path10125-1-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -868,7 +869,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#b7b7b7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 629.98578,897.0197 5,5 5,-5"
+       d="m 629.98578,757.0197 5,5 5,-5"
        id="path10125-7-0-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -878,7 +879,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
        x="185.01463"
-       y="933.05847"
+       y="793.05847"
        id="text11000-49-2-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -887,13 +888,13 @@
          sodipodi:role="line"
          id="tspan11002-1-4-4"
          x="185.01463"
-         y="933.05847"
+         y="793.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">User Name</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="186.8557"
-       y="903.71588"
+       y="763.71588"
        id="text11000-49-8-1-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -902,7 +903,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-5-3"
          x="186.8557"
-         y="903.71588"
+         y="763.71588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Real Name</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -910,7 +911,7 @@
        width="597.83252"
        height="42.885574"
        x="72.018845"
-       y="-864.13007"
+       y="-724.13007"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
@@ -919,7 +920,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:73.38059998px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="88.44236"
-       y="850.35742"
+       y="710.35742"
        id="text11000-49-8-0-4-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -928,7 +929,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-1-8-3"
          x="88.44236"
-         y="850.35742"
+         y="710.35742"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Create New Account</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -936,7 +937,7 @@
        width="55"
        height="25"
        x="594.52515"
-       y="1096.9972"
+       y="956.99719"
        rx="1.0439569"
        ry="1.0439569"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -948,7 +949,7 @@
        width="55"
        height="25"
        x="530.52521"
-       y="1096.9972"
+       y="956.99719"
        rx="1.0439569"
        ry="1.0439569"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -958,7 +959,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="604.85608"
-       y="1113.9917"
+       y="973.9917"
        id="text11000-4-6-0-4-4-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -967,13 +968,13 @@
          sodipodi:role="line"
          id="tspan11002-9-1-8-9-0-7"
          x="604.85608"
-         y="1113.9917"
+         y="973.9917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Create</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        x="540.76813"
-       y="1113.9917"
+       y="973.9917"
        id="text11000-4-6-0-4-7-7-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -982,7 +983,7 @@
          sodipodi:role="line"
          id="tspan11002-9-1-8-9-2-1-8"
          x="540.76813"
-         y="1113.9917"
+         y="973.9917"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2e3436;fill-opacity:1">Cancel</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -990,7 +991,7 @@
        width="453.16153"
        height="24.967661"
        x="195.40282"
-       y="886.92395"
+       y="746.92395"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1000,7 +1001,7 @@
        width="453.16153"
        height="24.967661"
        x="195.40282"
-       y="915.87543"
+       y="775.87543"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1008,7 +1009,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="204.94603"
-       y="903.71588"
+       y="763.71588"
        id="text11000-49-8-8-8-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1017,13 +1018,13 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-6-6"
          x="204.94603"
-         y="903.71588"
+         y="763.71588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Åker Ljugare</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="204.94603"
-       y="931.71582"
+       y="791.71582"
        id="text11000-49-8-8-0-8-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1032,7 +1033,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-0-8"
          x="204.94603"
-         y="931.71582"
+         y="791.71582"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">ljugare</tspan></text>
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -1041,7 +1042,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="207.00002"
-       cy="958.36218"
+       cy="818.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -1050,7 +1051,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="217.00002"
-       cy="958.36218"
+       cy="818.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -1059,7 +1060,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="227.00002"
-       cy="958.36218"
+       cy="818.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -1068,7 +1069,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="237.00002"
-       cy="958.36218"
+       cy="818.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -1077,7 +1078,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="247.00002"
-       cy="958.36218"
+       cy="818.36218"
        r="3.25" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -1086,7 +1087,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        cx="257"
-       cy="958.36218"
+       cy="818.36218"
        r="3.25" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -1094,7 +1095,7 @@
        width="13.005631"
        height="13.005631"
        x="194.56252"
-       y="1050.8585"
+       y="910.85852"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1102,7 +1103,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="212.94603"
-       y="1060.7161"
+       y="920.71613"
        id="text11000-49-8-8-0-8-1-6-0-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1111,13 +1112,13 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-5-4-1-5-4"
          x="212.94603"
-         y="1060.7161"
+         y="920.71613"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Make this an administrator account</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62236"
-       y="1061.0585"
+       y="921.05847"
        id="text11000-0-6-0-9-9-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1126,7 +1127,7 @@
          sodipodi:role="line"
          id="tspan11002-5-0-96-8-7-9"
          x="184.62236"
-         y="1061.0585"
+         y="921.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Access</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -1134,7 +1135,7 @@
        width="453.16153"
        height="24.967661"
        x="195.51331"
-       y="573.88672"
+       y="433.88672"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1142,7 +1143,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62231"
-       y="589.05847"
+       y="449.05847"
        id="text11000-0-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1151,13 +1152,13 @@
          sodipodi:role="line"
          id="tspan11002-5-0"
          x="184.62231"
-         y="589.05847"
+         y="449.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Confirm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none"
        x="195.97681"
-       y="624.1087"
+       y="484.1087"
        id="text11000-0-2-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1166,11 +1167,11 @@
          sodipodi:role="line"
          id="tspan11002-5-5-7"
          x="195.97681"
-         y="624.1087"
+         y="484.1087"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#a94442;fill-opacity:1">Password is too weak. It needs to be at least 10 characters long</tspan></text>
     <circle
        r="3.25"
-       cy="586.36218"
+       cy="446.36218"
        cx="207"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-9-9"
@@ -1179,7 +1180,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="586.36218"
+       cy="446.36218"
        cx="217"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-22-9"
@@ -1188,7 +1189,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="586.36218"
+       cy="446.36218"
        cx="227"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-6-6"
@@ -1197,7 +1198,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="586.36218"
+       cy="446.36218"
        cx="237"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-8-0-3"
@@ -1206,7 +1207,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="586.36218"
+       cy="446.36218"
        cx="247"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-6-8-8"
@@ -1219,31 +1220,31 @@
        width="112.03191"
        height="3.8890879"
        x="194.96582"
-       y="601.40997" />
+       y="461.40997" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6570-9-0-6"
        width="111.05964"
        height="3.8890879"
        x="308.94128"
-       y="601.40997" />
+       y="461.40997" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6570-9-0-2"
        width="111.97163"
        height="3.8890879"
        x="422.02371"
-       y="601.40997" />
+       y="461.40997" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.25;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6570-9-0-6-2"
        width="113.17782"
        height="3.8890879"
        x="535.95807"
-       y="601.40997" />
+       y="461.40997" />
     <circle
        r="3.25"
-       cy="586.36218"
+       cy="446.36218"
        cx="257"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-3-2-4"
@@ -1256,7 +1257,7 @@
        width="453.16153"
        height="24.967661"
        x="195.51331"
-       y="973.88672"
+       y="833.88672"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1264,7 +1265,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888888;fill-opacity:1;stroke:none"
        x="184.62231"
-       y="989.05847"
+       y="849.05847"
        id="text11000-0-6-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1273,13 +1274,13 @@
          sodipodi:role="line"
          id="tspan11002-5-0-9"
          x="184.62231"
-         y="989.05847"
+         y="849.05847"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1">Confirm</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="195.97681"
-       y="1022.6946"
+       y="882.69458"
        id="text11000-0-2-8-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1288,11 +1289,11 @@
          sodipodi:role="line"
          id="tspan11002-5-5-7-0"
          x="195.97681"
-         y="1022.6946"
+         y="882.69458"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Excellent password strength</tspan></text>
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="207"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-9-9-2"
@@ -1301,7 +1302,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="217"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-22-9-6"
@@ -1310,7 +1311,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="227"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-6-6-9"
@@ -1319,7 +1320,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="237"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-8-0-3-4"
@@ -1328,7 +1329,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="247"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-6-8-8-7"
@@ -1341,31 +1342,31 @@
        width="112.03191"
        height="3.8890879"
        x="194.96582"
-       y="1001.4099" />
+       y="861.40991" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6570-9-0-6-1"
        width="111.05964"
        height="3.8890879"
        x="308.94128"
-       y="1001.4099" />
+       y="861.40991" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6570-9-0-2-6"
        width="111.97163"
        height="3.8890879"
        x="422.02371"
-       y="1001.4099" />
+       y="861.40991" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6570-9-0-6-2-6"
        width="113.17782"
        height="3.8890879"
        x="535.95807"
-       y="1001.4099" />
+       y="861.40991" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="257"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-3-2-7-3"
@@ -1374,7 +1375,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="267"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-9-9-2-0"
@@ -1383,7 +1384,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="277"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-22-9-6-8"
@@ -1392,7 +1393,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="287"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-6-6-9-3"
@@ -1401,7 +1402,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="297"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-8-0-3-4-0"
@@ -1410,7 +1411,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="307"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-6-8-8-7-5"
@@ -1419,7 +1420,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="317"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-3-2-7-3-3"
@@ -1428,7 +1429,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="327"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-9-9-2-0-6"
@@ -1437,7 +1438,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="337"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-22-9-6-8-3"
@@ -1446,7 +1447,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="347"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-6-6-9-3-3"
@@ -1455,7 +1456,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="357"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-8-0-3-4-0-5"
@@ -1464,7 +1465,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="367"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-6-8-8-7-5-8"
@@ -1473,7 +1474,7 @@
        inkscape:export-ydpi="90" />
     <circle
        r="3.25"
-       cy="986.36218"
+       cy="846.36218"
        cx="377"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path8123-4-2-3-2-7-3-3-5"
@@ -1486,7 +1487,7 @@
        width="13.005631"
        height="13.005631"
        x="194.56252"
-       y="1070.8585"
+       y="930.85852"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1494,7 +1495,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="212.94603"
-       y="1080.7161"
+       y="940.71613"
        id="text11000-49-8-8-0-8-1-6-0-2-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1503,7 +1504,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-5-4-1-5-4-8"
          x="212.94603"
-         y="1080.7161"
+         y="940.71613"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Lock Account</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -1511,7 +1512,7 @@
        width="13.005631"
        height="13.005631"
        x="194.56252"
-       y="670.85852"
+       y="530.85852"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1519,7 +1520,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="212.94603"
-       y="680.716"
+       y="540.716"
        id="text11000-49-8-8-0-8-1-6-0-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1528,7 +1529,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-5-4-1-5-46"
          x="212.94603"
-         y="680.716"
+         y="540.716"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Lock Account</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -1536,7 +1537,7 @@
        width="13.005631"
        height="13.005631"
        x="194.5625"
-       y="290.85852"
+       y="150.85852"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1544,7 +1545,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        x="212.94601"
-       y="300.716"
+       y="160.716"
        id="text11000-49-8-8-0-8-1-6-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/users/user-creation.png"
@@ -1553,7 +1554,7 @@
          sodipodi:role="line"
          id="tspan11002-1-0-2-5-5-4-1-4"
          x="212.94601"
-         y="300.716"
+         y="160.716"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Lock Account</tspan></text>
   </g>
 </svg>
