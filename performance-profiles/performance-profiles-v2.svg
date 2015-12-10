@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="performance-profiles.svg">
+   sodipodi:docname="performance-profiles-v2.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -485,9 +485,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="460.84083"
-     inkscape:cy="414.25952"
+     inkscape:zoom="2"
+     inkscape:cx="424.60057"
+     inkscape:cy="853.08975"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1778,5 +1778,38 @@
            x="-3.5587871"
            y="9.428607" /></flowRegion><flowPara
          id="flowPara6934-2-4-4-9-1-6-8-5-1-7-1-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#729fcf;fill-opacity:1;">Learn more</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#729fcf;fill-opacity:1;">Learn more</flowPara></flowRoot>    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path7470"
+       cx="226.96866"
+       cy="208.40277"
+       r="8.9646893" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 233.55818,202.3344 -6.7651,6.7651 -2.6582,-2.65821 -2.1211,2.1211 4.7793,4.77929 8.43697,-8.43697 c -0.48651,-1.15767 -1.07439,-1.93663 -1.67187,-2.57031 z"
+       id="path7472"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 182.53684,161.12948 0,25.74609 36.27539,0 8.26367,8.26367 8.26367,-8.26367 44.1543,0 0,-25.74609 -96.95703,0 z"
+       id="rect7478"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-4"
+       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(69.198055,167.32548)"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-0"><rect
+           id="rect6842-7-3-3-1-64-1-5"
+           width="95.508003"
+           height="30.022423"
+           x="113.95025"
+           y="-4.6692424"
+           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:139.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#030303;fill-opacity:1"
+         id="flowPara7970-3-3-4">This is the recommended profile for this system.</flowPara></flowRoot>  </g>
 </svg>
