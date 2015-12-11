@@ -478,16 +478,6 @@
        xlink:href="#linearGradient10889-7"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="matrix(1.8399465,0,0,0.90909091,1267.0506,-1204.5832)"
-       y2="1519.3865"
-       x2="255.55803"
-       y1="1505.9514"
-       x1="255.20448"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient6760-8-1-5-6-2-9-0"
-       xlink:href="#linearGradient8049-1"
-       inkscape:collect="always" />
-    <linearGradient
        gradientTransform="matrix(0.6231609,0,0,0.90909091,1587.3513,-1378.5832)"
        y2="1519.3865"
        x2="255.55803"
@@ -507,6 +497,16 @@
        id="linearGradient6760-8-1-5-6-2-9-0-1-0"
        xlink:href="#linearGradient8049-1"
        inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.93475512,0,0,0.90909091,1207.761,-636.58325)"
+       y2="1519.3865"
+       x2="255.55803"
+       y1="1505.9514"
+       x1="255.20448"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6760-8-1-5-6-2-9-0-1-0-4"
+       xlink:href="#linearGradient8049-1"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -516,8 +516,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1402.3512"
-     inkscape:cy="759.5742"
+     inkscape:cx="1519.4684"
+     inkscape:cy="629.18373"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1922,33 +1922,7 @@
          d="m 57.342153,-685.8399 3.02773,3.0277 4.86742,-4.779"
          style="fill:none;fill-rule:evenodd;stroke:#3f9c35;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6760-8-1-5-6-2-9-0);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect7950-1-2-0-9-09-7-0-8"
-       width="126.95631"
-       height="20"
-       x="1146.5342"
-       y="118.9281"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-1-1-6-7-7-9-0-8"
-       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(1040.2219,118.74063)"><flowRegion
-         id="flowRegion6840-2-4-6-0-68-1-2-6-1"><rect
-           id="rect6842-7-3-3-1-64-1-4-9-5"
-           width="117.93768"
-           height="28.551029"
-           x="113.95025"
-           y="-4.6692424"
-           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#030303;fill-opacity:1"
-         id="flowPara7970-3-3-3-8-8">Latency-performance</flowPara></flowRoot>    <g
+    <g
        id="g9925"
        style="opacity:0.51999996"
        transform="translate(-400,380)">
@@ -2095,7 +2069,7 @@
            y="-4.6692424"
            style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#030303;fill-opacity:1"
-         id="flowPara7970-3-3-3-8-8-5-0-3">2. If tuned is not running, disable button and show tooltip</flowPara></flowRoot>    <flowRoot
+         id="flowPara7970-3-3-3-8-8-5-0-3">1. If tuned is not running, disable button and show tooltip</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-9-0-8-6-9-4-5"
        style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
@@ -2111,49 +2085,12 @@
            y="-4.6692424"
            style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#030303;fill-opacity:1"
-         id="flowPara7970-3-3-3-8-8-5-0-3-6">3. If the recommended profile is running, show an icon with a tooltip.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-1-1-6-7-7-9-0-8-6-9-4-5-5"
-       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(897.22186,35.74064)"><flowRegion
-         id="flowRegion6840-2-4-6-0-68-1-2-6-1-5-8-7-8-6"><rect
-           id="rect6842-7-3-3-1-64-1-4-9-5-8-6-7-4-8"
-           width="407.14554"
-           height="30.222601"
-           x="113.95025"
-           y="-4.6692424"
-           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#030303;fill-opacity:1"
-         id="flowPara7970-3-3-3-8-8-5-0-3-6-3">1.Default state.</flowPara></flowRoot>    <path
+         id="flowPara7970-3-3-3-8-8-5-0-3-6">2. If the recommended profile is running, show an icon with a tooltip.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path9962-6"
        d="m 1009.8573,191.21932 486,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path9962-6-2"
-       d="m 1009.8573,31.21932 486,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-1-1-6-7-7-9-0-8-1"
-       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(914.2219,118.74063)"><flowRegion
-         id="flowRegion6840-2-4-6-0-68-1-2-6-1-9"><rect
-           id="rect6842-7-3-3-1-64-1-4-9-5-1"
-           width="117.93768"
-           height="28.551029"
-           x="113.95025"
-           y="-4.6692424"
-           style="fill:#888a85;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#888a85;fill-opacity:1"
-         id="flowPara7970-3-3-3-8-8-50">Performance profile</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-1-1-6-7-7-9-0-8-1-6"
        style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none"
@@ -2185,5 +2122,113 @@
            y="-4.6692424"
            style="fill:#888a85;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#888a85;fill-opacity:1"
-         id="flowPara7970-3-3-3-8-8-50-5-4">Performance profile</flowPara></flowRoot>  </g>
+         id="flowPara7970-3-3-3-8-8-50-5-4">Performance profile</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6760-8-1-5-6-2-9-0-1-0-4);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect7950-1-2-0-9-09-7-0-8-7-7-1"
+       width="64.4981"
+       height="20"
+       x="1146.5344"
+       y="686.9281"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-9-0-8-6-9-0"
+       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(1040.2219,686.74064)"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-2-6-1-5-8-78"><rect
+           id="rect6842-7-3-3-1-64-1-4-9-5-8-6-5"
+           width="55.145546"
+           height="28.222601"
+           x="113.95025"
+           y="-4.6692424"
+           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#030303;fill-opacity:1"
+         id="flowPara7970-3-3-3-8-8-5-0-4">Balanced</flowPara></flowRoot>    <g
+       transform="translate(995.84185,487.74813)"
+       id="g9244-9-3-6">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect7478-0-3-9-9"
+         d="m 162.5368,151.12948 0,35.74609 56.2754,0 8.2637,8.26367 8.2637,-8.26367 52.1543,0 0,-35.74609 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(51.1981,159.32548)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+         style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
+         id="flowRoot6838-2-1-1-6-7-7-4-2-5-4-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6840-2-4-6-0-68-1-0-5-5-9-17"><rect
+             style="fill:#030303;fill-opacity:1"
+             y="-4.6692424"
+             x="113.95025"
+             height="34.088287"
+             width="117.60509"
+             id="rect6842-7-3-3-1-64-1-5-6-4-5-1" /></flowRegion><flowPara
+           id="flowPara7970-3-3-4-7-4-3-54"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:139.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#030303;fill-opacity:1">This is the recommended profile for this system.</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-9-0-8-6-9-4-5-7"
+       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(898.22185,574.74064)"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-2-6-1-5-8-7-8-5"><rect
+           id="rect6842-7-3-3-1-64-1-4-9-5-8-6-7-4-6"
+           width="407.14554"
+           height="30.222601"
+           x="113.95025"
+           y="-4.6692424"
+           style="fill:#030303;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#030303;fill-opacity:1"
+         id="flowPara7970-3-3-3-8-8-5-0-3-6-5">3. If the recommended profile is not running, show an icon with a tooltip.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6838-2-1-1-6-7-7-9-0-8-1-6-3-6"
+       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(914.22195,686.74063)"><flowRegion
+         id="flowRegion6840-2-4-6-0-68-1-2-6-1-9-8-3-4"><rect
+           id="rect6842-7-3-3-1-64-1-4-9-5-1-6-0-2"
+           width="117.93768"
+           height="28.551029"
+           x="113.95025"
+           y="-4.6692424"
+           style="fill:#888a85;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#888a85;fill-opacity:1"
+         id="flowPara7970-3-3-3-8-8-50-5-4-9">Performance profile</flowPara></flowRoot>    <g
+       transform="translate(1163.7656,1440.9831)"
+       id="g7500">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path7760"
+         d="m 51.826713,-735.1061 11,-17.9669 c 0.31784,-0.31784 0.70094,-0.36013 1,-0.0332 l 10,18 c 0.0141,0.6574 -0.49022,0.9857 -1,1 l -20,0 c -0.60462,-0.016 -0.98037,-0.4686 -1,-1 z"
+         style="fill:#ec7a08;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="-747.1062"
+         x="61.827003"
+         height="7"
+         width="3"
+         id="rect6931-8"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         y="-739.1062"
+         x="61.827003"
+         height="3"
+         width="3"
+         id="rect6931-4-3"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
 </svg>
