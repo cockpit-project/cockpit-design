@@ -588,16 +588,6 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(2.9992911,0,0,0.92604302,-2426.1252,-3422.3259)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-6-7-6"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
        gradientTransform="matrix(2.1442468,0,0,0.92604302,-2099.3449,-3720.259)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-6-5-1"
@@ -654,6 +644,28 @@
        y1="1149.5696"
        x2="1133.7847"
        y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient8082"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9987221,0,0,0.92604302,-2425.5384,-3422.3295)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076">
+      <stop
+         style="stop-color:#1baae6;stop-opacity:1"
+         offset="0"
+         id="stop8078" />
+      <stop
+         style="stop-color:#1999ce;stop-opacity:1"
+         offset="1"
+         id="stop8080" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -662,12 +674,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="342.71664"
-     inkscape:cy="3858.2295"
+     inkscape:zoom="1"
+     inkscape:cx="791.13966"
+     inkscape:cy="3535.2607"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      gridtolerance="10000"
      showguides="true"
@@ -686,14 +698,6 @@
        dotted="false"
        visible="true"
        snapvisiblegridlinesonly="false" />
-    <sodipodi:guide
-       position="167.93786,3497.3501"
-       orientation="1,0"
-       id="guide14193" />
-    <sodipodi:guide
-       position="1025,3418"
-       orientation="1,0"
-       id="guide14928" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -5503,31 +5507,31 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.26278508px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-6-7-6);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-5-75-2-5"
-       width="125.97025"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074"
+       width="125.94633"
        height="25.003162"
-       x="898.5896"
-       y="-2362.1343"
+       x="898.5451"
+       y="-2362.1377"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-9-7-5"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(884.5568,-2366.8521)"><flowRegion
+       transform="translate(884.5568,-2366.1021)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-0-6-0"><rect
            y="10.928607"
            x="10.941213"
            height="18.571392"
            width="133.18379"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-0-0-9"
-           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;"
          id="flowPara6934-2-4-4-4-56-1">Check for updates</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-6-5-1);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-75-4-2"
