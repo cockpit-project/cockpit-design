@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
@@ -25,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="398.726"
-     inkscape:cy="351.25213"
+     inkscape:zoom="1"
+     inkscape:cx="1560.602"
+     inkscape:cy="564.32395"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +36,11 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4740" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -381,5 +386,363 @@
          y="952.31836"
          id="tspan4568-0-9-3"
          style="font-size:10px">lists error on device</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d8d8d8;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642"
+       width="313.27954"
+       height="74.906067"
+       x="1189.5524"
+       y="347.88593" />
+    <g
+       id="g4654"
+       transform="translate(-304.82885,-168.99242)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-raid-device.png"
+         ry="0.9722718"
+         rx="0.97227186"
+         y="528.2453"
+         x="1507.2694"
+         height="30.000011"
+         width="24"
+         id="rect10762-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-raid-device.png"
+         id="path11534-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.39757919;marker:none;enable-background:accumulate"
+         cx="1519.2694"
+         cy="540.2453"
+         r="8.49998" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/storage-raid-device.png"
+         sodipodi:nodetypes="cczcc"
+         inkscape:connector-curvature="0"
+         id="path11626-7"
+         d="m 1520.2694,542.24096 8,7.95496 c 0,0 0.2544,1.91997 -0.4688,2.64314 -0.7231,0.72317 -2.6182,0.40625 -2.6182,0.40625 z"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <image
+       sodipodi:absref="/home/andreasn/Pictures/Screenshot from 2016-02-23 17-04-52.png"
+       y="-230.00484"
+       x="1837.1433"
+       id="image4737"
+       xlink:href="file:///home/andreasn/Pictures/Screenshot%20from%202016-02-23%2017-04-52.png"
+       preserveAspectRatio="none"
+       height="1080"
+       width="1920" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43347645px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1249.8015"
+       y="367.55426"
+       id="text4742"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744"
+         x="1249.8015"
+         y="367.55426">Device Z has some S.M.A.R.T error</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="381.8461"
+         id="tspan4746">RAID device X is in degeneraded mode</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="396.13794"
+         id="tspan4748">Device X is running low on space</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="410.42981"
+         id="tspan4750">4 more errors... </tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,369.8622 200.5,0"
+       id="path4752"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.4999,383.89343 226,0"
+       id="path4752-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,397.85657 190.75,0"
+       id="path4752-0-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,412.8622 91.75,0"
+       id="path4752-0-4-2"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d8d8d8;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642-4"
+       width="313.27954"
+       height="74.906067"
+       x="1189.5524"
+       y="431.88593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43347645px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1249.8015"
+       y="451.55426"
+       id="text4742-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744-2"
+         x="1249.8015"
+         y="451.55426">CVE 1234 found in container X </tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="465.8461"
+         id="tspan4746-1">CVE 1234 found in container Y</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="480.13794"
+         id="tspan4748-3">CVE 1234 found in container Z </tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="494.42981"
+         id="tspan4750-0">2 more vunerabilities... </tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,453.8622 178,0"
+       id="path4752-02"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.4999,467.89343 177.5,0"
+       id="path4752-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,481.85657 178,0"
+       id="path4752-0-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,496.8622 134.75,0"
+       id="path4752-0-4-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g13108"
+       transform="matrix(1.5019693,0,0,1.5162845,3760.5322,4260.7269)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path12591-4-01-9"
+         d="m -1684.4677,-2502.8763 -8.8358,5.1724 -8.8974,-5.0657 -0.062,-8.7142 8.8359,-5.1725 8.8973,5.0659 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path12594-9-4-5-8"
+         d="m -1700.9487,-2505.4477 7.6208,4.3343 7.0969,-4.2867"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.71545565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path12594-9-4-3-8-3"
+         d="m -1700.9487,-2508.7647 7.6208,4.3344 7.0969,-4.2867"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.71545565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d8d8d8;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642-4-7"
+       width="313.27954"
+       height="74.906067"
+       x="1189.5524"
+       y="431.88593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43347645px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1249.8015"
+       y="451.55426"
+       id="text4742-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744-2-7"
+         x="1249.8015"
+         y="451.55426">CVE 1234 found in container X </tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="465.8461"
+         id="tspan4746-1-8">CVE 1234 found in container Y</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="480.13794"
+         id="tspan4748-3-6">CVE 1234 found in container Z </tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="494.42981"
+         id="tspan4750-0-1">2 more vunerabilities... </tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,453.8622 178,0"
+       id="path4752-02-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.4999,467.89343 177.5,0"
+       id="path4752-0-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,481.85657 178,0"
+       id="path4752-0-4-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,496.8622 134.75,0"
+       id="path4752-0-4-2-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g13108-3"
+       transform="matrix(1.5019693,0,0,1.5162845,3760.5322,4260.7269)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path12591-4-01-9-4"
+         d="m -1684.4677,-2502.8763 -8.8358,5.1724 -8.8974,-5.0657 -0.062,-8.7142 8.8359,-5.1725 8.8973,5.0659 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path12594-9-4-5-8-2"
+         d="m -1700.9487,-2505.4477 7.6208,4.3343 7.0969,-4.2867"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.71545565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path12594-9-4-3-8-3-3"
+         d="m -1700.9487,-2508.7647 7.6208,4.3344 7.0969,-4.2867"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.71545565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d8d8d8;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642-4-0"
+       width="313.27954"
+       height="74.906067"
+       x="1189.5524"
+       y="515.88593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43347645px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1249.8015"
+       y="535.55426"
+       id="text4742-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744-2-9"
+         x="1249.8015"
+         y="535.55426">CVE 1234 found in container X </tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="549.84613"
+         id="tspan4746-1-9">CVE 1234 found in container Y</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="564.13794"
+         id="tspan4748-3-3">CVE 1234 found in container Z </tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="578.42981"
+         id="tspan4750-0-12">2 more vunerabilities... </tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,537.8622 178,0"
+       id="path4752-02-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.4999,551.89343 177.5,0"
+       id="path4752-0-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,565.85657 178,0"
+       id="path4752-0-4-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,580.8622 134.75,0"
+       id="path4752-0-4-2-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d8d8d8;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642-4-7-5"
+       width="313.27954"
+       height="74.906067"
+       x="1189.5524"
+       y="515.88593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43347645px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1249.8015"
+       y="535.55426"
+       id="text4742-3-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744-2-7-0"
+         x="1249.8015"
+         y="535.55426">SELinux error one</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="549.84613"
+         id="tspan4746-1-8-2">SELinux error two</tspan><tspan
+         sodipodi:role="line"
+         x="1249.8015"
+         y="564.13794"
+         id="tspan4750-0-1-6" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.5,537.8622 104,0"
+       id="path4752-02-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#39a5dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1249.4999,551.89343 105,0"
+       id="path4752-0-6-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g16560-9-2"
+       transform="matrix(1.7037935,0,0,1.7037935,-5679.4417,-607.97757)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 4042.3105,667.0957 c -0.9073,0 -1.6699,0.76255 -1.6699,1.66992 l 0,5.7461 c 0,2.08323 0.9774,3.71119 2.1953,4.88672 1.218,1.17553 2.6757,1.97964 3.834,2.64844 a 1.0001,1.0001 0 0 0 1,0 c 1.0765,-0.62149 2.5368,-1.39328 3.7754,-2.5625 1.2386,-1.16923 2.2559,-2.82251 2.2559,-4.97266 l 0,-5.7461 c 0,-0.90737 -0.7607,-1.66992 -1.668,-1.66992 l -9.7227,0 z m 0.3301,2 9.0606,0 0,5.41602 c 0,1.54918 -0.6489,2.5962 -1.627,3.51953 -0.8333,0.78666 -1.9087,1.37458 -2.9004,1.94531 -1.0304,-0.59982 -2.1245,-1.22162 -2.9492,-2.01758 -0.9632,-0.92965 -1.584,-1.96078 -1.584,-3.44726 l 0,-5.41602 z"
+         id="rect16546-7-0"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect16557-6-9"
+         d="m 4041.2698,668.3811 5.922,0 0,13.16987 -5.922,-6.58493 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
