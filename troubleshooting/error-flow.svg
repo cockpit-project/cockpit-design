@@ -151,9 +151,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="2519.2624"
-     inkscape:cy="258.50258"
+     inkscape:zoom="0.5"
+     inkscape:cx="2206.4657"
+     inkscape:cy="-1368.4066"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6416,7 +6416,7 @@
            y="224.06094"
            style="line-height:250%;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:250%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#2e3436;fill-opacity:1"
-         id="flowPara10546-1-5-5-8-0-3">server</flowPara></flowRoot>    <flowRoot
+         id="flowPara10546-1-5-5-8-0-3">Some other RAID</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-3-3-9-2-4-3-7-0-4-8-9"
        style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:250%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -8195,5 +8195,68 @@
        d="m 2273.3483,1087.7175 0,-68.5893"
        id="path17518"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-6-6-1-2-1-9-8-3-5-3-9-6-1-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(3328.6881,1402.3242)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-4-4-8-5-4-8-3-1-8-0-5-0-8-7"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="52.869488"
+           width="156.01489"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-9-6-4-6-9-4-2-2-6-0-3-3-5-2"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
+         id="flowPara17329-8-6-5">If the RAID is degenerated the device icon turns into an error symbol</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3317,1422.3622 -86.5,0"
+       id="path17568"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-6-6-1-2-1-9-8-3-5-3-9-6-1-6-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(3328.6881,1602.3242)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-4-4-8-5-4-8-3-1-8-0-5-0-8-7-6"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="65.869492"
+           width="173.01489"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-9-6-4-6-9-4-2-2-6-0-3-3-5-2-8"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
+         id="flowPara17329-8-6-5-8">If a drive has a (severe) SMART error, the drive icon turns into an error symbol</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3317,1622.3622 -86.5,0"
+       id="path17568-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2716,1669.3622 0,308"
+       id="path17597"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-6-6-1-2-1-9-8-3-5-3-9-6-1-6-3-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(2636.4593,1980.8174)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-4-4-8-5-4-8-3-1-8-0-5-0-8-7-6-2"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="65.869492"
+           width="173.01489"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-9-6-4-6-9-4-2-2-6-0-3-3-5-2-8-7"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
+         id="flowPara17329-8-6-5-8-7">If the partition is low on space, the space indicator turns red. Might also need a symbol in order to not rely only on color as an indicator.</flowPara></flowRoot>  </g>
 </svg>
