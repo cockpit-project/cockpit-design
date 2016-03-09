@@ -208,7 +208,7 @@
        xlink:href="#linearGradient8076-9"
        id="linearGradient6362-8-5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.595238,0,0,0.92604302,-1520.8219,-994.22756)"
+       gradientTransform="matrix(1.9285714,0,0,0.92604302,-1847.3221,-994.22756)"
        x1="1133.7847"
        y1="1149.5696"
        x2="1133.7847"
@@ -221,9 +221,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="506.14177"
-     inkscape:cy="1196.6857"
+     inkscape:zoom="1"
+     inkscape:cx="443.17039"
+     inkscape:cy="1024.2922"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2711,13 +2711,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        y="65.964058"
-       x="247.5"
+       x="290.5"
        height="25.003162"
-       width="67"
+       width="81"
        id="rect6352-6-5"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6362-8-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6362-8-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <flowRoot
-       transform="translate(259.33808,63.46405)"
+       transform="translate(302.33808,63.46405)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
@@ -2732,5 +2732,26 @@
            x="-3.5587871"
            y="9.428607" /></flowRegion><flowPara
          id="flowPara6360-6-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Commit</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Running</flowPara></flowRoot>    <flowRoot
+       transform="translate(255.08808,63.46404)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       xml:space="preserve"
+       id="flowRoot6354-3-88-2"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#888a85;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion6356-3-3-3"><rect
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#888a85;fill-opacity:1"
+           id="rect6358-3-0-3"
+           width="38.933788"
+           height="14.071393"
+           x="-3.5587871"
+           y="9.428607" /></flowRegion><flowPara
+         id="flowPara6360-6-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#888a85;fill-opacity:1">Show</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 354.67371,77.011665 4.38469,3.99735 4.38469,-3.99735"
+       id="path7332-1"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
