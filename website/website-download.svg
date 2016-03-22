@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-89.315212"
-     inkscape:cy="-10.148202"
+     inkscape:cx="46.28809"
+     inkscape:cy="-195.18529"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -2436,8 +2436,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.99270248px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="116.99341"
-       y="557.2796"
+       x="124.99341"
+       y="567.2796"
        id="text4919"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-download.png"
@@ -2445,24 +2445,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4921"
-         x="116.99341"
-         y="557.2796"
+         x="124.99341"
+         y="567.2796"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Fedora Server</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:17.99270248px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="116.99341"
-       y="617.2796"
-       id="text4919-7"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-download.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4921-5"
-         x="116.99341"
-         y="617.2796"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Fedora Cloud Atomic</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6518-6-5-50-7-0-8"
@@ -2470,7 +2455,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-download.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(117.8931,568.64778)"><flowRegion
+       transform="translate(125.8931,578.64778)"><flowRegion
          id="flowRegion6520-4-1-2-3-7-2"><rect
            id="rect6522-2-1-9-2-5-6"
            width="391.43784"
@@ -2479,27 +2464,7 @@
            y="-3.3186352"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:14px;fill:#000000;fill-opacity:1"
-         id="flowPara7263-0-5">Cockpit comes installed by default in Fedora Server.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6518-6-5-50-7-0-8-9"
-       style="font-style:normal;font-weight:normal;font-size:37.00938797px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/website-download.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(117.8931,628.64778)"><flowRegion
-         id="flowRegion6520-4-1-2-3-7-2-4"><rect
-           id="rect6522-2-1-9-2-5-6-6"
-           width="824.89429"
-           height="43.163647"
-           x="-1.3745551"
-           y="-3.3186352"
-           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:14px;fill:#000000;fill-opacity:1"
-         id="flowPara7263-0-5-0">Connect to a Fedora Atomic host from an existing host running Cockpit with the Add Server UI.</flowPara><flowPara
-         style="font-size:14px;fill:#000000;fill-opacity:1"
-         id="flowPara5012">Alternatively you can install Cockpit on the Atomic host using the command sudo atomic run cockpit/ws</flowPara><flowPara
-         style="font-size:14px;fill:#000000;fill-opacity:1"
-         id="flowPara5010" /></flowRoot>    <path
+         id="flowPara7263-0-5">Cockpit comes installed by default in Fedora Server.</flowPara></flowRoot>    <path
        style="fill:none;stroke:#848484;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1022.7108,742.50826 -1023.1199017,0"
        id="path12005-6"
