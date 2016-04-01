@@ -656,15 +656,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42785715"
-     inkscape:cx="954.60884"
-     inkscape:cy="528.64973"
+     inkscape:zoom="0.8557143"
+     inkscape:cx="443.38509"
+     inkscape:cy="411.76976"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="1680"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="px"
@@ -682,7 +682,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3662,25 +3662,6 @@
        d="m 132.77979,553.8733 71.07522,0"
        style="fill:none;fill-rule:evenodd;stroke:#3fa6da;stroke-width:3.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
-    <rect
-       y="633.40222"
-       x="153.26135"
-       height="33.835758"
-       width="733.25018"
-       id="rect7252-1"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <text
-       sodipodi:linespacing="160%"
-       id="text7254-3"
-       y="653.91577"
-       x="164.52594"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#000000"
-         y="653.91577"
-         x="164.52594"
-         sodipodi:role="line"
-         id="tspan9884">$ sudo docker login -u unused -e sally@example.com -t xT/4o958son39a944n/8a83o</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4273,21 +4254,6 @@
          x="959.13208"
          sodipodi:role="line"
          id="tspan23726">Do you want to remove 'sally' from the project?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="927.87982"
-       y="649.94141"
-       id="text23732"
-       sodipodi:linespacing="160%"><tspan
-         sodipodi:role="line"
-         id="tspan23734"
-         x="927.87982"
-         y="649.94141">This command is arcane. The admin needs to be able to</tspan><tspan
-         sodipodi:role="line"
-         x="927.87982"
-         y="669.94141"
-         id="tspan23736">help and send the user the correct command to do a docker login.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:160.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
