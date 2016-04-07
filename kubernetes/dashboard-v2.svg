@@ -312,6 +312,16 @@
        y2="1280.385"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.1190476,0,0,0.92604298,-2425.5762,-1072.4723)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient8082-2-6-6"
+       x1="1571.3112"
+       y1="1266.3468"
+       x2="1571.3112"
+       y2="1280.385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1190476,0,0,0.92604298,-2425.5762,-1072.4723)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -320,9 +330,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="602.6707"
-     inkscape:cy="563.4804"
+     inkscape:zoom="1"
+     inkscape:cx="603.31725"
+     inkscape:cy="837.98364"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -568,22 +578,26 @@
        d="m 436.00586,1.362265 c -4.95599,0 -8.99414,4.04166 -8.99414,9 0,4.95834 4.03815,9 8.99414,9 4.95599,0 8.99414,-4.04166 8.99414,-9 0,-4.95834 -4.03815,-9 -8.99414,-9 z m 0,2 c 3.87435,0 6.99414,3.12178 6.99414,7 0,3.87822 -3.11979,7 -6.99414,7 -3.87435,0 -6.99414,-3.12178 -6.99414,-7 0,-3.87822 3.11979,-7 6.99414,-7 z m -1.58008,4 -1.41406,1.41406 1.58594,1.58594 -1.58594,1.58594 1.41406,1.41406 1.58594,-1.58594 1.58594,1.58594 1.41406,-1.41406 -1.58594,-1.58594 1.58594,-1.58594 -1.41406,-1.41406 -1.58594,1.58594 -1.58594,-1.58594 z"
        id="path4546-0-6"
        inkscape:connector-curvature="0" />
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4766-4"
-       cx="352"
-       cy="10.362227"
-       r="8" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 352,5.362225 0,6 -5,0"
-       id="path4768-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+    <g
+       id="g9244"
+       transform="translate(2,0)">
+      <circle
+         r="8"
+         cy="10.362227"
+         cx="352"
+         id="path4766-4"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4768-7"
+         d="m 352,5.362225 0,6 -5,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.11412811px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="450.30811"
+       x="452.30811"
        y="18.597557"
        id="text9217-9-0-0-8-1-4-6-0"
        sodipodi:linespacing="125%"
@@ -591,7 +605,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9219-44-0-6-0-4-5-6-5"
-         x="450.30811"
+         x="452.30811"
          y="18.597557"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Ultra-Light';fill:#2e3436">5</tspan></text>
     <rect
@@ -1637,8 +1651,8 @@
        transform="translate(-597.32688,-17.019026)"><flowRegion
          id="flowRegion4679-6"><rect
            id="rect4681-29"
-           width="165.93578"
-           height="34.543888"
+           width="84.935791"
+           height="26.543884"
            x="864.52124"
            y="179.25716" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
@@ -1652,8 +1666,8 @@
        transform="translate(-715.40408,2.9809736)"><flowRegion
          id="flowRegion4687-6"><rect
            id="rect4689-4"
-           width="165.93578"
-           height="34.543888"
+           width="94.935791"
+           height="29.543884"
            x="755.02136"
            y="157.73714" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
@@ -1915,12 +1929,12 @@
        transform="translate(-435.32688,-17.019031)"><flowRegion
          id="flowRegion4679-6-8"><rect
            id="rect4681-29-2"
-           width="165.93578"
-           height="34.543888"
+           width="58.935791"
+           height="23.543884"
            x="864.52124"
            y="179.25716" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
-         id="flowPara4683-91-8">Namespace</flowPara></flowRoot>    <flowRoot
+         id="flowPara4683-91-8">Project</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-container-deletion.png"
@@ -2042,6 +2056,16 @@
        height="27.999996"
        x="406"
        y="-2.9213138" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-2-6-6);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-0-5-2"
+       width="65"
+       height="26.003002"
+       x="415.49994"
+       y="92.862167"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
