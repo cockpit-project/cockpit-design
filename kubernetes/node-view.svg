@@ -330,12 +330,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="241.90802"
-     inkscape:cy="927.78482"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="625.34577"
+     inkscape:cy="132.93268"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
@@ -2419,7 +2419,7 @@
        id="rect6406-56"
        width="28"
        height="28"
-       x="11.22034"
+       x="11"
        y="52.421997"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2563,7 +2563,7 @@
        id="rect6406-5-0"
        width="28"
        height="28"
-       x="11.22034"
+       x="11"
        y="82.421997"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2707,7 +2707,7 @@
        id="rect6406-5-8-21"
        width="28"
        height="28"
-       x="11.22034"
+       x="11"
        y="112.422"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -4407,18 +4407,18 @@
          y="897.31946"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.07445908px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#000000;fill-opacity:1">2 GB</tspan></text>
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#00b9e4;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00b9e4;stroke-width:13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5140-4-0-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:type="arc"
-       sodipodi:cx="309.69269"
-       sodipodi:cy="887.53845"
-       sodipodi:rx="68.731285"
-       sodipodi:ry="68.694038"
+       sodipodi:cx="309.69275"
+       sodipodi:cy="887.53851"
+       sodipodi:rx="70.227028"
+       sodipodi:ry="70.189034"
        sodipodi:start="4.712389"
        sodipodi:end="3.1415927"
-       d="m 309.69269,818.84441 a 68.731285,68.694038 0 0 1 63.49943,42.40597 68.731285,68.694038 0 0 1 -14.89908,74.86209 68.731285,68.694038 0 0 1 -74.90268,14.891 68.731285,68.694038 0 0 1 -42.42896,-63.46502"
+       d="m 309.69275,817.34948 a 70.227028,70.189034 0 0 1 64.88131,43.32885 70.227028,70.189034 0 0 1 -15.2233,76.49133 70.227028,70.189034 0 0 1 -76.53273,15.21506 70.227028,70.189034 0 0 1 -43.35231,-64.84621"
        sodipodi:open="true" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#d1d1d1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -6500,7 +6500,7 @@
          y="-1260.0331">Kubernetes Nodes</tspan></text>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 20.5,62.862179 0,10 0,2.25 0,11.75 18,0 0,-14 -11,0 0,-10 -7,0 z"
+       d="m 19.5,62.862179 0,10 0,2.25 0,11.75 18,0 0,-14 -11,0 0,-10 -7,0 z"
        id="rect7751-0-2"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -6525,6 +6525,13 @@
          x="-23.543255"
          y="33.154686"
          style="font-size:10px;fill:#ffffff">CPU Utilization &gt; 90%</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 368.4213,916.2301 0,10 0,2.25 0,11.75 18,0 0,-14 -11,0 0,-10 -7,0 z"
+       id="rect7751-0-2-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
