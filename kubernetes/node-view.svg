@@ -330,12 +330,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="296.71765"
-     inkscape:cy="966.68826"
+     inkscape:zoom="1"
+     inkscape:cx="399.17868"
+     inkscape:cy="955.0199"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1920"
@@ -6500,17 +6500,31 @@
          y="-1260.0331">Kubernetes Nodes</tspan></text>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 18.5,62.862179 0,10 0,2.25 0,11.75 18,0 0,-14 -11,0 0,-10 -7,0 z"
+       d="m 23.5,67.862179 0,10 0,2.25 0,11.75 18,0 0,-14 -11,0 0,-10 -7,0 z"
        id="rect7751-0-2"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:0.80693072;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -27.5,11.862179 0,35 36.74804,0 15,15 15.00196,-15 40.265625,0 0,-35 z"
+       d="m -32.417243,11.862179 0,35 42.74804,0 15,15 15.00196,-15 44.265625,0 0,-35 z"
        id="rect6954"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-23.543255"
+       y="33.154686"
+       id="text4316-4-8-9-0-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4319-4-0-2-0-4"
+         x="-23.543255"
+         y="33.154686"
+         style="font-size:10px;fill:#ffffff">CPU Utilization &gt; 90%</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
