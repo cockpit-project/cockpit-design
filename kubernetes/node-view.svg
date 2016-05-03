@@ -402,9 +402,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="423.68906"
-     inkscape:cy="-2271.4602"
+     inkscape:zoom="0.5"
+     inkscape:cx="608.21703"
+     inkscape:cy="278.6769"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6942,13 +6942,13 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        y="417.86218"
-       x="721.5"
+       x="647.5"
        height="24.999996"
        width="24.999998"
        id="rect6799-3-1"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6809-9-4);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <flowRoot
-       transform="translate(473.7909,-938.53283)"
+       transform="translate(399.7909,-938.53283)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
@@ -7603,7 +7603,33 @@
        d="m 519.29329,3335.3177 178.36769,0"
        id="path8290"
        inkscape:connector-curvature="0" />
-  </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="417.86218"
+       x="678.49994"
+       height="25.003162"
+       width="68.000061"
+       id="rect6352-7-2-32-1-1-8-6-2-3-7-8"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-3-5-4-8-1-4-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(686.66614,415.64443)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-5-3-21-4-9-4-0-8"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="17.4035"
+           width="59.382374"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-6-1-8-6-0-32-6"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
+         id="flowPara6934-2-4-4-0-0-79-9-8-3-7-8">Reboot</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
