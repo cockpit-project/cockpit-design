@@ -402,9 +402,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="458.36717"
-     inkscape:cy="-2341.2216"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="803.72861"
+     inkscape:cy="-3023.8146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -9356,29 +9356,19 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-9-6-4-6-9-4-2-2-6-0-67-8-1-4-6-0-9"
            style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-6-5-9-9-5-5-6-5-2-8-0-1-5-9-4-5-1-4">14 OS Version Gaga</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-5-6-23-5-1-32"
-       width="128"
-       height="25.003162"
-       x="776.38483"
-       y="3943.7512"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
+         id="flowPara6934-2-4-4-6-5-9-9-5-5-6-5-2-8-0-1-5-9-4-5-1-4">14 OS Version Gaga</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="785.26178"
-       y="3961.0859"
+       x="801.01917"
+       y="3962.1465"
        id="text4325-3-4-0-0-3"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4327-7-75-8-5-8"
-         x="785.26178"
-         y="3961.0859">Upgrade all nodes</tspan></text>
+         x="801.01917"
+         y="3962.1465">Upgrading 30 nodes</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-6-5-6-3-2-6-8-3"
@@ -9602,25 +9592,6 @@
        y="3844.2512"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="3943.7512"
-       x="904.38483"
-       height="25.003162"
-       width="25"
-       id="rect6352-7-2-32-1-1-8-6-6-8-5-5-4"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
-       sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0"
-       id="path3567-2-4-5"
-       d="m 913.24925,3953.6213 3.6732,3.9104 3.5765,-3.9447"
-       style="fill:none;stroke:#4d5258;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g8031"
        transform="translate(-52.70665,3243.3673)">
@@ -9796,6 +9767,28 @@
          x="696.82404"
          id="tspan4448-4-1-8-6-2-2-3-1"
          sodipodi:role="line">Downloading update</tspan></text>
+    <g
+       id="g8031-9-7-3"
+       transform="translate(52.437194,3029.5321)">
+      <circle
+         r="7.4254074"
+         cy="927.95856"
+         cx="733.45093"
+         id="path7906-9-8-4-8-5-6"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#bfbfbf;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         sodipodi:open="true"
+         d="m 728.20037,933.20911 a 7.4254074,7.4254074 0 0 1 0,-10.50111"
+         sodipodi:end="3.9269908"
+         sodipodi:start="2.3561945"
+         sodipodi:ry="7.4254074"
+         sodipodi:rx="7.4254074"
+         sodipodi:cy="927.95856"
+         sodipodi:cx="733.45093"
+         sodipodi:type="arc"
+         id="path7906-2-2-8-9-0-9-5"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#404040;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
