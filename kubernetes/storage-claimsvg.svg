@@ -422,9 +422,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="625.36254"
-     inkscape:cy="61.290404"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="490.66514"
+     inkscape:cy="587.25058"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -478,6 +478,13 @@
      id="layer1"
      transform="translate(217.14285,184.78068)"
      style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d3d3d3;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11161"
+       width="1714.0516"
+       height="3460"
+       x="-397"
+       y="-1408.6378" />
     <rect
        style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5116"
@@ -585,7 +592,7 @@
          sodipodi:role="line"
          id="tspan5252"
          x="-219.67039"
-         y="-1147.9121">Version one</tspan></text>
+         y="-1147.9121">Dashboard - Version one</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5790062px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -598,7 +605,7 @@
          sodipodi:role="line"
          id="tspan5252-1"
          x="-220.68819"
-         y="-1260.0331">Kubernetes Nodes</tspan></text>
+         y="-1260.0331">Volume Claims</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#eeedee;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9097-9-0-2"
@@ -1028,10 +1035,10 @@
          y="-759.4458"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Services</tspan></text>
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#eeedee;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#eeedee;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5118-5"
        width="330"
-       height="593.03101"
+       height="573.03101"
        x="704.5"
        y="-795.16882"
        inkscape:export-xdpi="90"
@@ -2302,7 +2309,7 @@
          sodipodi:role="line"
          id="tspan5252-2"
          x="-219.67039"
-         y="-108.0226">Version two</tspan></text>
+         y="-108.0226">Dashboard - Version two</tspan></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#eeedee;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9097-9-0-2-5"
@@ -4688,6 +4695,19 @@
        d="m 936.29286,1518.0693 -8.58584,8.5859"
        id="path10934-0-0-9-2"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.20872879px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-219.67039"
+       y="929.97742"
+       id="text5250-9-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5252-2-0"
+         x="-219.67039"
+         y="929.97742">Volume page</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
