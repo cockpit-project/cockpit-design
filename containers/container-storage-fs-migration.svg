@@ -433,8 +433,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="5674.6363"
-     inkscape:cy="910.55863"
+     inkscape:cx="5766.6363"
+     inkscape:cy="706.55863"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7548,5 +7548,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1"
          id="flowPara13034-1-0-1-8-9">A necessary evil, as this is inherently</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#555753;fill-opacity:1"
-         id="flowPara15857">data-destroying and undo-able</flowPara></flowRoot>  </g>
+         id="flowPara15857">data-destroying and undo-able</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13028-3-1-0-8-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/navigation/navigation-horizontal-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(7221.373,1638.6681)"><flowRegion
+         id="flowRegion13030-2-8-07-7-5"><rect
+           id="rect13032-1-6-0-2-7"
+           width="750.3855"
+           height="170.25928"
+           x="2877.2876"
+           y="-1355.1969"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#555753;fill-opacity:1"
+         id="flowPara13034-1-0-1-8-7"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8625">Note</flowSpan>: Docker filesystem conversion is from loopback is done when the first disk is added. The first disk is initially used as scratch to migrate existing containers to — existing containers are exported to the drive, then the Docker FS is changed, and exported containers are imported. After deleting the temporary export, the drive is added to the storage pool. Later drives are simply added, as the Docker storage FS conversion isn't needed but once.</flowPara></flowRoot>  </g>
 </svg>
