@@ -532,26 +532,6 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(2.1343493,0,0,0.92526038,-1565.0915,-928.42822)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-9-9-7-5-0-4-1-0-0-4"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
-       gradientTransform="matrix(2.1343494,0,0,0.92526038,-1565.0916,-928.42822)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-9-9-7-5-0-4-1-0-0-4-7"
-       xlink:href="#linearGradient7711-49-7"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
        gradientTransform="matrix(2.1343494,0,0,0.92526038,-1565.0916,-928.42826)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-9-9-7-5-0-4-1-0-0-4-7-4"
@@ -577,6 +557,16 @@
        id="linearGradient8099-9-9-7-5-0-4-1-0-0-6"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(2.1343493,0,0,0.92526034,-1465.0915,-939.42822)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-9-9-7-5-0-4-1-0-0-4-77"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -585,9 +575,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="555.15343"
-     inkscape:cy="832.15505"
+     inkscape:zoom="2"
+     inkscape:cx="928.10178"
+     inkscape:cy="713.5183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -625,7 +615,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -647,9 +637,9 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect8880"
        width="1476"
-       height="3280"
+       height="3160"
        x="-357.14285"
-       y="-176.78067"
+       y="-56.78067"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1023,7 +1013,7 @@
        width="89.642685"
        height="24.982031"
        x="800.83563"
-       y="190.86768"
+       y="200.86768"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1034,7 +1024,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(586.88773,-1162.6073)"><flowRegion
+       transform="translate(586.88773,-1152.6073)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-3-7-6-3-3-5"><rect
            y="1360.9525"
            x="215.40733"
@@ -1074,7 +1064,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(65.3212,196.7483)"><flowRegion
+       transform="translate(65.3212,206.7483)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-9-9-7-2-7-4-6-2-7-3-01-5-2-1-4"><rect
            y="-6.0844145"
            x="-0.75313127"
@@ -1082,9 +1072,9 @@
            width="742.1153"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-14-4-8-7-1"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#000000"
          id="flowPara10586-6-3-0-2-4-4-4">SELinux Access Control  errors</flowPara></flowRoot>    <flowRoot
-       transform="translate(194.84791,-801.06276)"
+       transform="translate(194.84791,-791.06276)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-7-9-72"
        xml:space="preserve"
@@ -1111,7 +1101,7 @@
        width="26"
        height="17"
        x="849.98975"
-       y="389.41306"
+       y="399.41306"
        rx="1"
        ry="1"
        inkscape:export-xdpi="90"
@@ -1123,7 +1113,7 @@
        xml:space="preserve"
        id="flowRoot4477-9-1-2-8-5-8-4"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(859.8083,394.05454)"><flowRegion
+       transform="translate(859.8083,404.05454)"><flowRegion
          id="flowRegion4479-9-2-1-9-5-3-0"><rect
            id="rect4481-8-7-4-3-0-5-7"
            width="17.746969"
@@ -1135,12 +1125,12 @@
          id="flowPara4483-5-2-1-7-3-8-7">2</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4329-5-2-9-7"
-       d="m 65.648921,265.83714 823.718719,0"
+       d="m 65.648921,275.83714 823.718719,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(194.84791,-763.06274)"
+       transform="translate(194.84791,-753.06274)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-7-9-7-5"
        xml:space="preserve"
@@ -1164,19 +1154,19 @@
    id="flowSpan10636-6-4-6-5-5">port 1001/tcp</flowSpan></flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4329-5-2-9-0-6"
-       d="m 65.648921,303.83714 823.718719,0"
+       d="m 65.648921,313.83714 823.718719,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path4329-5-2-9-0-6-7"
-       d="m 65.648923,341.90029 823.718717,0"
+       d="m 65.648923,351.90029 823.718717,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(195.606,-835.72456)"
+       transform="translate(195.606,-825.72456)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6"
        xml:space="preserve"
@@ -1196,7 +1186,7 @@
    id="flowSpan10632-0-5-1-0-4-3-5-5">dhclient</flowSpan> to read the symlink <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="flowSpan10634-4-7-5-7-8-8-0-2">/etc/localtime</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="translate(195.606,-875.72456)"
+       transform="translate(195.606,-865.72456)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6-8"
        xml:space="preserve"
@@ -1218,19 +1208,19 @@
    id="flowSpan10634-4-7-5-7-8-8-0-2-9">/etc/foo</flowSpan></flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4329-5-2-9-0-6-7-4"
-       d="m 65.648923,379.90029 823.718717,0"
+       d="m 65.648923,389.90029 823.718717,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path4329-5-2-9-0-6-7-1-4"
-       d="m 65.648923,417.86467 823.718717,0"
+       d="m 65.648923,427.86467 823.718717,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(195.606,-915.72456)"
+       transform="translate(195.606,-905.72456)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6-8-8"
        xml:space="preserve"
@@ -1257,7 +1247,7 @@
        width="26"
        height="17"
        x="850.03387"
-       y="313.41306"
+       y="323.41306"
        rx="1"
        ry="1"
        inkscape:export-xdpi="90"
@@ -1269,7 +1259,7 @@
        xml:space="preserve"
        id="flowRoot4477-9-1-2-8-5-8-4-8"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(859.8083,318.05454)"><flowRegion
+       transform="translate(859.8083,328.05454)"><flowRegion
          id="flowRegion4479-9-2-1-9-5-3-0-3"><rect
            id="rect4481-8-7-4-3-0-5-7-4"
            width="17.746969"
@@ -1284,7 +1274,7 @@
        width="26"
        height="17"
        x="850.07812"
-       y="237.41306"
+       y="247.41306"
        rx="1"
        ry="1"
        inkscape:export-xdpi="90"
@@ -1296,7 +1286,7 @@
        xml:space="preserve"
        id="flowRoot4477-9-1-2-8-5-8-4-8-1"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="translate(856.4496,242.05454)"><flowRegion
+       transform="translate(856.4496,252.05454)"><flowRegion
          id="flowRegion4479-9-2-1-9-5-3-0-3-3"><rect
            id="rect4481-8-7-4-3-0-5-7-4-7"
            width="17.746969"
@@ -1308,7 +1298,7 @@
          id="flowPara4483-5-2-1-7-3-8-7-2-3">12</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path4329-5-2-9-7-8"
-       d="m 65.648923,227.83714 823.718717,0"
+       d="m 65.648923,237.83714 823.718717,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3599,90 +3589,16 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(282.3483,103.54027)"><flowRegion
+       transform="translate(282.3483,133.54027)"><flowRegion
          id="flowRegion6840-2-1-9-1-3-2-7-0"><rect
            id="rect6842-7-1-2-1-03-6-6-8"
-           width="213.04962"
-           height="42.81152"
+           width="163.04962"
+           height="34.81152"
            x="-217.82367"
            y="11.327336"
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
-         id="flowPara7995-3-0">Enforced security mode</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-9-9-7-5-0-4-1-0-0-4);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-5-1-85-5-0-4-7-3-2-0-5"
-       width="58.808086"
-       height="24.959934"
-       x="232.76927"
-       y="118.93606"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-9-9-7-5-0-4-1-0-0-4-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-5-1-85-5-0-4-7-3-2-0-5-0"
-       width="29.147627"
-       height="23.919531"
-       x="233.25708"
-       y="119.42122"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-7-5-4-50-4-4-2-9"
-       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(455.03067,104.54243)"><flowRegion
-         id="flowRegion6840-2-1-9-1-3-2-7-0-3"><rect
-           id="rect6842-7-1-2-1-03-6-6-8-7"
-           width="28.848305"
-           height="25.840956"
-           x="-217.82367"
-           y="11.327336"
-           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-         id="flowPara7995-3-0-1">On</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6838-2-7-5-4-50-4-4-2-9-0"
-       style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="translate(484.41195,104.54243)"><flowRegion
-         id="flowRegion6840-2-1-9-1-3-2-7-0-3-4"><rect
-           id="rect6842-7-1-2-1-03-6-6-8-7-5"
-           width="21.699881"
-           height="25.649015"
-           x="-217.82367"
-           y="11.327336"
-           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
-         id="flowPara7995-3-0-1-7">Off</flowPara></flowRoot>    <circle
-       style="opacity:1;fill:#1ba7e1;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path5051"
-       cx="309.49728"
-       cy="130.8867"
-       r="10.534298"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:17.04347801px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="306.35449"
-       y="137.08543"
-       id="text5053"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan5055"
-         x="306.35449"
-         y="137.08543"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold';fill:#ffffff">i</tspan></text>
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
+         id="flowPara7995-3-0">Enforce policy</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6838-2-7-5-4-50-4-4-2-4"
        style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -3896,14 +3812,14 @@
            style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1"
          id="flowPara7995-3-0-5-5-2-4-0">Permissive</flowPara></flowRoot>    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e2e4e1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 339.89035,90.854089 0,26.177731 -13.75,13.75 13.75,13.75 0,26.37109 178.01368,0 0,-80.048821 -178.01368,0 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 263.5281,116.8593 0,26.17773 -13.75,13.75 13.75,13.75 0,26.37109 178.01368,0 0,-80.04882 -178.01368,0 z"
        id="rect4083"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="translate(463.1414,-1052.4421)"
+       transform="translate(386.77915,-1026.4369)"
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6-8-8-0"
        xml:space="preserve"
@@ -3918,5 +3834,129 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-1-6-6-8-5-7-6-0-9-9"
            style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-5-8">If enforcing, events are permitted  based on selinux policy. Otherwise, events are logged but not prevented.</flowPara></flowRoot>  </g>
+         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-5-8">If enforcing, events are permitted  based on selinux policy. Otherwise, events are logged but not prevented.</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:19.35800934px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-7-3-4-5-3-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(65.321205,114.7483)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-9-9-7-2-7-4-6-2-7-3-01-5-2-1-4-7"><rect
+           y="-6.0844145"
+           x="-0.75313127"
+           height="29.870516"
+           width="742.1153"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-14-4-8-7-1-22"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara10586-6-3-0-2-4-4-4-1">SELinux Policy</flowPara></flowRoot>    <g
+       id="g6707"
+       transform="translate(-100,11)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         y="134.86052"
+         x="249.51059"
+         height="25.010715"
+         width="71.040718"
+         id="rect8074-5-1-85-5-0-4-7-3-2-0-5-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-9-9-7-5-0-4-1-0-0-4-77);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         y="135.36142"
+         x="249.97633"
+         height="23.985823"
+         width="34.031082"
+         id="rect8074-5-1-85-5-0-4-7-3-2-0-5-0-8"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0086cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(472.6338,121.07925)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+         style="font-style:normal;font-weight:normal;font-size:16.58917236px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRoot6838-2-7-5-4-50-4-4-2-9-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6840-2-1-9-1-3-2-7-0-3-0"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             y="11.327336"
+             x="-217.82367"
+             height="25.840956"
+             width="28.848305"
+             id="rect6842-7-1-2-1-03-6-6-8-7-9" /></flowRegion><flowPara
+           id="flowPara7995-3-0-1-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1">ON</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path6705"
+         d="m 284.50521,135.36643 0,24.00103"
+         style="fill:none;fill-rule:evenodd;stroke:#0071b0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <ellipse
+       style="opacity:1;fill:#00618a;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5051-5"
+       cx="234.49904"
+       cy="157.82585"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       rx="8.4129772"
+       ry="8.5897541" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.58074284px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="231.95395"
+       y="163.26999"
+       id="text5053-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5055-9"
+         x="231.95395"
+         y="163.26999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold';fill:#ffffff;fill-opacity:1">i</tspan></text>
+    <flowRoot
+       transform="translate(586.77915,-1026.4369)"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6-8-8-0-8"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-9-9-7-2-7-4-6-2-7-3-0-8-9-2-9-5-6-4-7-6-8"><rect
+           y="1151.8732"
+           x="-112.64377"
+           height="156.98059"
+           width="172.06638"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-1-6-6-8-5-7-6-0-9-9-2"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-5-8-1">SELinux policy is enforced. SELinux denies access is based on SELinux policy rules.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6828"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6830">SELinux policy is not enforced. SELinux does not deny access, but denials are logged for actions that would have been denied if running in enforcing mode.  </flowPara></flowRoot>    <flowRoot
+       transform="translate(786.77915,-1026.4369)"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6-8-8-0-8-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-9-9-7-2-7-4-6-2-7-3-0-8-9-2-9-5-6-4-7-6-8-6"><rect
+           y="1151.8732"
+           x="-112.64377"
+           height="156.98059"
+           width="172.06638"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-1-6-6-8-5-7-6-0-9-9-2-7"
+           style="line-height:259.99999046%;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-5-8-1-4">If turned on: SELinux denies access is based on SELinux policy rules.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6828-5" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6830-5">If turned off: SELinux does not deny access, but denials are logged for actions that would have been denied if running in enforcing mode.  </flowPara></flowRoot>  </g>
 </svg>
