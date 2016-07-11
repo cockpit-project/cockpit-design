@@ -66,36 +66,6 @@
        y2="1163.3622"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5718816,0,0,0.92604302,-1368.8962,-371.27306)" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
-       gradientTransform="matrix(1.7614564,0,0,0.92604302,-1364.1526,-4508.1273)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-4-3-7-5-1-5-9-0-4-9"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
-       gradientTransform="matrix(1.20435,0,0,0.92604302,-892.04583,-4478.1273)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-4-3-7-5-1-5-9-0-4-9-7"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
-       gradientTransform="matrix(1.4245242,0,0,0.92604302,-1078.6272,-4448.1273)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-4-3-7-5-1-5-9-0-4-9-7-5"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -105,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="411.53478"
-     inkscape:cy="595.6931"
+     inkscape:cx="196.58394"
+     inkscape:cy="708.13705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -120,6 +90,10 @@
     <inkscape:grid
        type="xygrid"
        id="grid6839" />
+    <sodipodi:guide
+       position="131.75,704.00002"
+       orientation="1,0"
+       id="guide4223" />
   </sodipodi:namedview>
   <metadata
      id="metadata6135">
@@ -129,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -356,85 +330,55 @@
          y="398.70987"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:245.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#888888;fill-opacity:1"
          id="tspan7521">MTU</tspan></text>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="320.91394"
-       x="128.55247"
-       height="25.003162"
-       width="120.00438"
-       id="rect8074-5-1-1-4-7-99-4-2-5-9-4"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-4-3-7-5-1-5-9-0-4-9);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <flowRoot
-       transform="translate(109.03395,318.54359)"
+       transform="translate(105.03395,318.54359)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        xml:space="preserve"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-3-1-5-6-3-9-3-8"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0086cf;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-5-4-7-1-7-3-0-1-7"><rect
-           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#0086cf;fill-opacity:1"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-8-5-3-5-24-8-1-7-1"
            width="165.29251"
            height="28.448957"
            x="-3.5587871"
            y="9.428607" /></flowRegion><flowPara
          id="flowPara6934-2-4-4-9-1-6-8-5-1-7-1-72"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Automatic (DHCP)</flowPara></flowRoot>    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="350.91394"
-       x="128.55247"
-       height="25.003162"
-       width="82.049873"
-       id="rect8074-5-1-1-4-7-99-4-2-5-9-4-6"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-4-3-7-5-1-5-9-0-4-9-7);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999982;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <flowRoot
-       transform="translate(91.033955,348.54359)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0086cf;fill-opacity:1">Automatic (DHCP)</flowPara></flowRoot>    <flowRoot
+       transform="translate(82.783955,348.54359)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        xml:space="preserve"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-3-1-5-6-3-9-3-8-1"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0086cf;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-5-4-7-1-7-3-0-1-7-0"><rect
-           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#0086cf;fill-opacity:1"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-8-5-3-5-24-8-1-7-1-6"
            width="165.29251"
            height="28.448957"
            x="-3.5587871"
            y="9.428607" /></flowRegion><flowPara
          id="flowPara6934-2-4-4-9-1-6-8-5-1-7-1-72-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Automatic</flowPara></flowRoot>    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="380.91394"
-       x="128.55249"
-       height="25.003162"
-       width="97.049873"
-       id="rect8074-5-1-1-4-7-99-4-2-5-9-4-6-9"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-4-3-7-5-1-5-9-0-4-9-7-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999988;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <flowRoot
-       transform="translate(96.595375,378.54359)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0086cf;fill-opacity:1">Automatic</flowPara></flowRoot>    <flowRoot
+       transform="translate(92.595375,378.54359)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        xml:space="preserve"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-3-1-5-6-3-9-3-8-1-0"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0086cf;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-5-4-7-1-7-3-0-1-7-0-9"><rect
-           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#0086cf;fill-opacity:1"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-8-5-3-5-24-8-1-7-1-6-1"
            width="165.29251"
            height="28.448957"
            x="-3.5587871"
            y="9.428607" /></flowRegion><flowPara
          id="flowPara6934-2-4-4-9-1-6-8-5-1-7-1-72-1-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Default - 1500</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0086cf;fill-opacity:1">Default - 1500</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:245.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none"
        x="128.06993"
