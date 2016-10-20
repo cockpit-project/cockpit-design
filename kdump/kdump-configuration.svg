@@ -254,9 +254,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="914.13827"
-     inkscape:cy="1206.4615"
+     inkscape:zoom="1"
+     inkscape:cx="585.47207"
+     inkscape:cy="250.19544"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -298,7 +298,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -880,7 +880,7 @@
          id="tspan5354"
          x="292.56708"
          y="-894.04724"
-         style="stroke-width:0.93750006px"></tspan></text>
+         style="stroke-width:0.93750006px" /></text>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-6-4-5-17-0-4-9"
@@ -1645,10 +1645,10 @@
          y="1057.8413"
          style="stroke-width:0.93750006px">Opens dialog</tspan></text>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0.93750006;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0.9375;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10917-6-4-1-1-9-0-8-9-91-30-1-7-1"
        width="381.5625"
-       height="145.31247"
+       height="180.87874"
        x="-179.53123"
        y="2147.8313"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
