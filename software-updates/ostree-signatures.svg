@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="543.97983"
-     inkscape:cy="378.12152"
+     inkscape:zoom="0.25"
+     inkscape:cx="1086.5821"
+     inkscape:cy="305.46012"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -124,11 +124,6 @@
     <inkscape:grid
        type="xygrid"
        id="grid5931" />
-    <sodipodi:guide
-       position="0,-34.395832"
-       orientation="1,0"
-       id="guide6985"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5058">
@@ -147,6 +142,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-58.87501)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d3d7cf;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7058"
+       width="375.70831"
+       height="687.91669"
+       x="-18.520834"
+       y="19.18751" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6269"
@@ -431,7 +433,7 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6030"
        width="47.360416"
-       height="222.77916"
+       height="222.52191"
        x="0.26458332"
        y="74.22084" />
     <text
@@ -1092,5 +1094,16 @@
            y="277.50595"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;fill:#3f9c35;fill-opacity:1;stroke-width:0.99716091px"></tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.85560608px;line-height:2.92780304px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-0.36883456"
+       y="38.70026"
+       id="text6261-5"><tspan
+         sodipodi:role="line"
+         id="tspan6259-4"
+         x="-0.36883456"
+         y="38.70026"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Light';stroke-width:0.26458332px">OSTree repository signatures - November 2016</tspan></text>
   </g>
 </svg>
