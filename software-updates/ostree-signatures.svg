@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="265.68499"
-     inkscape:cy="309.7556"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-122.38687"
+     inkscape:cy="-129.63666"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -669,7 +669,7 @@
          id="tspan11002-1-0-1-6-6-0-0-8-6-7-3"
          x="82.753654"
          y="601.43311"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#888888;fill-opacity:1;stroke-width:0.26458332">Repository</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#888888;fill-opacity:1;stroke-width:0.26458332">ACME OS Stable</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10472-8-32-3-4-8-7-3-8-0"
@@ -852,7 +852,7 @@
          id="tspan4605-8"
          x="71.980667"
          y="366.72122"
-         style="font-size:4.63020849px;stroke-width:0.26458332px">Stable</tspan></text>
+         style="font-size:4.63020849px;stroke-width:0.26458332px">ACME OS Stable</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -863,7 +863,7 @@
          id="tspan4605-8-0"
          x="71.980667"
          y="387.88788"
-         style="font-size:4.63020849px;stroke-width:0.26458332px">Beta</tspan></text>
+         style="font-size:4.63020849px;stroke-width:0.26458332px">ACME OS Beta</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -874,7 +874,7 @@
          id="tspan4605-8-0-0"
          x="71.980667"
          y="408.52545"
-         style="font-size:4.63020849px;stroke-width:0.26458332px">Alpha</tspan></text>
+         style="font-size:4.63020849px;stroke-width:0.26458332px">ACME OS Alpha</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10472"
@@ -997,15 +997,11 @@
            style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:200%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
          id="flowPara6812-7-3">https://url-to-repo</flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 311.14999,87.45001 h 28.04583 v 219.075 H 160.86665 v 10.58333"
+       style="fill:none;fill-rule:evenodd;stroke:#555753;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458332, 1.05833327000000010;stroke-dashoffset:0"
+       d="m 311.14999,87.318463 h 27.91767 V 306.39272 H 160.99067 v 10.71562"
        id="path6987"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 149.35157,560.25939 v 25.56259"
-       id="path6989"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3fa6da;fill-opacity:1;stroke:none;stroke-width:0.84684974"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-8-7-8-1-0-8"
@@ -1201,5 +1197,11 @@
          x="158.38033"
          sodipodi:role="line"
          id="tspan6263-8">No signature avaliable</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#555753;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458332, 1.58749990000000007;stroke-dashoffset:0"
+       d="m 302.57338,369.6281 h 29.61106 V 570.71352 H 148.82731 v 14.81683"
+       id="path4925"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
