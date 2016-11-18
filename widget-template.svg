@@ -14,7 +14,7 @@
    height="2500"
    id="svg7186"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92pre2 r"
    viewBox="0 0 1024 2500"
    sodipodi:docname="widget-template.svg"
    inkscape:export-filename="/data/src/cockpit-design/patterns/listing.png"
@@ -176,12 +176,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="48.689178"
-     inkscape:cy="1445.7621"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="136.47895"
+     inkscape:cy="116.78457"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
@@ -813,7 +813,6 @@
        x="207.68155"
        y="264.28961"
        id="text11000-49-8"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -839,7 +838,6 @@
        x="116.60892"
        y="210.93103"
        id="text11000-49-8-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -874,7 +872,6 @@
        x="207.68155"
        y="345.02087"
        id="text11000-49-8-3-5"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -889,7 +886,6 @@
        x="208.79483"
        y="307.55286"
        id="text11000-49-8-3-7"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -986,7 +982,6 @@
        x="108.52249"
        y="19.724762"
        id="text11000-49-8-4"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -1001,7 +996,6 @@
        x="107.71072"
        y="-11.70166"
        id="text11000-49-8-4-9"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -1016,7 +1010,6 @@
        x="107.38785"
        y="46.835663"
        id="text11000-49-8-4-9-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -1031,7 +1024,6 @@
        x="118.82495"
        y="68.0625"
        id="text11000-49-8-4-9-0-5"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -1684,8 +1676,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:145.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d5258;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
        x="172.75"
        y="-1418.25"
-       id="text4479"
-       sodipodi:linespacing="180%"><tspan
+       id="text4479"><tspan
          sodipodi:role="line"
          id="tspan4481"
          x="172.75"
@@ -1798,5 +1789,19 @@
        d="m 61.020111,-751.99982 a 1.0001,1.0001 0 0 0 -0.87109,0.47656 l -8,13 a 1.0001,1.0001 0 0 0 0.85156,1.52344 l 16,0 a 1.0001,1.0001 0 0 0 0.85156,-1.52344 l -8,-13 a 1.0001,1.0001 0 0 0 -0.83203,-0.47656 z m -0.01953,2.90625 6.21094,10.09375 -12.42188,0 6.21094,-10.09375 z m -1,3.09375 0,4 2,0 0,-4 -2,0 z m 0,5 0,1 2,0 0,-1 -2,0 z"
        id="path4575"
        inkscape:connector-curvature="0" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4796"
+       cx="151"
+       cy="663"
+       rx="5.4999971"
+       ry="5.5000048" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4796-3"
+       cx="151"
+       cy="663"
+       rx="2.9999957"
+       ry="3" />
   </g>
 </svg>
