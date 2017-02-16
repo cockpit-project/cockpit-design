@@ -23,7 +23,7 @@
    inkscape:export-ydpi="90"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><inkscape:path-effect
        effect="spiro"
        id="path-effect1254"
@@ -101,9 +101,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1805.7772"
-     inkscape:cy="-18.67369"
+     inkscape:zoom="0.5"
+     inkscape:cx="1450.4189"
+     inkscape:cy="390.45514"
      inkscape:current-layer="g10"
      showguides="true"
      inkscape:window-x="0"
@@ -582,23 +582,23 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.92457199px;line-height:14.92457199px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.865723"
-       y="412.47729"
+       y="457.47729"
        id="text5101-9-1-4-8-5-3-3-0-4-9"><tspan
          sodipodi:role="line"
          id="tspan5099-3-9-7-4-0-6-2-6-3-2"
          x="82.865723"
-         y="412.47729"
+         y="457.47729"
          style="fill:#ffffff;stroke-width:0.75px">Image Registry</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.92457199px;line-height:14.92457199px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.865723"
-       y="455.97729"
+       y="412.47729"
        id="text5101-9-1-4-8-5-3-3-0-4-9-0"><tspan
          sodipodi:role="line"
          id="tspan5099-3-9-7-4-0-6-2-6-3-2-6"
          x="82.865723"
-         y="455.97729"
+         y="412.47729"
          style="fill:#ffffff;stroke-width:0.75px">Cluster</tspan></text>
 <text
        xml:space="preserve"
@@ -649,8 +649,52 @@
          x="61.85939"
          y="-153.84999"
          style="stroke-width:0.75px">No more fast switchers, but clearer logic</tspan></text>
-<path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 256.32302,-13.301801 6.44996,7.1137004 6.44996,-7.1137004"
-       id="path5640-4"
-       inkscape:connector-curvature="0" /></g></svg>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.70759392px;line-height:19.70759392px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="830.17999"
+       y="-82.819275"
+       id="text3788"><tspan
+         sodipodi:role="line"
+         id="tspan3786"
+         x="830.17999"
+         y="-82.819275"
+         style="stroke-width:0.75px">Looks better when Image Registry is shipped by itself</tspan><tspan
+         sodipodi:role="line"
+         x="830.17999"
+         y="-63.111679"
+         style="stroke-width:0.75px"
+         id="tspan3790">It would just drop the &quot;&lt;&quot; and replace the name string with host info </tspan></text>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.70759392px;line-height:19.70759392px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1595.1801"
+       y="-67.819275"
+       id="text3788-3"><tspan
+         sodipodi:role="line"
+         x="1595.1801"
+         y="-67.819275"
+         style="stroke-width:0.75px"
+         id="tspan3790-7">When doing cluster stuff, no need to worry too much about the host</tspan></text>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.70759392px;line-height:19.70759392px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="65.180107"
+       y="-94.819275"
+       id="text3788-3-5"><tspan
+         sodipodi:role="line"
+         x="65.180107"
+         y="-94.819275"
+         style="stroke-width:0.75px"
+         id="tspan3790-7-3">Note that Cluster and Image Registry is drawn in the sidebar</tspan><tspan
+         sodipodi:role="line"
+         x="65.180107"
+         y="-75.111679"
+         style="stroke-width:0.75px"
+         id="tspan3833">Clicking them replaces the entire page with any of the two images on</tspan><tspan
+         sodipodi:role="line"
+         x="65.180107"
+         y="-55.404087"
+         style="stroke-width:0.75px"
+         id="tspan3835">the right. </tspan></text>
+</g></svg>
