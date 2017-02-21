@@ -73,6 +73,28 @@
        id="linearGradient8099-8"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076"
+       id="linearGradient8082"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.37167398,0,0,0.24501555,-113.04473,-192.53926)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076">
+      <stop
+         style="stop-color:#1baae6;stop-opacity:1"
+         offset="0"
+         id="stop8078" />
+      <stop
+         style="stop-color:#1999ce;stop-opacity:1"
+         offset="1"
+         id="stop8080" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -81,9 +103,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="490.09037"
-     inkscape:cy="519.15738"
+     inkscape:zoom="1"
+     inkscape:cx="887.91051"
+     inkscape:cy="600.26226"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -696,15 +718,15 @@
            id="flowPara4667-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:PatternFlyIcons-webfont;-inkscape-font-specification:PatternFlyIcons-webfont;text-align:center;text-anchor:middle;fill:#ffffff"></flowPara></flowRoot>    </g>
     <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="87.969772"
-       x="298.95578"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074"
+       width="15.610308"
        height="6.6154199"
-       width="15.610399"
-       id="rect6352-7-2"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       x="298.95584"
+       y="87.969772"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6"
