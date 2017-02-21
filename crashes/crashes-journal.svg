@@ -100,7 +100,7 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(1.1464828,0,0,0.24498457,-1297.3795,52.227301)"
+       gradientTransform="matrix(1.1998075,0,0,0.24498457,-1361.4258,52.227301)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-6-7-3-8"
        xlink:href="#linearGradient8076-9"
@@ -120,7 +120,7 @@
        x2="1133.7847"
        y1="1149.5696"
        x1="1133.7847"
-       gradientTransform="matrix(1.1464828,0,0,0.93094139,-1297.3795,-576.85458)"
+       gradientTransform="matrix(1.1998075,0,0,0.93094139,-1361.4258,-576.85458)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-6-7-3-8-7"
        xlink:href="#linearGradient8076-9"
@@ -184,8 +184,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="535.21696"
-     inkscape:cy="1578.3794"
+     inkscape:cx="502.80954"
+     inkscape:cy="560.3526"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -993,26 +993,29 @@
            x="1632.0024"
            y="561.38916" /></flowRegion><flowPara
          id="flowPara10515-7-4-5-1-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">error: maximum authentication attempts exceeded for root from 218.65.30.122 port 11492 ssh2 [preauth]</flowPara></flowRoot>    <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 71.016378,142.86835 1.5885,-2.91013 1.587387,2.91076 z"
-       id="path10291-4-7-8-9-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect10293-7-8-8-9-1"
-       width="0.51157057"
-       height="0.79373622"
-       x="72.340332"
-       y="141.01686" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect10293-5-4-6-4-7-2"
-       width="0.52916986"
-       height="0.52916682"
-       x="72.340332"
-       y="142.07516" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">error: maximum authentication attempts exceeded for root from 218.65.30.122 port 11492 ssh2 [preauth]</flowPara></flowRoot>    <g
+       id="g13298">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path10291-4-7-8-9-7"
+         d="m 71.016378,142.86835 1.5885,-2.91013 1.587387,2.91076 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="141.01686"
+         x="72.340332"
+         height="0.79373622"
+         width="0.51157057"
+         id="rect10293-7-8-8-9-1"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         y="142.07516"
+         x="72.340332"
+         height="0.52916682"
+         width="0.52916986"
+         id="rect10293-5-4-6-4-7-2"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10509-49-2"
@@ -1934,7 +1937,7 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-6-7-3-8);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-6-1-7"
-       width="56.885406"
+       width="59.531239"
        height="6.6145835"
        x="79.616257"
        y="279.26172"
@@ -2024,7 +2027,7 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-6-7-3-8-7);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-6-1-7-2"
-       width="56.885406"
+       width="59.531239"
        height="25.135418"
        x="79.61628"
        y="285.87625"
@@ -2034,33 +2037,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="82.129807"
+       x="82.129799"
        y="291.16721"
        id="text4325-3-6-27-2"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4327-7-5-2-1"
-         x="82.129807"
+         x="82.129799"
          y="291.16721"
          style="stroke-width:0.26458332px">Everything</tspan><tspan
          sodipodi:role="line"
-         x="82.129807"
+         x="82.129799"
          y="295.30133"
          style="stroke-width:0.26458332px"
          id="tspan13015">Crashes, Errors, Warnings, Notices</tspan><tspan
          sodipodi:role="line"
-         x="82.129807"
+         x="82.129799"
          y="299.43542"
          style="stroke-width:0.26458332px"
          id="tspan13017">Crashes, Errors, Warnings</tspan><tspan
          sodipodi:role="line"
-         x="82.129807"
+         x="82.129799"
          y="303.56955"
          style="stroke-width:0.26458332px"
          id="tspan13019">Crashers, Errors</tspan><tspan
          sodipodi:role="line"
-         x="82.129807"
+         x="82.129799"
          y="307.70367"
          style="stroke-width:0.26458332px"
          id="tspan13021">Only Crashers</tspan></text>
@@ -2317,5 +2320,113 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458332,0.79374995;stroke-dashoffset:0"
+       d="m 67.313145,76.193987 h -93.00104"
+       id="path13281"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 106.2159,304.79293 c -1.02269,0 -1.8593,0.83124 -1.8593,1.85157 0,1.02032 0.83661,1.85363 1.8593,1.85363 1.02272,0 1.85777,-0.83331 1.85777,-1.85363 0,-1.02033 -0.83505,-1.85158 -1.85777,-1.85157 z m 0,0.52968 c 0.7379,0 1.32807,0.5887 1.32807,1.32189 0,0.73318 -0.59017,1.32447 -1.32807,1.32446 -0.73787,0 -1.33014,-0.59128 -1.33014,-1.32446 0,-0.73319 0.59227,-1.32189 1.33014,-1.32189 z m -0.41081,0.52865 -0.37415,0.37414 0.41963,0.41961 -0.41963,0.41961 0.37415,0.37414 0.4196,-0.41961 0.41963,0.41961 0.37412,-0.37414 -0.4196,-0.41961 0.4196,-0.41961 -0.37412,-0.37414 -0.41963,0.41961 z"
+       id="path4546-3-3-7" />
+    <g
+       id="g13298-4"
+       transform="translate(36.984437,160.60206)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path10291-4-7-8-9-7-9"
+         d="m 71.016378,142.86835 1.5885,-2.91013 1.587387,2.91076 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="141.01686"
+         x="72.340332"
+         height="0.79373622"
+         width="0.51157057"
+         id="rect10293-7-8-8-9-1-2"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         y="142.07516"
+         x="72.340332"
+         height="0.52916682"
+         width="0.52916986"
+         id="rect10293-5-4-6-4-7-2-4"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="81.927948"
+       y="259.15256"
+       id="text4325-3-6-27-2-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="81.927948"
+         y="259.15256"
+         style="stroke-width:0.26458332px"
+         id="tspan13021-6">Severety levels makes it possible</tspan><tspan
+         sodipodi:role="line"
+         x="81.927948"
+         y="263.28668"
+         style="stroke-width:0.26458332px"
+         id="tspan13397">to show only crashers if wanted</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.79374997;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 105.01627,277.37663 V 264.84189"
+       id="path13281-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-68.678711"
+       y="71.414192"
+       id="text4325-3-6-27-2-2-0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-68.678711"
+         y="71.414192"
+         style="stroke-width:0.26458332px"
+         id="tspan13441">Crashers is the highest</tspan><tspan
+         sodipodi:role="line"
+         x="-68.678711"
+         y="75.548309"
+         style="stroke-width:0.26458332px"
+         id="tspan13443">severity level. Entrys that</tspan><tspan
+         sodipodi:role="line"
+         x="-68.678711"
+         y="79.682419"
+         style="stroke-width:0.26458332px"
+         id="tspan13451">are crashers are indicated</tspan><tspan
+         sodipodi:role="line"
+         x="-68.678711"
+         y="83.816536"
+         style="stroke-width:0.26458332px"
+         id="tspan13465">with the Error icon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="150.71962"
+       y="259.15256"
+       id="text4325-3-6-27-2-2-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="150.71962"
+         y="259.15256"
+         style="stroke-width:0.26458332px"
+         id="tspan13397-6">Allow to filter on services to</tspan><tspan
+         sodipodi:role="line"
+         x="150.71962"
+         y="263.28668"
+         style="stroke-width:0.26458332px"
+         id="tspan13493">find all the crashers, for example, ftpd</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.79374998;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 179.09965,277.37663 V 264.84189"
+       id="path13281-4-6"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
