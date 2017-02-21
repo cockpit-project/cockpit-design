@@ -68,7 +68,7 @@
        x2="1411.0698"
        y1="1262.533"
        x1="1410.9865"
-       gradientTransform="matrix(0.56066472,0,0,0.24501554,-576.01146,-228.52441)"
+       gradientTransform="matrix(0.56066472,0,0,0.24501554,-591.08706,-228.52441)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8099-8"
        xlink:href="#linearGradient8076-9"
@@ -103,9 +103,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="887.91051"
-     inkscape:cy="600.26226"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="619.24434"
+     inkscape:cy="468.94277"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -762,14 +762,14 @@
        id="rect8074-5"
        width="6.8791666"
        height="6.8791656"
-       x="334.93918"
+       x="319.86362"
        y="24.99708"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 336.93617,28.418297 1.14599,1.118559 2.32701,-2.271409"
+       d="m 321.86057,28.418297 1.14599,1.118559 2.32701,-2.271409"
        id="path9283"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
@@ -860,5 +860,57 @@
          id="tspan4448-4-1-5-5-4-3-0-1"
          sodipodi:role="line"
          style="fill:#2e3436;fill-opacity:1;stroke-width:0.26458332px">February 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="185.65962"
+       y="186.54761"
+       id="text4304-4-0-2-9-4-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4306-7-9-9-3-5-6"
+         x="185.65962"
+         y="186.54761"
+         style="fill:#2e3436;stroke-width:0.26458332px">java killed by SIGABRT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="93.055412"
+       y="186.54761"
+       id="text4304-4-0-2-9-4-0-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4306-7-9-9-3-5-3-6"
+         x="93.055412"
+         y="186.54761"
+         style="fill:#2e3436;stroke-width:0.26458332px">java-1.8.0-openjdk-headless-1.8.0.111-1.b16.fc25</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="185.65962"
+       y="196.07263"
+       id="text4304-4-0-2-9-4-7-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4306-7-9-9-3-5-6-3"
+         x="185.65962"
+         y="196.07263"
+         style="fill:#2e3436;stroke-width:0.26458332px">java killed by SIGABRT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="93.055412"
+       y="196.07263"
+       id="text4304-4-0-2-9-4-0-5-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4306-7-9-9-3-5-3-6-4"
+         x="93.055412"
+         y="196.07263"
+         style="fill:#2e3436;stroke-width:0.26458332px">java-1.8.0-openjdk-headless-1.8.0.111-1.b16.fc25</tspan></text>
   </g>
 </svg>
