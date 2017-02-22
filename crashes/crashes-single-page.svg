@@ -106,9 +106,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="853.28588"
-     inkscape:cy="551.25499"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="711.81259"
+     inkscape:cy="360.40813"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -143,7 +143,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -636,7 +636,7 @@
          x="88.107635"
          id="tspan4765-9"
          sodipodi:role="line"
-         style="stroke-width:0.26458332px">Pile One</tspan></text>
+         style="stroke-width:0.26458332px">Crash info</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -649,20 +649,7 @@
          id="tspan4769-2"
          x="111.57455"
          y="92.87397"
-         style="stroke-width:0.26458332px">Pile Two</tspan></text>
-    <text
-       id="text4771-8"
-       y="92.87397"
-       x="135.25481"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         y="92.87397"
-         x="135.25481"
-         id="tspan4773-9"
-         sodipodi:role="line"
-         style="stroke-width:0.26458332px">Pile Three</tspan></text>
+         style="stroke-width:0.26458332px">Crash Details</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e9e8e8;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 82.923551,96.169122 H 326.60475"
