@@ -266,9 +266,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1468.8748"
-     inkscape:cy="3270.6352"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1087.0626"
+     inkscape:cy="3070.5833"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -758,7 +758,7 @@
            x="1632.0024"
            y="561.38916" /></flowRegion><flowPara
          id="flowPara10515-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">libvirtd</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">crashy-app</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10509-8-1"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -782,7 +782,7 @@
            x="1632.0024"
            y="561.38916" /></flowRegion><flowPara
          id="flowPara10515-7-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">crashy-app</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">libvirtd</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10509-4-4-3"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1117,7 +1117,7 @@
            x="1632.0024"
            y="561.38916" /></flowRegion><flowPara
          id="flowPara10515-0-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">libvirtd</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">crashy-app</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10509-8-1-7"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1141,7 +1141,7 @@
            x="1632.0024"
            y="561.38916" /></flowRegion><flowPara
          id="flowPara10515-7-7-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">crashy-app</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:monospace;-inkscape-font-specification:monospace">libvirtd</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10509-4-4-3-1"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4289,7 +4289,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,414.7645,51.424444)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,414.7645,58.303612)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-5-4-6-4-5-5-7"
          style="line-height:15.625px;fill:#2e3436"><rect
            y="9.428607"
@@ -4301,8 +4301,31 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:15.625px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
          id="flowPara6934-2-4-4-0-1-6-2-0-3-3">name of component</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.79375004;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 356.10583,56.052181 H 412.9358"
+       d="M 356.10583,62.931349 H 412.9358"
        id="path13281-4-7-6-9-5-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:15.625px;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-9-2-6-4-8-36-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,414.76451,116.51195)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-5-4-6-4-5-5-7-2"
+         style="line-height:15.625px;fill:#2e3436"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="18.985603"
+           width="156.41959"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-8-0-6-1-3-5-9"
+           style="font-size:12.5px;line-height:15.625px;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:15.625px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara6934-2-4-4-0-1-6-2-0-3-3-1">name of component</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.79375002;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 370.36788,121.13968 h 42.5679"
+       id="path13281-4-7-6-9-5-7-5-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>
