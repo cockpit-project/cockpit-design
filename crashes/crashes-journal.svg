@@ -15,7 +15,7 @@
    viewBox="0 0 616.70665 1016.4927"
    version="1.1"
    id="svg7385"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="crashes-journal.svg"
    inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/crashes/crashes-journal.png"
    inkscape:export-xdpi="96"
@@ -306,9 +306,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1005.0266"
-     inkscape:cy="876.55595"
+     inkscape:zoom="1"
+     inkscape:cx="740.30954"
+     inkscape:cy="3402.4457"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -343,7 +343,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -404,12 +404,12 @@
          sodipodi:role="line"
          id="tspan9164-6-4-1"
          x="-70.819046"
-         y="-2.1310601">Crashes embedded in Logs</tspan><tspan
+         y="-2.1310601">Problems embedded in Logs</tspan><tspan
          style="stroke-width:0.28222224px"
          sodipodi:role="line"
          x="-70.819046"
          y="5.1955113"
-         id="tspan13495">February 2017</tspan></text>
+         id="tspan13495">March 2017</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#292e34;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4801-3-6-70-7-1"
@@ -1711,7 +1711,7 @@
          id="tspan4769-2"
          x="93.847511"
          y="395.55737"
-         style="fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Crash info</tspan></text>
+         style="fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Problem info</tspan></text>
     <text
        id="text4771-8"
        y="395.55737"
@@ -1724,7 +1724,7 @@
          x="120.70275"
          id="tspan4773-9"
          sodipodi:role="line"
-         style="fill:#2e3436;stroke-width:0.26458332px">Crash details</tspan></text>
+         style="fill:#2e3436;stroke-width:0.26458332px">Problem details</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e9e8e8;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 68.415333,398.59537 H 371.29892"
@@ -1735,7 +1735,7 @@
     <rect
        style="opacity:1;fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9175-3"
-       width="19.049997"
+       width="22.224987"
        height="0.529185"
        x="92.713142"
        y="398.19183"
@@ -2094,7 +2094,7 @@
          id="tspan4327-7-5-2"
          x="82.129807"
          y="283.75885"
-         style="stroke-width:0.26458332px">Crashes and Errors</tspan></text>
+         style="stroke-width:0.26458332px">Problems and Errors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2180,22 +2180,22 @@
          x="82.129799"
          y="295.30133"
          style="stroke-width:0.26458332px"
-         id="tspan13015">Crashes, Errors, Warnings, Notices</tspan><tspan
+         id="tspan13015">Problems, Errors, Warnings, Notices</tspan><tspan
          sodipodi:role="line"
          x="82.129799"
          y="299.43542"
          style="stroke-width:0.26458332px"
-         id="tspan13017">Crashes, Errors, Warnings</tspan><tspan
+         id="tspan13017">Problems, Errors, Warnings</tspan><tspan
          sodipodi:role="line"
          x="82.129799"
          y="303.56955"
          style="stroke-width:0.26458332px"
-         id="tspan13019">Crashers, Errors</tspan><tspan
+         id="tspan13019">Problems, Errors</tspan><tspan
          sodipodi:role="line"
          x="82.129799"
          y="307.70367"
          style="stroke-width:0.26458332px"
-         id="tspan13021">Only Crashers</tspan></text>
+         id="tspan13021">Only Problems</tspan></text>
     <rect
        style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:0.26458341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5118-56-5-9"
@@ -2275,7 +2275,7 @@
          id="tspan4327-7-5-2-3"
          x="135.04648"
          y="30.023384"
-         style="stroke-width:0.26458332px">Crashes and Errors</tspan></text>
+         style="stroke-width:0.26458332px">Problems and Errors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2457,7 +2457,7 @@
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 106.2159,304.79293 c -1.02269,0 -1.8593,0.83124 -1.8593,1.85157 0,1.02032 0.83661,1.85363 1.8593,1.85363 1.02272,0 1.85777,-0.83331 1.85777,-1.85363 0,-1.02033 -0.83505,-1.85158 -1.85777,-1.85157 z m 0,0.52968 c 0.7379,0 1.32807,0.5887 1.32807,1.32189 0,0.73318 -0.59017,1.32447 -1.32807,1.32446 -0.73787,0 -1.33014,-0.59128 -1.33014,-1.32446 0,-0.73319 0.59227,-1.32189 1.33014,-1.32189 z m -0.41081,0.52865 -0.37415,0.37414 0.41963,0.41961 -0.41963,0.41961 0.37415,0.37414 0.4196,-0.41961 0.41963,0.41961 0.37412,-0.37414 -0.4196,-0.41961 0.4196,-0.41961 -0.37412,-0.37414 -0.41963,0.41961 z"
+       d="m 107.80341,304.79293 c -1.02269,0 -1.8593,0.83124 -1.8593,1.85157 0,1.02032 0.83661,1.85363 1.8593,1.85363 1.02272,0 1.85777,-0.83331 1.85777,-1.85363 0,-1.02033 -0.83505,-1.85158 -1.85777,-1.85157 z m 0,0.52968 c 0.7379,0 1.32807,0.5887 1.32807,1.32189 0,0.73318 -0.59017,1.32447 -1.32807,1.32446 -0.73787,0 -1.33014,-0.59128 -1.33014,-1.32446 0,-0.73319 0.59227,-1.32189 1.33014,-1.32189 z m -0.41081,0.52865 -0.37415,0.37414 0.41963,0.41961 -0.41963,0.41961 0.37415,0.37414 0.4196,-0.41961 0.41963,0.41961 0.37412,-0.37414 -0.4196,-0.41961 0.4196,-0.41961 -0.37412,-0.37414 -0.41963,0.41961 z"
        id="path4546-3-3-7" />
     <g
        id="g13298-4"
@@ -2500,7 +2500,7 @@
          x="81.927948"
          y="263.28668"
          style="stroke-width:0.26458332px"
-         id="tspan13397">to show only crashers if wanted</tspan></text>
+         id="tspan13397">to show only problems if wanted</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.79374997;stroke-dashoffset:0;stroke-opacity:1"
        d="M 105.01627,277.37663 V 264.84189"
@@ -2518,7 +2518,7 @@
          x="-68.678711"
          y="71.414192"
          style="stroke-width:0.26458332px"
-         id="tspan13441">Crashers is the highest</tspan><tspan
+         id="tspan13441">Problems is the highest</tspan><tspan
          sodipodi:role="line"
          x="-68.678711"
          y="75.548309"
@@ -2528,7 +2528,7 @@
          x="-68.678711"
          y="79.682419"
          style="stroke-width:0.26458332px"
-         id="tspan13451">are crashers are indicated</tspan><tspan
+         id="tspan13451">are problems are indicated</tspan><tspan
          sodipodi:role="line"
          x="-68.678711"
          y="83.816536"
@@ -2638,7 +2638,7 @@
          id="tspan4769-2-1"
          x="93.847504"
          y="628.39075"
-         style="fill:#2e3436;fill-opacity:1;stroke-width:0.26458332px">Crash info</tspan></text>
+         style="fill:#2e3436;fill-opacity:1;stroke-width:0.26458332px">Problem info</tspan></text>
     <text
        id="text4771-8-5"
        y="628.39075"
@@ -2651,7 +2651,7 @@
          x="120.70274"
          id="tspan4773-9-9"
          sodipodi:role="line"
-         style="line-height:4.13411474px;fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Crash details</tspan></text>
+         style="line-height:4.13411474px;fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Problem details</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e9e8e8;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 68.371477,631.42207 H 371.25506"
@@ -3659,7 +3659,7 @@
          id="tspan4769-2-3-4"
          x="93.847511"
          y="834.76642"
-         style="fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Crash info</tspan></text>
+         style="fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Problem info</tspan></text>
     <text
        id="text4771-8-51-9"
        y="834.76642"
@@ -3672,7 +3672,7 @@
          x="120.70275"
          id="tspan4773-9-7-2"
          sodipodi:role="line"
-         style="fill:#2e3436;stroke-width:0.26458332px">Crash details</tspan></text>
+         style="fill:#2e3436;stroke-width:0.26458332px">Problem details</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e9e8e8;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 68.415333,837.80392 H 371.29892"
@@ -3683,9 +3683,9 @@
     <rect
        style="opacity:1;fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9175-3-3-7"
-       width="19.049997"
+       width="21.431244"
        height="0.529185"
-       x="92.713142"
+       x="92.713135"
        y="837.40094"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -3900,23 +3900,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="79.440651"
+       x="76.265648"
        y="761.12109"
        id="text4325-3-6-27-2-2-5-0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="79.440651"
+         x="76.265648"
          y="761.12109"
          style="stroke-width:0.26458332px"
-         id="tspan7303">Do you want to send a crash report to the Fedora Analysis Framework?</tspan><tspan
+         id="tspan7303">Do you want to send a problem report to the Fedora Analysis Framework?</tspan><tspan
          sodipodi:role="line"
-         x="79.440651"
+         x="76.265648"
          y="765.25519"
          style="stroke-width:0.26458332px"
-         id="tspan7330">The report will be public, so make sure your crash report doesn't</tspan><tspan
+         id="tspan7330">The report will be public, so make sure your report doesn't</tspan><tspan
          sodipodi:role="line"
-         x="79.440651"
+         x="76.265648"
          y="769.38934"
          style="stroke-width:0.26458332px"
          id="tspan7309">contain anything confidental. Your report will be anonymous.  </tspan></text>
@@ -3999,7 +3999,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-8-0-6"
            style="font-size:12.5px;line-height:15.625px;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:15.625px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
-         id="flowPara6934-2-4-4-0-1-6-2">Send crash report</flowPara></flowRoot>    <rect
+         id="flowPara6934-2-4-4-0-1-6-2">Send problem report</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7749-1-3-7-2-0-4-1"
        width="120.56532"
@@ -4011,26 +4011,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="241.36559"
+       x="237.13231"
        y="761.12103"
        id="text4325-3-6-27-2-2-5-0-0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="241.36559"
+         x="237.13231"
          y="761.12103"
          style="stroke-width:0.26458332px"
-         id="tspan7303-1">Do you want to send a crash report to the Fedora Analysis Framework?</tspan><tspan
+         id="tspan7309-7">Do you want to send a problem report to the Fedora Analysis Framework?</tspan><tspan
          sodipodi:role="line"
-         x="241.36559"
+         x="237.13231"
          y="765.25513"
          style="stroke-width:0.26458332px"
-         id="tspan7330-3">The report will be public, so make sure your crash report doesn't</tspan><tspan
+         id="tspan4589">The report will be public, so make sure your report doesn't</tspan><tspan
          sodipodi:role="line"
-         x="241.36559"
+         x="237.13231"
          y="769.38928"
          style="stroke-width:0.26458332px"
-         id="tspan7309-7">contain anything confidental. Your report will be anonymous.  </tspan></text>
+         id="tspan4591">contain anything confidental. Your report will be anonymous.  </tspan></text>
     <rect
        style="opacity:1;fill:#ededed;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7749-1-3-7-2-0-4-7-7"
@@ -4115,7 +4115,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-8-0-6-1"
            style="font-size:12.5px;line-height:15.625px;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:15.625px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
-         id="flowPara6934-2-4-4-0-1-6-2-0">Send crash report</flowPara></flowRoot>    <flowRoot
+         id="flowPara6934-2-4-4-0-1-6-2-0">Send problem report</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-6-37"
        xml:space="preserve"
@@ -4207,12 +4207,12 @@
          style="line-height:15.625px;fill:#2e3436"><rect
            y="9.428607"
            x="-3.5587871"
-           height="18.985603"
-           width="156.41959"
+           height="21.485605"
+           width="177.41959"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-8-0-6-1-3"
            style="font-size:12.5px;line-height:15.625px;text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:15.625px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
-         id="flowPara6934-2-4-4-0-1-6-2-0-3">Link to crash report in FAF</flowPara></flowRoot>    <rect
+         id="flowPara6934-2-4-4-0-1-6-2-0-3">Link to problem report in FAF</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5637-3-8-0"
        width="300.83124"
@@ -4236,7 +4236,7 @@
            id="rect4409-2-3-5"
            style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara4411-5-9-7">The crash has been reported, but you can add more information about the crash to help the developers, by filing a issue in the bug tracker </flowPara></flowRoot>    <g
+         id="flowPara4411-5-9-7">The problem has been reported, but you can add more information about the problem to help the developers, by filing a issue in the bug tracker </flowPara></flowRoot>    <g
        transform="matrix(0.26458333,0,0,0.26458333,57.788145,1009.9086)"
        id="g7500">
       <circle
