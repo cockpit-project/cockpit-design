@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="489"
-   height="208.98174"
+   width="589"
+   height="308.98175"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r"
@@ -171,9 +171,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="280.27601"
-     inkscape:cy="91.820052"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="271.61746"
+     inkscape:cy="48.645132"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -191,10 +191,10 @@
      inkscape:guide-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-top="50"
+     fit-margin-left="50"
+     fit-margin-right="50"
+     fit-margin-bottom="50">
     <inkscape:grid
        type="xygrid"
        id="grid6061"
@@ -202,8 +202,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-76"
-       originy="-811.01826" />
+       originx="-26"
+       originy="-761.01826" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -221,7 +221,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-76,-32.362183)">
+     transform="translate(-26,17.637817)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d3d7cf;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect10472-8-32-3-4-8-7-3"
@@ -256,7 +256,7 @@
          x="95.769897"
          y="59.975044"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#888888;fill-opacity:1"
-         id="tspan4507">MyBestRAID has active mounts</tspan><tspan
+         id="tspan4507">MyBestRAID has active filesystems</tspan><tspan
          sodipodi:role="line"
          x="95.769897"
          y="77.475044"
@@ -360,7 +360,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-8-5-3-5-2-9-3-7-4"
            style="font-size:12.5px;line-height:100%;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:121.00000381%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara167">Device /dev/med127p1 has filesystems that are currently in use.</flowPara><flowPara
+         id="flowPara167">MyBestRAID has filesystems that are currently in use.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:121.00000381%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
          id="flowPara171">Stopping the device will unmount all filesystems on it.</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
