@@ -66,16 +66,6 @@
        y1="1149.5696"
        x2="1133.7847"
        y2="1163.3622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8076-9"
-       id="linearGradient6556-7-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0937501,0,0,0.86805307,-397.26551,-2485.3313)"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -84,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="480.83035"
-     inkscape:cy="561.79873"
+     inkscape:zoom="1"
+     inkscape:cx="715.69804"
+     inkscape:cy="506.82416"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -126,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1024,37 +1014,6 @@
          style="line-height:200%;text-align:start;text-anchor:start;stroke-width:0.93750006px"
          id="tspan5772-9">To pull this image</tspan></text>
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9c9c9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.93937504;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5737-3-1"
-       width="646.63867"
-       height="19.68749"
-       x="187.50005"
-       y="-1485.4502"
-       rx="0.93748271"
-       ry="0.93748248" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.93750012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.29999995;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4709"
-       width="673.12482"
-       height="29.885426"
-       x="187.96887"
-       y="-1491.4868"
-       rx="0"
-       ry="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:200%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="199.58452"
-       y="-1472.8145"
-       id="text4304-4-0-2-5-2-5-2"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="199.58452"
-         y="-1472.8145"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;stroke-width:0.93750006px"
-         id="tspan5772-9-7">$ sudo docker pull registry/pizzazz/monster:tag1</tspan></text>
-    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.93749994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect1185-7"
        width="66.412178"
@@ -1261,27 +1220,26 @@
          style="line-height:200%;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.93750006px"
          id="tspan5772-0">sha256:e6e226cb1e9167a4d4545b5c508bb80d0cf17bbad771609ff1bbd079b2f44354</tspan></text>
     <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="-1491.5308"
-       x="815.15619"
-       height="23.437435"
-       width="45.9375"
-       id="rect6546-9-8"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-7-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.93750024;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#def3ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.93750018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7819"
+       width="620.625"
+       height="24.374994"
+       x="195.35367"
+       y="-1490.1389" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="823.51794"
-       y="-1476.9644"
-       id="text4316-4-8-1-2-18-9-9-5-6-6-4-1-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0f4f72;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="205.95834"
+       y="-1474.2041"
+       id="text4316-4-8-1-2-1-5-22-97-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         id="tspan4319-4-0-6-9-7-2-4-9-7-3-3-7-0"
-         x="823.51794"
-         y="-1476.9644"
-         style="fill:#000000;stroke-width:0.93750006px">Copy</tspan></text>
+         x="205.95834"
+         y="-1474.2041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175%;font-family:monospace;-inkscape-font-specification:monospace;fill:#0f4f72;fill-opacity:1;stroke-width:0.93750006px"
+         id="tspan7748-4-0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:200%;font-family:monospace;-inkscape-font-specification:monospace;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#0f4f72;fill-opacity:1;stroke:none;stroke-width:0.87890637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="tspan211">$ sudo docker pull registry/pizzazz/monster:tag1</tspan></tspan></text>
   </g>
 </svg>
