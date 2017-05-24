@@ -11,11 +11,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1260.0234"
-   height="843.047"
-   viewBox="0 0 1181.2721 790.35662"
+   height="1603.0469"
+   viewBox="0 0 1181.2721 1502.8566"
    id="svg5160"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="imagequality-openshift-deployment.svg"
    inkscape:export-filename="./imagequality-openshift-deployment.png"
    inkscape:export-xdpi="90"
@@ -216,6 +216,16 @@
        y1="1149.5696"
        x2="1133.7847"
        y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient6556-7-3-7-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.58036053,0,0,0.90278312,67.764145,-1943.856)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -225,8 +235,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="897.11712"
-     inkscape:cy="498.78341"
+     inkscape:cx="434.3111"
+     inkscape:cy="918.63575"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -238,7 +248,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="30"
      fit-margin-left="30"
@@ -248,12 +258,13 @@
      units="px"
      showborder="true"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0">
+     inkscape:measure-end="0,0"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid6395"
        originx="237.20956"
-       originy="-2287.9043" />
+       originy="-1575.4043" />
   </sodipodi:namedview>
   <metadata
      id="metadata5165">
@@ -776,133 +787,96 @@
          d="m 149.89207,-1164.516 1.9555,2.7069 -2.0219,2.6627"
          style="fill:none;fill-rule:evenodd;stroke:#bfbfbf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe6e6;fill-opacity:1;fill-rule:nonzero;stroke:#d40000;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5637"
-       width="622.94672"
-       height="34.687504"
-       x="112.50014"
-       y="-1545.9192" />
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:259.99999046%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
-       id="flowRoot4405"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(0.93750008,0,0,0.93750008,271.22464,-1626.2691)"><flowRegion
-         id="flowRegion4407"
-         style="fill:#2e3436"><rect
-           y="84.664452"
-           x="-131.37547"
-           height="49.286503"
-           width="547.80078"
-           id="rect4409"
-           style="line-height:259.99999046%;text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:309.99999046%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara4411">Image <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold'"
-   id="flowSpan8115">tutum/wordpress </flowSpan><flowSpan
-   id="flowSpan8121"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans'">has </flowSpan><flowSpan
-   style="font-size:12.5px;fill:#2baada;fill-opacity:1"
-   id="flowSpan7823">known security vulnerabilities</flowSpan><flowSpan
-   style="fill:#2baada;fill-opacity:1"
-   id="flowSpan5242" /></flowPara></flowRoot>    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.87500012;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 128.90085,-1537.5268 c -4.6462,0 -8.432,3.7891 -8.432,8.4375 0,4.6484 3.7858,8.4375 8.432,8.4375 4.6463,0 8.432,-3.7891 8.432,-8.4375 0,-4.6484 -3.7857,-8.4375 -8.432,-8.4375 z m 0,1.875 c 3.6322,0 6.557,2.9267 6.557,6.5625 0,3.6358 -2.9248,6.5625 -6.557,6.5625 -3.6322,0 -6.557,-2.9267 -6.557,-6.5625 0,-3.6358 2.9248,-6.5625 6.557,-6.5625 z m -1.4813,3.75 -1.3257,1.3257 1.4868,1.4868 -1.4868,1.4868 1.3257,1.3257 1.4868,-1.4868 1.4868,1.4868 1.3257,-1.3257 -1.4868,-1.4868 1.4868,-1.4868 -1.3257,-1.3257 -1.4868,1.4868 z"
-       id="path4546"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.19289589px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="111.70912"
-       y="-1467.4005"
+       y="-1542.4005"
        id="text4767-7-1-9-0-4-9-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7"
          x="111.70912"
-         y="-1467.4005"
+         y="-1542.4005"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Light';stroke-width:0.93750012px">tutum/wordpress</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="253.33327"
-       y="-1466.8883"
+       y="-1541.8883"
        id="text4767-7-1-9-0-4-9-3-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7-3"
          x="253.33327"
-         y="-1466.8883"
+         y="-1541.8883"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#babdb6;stroke-width:0.93750018px">a year ago, 454.4 MiB, 36 layers </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="148.33327"
-       y="-1440.6383"
+       x="123.95827"
+       y="-1496.8883"
        id="text4767-7-1-9-0-4-9-3-9-8"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7-3-5"
-         x="148.33327"
-         y="-1440.6383"
+         x="123.95827"
+         y="-1496.8883"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px">Image Stream wordpress:latest will track this image.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="148.33327"
-       y="-1420.0133"
+       x="123.95827"
+       y="-1476.2633"
        id="text4767-7-1-9-0-4-9-3-9-8-0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7-3-5-9"
-         x="148.33327"
-         y="-1420.0133"
+         x="123.95827"
+         y="-1476.2633"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px">This image will be deployed in Deployment Config wordpress.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="148.33327"
-       y="-1401.2633"
+       x="123.95827"
+       y="-1457.5133"
        id="text4767-7-1-9-0-4-9-3-9-8-0-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7-3-5-9-3"
-         x="148.33327"
-         y="-1401.2633"
+         x="123.95827"
+         y="-1457.5133"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px"> Ports 80/TCP and 3306/TCP will be load balanced by Service wordpress. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="148.33327"
-       y="-1378.7633"
+       x="123.95827"
+       y="-1435.0133"
        id="text4767-7-1-9-0-4-9-3-9-8-0-6-8"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7-3-5-9-3-5"
-         x="148.33327"
-         y="-1378.7633"
+         x="123.95827"
+         y="-1435.0133"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px">Other containers can access this service through the hostname wordpress.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-50.41674"
-       y="-1348.7633"
+       y="-1405.0133"
        id="text4767-7-1-9-0-4-9-3-9-8-0-6-8-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-7-3-5-9-3-5-1"
          x="-50.41674"
-         y="-1348.7633"
+         y="-1405.0133"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#888a85;stroke-width:0.93750018px"> This image declares volumes and will default to use non-persistent, host-local storage. You can add persistent storage later to the deployment config. </tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.93749994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -910,39 +884,39 @@
        width="806.69678"
        height="24.484869"
        x="-71.249863"
-       y="-1307.3706"
+       y="-1363.6206"
        rx="0"
        ry="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-72.165627"
-       y="-1318.161"
+       y="-1374.411"
        id="text4767-7-1-9-0-4-9-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4769-5-9-6-6-9-0-98"
          x="-72.165627"
-         y="-1318.161"
+         y="-1374.411"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.93750006px">Name</tspan></text>
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5423"
-       cx="141.91469"
-       cy="-1445.4001"
+       cx="117.53969"
+       cy="-1501.6501"
        r="2.4859226" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5423-4"
-       cx="141.91469"
-       cy="-1424.7751"
+       cx="117.53969"
+       cy="-1481.0251"
        r="2.4859228" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5423-4-8"
-       cx="141.91469"
-       cy="-1406.0251"
+       cx="117.53969"
+       cy="-1462.2751"
        r="2.4859228" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.93749994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -980,5 +954,547 @@
        id="path3567-3-4"
        d="m 723.62306,-1694.6965 3.44361,3.666 3.35289,-3.6981"
        style="fill:none;stroke:#4d5258;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.29999995;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4435"
+       cx="120.93761"
+       cy="-1522.9504"
+       r="6.5625353" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 125.68751,-1527.5095 -4.74239,4.6907 -1.89281,-1.8913 -2.06294,2.0614 3.94056,3.9405 6.2776,-6.1899 c 0,0 -0.25763,-0.8255 -0.56771,-1.3409 -0.31009,-0.5155 -0.95231,-1.2705 -0.95231,-1.2705 z"
+       id="path4443"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccczc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.20827"
+       y="-1519.3883"
+       id="text4767-7-1-9-0-4-9-3-9-8-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-5"
+         x="135.20827"
+         y="-1519.3883"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#2e3436;stroke-width:0.93750018px">Image has no known vulnerabilities <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.87890649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="tspan4989">more details</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4219-2-6-9-0-5-8-6"
+       width="1124.5533"
+       height="616.9397"
+       x="-209.08446"
+       y="-1168.1067"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#199dde;fill-opacity:1;stroke:none;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4219-0-6"
+       width="1125"
+       height="1.875008"
+       x="-209.06245"
+       y="-1222.9504"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#292e34;fill-opacity:1;stroke:none;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4219-2-0-4"
+       width="1125.022"
+       height="54.375004"
+       x="-209.08446"
+       y="-1221.0754"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path104-18-5-9-7-1-0-9"
+       style="fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.93805701"
+       d="M -209.08445,-1167.6384 H 915.93758 v 0.9381 H -209.08445 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-182.72572"
+       y="-1189.3535"
+       id="text4397-4-7-7-0-2-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4399-6-0-2-3-2-0"
+         x="-182.72572"
+         y="-1189.3535"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.40625px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:1.87500012px;fill:#ffffff;fill-opacity:1;stroke-width:0.93750006px">OPENSHIFT</tspan></text>
+    <g
+       transform="matrix(1.2500001,0,0,1.2500001,-137.94155,-1222.3254)"
+       id="g1554-4">
+      <text
+         id="text82-5-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.75px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#d1d1d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7504456"
+         x="752.01404"
+         y="27.257696">
+        <tspan
+           id="tspan80-6-7"
+           sodipodi:role="line"
+           style="font-size:9.75px;stroke-width:0.7504456"
+           x="752.01404"
+           y="27.257696">Korben Dallas</tspan>
+      </text>
+      <text
+         id="text86-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9211359px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#d1d1d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7504456"
+         x="732.33832"
+         y="28.578836">
+        <tspan
+           id="tspan84-9-7"
+           y="28.578836"
+           x="732.33832"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;stroke-width:0.7504456"></tspan>
+      </text>
+      <text
+         id="text90-1-2"
+         style="font-variant:normal;font-weight:normal;font-size:11.54639244px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#d1d1d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75044566"
+         x="819.68964"
+         y="28.007696">
+        <tspan
+           id="tspan88-2-7"
+           y="28.007696"
+           x="819.68964"
+           style="stroke-width:0.75044566"></tspan>
+      </text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1185-0-4-6-2"
+       width="783.28131"
+       height="24.37499"
+       x="-71.249916"
+       y="-910.29419"
+       rx="0"
+       ry="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="-910.29419"
+       x="711.09393"
+       height="24.375145"
+       width="24.375141"
+       id="rect6546-9-8-7-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-7-3-7-8);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.9375003;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:0.93750006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4796-6-6"
+       cx="-64.218613"
+       cy="-928.15192"
+       rx="5.1562476"
+       ry="5.1562548" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.93750006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4796-3-7-1"
+       cx="-64.218613"
+       cy="-928.15192"
+       rx="2.8124962"
+       ry="2.8125002" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:0.93750006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4796-6-0-0"
+       cx="-64.218613"
+       cy="-1011.5894"
+       rx="5.1562476"
+       ry="5.1562548" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1185-0-4-6-8-6"
+       width="230.15623"
+       height="24.484869"
+       x="-71.249863"
+       y="-992.37061"
+       rx="0"
+       ry="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3567-1"
+       d="m 146.12304,-982.1965 3.44361,3.666 3.3529,-3.6981"
+       style="fill:none;stroke:#4d5258;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4329-6-6-4-0-8-0-8-5"
+       d="M -71.247872,-1081.433 H 735.556"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:0.93750006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7868-9"
+       width="89.999977"
+       height="1.8749949"
+       x="55.781284"
+       y="-1082.8394" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.52002335px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-72.358994"
+       y="-1140.2832"
+       id="text4767-5-4"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-2-9"
+         x="-72.358994"
+         y="-1140.2832"
+         style="fill:#0099d3;fill-opacity:1;stroke-width:0.93750006px">My first test project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-72.369492"
+       y="-1092.0739"
+       id="text4767-7-1-0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-9"
+         x="-72.369492"
+         y="-1092.0739"
+         style="stroke-width:0.93750006px">Browse Catalog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="173.4899"
+       y="-1092.777"
+       id="text4767-7-1-9-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-7"
+         x="173.4899"
+         y="-1092.777"
+         style="stroke-width:0.93750006px">Import YAML / JSON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-72.647926"
+       y="-1046.1798"
+       id="text4767-7-1-9-0-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-1"
+         x="-72.647926"
+         y="-1046.1798"
+         style="stroke-width:0.93750006px">Deploy an existing image from an image stream tag or Docker pull spec.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-54.118752"
+       y="-1006.5989"
+       id="text4767-7-1-9-0-4-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-5"
+         x="-54.118752"
+         y="-1006.5989"
+         style="stroke-width:0.93750006px">Image Stream Tag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-54.118752"
+       y="-924.09888"
+       id="text4767-7-1-9-0-4-9-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-77"
+         x="-54.118752"
+         y="-924.09888"
+         style="stroke-width:0.93750006px">Image Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.42825"
+       y="-975.26788"
+       id="text4767-7-1-9-0-4-9-8-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-9-7"
+         x="169.42825"
+         y="-975.26788"
+         style="stroke-width:0.93750006px">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="467.55338"
+       y="-975.26788"
+       id="text4767-7-1-9-0-4-9-8-3-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-9-1-6"
+         x="467.55338"
+         y="-975.26788"
+         style="stroke-width:0.93750006px">:</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4329-6-6-4-0-8-0-8-4-5"
+       d="M -71.247872,-856.4329 H 735.556"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:0.93750006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#9c9c9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.68750048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 24.807224,-814.6992 c -0.297,0 -0.590906,0.06 -0.866156,0.172 l -41.484379,16.833 c -0.883594,0.3584 -1.462032,1.2162 -1.462969,2.1698 v 44.1614 c 2.81e-4,0.8737 0.486563,1.6747 1.261594,2.0782 l 43.125004,22.4451 c 0.719719,0.3746 1.582031,0.3504 2.279625,-0.064 l 37.734379,-22.4452 c 0.710437,-0.4223 1.146,-1.1876 1.146281,-2.0142 v -44.6466 c 6.56e-4,-0.9477 -0.569531,-1.8025 -1.444688,-2.1661 l -39.375003,-16.3458 c -0.289594,-0.1197 -0.600282,-0.1801 -0.913688,-0.1777 z m 0.0094,4.876 35.575597,14.7693 -33.991691,15.9962 -38.417347,-15.8186 z m -39.131441,19.0686 39.885847,16.4246 c 0.608625,0.2501 1.294407,0.2329 1.889719,-0.048 l 34.396321,-16.1865 v 37.8662 l -35.465722,21.0956 -40.70616,-21.1853 z"
+       id="path8017-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#9c9c9c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -16.662549,-792.4347 v 40.5468 l 43.593801,23.4376 v -48.9844 z"
+       id="path8034-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.283466"
+       y="-1093.213"
+       id="text4767-5-9-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-2-6-4"
+         x="57.283466"
+         y="-1093.213"
+         style="fill:#0099d3;fill-opacity:1;stroke-width:0.93750006px">Deploy Image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.52002335px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="55.988052"
+       y="-1140.5066"
+       id="text4767-5-7-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-2-7-1"
+         x="55.988052"
+         y="-1140.5066"
+         style="fill:#2e3436;fill-opacity:1;stroke-width:0.93750006px">Add to Project</tspan></text>
+    <g
+       transform="matrix(0.93750009,0,0,0.93750009,-98.40905,-54.547964)"
+       id="g4945-2">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6684-9"
+         d="m 146.89207,-1164.516 1.9555,2.7069 -2.0219,2.6627"
+         style="fill:none;fill-rule:evenodd;stroke:#bfbfbf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6684-4-3"
+         d="m 149.89207,-1164.516 1.9555,2.7069 -2.0219,2.6627"
+         style="fill:none;fill-rule:evenodd;stroke:#bfbfbf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.1928978px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="111.70914"
+       y="-829.90051"
+       id="text4767-7-1-9-0-4-9-3-90"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-8"
+         x="111.70914"
+         y="-829.90051"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Light';stroke-width:0.93750018px">tutum/wordpress</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="253.33328"
+       y="-829.38831"
+       id="text4767-7-1-9-0-4-9-3-9-85"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-0"
+         x="253.33328"
+         y="-829.38831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#babdb6;stroke-width:0.93750018px">a year ago, 454.4 MiB, 36 layers </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.95827"
+       y="-784.38831"
+       id="text4767-7-1-9-0-4-9-3-9-8-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-6"
+         x="123.95827"
+         y="-784.38831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px">Image Stream wordpress:latest will track this image.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.95827"
+       y="-763.76331"
+       id="text4767-7-1-9-0-4-9-3-9-8-0-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-9-8"
+         x="123.95827"
+         y="-763.76331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px">This image will be deployed in Deployment Config wordpress.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.95827"
+       y="-745.01331"
+       id="text4767-7-1-9-0-4-9-3-9-8-0-6-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-9-3-6"
+         x="123.95827"
+         y="-745.01331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px"> Ports 80/TCP and 3306/TCP will be load balanced by Service wordpress. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.95827"
+       y="-722.51331"
+       id="text4767-7-1-9-0-4-9-3-9-8-0-6-8-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-9-3-5-15"
+         x="123.95827"
+         y="-722.51331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.93750018px">Other containers can access this service through the hostname wordpress.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-50.416733"
+       y="-692.51331"
+       id="text4767-7-1-9-0-4-9-3-9-8-0-6-8-6-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-9-3-5-1-8"
+         x="-50.416733"
+         y="-692.51331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#888a85;stroke-width:0.93750018px"> This image declares volumes and will default to use non-persistent, host-local storage. You can add persistent storage later to the deployment config. </tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1185-0-4-6-1-4"
+       width="806.69678"
+       height="24.484869"
+       x="-71.249863"
+       y="-651.12061"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#63676c;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-72.165627"
+       y="-661.91101"
+       id="text4767-7-1-9-0-4-9-5-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-98-1"
+         x="-72.165627"
+         y="-661.91101"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.93750006px">Name</tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5423-0"
+       cx="117.5397"
+       cy="-789.15009"
+       r="2.4859228" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5423-4-3"
+       cx="117.5397"
+       cy="-768.52509"
+       r="2.4859231" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93897641;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5423-4-8-0"
+       cx="117.5397"
+       cy="-749.77509"
+       r="2.4859231" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1185-0-4-6-8-0-4"
+       width="230.15623"
+       height="24.484869"
+       x="187.50017"
+       y="-992.37061"
+       rx="0"
+       ry="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3567-3-44"
+       d="m 404.87307,-982.1965 3.4436,3.666 3.3529,-3.6981"
+       style="fill:none;stroke:#4d5258;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#d1d1d1;stroke-width:0.9375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect1185-0-4-6-8-0-0-4"
+       width="255.9375"
+       height="24.484869"
+       x="480.46887"
+       y="-991.85669"
+       rx="0"
+       ry="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3567-3-4-7"
+       d="m 723.62309,-982.1965 3.4436,3.666 3.35294,-3.6981"
+       style="fill:none;stroke:#4d5258;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.22668171px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="131.45827"
+       y="-806.88831"
+       id="text4767-7-1-9-0-4-9-3-9-8-7-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4769-5-9-6-6-9-0-7-3-5-5-7"
+         x="131.45827"
+         y="-806.88831"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#2e3436;stroke-width:0.93750018px">Image has 12 known security vulnerabilities <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#0099d3;fill-opacity:1"
+   id="tspan4987">more details</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text4304-4-0-2-9-4-4-7-7-7-4-4-4-62"
+       y="-804.87073"
+       x="115.65208"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71875095px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750006px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan11666-4-6-5-0-1-3-15-6"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Semi-Bold';fill:#a30000;stroke-width:0.93750006px"
+         y="-804.87073"
+         x="115.65208"
+         sodipodi:role="line"
+         dy="-0.625 -0.625"> </tspan></text>
   </g>
 </svg>
