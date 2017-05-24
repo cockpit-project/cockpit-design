@@ -14,7 +14,7 @@
    height="2500"
    id="svg7186"
    version="1.1"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92+devel unknown"
    viewBox="0 0 1024 2500"
    sodipodi:docname="widget-template.svg"
    inkscape:export-filename="/data/src/cockpit-design/patterns/listing.png"
@@ -238,9 +238,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="859.90955"
-     inkscape:cy="1565.6655"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="595.35518"
+     inkscape:cy="59.405206"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -249,7 +249,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -257,7 +257,8 @@
      inkscape:snap-others="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid7796" />
@@ -279,6 +280,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,1732)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4329-5-2-9-0-6-7-9"
+       d="M 23.698424,1169.1036 H 1120.3314"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4329-5-2-9-0-6-7-4-3"
+       d="M 23.698424,1207.0115 H 1120.3314"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7749-1-3-7-8"
+       width="1097.0077"
+       height="139.28632"
+       x="23.5"
+       y="990.5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        y="-1434.4912"
        x="166.41589"
@@ -2315,11 +2339,6 @@
          y="978.92334"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4e5359;fill-opacity:1">Shell</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23,1280.5 H 1120.0422"
-       id="path5335-4"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 33.98532,933.1094 5.546369,5.5464 5.524271,-5.5243"
        id="path5680"
@@ -2338,62 +2357,6 @@
          x="23.89887"
          y="808.92584"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:30.17325974px;line-height:120.69303894px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.99999994">Listing with Panels</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="323.78296"
-       y="1264.9233"
-       id="text11000-49-8-7-4-6-8"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan11002-1-0-8-50-3-9"
-         x="323.78296"
-         y="1264.9233"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">aoeuaoeu</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="547.78296"
-       y="1264.9233"
-       id="text11000-49-8-7-4-6-2-2"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan11002-1-0-8-50-3-0-66"
-         x="547.78296"
-         y="1264.9233"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">127.30.168.10</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="1058.7552"
-       y="1265.7629"
-       id="text11000-49-8-7-4-6-2-6-4"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan11002-1-0-8-50-3-0-1-9"
-         x="1058.7552"
-         y="1265.7629"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Running</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="59.157959"
-       y="1265.7983"
-       id="text11000-49-8-7-4-6-5-5"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan11002-1-0-8-50-3-5-0"
-         x="59.157959"
-         y="1265.7983"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">frontend</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9c9c9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect9308"
@@ -2424,5 +2387,117 @@
        d="M 857.41406,-810 856,-808.58594 861.08594,-803.5 856,-798.41406 857.41406,-797 862.5,-802.08594 867.58594,-797 869,-798.41406 863.91406,-803.5 869,-808.58594 867.58594,-810 862.5,-804.91406 Z"
        id="path4998"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="323.78296"
+       y="1152.9233"
+       id="text11000-49-8-7-4-6-9"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-73"
+         x="323.78296"
+         y="1152.9233"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">aoeuaoeu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="547.78296"
+       y="1152.9233"
+       id="text11000-49-8-7-4-6-2-61"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-0-2"
+         x="547.78296"
+         y="1152.9233"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">127.30.168.10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="1058.7552"
+       y="1153.7629"
+       id="text11000-49-8-7-4-6-2-6-93"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-0-1-1"
+         x="1058.7552"
+         y="1153.7629"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Running</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="59.157959"
+       y="1153.7983"
+       id="text11000-49-8-7-4-6-5-9"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-5-47"
+         x="59.157959"
+         y="1153.7983"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">frontend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="323.78296"
+       y="1192.9233"
+       id="text11000-49-8-7-4-6-9-8"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-73-4"
+         x="323.78296"
+         y="1192.9233"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">aoeuaoeu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="547.78296"
+       y="1192.9233"
+       id="text11000-49-8-7-4-6-2-61-5"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-0-2-0"
+         x="547.78296"
+         y="1192.9233"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">127.30.168.10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="1058.7552"
+       y="1193.7629"
+       id="text11000-49-8-7-4-6-2-6-93-3"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-0-1-1-6"
+         x="1058.7552"
+         y="1193.7629"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Running</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:50px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="59.157959"
+       y="1193.7983"
+       id="text11000-49-8-7-4-6-5-9-1"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-50-3-5-47-0"
+         x="59.157959"
+         y="1193.7983"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:50px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">frontend</tspan></text>
   </g>
 </svg>
