@@ -1,6 +1,8 @@
 # Connection issues
 
-## Default state
+## Basic
+
+### Default state
 
 ![sidebar-double-host-disconnected](sidebar-double-host-disconnected.png)
 
