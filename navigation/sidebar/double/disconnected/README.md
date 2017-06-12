@@ -16,6 +16,10 @@
 
 ![sidebar-double-host-disconnected-button](sidebar-double-host-disconnected-button.png)
 
+### In page button... with no sidebar?
+
+![sidebar-double-host-disconnected-button-nosidebar](sidebar-double-host-disconnected-button-nosidebar.png)
+
 ### Display inline in the page?
 
 ![sidebar-double-host-disconnected-inline](sidebar-double-host-disconnected-inline.png)
