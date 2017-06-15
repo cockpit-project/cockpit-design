@@ -16,7 +16,7 @@
    version="1.1"
    id="svg2562"
    inkscape:version="0.92+devel unknown"
-   sodipodi:docname="custom-ssh-keys-v2.svg"
+   sodipodi:docname="custom-ssh-keys.svg"
    inkscape:export-filename="./custom-ssh-keys.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -100,16 +100,6 @@
        y2="1163.3622" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4904"
-       id="linearGradient4906-6"
-       x1="664.0625"
-       y1="558.5625"
-       x2="664.0625"
-       y2="575.875"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.2760437,-6.2160483)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8076"
        id="linearGradient8082-7"
        x1="1133.7847"
@@ -123,7 +113,7 @@
        xlink:href="#linearGradient8076-9"
        id="linearGradient6556-0-4"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.32757939,0,0,0.24498456,-205.82702,-129.12658)"
+       gradientTransform="matrix(0.32757939,0,0,0.24498456,-205.82702,-140.23909)"
        x1="1133.7847"
        y1="1149.5696"
        x2="1133.7847"
@@ -163,7 +153,7 @@
        xlink:href="#linearGradient8076-9"
        id="linearGradient6556-0-8"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.15749009,0,0,0.24498456,-9.8746677,128.57763)"
+       gradientTransform="matrix(0.15749009,0,0,0.24498456,-9.8746677,192.07767)"
        x1="1133.7847"
        y1="1149.5696"
        x2="1133.7847"
@@ -177,7 +167,7 @@
        x2="664.0625"
        y2="575.875"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.2760437,290.11741)" />
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.2760437,353.61745)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8076"
@@ -187,7 +177,7 @@
        x2="1133.7847"
        y2="1163.3622"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.39057524,0,0,0.24501555,-275.39328,183.84007)" />
+       gradientTransform="matrix(0.39057524,0,0,0.24501555,-275.39328,247.34011)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4904"
@@ -197,7 +187,37 @@
        x2="664.0625"
        y2="575.875"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.2760413,301.22993)" />
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.2760413,364.72997)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4904"
+       id="linearGradient4906-6-6"
+       x1="664.0625"
+       y1="558.5625"
+       x2="664.0625"
+       y2="575.875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-7.2760431,4.3772256)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient6556-0-4-3-3-4-3-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32757938,0,0,0.24498456,-205.82702,108.99846)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient6556-0-4-3-3-4-3-9-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32757938,0,0,0.24498456,-205.82702,146.04016)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -206,9 +226,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="548.04259"
-     inkscape:cy="1146.1815"
+     inkscape:zoom="0.5"
+     inkscape:cx="495.10731"
+     inkscape:cy="503.19571"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -225,7 +245,8 @@
      fit-margin-top="50"
      fit-margin-left="30"
      fit-margin-right="30"
-     fit-margin-bottom="30">
+     fit-margin-bottom="30"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3191"
@@ -240,7 +261,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -512,19 +533,6 @@
          x="26.311569"
          y="132.5607"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Use the following keys to authenticate against other systems</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="26.311571"
-       y="144.73151"
-       id="text4316-4-8-1-2-1-5-27-3-11-35-9"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4319-4-0-6-9-2-9-22-9-0-62-7"
-         x="26.311571"
-         y="144.73151"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">name-of-key</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -547,59 +555,11 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.856069,138.37237 H 174.0965"
-       id="path3314-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.8125,149.23024 H 174.05293"
+       d="M 23.8125,138.11773 H 174.05293"
        id="path3314-1-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4881-3"
-       width="18.785419"
-       height="6.6145835"
-       x="152.2677"
-       y="140.49184" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0086cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4883-1"
-       width="8.9958334"
-       height="6.3571062"
-       x="152.39999"
-       y="140.61703" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4906-6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect4883-3-9"
-       width="9.260417"
-       height="6.3571062"
-       x="161.66042"
-       y="140.62411" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#0071b0;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 161.52812,140.62417 v 6.35001"
-       id="path4908-4"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-1-6-7"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,128.24314,140.1896)"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-7-8"><rect
-           y="7.4286075"
-           x="94.822716"
-           height="17.212635"
-           width="26.596592"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-2-5-4"
-           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara6934-2-4-4-9-8-3-5">ON</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-7);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-0"
        width="16.40416"
@@ -629,7 +589,8 @@
        transform="matrix(0.26458333,0,0,0.26458333,-119.69802,-205.29931)"
        id="g6215-4-9-1-4-4-6"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       style="opacity:0.496">
       <ellipse
          ry="5.5000467"
          rx="5.4999952"
@@ -667,7 +628,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.8125,160.08811 H 174.05293"
+       d="M 23.8125,148.9756 H 174.05293"
        id="path3314-1-9-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -677,33 +638,37 @@
        width="129.91042"
        height="6.614583"
        x="26.590626"
-       y="151.34686"
+       y="140.23436"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-ports.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="151.34686"
-       x="157.29478"
-       height="6.6145835"
-       width="13.758333"
-       id="rect6546-3-5"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160.99512"
-       y="155.78682"
-       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9"
+    <g
+       id="g4680"
+       style="opacity:0.561">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6546-3-5"
+         width="13.758333"
+         height="6.6145835"
+         x="157.29478"
+         y="140.23436"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="text4316-4-8-1-2-1-5-27-3-11-3-9-6"
+         y="144.67432"
          x="160.99512"
-         y="155.78682"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Add</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
+           y="144.67432"
+           x="160.99512"
+           id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 23.8125,281.52199 H 174.05293"
@@ -736,32 +701,36 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-ports.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="283.63858"
-       x="157.29478"
-       height="6.6145835"
-       width="13.758333"
-       id="rect6546-3-5-7"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160.99512"
-       y="288.07852"
-       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4"
-         x="160.99512"
+    <g
+       id="g4695"
+       style="opacity:0.555">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6546-3-5-7"
+         width="13.758333"
+         height="6.6145835"
+         x="157.29478"
+         y="283.63858"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4"
          y="288.07852"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Add</tspan></text>
+         x="160.99512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
+           y="288.07852"
+           x="160.99512"
+           id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499999, 1.05999995;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 174.55738,42.977434 h 18.31569 V 154.71687 h -18.94346"
+       d="m 174.55738,42.977434 h 18.31569 V 144.13354 h -18.94346"
        id="path3659"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -934,29 +903,33 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-ports.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="209.55525"
-       x="157.29478"
-       height="6.6145835"
-       width="13.758333"
-       id="rect6546-3-5-7-8-0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3-3-4);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160.99512"
-       y="213.99521"
-       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4-9-8"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4-2-8"
-         x="160.99512"
+    <g
+       id="g4685"
+       style="opacity:0.528">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3-3-4);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6546-3-5-7-8-0"
+         width="13.758333"
+         height="6.6145835"
+         x="157.29478"
+         y="209.55525"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4-9-8"
          y="213.99521"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Add</tspan></text>
+         x="160.99512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
+           y="213.99521"
+           x="160.99512"
+           id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4-2-8"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.26458332px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 153.41374,212.20347 -1.0552,1.2534 -1.06116,-1.25577"
@@ -1027,14 +1000,14 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="28.957403"
-       y="155.84402"
+       y="144.73152"
        id="text4316-4-8-1-2-1-5-27-3-11-3-7-2-1"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4319-4-0-6-9-2-9-22-9-0-6-5-8-0"
          x="28.957403"
-         y="155.84402"
+         y="144.73152"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Italic';fill:#888a85;stroke-width:0.26458332px">path to key, eg /foo/bar/name-of-key</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1058,41 +1031,38 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-ports.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="257.1803"
-       x="157.29478"
-       height="6.6145835"
-       width="13.758333"
-       id="rect6546-3-5-7-8-0-6"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3-3-4-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160.99512"
-       y="261.62024"
-       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4-9-8-3"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4-2-8-1"
-         x="160.99512"
+    <g
+       id="g4690"
+       style="opacity:1">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3-3-4-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6546-3-5-7-8-0-6"
+         width="13.758333"
+         height="6.6145835"
+         x="157.29478"
+         y="257.1803"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4-9-8-3"
          y="261.62024"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Add</tspan></text>
+         x="160.99512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
+           y="261.62024"
+           x="160.99512"
+           id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4-2-8-1"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.26458332px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 153.41374,259.8285 -1.0552,1.2534 -1.06116,-1.25577"
        id="path5337-6-5-7"
        inkscape:connector-curvature="0" />
-    <rect
-       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.26499999, 1.05999997;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4627"
-       width="2.3812535"
-       height="4.4979305"
-       x="71.70208"
-       y="258.90005" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1105,9 +1075,9 @@
          x="29.601032"
          y="262.2066"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
-         id="tspan3735-5-6-1-5">/media/nfs/keyvault/key-on<tspan
-   style="fill:#ffffff"
-   id="tspan4625">e</tspan></tspan></text>
+         id="tspan3735-5-6-1-5">/media/nfs/keyvault/key-<tspan
+   style="fill:#cc0000"
+   id="tspan4597">seven</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.48888874px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1133,7 +1103,7 @@
          x="26.414497"
          y="253.32384"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
-         id="tspan3735-5-6-1-53-8">if only one that match</tspan></text>
+         id="tspan3735-5-6-1-53-8">if you're typing a file that doesn't exist</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.48888874px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1153,7 +1123,7 @@
        width="157.95625"
        height="80.441185"
        x="19.976042"
-       y="393.9696"
+       y="457.46948"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -1162,64 +1132,64 @@
        width="157.69167"
        height="10.847916"
        x="20.108334"
-       y="394.10193" />
+       y="457.60181" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="26.311571"
-       y="400.84802"
+       y="464.3479"
        id="text4316-4-8-1-2-1-5-27-3-11-37-8"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4319-4-0-6-9-2-9-22-9-0-5-8"
          x="26.311571"
-         y="400.84802"
+         y="464.3479"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">Authentication</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="26.311571"
-       y="413.548"
+       y="477.04788"
        id="text4316-4-8-1-2-1-5-27-3-11-3-9-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-7"
          x="26.311571"
-         y="413.548"
+         y="477.04788"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Reuse my password for privileged tasks and to connect to other machines</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="26.311569"
-       y="428.89383"
+       y="492.39374"
        id="text4316-4-8-1-2-1-5-27-3-11-3-7-2-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4319-4-0-6-9-2-9-22-9-0-6-5-8-6"
          x="26.311569"
-         y="428.89383"
+         y="492.39374"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Use the following keys to authenticate against other systems</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="26.311571"
-       y="441.06461"
+       y="515.67706"
        id="text4316-4-8-1-2-1-5-27-3-11-35-9-4"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4319-4-0-6-9-2-9-22-9-0-62-7-3"
          x="26.311571"
-         y="441.06461"
+         y="515.67706"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">name-of-key</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       y="409.05087"
+       y="472.55075"
        x="164.70312"
        height="6.6145835"
        width="6.6145835"
@@ -1227,23 +1197,23 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-8);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 167.13917,411.2227 2.00707,2.00708"
+       d="m 167.13917,474.72274 2.00707,2.00708"
        id="path3297-6-3"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 169.14624,411.2227 -2.00707,2.00708"
+       d="m 169.14624,474.72274 -2.00707,2.00708"
        id="path3297-9-1-0"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.856069,434.70589 H 174.0965"
+       d="M 23.856069,498.20593 H 174.0965"
        id="path3314-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.8125,445.56376 H 174.05293"
+       d="M 23.8125,509.0638 H 174.05293"
        id="path3314-1-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1253,24 +1223,24 @@
        width="18.785419"
        height="6.6145835"
        x="152.2677"
-       y="436.82492" />
+       y="500.3248" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0086cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4883-1-4"
        width="8.9958334"
        height="6.3571067"
        x="152.39999"
-       y="436.95013" />
+       y="500.45004" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4906-6-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4883-3-9-0"
        width="9.260417"
        height="6.3571067"
        x="161.66042"
-       y="436.95721" />
+       y="500.45712" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0071b0;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 161.52812,436.95769 v 6.35001"
+       d="m 161.52812,500.45773 v 6.35001"
        id="path4908-4-5"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -1280,7 +1250,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,128.24314,436.52312)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,128.24314,500.02316)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-7-8-4"><rect
            y="7.4286075"
            x="94.822716"
@@ -1295,7 +1265,7 @@
        width="16.40416"
        height="6.6154199"
        x="157.55937"
-       y="464.34863"
+       y="527.84857"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1306,7 +1276,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,116.40843,554.17524)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,116.40843,617.67528)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-6-4"><rect
            y="-332.57138"
            x="140.82446"
@@ -1316,7 +1286,7 @@
            style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara6934-2-4-4-9-0-7">Close</flowPara></flowRoot>    <g
-       transform="matrix(0.26458333,0,0,0.26458333,-119.69802,91.034107)"
+       transform="matrix(0.26458333,0,0,0.26458333,-119.69802,154.53414)"
        id="g6215-4-9-1-4-4-6-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -1357,7 +1327,7 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 23.8125,456.42163 H 174.05293"
+       d="M 23.8125,519.92167 H 174.05293"
        id="path3314-1-9-5-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1365,13 +1335,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="26.426029"
-       y="452.70624"
+       y="504.56445"
        id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-8-0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="26.426029"
-         y="452.70624"
+         y="504.56445"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px"
          id="tspan3735-5-6-1-5-5">key-one</tspan></text>
     <rect
@@ -1380,24 +1350,24 @@
        width="18.785419"
        height="6.6145835"
        x="152.2677"
-       y="447.93741" />
+       y="511.43729" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0086cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4883-1-4-0"
        width="8.9958334"
        height="6.3571067"
        x="152.39999"
-       y="448.06262" />
+       y="511.56253" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4906-6-4-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4883-3-9-0-6"
        width="9.260417"
        height="6.3571067"
        x="161.66042"
-       y="448.0697" />
+       y="511.56961" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0071b0;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 161.52812,448.0702 v 6.35001"
+       d="m 161.52812,511.57024 v 6.35001"
        id="path4908-4-5-4"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -1407,7 +1377,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,128.24314,447.63563)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,128.24314,511.13567)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-7-8-4-2"><rect
            y="7.4286075"
            x="94.822716"
@@ -1432,5 +1402,246 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-7-3"
            style="line-height:100%;text-align:start;text-anchor:start;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000"
-         id="flowPara6934-2-4-4-0-8">Custom SSH keys - June 2017</flowPara></flowRoot>  </g>
+         id="flowPara6934-2-4-4-0-8">Custom SSH keys - June 2017</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.311571"
+       y="155.3248"
+       id="text4316-4-8-1-2-1-5-27-3-11-35-9-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4319-4-0-6-9-2-9-22-9-0-62-7-6"
+         x="26.311571"
+         y="155.3248"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">name-of-key</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.812501,159.82351 H 174.05293"
+       id="path3314-1-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4881-3-7"
+       width="18.785419"
+       height="6.6145835"
+       x="152.2677"
+       y="151.08513" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0086cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4883-1-9"
+       width="8.9958334"
+       height="6.3571067"
+       x="152.39999"
+       y="151.21033" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4906-6-6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4883-3-9-2"
+       width="9.260417"
+       height="6.3571067"
+       x="161.66043"
+       y="151.21741" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0071b0;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.52812,151.21744 v 6.35001"
+       id="path4908-4-0"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-1-6-7-2"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,128.24314,150.78287)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-7-8-3"><rect
+           y="7.4286075"
+           x="94.822716"
+           height="17.212635"
+           width="26.596592"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-2-5-4-7"
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowPara6934-2-4-4-9-8-3-5-5">ON</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.812501,387.35539 H 174.05293"
+       id="path3314-1-9-52-9-2-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.812501,405.62161 H 174.05293"
+       id="path3314-1-9-5-5-2-9-4-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ab4947;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect7019-7-3-4-0-3-4-7"
+       width="129.91042"
+       height="6.6145835"
+       x="26.590626"
+       y="389.47171"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-ports.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="389.47171"
+       x="157.29478"
+       height="6.6145835"
+       width="13.758333"
+       id="rect6546-3-5-7-8-0-6-3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3-3-4-3-9);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="160.99512"
+       y="393.91165"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4-9-8-3-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4-2-8-1-1"
+         x="160.99512"
+         y="393.91165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Add</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.26458332px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.41374,392.12025 -1.0552,1.2534 -1.06116,-1.25577"
+       id="path5337-6-5-7-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="29.601034"
+       y="393.96884"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-8-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="29.601034"
+         y="393.96884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.26458332px;"
+         id="tspan3735-5-6-1-5-3">/media/nfs/keyvault/key-<tspan
+   style="fill:#2e3436;stroke-width:0.26458332px;"
+   id="tspan4597-1">seven</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.48888874px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.414497"
+       y="385.61526"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-7-8-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="26.414497"
+         y="385.61526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
+         id="tspan3735-5-6-1-53-8-4">Error state if path is invalid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.601034"
+       y="401.90628"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-8-9-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="29.601034"
+         y="401.90628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#cc0000;stroke-width:0.26458332px"
+         id="tspan3735-5-6-1-5-3-8">That file doesn't exist. Did you misspell it?</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.812501,424.39708 H 174.05293"
+       id="path3314-1-9-52-9-2-4-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f1f1f1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.812501,442.6633 H 174.05293"
+       id="path3314-1-9-5-5-2-9-4-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ab4947;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect7019-7-3-4-0-3-4-7-0"
+       width="129.91042"
+       height="6.6145835"
+       x="26.590626"
+       y="426.51331"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-ports.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="426.51331"
+       x="157.29478"
+       height="6.6145835"
+       width="13.758333"
+       id="rect6546-3-5-7-8-0-6-3-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6556-0-4-3-3-4-3-9-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="160.99512"
+       y="430.95325"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-4-9-8-3-6-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4319-4-0-6-9-2-9-22-9-0-6-2-9-4-2-8-1-1-2"
+         x="160.99512"
+         y="430.95325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px">Add</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.26458332px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.41374,429.16194 -1.0552,1.2534 -1.06116,-1.25577"
+       id="path5337-6-5-7-2-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.601034"
+       y="431.01044"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-8-9-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="29.601034"
+         y="431.01044"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.26458332px"
+         id="tspan3735-5-6-1-5-3-1">/media/nfs/keyvault/todo.txt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.48888874px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.414497"
+       y="422.65686"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-7-8-9-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="26.414497"
+         y="422.65686"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#000000;stroke-width:0.26458332px"
+         id="tspan3735-5-6-1-53-8-4-4">Error state if file is not a key</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.601034"
+       y="438.94788"
+       id="text4316-4-8-1-2-1-5-27-3-11-3-9-6-0-8-6-9-6-8-9-7-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="29.601034"
+         y="438.94788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#cc0000;stroke-width:0.26458332px"
+         id="tspan3735-5-6-1-5-3-8-6">That file is not a valid key</tspan></text>
+  </g>
 </svg>
