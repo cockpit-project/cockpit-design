@@ -651,6 +651,16 @@
        id="linearGradient8099-5-9-9"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(1.1498434,0,0,0.24501555,-1000.2195,-191.2376)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-6-3-1-57-7"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -660,7 +670,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1376.9247"
+     inkscape:cx="1296.9247"
      inkscape:cy="909.45009"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -707,6 +717,25 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(17.383799,19.33955)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-6-3-1-57-7);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-6-9-3-1-0"
+       width="48.293423"
+       height="6.6154199"
+       x="274.38196"
+       y="89.271461"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3567-7-1-9-2"
+       d="m 318.01574,92.133574 0.97185,1.034633 0.94628,-1.043713"
+       style="fill:none;stroke:#4d5258;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7749-1-3-7-9"
@@ -2509,14 +2538,14 @@
     <text
        id="text342"
        style="font-variant:normal;font-weight:normal;font-size:3.44162655px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
-       x="273.8913"
+       x="276.53714"
        y="93.926758">
       <tspan
          id="tspan340"
          sodipodi:role="line"
          y="93.926758"
-         x="273.8913"
-         style="stroke-width:0.26474053">pc-i440fx-2.9</tspan>
+         x="276.53714"
+         style="stroke-width:0.26474053">Default (pc-i440fx-2.9)</tspan>
     </text>
     <text
        id="text346"
