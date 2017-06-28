@@ -650,8 +650,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1018.4588"
-     inkscape:cy="680.06447"
+     inkscape:cx="1336.9247"
+     inkscape:cy="1029.4501"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -3543,18 +3543,6 @@
        id="path3567-7-1-9"
        d="m 318.01575,107.4794 0.97185,1.03463 0.94628,-1.04371"
        style="fill:none;stroke:#4d5258;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text350"
-       style="font-variant:normal;font-weight:normal;font-size:3.44162655px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
-       x="276.63965"
-       y="109.01259">
-      <tspan
-         id="tspan348"
-         sodipodi:role="line"
-         y="109.01259"
-         x="276.63965"
-         style="stroke-width:0.26474053">custom (Skylake-Client)</tspan>
-    </text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-5-9-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-5-7-3-5"
@@ -3659,5 +3647,17 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-89-6-3-7"
            style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-2-15-2-6-5">Import</flowPara></flowRoot>  </g>
+         id="flowPara6934-2-4-4-2-15-2-6-5">Import</flowPara></flowRoot>    <text
+       id="text350-0"
+       style="font-variant:normal;font-weight:normal;font-size:3.44162655px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
+       x="276.63965"
+       y="109.01259">
+      <tspan
+         id="tspan348-6"
+         sodipodi:role="line"
+         y="109.01259"
+         x="276.63965"
+         style="stroke-width:0.26474053">Host Passthrough</tspan>
+    </text>
+  </g>
 </svg>
