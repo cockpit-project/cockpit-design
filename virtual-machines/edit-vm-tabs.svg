@@ -641,6 +641,16 @@
        id="linearGradient8099-5-9-3-9-6"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.5606647,0,0,0.24501555,-209.58631,-208.1555)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-5-9-9"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -650,8 +660,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1336.9247"
-     inkscape:cy="1029.4501"
+     inkscape:cx="1376.9247"
+     inkscape:cy="909.45009"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -3659,5 +3669,31 @@
          x="276.63965"
          style="stroke-width:0.26474053">Host Passthrough</tspan>
     </text>
-  </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-5-9-9);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-7-3-7"
+       width="23.547916"
+       height="6.6154199"
+       x="411.91043"
+       y="72.353523"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-0-0"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,412.93535,71.692065)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-17-9"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="17.571392"
+           width="88.183784"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-89-3"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+         id="flowPara6934-2-4-4-2-15-6">Install</flowPara></flowRoot>  </g>
 </svg>
