@@ -251,6 +251,16 @@
        id="linearGradient8099-6-6"
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
+    <linearGradient
+       y2="1163.3622"
+       x2="1133.7847"
+       y1="1149.5696"
+       x1="1133.7847"
+       gradientTransform="matrix(0.15749009,0,0,0.24501554,-57.499749,141.77109)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8099-5-9-9"
+       xlink:href="#linearGradient8076-9"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -260,8 +270,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="755.33027"
-     inkscape:cy="1807.9729"
+     inkscape:cx="438.20009"
+     inkscape:cy="468.93835"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -955,7 +965,7 @@
        style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7851-5"
        width="238.90433"
-       height="86.783409"
+       height="90.218208"
        x="0.13249953"
        y="341.3179" />
     <path
@@ -1682,7 +1692,7 @@
          sodipodi:role="line"
          y="375.34131"
          x="45.789646"
-         style="text-align:end;text-anchor:end;stroke-width:0.26474053">Emulated Machine:</tspan>
+         style="text-align:end;text-anchor:end;stroke-width:0.26474053">Emulated Machine</tspan>
     </text>
     <text
        id="text342"
@@ -1706,31 +1716,31 @@
          sodipodi:role="line"
          y="390.42706"
          x="45.789646"
-         style="text-align:end;text-anchor:end;stroke-width:0.26474053">CPU family:</tspan>
+         style="text-align:end;text-anchor:end;stroke-width:0.26474053">CPU family</tspan>
     </text>
     <text
        id="text354"
        style="font-variant:normal;font-weight:600;font-size:3.44162631px;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Semibold;writing-mode:lr-tb;fill:#888888;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
-       x="168.93857"
-       y="375.34131">
+       x="26.638208"
+       y="427.17529">
       <tspan
          id="tspan352"
          sodipodi:role="line"
-         y="375.34131"
-         x="168.93857"
-         style="stroke-width:0.26474053">Boot Order:</tspan>
+         y="427.17529"
+         x="26.638208"
+         style="stroke-width:0.26474053">Boot Media</tspan>
     </text>
     <text
        id="text358"
        style="font-variant:normal;font-weight:normal;font-size:3.44162631px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
-       x="190.72183"
-       y="375.34131">
+       x="48.421474"
+       y="427.17529">
       <tspan
          id="tspan356"
          sodipodi:role="line"
-         y="375.34131"
-         x="190.72183"
-         style="stroke-width:0.26474053">cdrom,disk</tspan>
+         y="427.17529"
+         x="48.421474"
+         style="stroke-width:0.26474053">Fedora-Server-dvd-x86_64-26_Beta-1.4.iso</tspan>
     </text>
     <text
        id="text362"
@@ -1810,7 +1820,7 @@
          id="tspan11002-1-0-8-5-5-9-7"
          x="45.789646"
          y="414.44705"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.44162631px;line-height:normal;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Semibold;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;shape-padding:0;vector-effect:none;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Memory:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.44162631px;line-height:normal;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Semibold;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;shape-padding:0;vector-effect:none;fill:#888888;fill-opacity:1;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Memory</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10472-5-3-3"
@@ -1995,7 +2005,7 @@
          sodipodi:role="line"
          y="399.68964"
          x="45.789646"
-         style="text-align:end;text-anchor:end;stroke-width:0.26474053">vCPUs:</tspan>
+         style="text-align:end;text-anchor:end;stroke-width:0.26474053">vCPUs</tspan>
     </text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-5-9);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -2098,7 +2108,7 @@
          sodipodi:role="line"
          y="361.58292"
          x="45.789646"
-         style="text-align:end;text-anchor:end;stroke-width:0.26474053">Name:</tspan>
+         style="text-align:end;text-anchor:end;stroke-width:0.26474053">Name</tspan>
     </text>
     <g
        id="g78645"
@@ -2708,5 +2718,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
          id="flowPara5662">If unchecked, create the VM, but don't start it.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
-         id="flowPara5664">Will then allow you to tweak details, such as CPU type, change network, add more disks etc. before starting the VM.</flowPara></flowRoot>  </g>
+         id="flowPara5664">Will then allow you to tweak details, such as CPU type, change network, add more disks etc. before starting the VM.</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-5-9-9);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect8074-5-7-3-9"
+       width="6.6145835"
+       height="6.6154194"
+       x="117.07812"
+       y="422.28015"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#2e3436;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 120.38545,423.73623 -1.85208,1.85208 v 0.52917 h 3.70417 v -0.52917 z m -1.85208,2.90931 v 0.79375 h 3.70417 v -0.79375 z"
+       id="rect5690"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
 </svg>
