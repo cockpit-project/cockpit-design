@@ -95,16 +95,6 @@
        xlink:href="#linearGradient8076-9"
        inkscape:collect="always" />
     <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
-       gradientTransform="matrix(0.5606647,0,0,0.24501554,-409.16816,-356.43693)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-5-9-3"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#Destructive"
        id="linearGradient6809"
@@ -171,16 +161,6 @@
          offset="1"
          id="stop8080" />
     </linearGradient>
-    <linearGradient
-       y2="1163.3622"
-       x2="1133.7847"
-       y1="1149.5696"
-       x1="1133.7847"
-       gradientTransform="matrix(0.5606647,0,0,0.24501554,-409.16816,8.6881658)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient8099-5-9-3-3"
-       xlink:href="#linearGradient8076-9"
-       inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8076"
@@ -269,9 +249,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="438.20009"
-     inkscape:cy="468.93835"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="181.00024"
+     inkscape:cy="1192.4584"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -914,33 +894,24 @@
          x="233.35551"
          style="stroke-width:0.26474053"></tspan>
     </text>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-5-9-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-5-7-3-5"
-       width="23.547916"
-       height="6.6154194"
-       x="212.32896"
-       y="-75.927765"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0088ce;fill-opacity:1;stroke:none;"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-0-3"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="matrix(0.26458333,0,0,0.26458333,213.35352,-76.589272)"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-17-5"><rect
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-17-5"
+         style="fill:#0088ce;fill-opacity:1;"><rect
            y="9.428607"
            x="-3.5587871"
-           height="17.571392"
-           width="88.183784"
+           height="16.428814"
+           width="105.76972"
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-89-6"
-           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-2-15-2">Create New</flowPara></flowRoot>    <path
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#0088ce;fill-opacity:1;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0088ce;fill-opacity:1;"
+         id="flowPara6934-2-4-4-2-15-2">Create New VM</flowPara></flowRoot>    <path
        style="fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
        d="m -0.00719337,-34.800049 v 0.26459 H 9.2532103 98.682313 169.85523 238.6469 v -0.26459 H 169.85523 98.682313 9.2532103 Z"
        id="path184-3"
@@ -1563,33 +1534,7 @@
          x="233.35551"
          style="stroke-width:0.26474053"></tspan>
     </text>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8099-5-9-3-3);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect8074-5-7-3-5-0"
-       width="23.547916"
-       height="6.6154194"
-       x="212.32899"
-       y="289.19727"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
-       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-0-3-9"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,213.35351,288.53583)"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-17-5-6"><rect
-           y="9.428607"
-           x="-3.5587871"
-           height="17.571392"
-           width="88.183784"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-89-6-3"
-           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-2-15-2-8">Create New</flowPara></flowRoot>    <path
+    <path
        style="color:#000000;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-width:0.26499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.26499996, 1.05999991;stroke-dashoffset:0"
        d="m 99.986753,240.50862 2.270887,2.27088 2.27088,-2.27088 z"
        id="rect7322-1"
@@ -2734,5 +2679,64 @@
        id="rect5690"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
+    <circle
+       style="color:#000000;overflow:visible;vector-effect:none;fill:none;fill-opacity:1;stroke:#0088ce;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4723"
+       cx="211.67619"
+       cy="-72.613457"
+       r="1.8425676" />
+    <rect
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4725"
+       width="0.5291636"
+       height="2.1166689"
+       x="211.40208"
+       y="-73.681305" />
+    <rect
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4725-3"
+       width="0.5291636"
+       height="2.1166689"
+       x="-72.887558"
+       y="-212.72501"
+       transform="rotate(90)" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0088ce;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-0-3-6"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,213.35353,289.5942)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-17-5-7"
+         style="fill:#0088ce;fill-opacity:1"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="16.428814"
+           width="105.76972"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-89-6-5"
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#0088ce;fill-opacity:1;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0088ce;fill-opacity:1"
+         id="flowPara6934-2-4-4-2-15-2-3">Create New VM</flowPara></flowRoot>    <circle
+       style="color:#000000;overflow:visible;vector-effect:none;fill:none;fill-opacity:1;stroke:#0088ce;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4723-5"
+       cx="211.67619"
+       cy="293.56995"
+       r="1.8425676" />
+    <rect
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4725-6"
+       width="0.5291636"
+       height="2.1166689"
+       x="211.40208"
+       y="292.50211" />
+    <rect
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4725-3-2"
+       width="0.5291636"
+       height="2.1166689"
+       x="293.29584"
+       y="-212.72501"
+       transform="rotate(90)" />
   </g>
 </svg>
