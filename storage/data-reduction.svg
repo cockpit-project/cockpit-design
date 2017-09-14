@@ -266,9 +266,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="899.51103"
-     inkscape:cy="466.25967"
+     inkscape:zoom="1"
+     inkscape:cx="771.89482"
+     inkscape:cy="1359.4133"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,7 +304,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -492,61 +492,6 @@
          x="151.02936"
          y="177.30649"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#9c9c9c;fill-opacity:1;stroke-width:0.26458332">Size</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#9c9c9c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="151.02936"
-       y="184.71494"
-       id="text11000-49-8-3-7-7-6"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan11002-1-0-8-0-3-1"
-         x="151.02936"
-         y="184.71494"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#9c9c9c;fill-opacity:1;stroke-width:0.26458332">Space Reduction</tspan></text>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect7228-5-3-7-2-7-8"
-       width="2.9104166"
-       height="2.9104164"
-       x="153.06752"
-       y="182.05405"
-       rx="0.28938803"
-       ry="0.28938803"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-links.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d5258;fill-opacity:1;stroke:none"
-       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2"
-       xml:space="preserve"
-       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,158.85482,179.02629)"><flowRegion
-         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9"
-         style="text-align:start;text-anchor:start"><rect
-           y="9.428607"
-           x="-3.5587871"
-           height="15.834107"
-           width="374.14401"
-           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3"
-           style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-6-1">Optimize data to save space</flowPara></flowRoot>    <ellipse
-       style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke-width:1.00541663;stroke-linecap:round;stroke-linejoin:round"
-       id="path4898"
-       cx="204.52579"
-       cy="182.99515"
-       rx="1.8488693"
-       ry="1.8520801" />
-    <path
-       style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:1.00541663;stroke-linecap:round;stroke-linejoin:round"
-       d="m 204.2644,181.67212 v 0.52917 h 0.52916 v -0.52917 z m -0.26458,0.79375 v 0.52917 h 0.26458 v 0.79375 h -0.26458 v 0.52916 h 1.05832 v -0.52916 h -0.26458 v -1.05834 -0.26458 z"
-       id="rect4900"
-       inkscape:connector-curvature="0" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect10472-5"
@@ -801,7 +746,7 @@
          id="tspan11002-1-0-8-0-3-1-8"
          x="151.02937"
          y="271.49536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#9c9c9c;fill-opacity:1;stroke-width:0.26458332">Space Reduction</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#9c9c9c;fill-opacity:1;stroke-width:0.26458332">Data Reduction</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect7228-5-3-7-2-7-8-9"
@@ -831,16 +776,16 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6"
            style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1;" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-6-1-4">Optimize data to save space</flowPara></flowRoot>    <ellipse
+         id="flowPara6934-2-4-4-6-1-4">Use Virtual Data Optimizer to increase storage efficency</flowPara></flowRoot>    <ellipse
        style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke-width:1.00541663;stroke-linecap:round;stroke-linejoin:round"
        id="path4898-9"
-       cx="204.52574"
+       cx="246.85912"
        cy="269.77557"
        rx="1.8488693"
        ry="1.8520802" />
     <path
        style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:1.00541663;stroke-linecap:round;stroke-linejoin:round"
-       d="m 204.26445,268.45236 v 0.52917 h 0.52917 v -0.52917 z m -0.26458,0.79375 v 0.52917 h 0.26458 v 0.79375 h -0.26458 v 0.52916 h 1.05833 v -0.52916 h -0.26458 v -1.05834 -0.26458 z"
+       d="m 246.59781,268.45236 v 0.52917 h 0.52917 v -0.52917 z m -0.26458,0.79375 v 0.52917 h 0.26458 v 0.79375 h -0.26458 v 0.52916 h 1.05833 v -0.52916 h -0.26458 v -1.05834 -0.26458 z"
        id="rect4900-5"
        inkscape:connector-curvature="0" />
     <rect
@@ -2560,7 +2505,7 @@
     <rect
        style="opacity:1;fill:#0099d3;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9175"
-       width="27.252083"
+       width="24.870834"
        height="0.529185"
        x="133.87917"
        y="449.92905"
@@ -2630,7 +2575,7 @@
          id="tspan4769-4"
          x="134.49339"
          y="447.03"
-         style="fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Space Reduction</tspan></text>
+         style="fill:#0099d3;fill-opacity:1;stroke-width:0.26458332px">Data Reduction</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2813,17 +2758,17 @@
          x="115.02592"
          y="468.95142"
          style="line-height:200%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332px"
-         id="tspan4630">xxx GiB</tspan><tspan
+         id="tspan4632">xxx GiB</tspan><tspan
          sodipodi:role="line"
          x="115.02592"
          y="475.56598"
          style="line-height:200%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332px"
-         id="tspan4632">4 GiB</tspan><tspan
+         id="tspan4634">xxx GiB</tspan><tspan
          sodipodi:role="line"
          x="115.02592"
          y="482.18057"
          style="line-height:200%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332px"
-         id="tspan4634">20%</tspan><tspan
+         id="tspan4726">20%</tspan><tspan
          sodipodi:role="line"
          x="115.02592"
          y="488.79517"
@@ -2856,17 +2801,17 @@
          x="112.37387"
          y="469.14655"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:200%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.07000434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="tspan4656">Physical space</tspan><tspan
+         id="tspan4940">Physical space</tspan><tspan
          sodipodi:role="line"
          x="112.37387"
          y="475.76111"
-         style="line-height:200%;text-align:end;text-anchor:end;fill:#888a85;fill-opacity:1;stroke-width:0.26458332px"
-         id="tspan4940">Read cache size</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:200%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.07000434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="tspan4724">Avaliable Space</tspan><tspan
          sodipodi:role="line"
          x="112.37387"
          y="482.3757"
          style="line-height:200%;text-align:end;text-anchor:end;fill:#888a85;fill-opacity:1;stroke-width:0.26458332px"
-         id="tspan4658">Space saving</tspan></text>
+         id="tspan4720">Space saving</tspan></text>
     <text
        id="text4763-0"
        y="435.95581"
@@ -2955,5 +2900,68 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-7"
            style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:129.99999523%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara6917">Inline documentation explaining what it does and warns to not use it on OS partitions (?)</flowPara></flowRoot>  </g>
+         id="flowPara6917">Inline documentation explaining what it does and warns to not use it on OS partitions (?)</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#9c9c9c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="151.02937"
+       y="185.24117"
+       id="text11000-49-8-3-7-7-6-6-3"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/storage/raid-creation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11002-1-0-8-0-3-1-8-6"
+         x="151.02937"
+         y="185.24117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#9c9c9c;fill-opacity:1;stroke-width:0.26458332">Data Reduction</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect7228-5-3-7-2-7-8-9-7"
+       width="2.9104166"
+       height="2.9104164"
+       x="153.06747"
+       y="182.59535"
+       rx="0.28938803"
+       ry="0.28938803"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-links.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2-2-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,158.85485,179.55229)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3"
+         style="text-align:start;text-anchor:start"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="15.834107"
+           width="374.14401"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5"
+           style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
+         id="flowPara6934-2-4-4-6-1-4-6">Use Virtual Data Optimizer to increase storage efficency</flowPara></flowRoot>    <ellipse
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#0088ce;fill-opacity:1;stroke-width:1.00541663;stroke-linecap:round;stroke-linejoin:round"
+       id="path4898-9-2"
+       cx="246.85912"
+       cy="183.52138"
+       rx="1.8488693"
+       ry="1.8520803" />
+    <path
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:1.00541663;stroke-linecap:round;stroke-linejoin:round"
+       d="m 246.59781,182.19812 v 0.52917 h 0.52917 v -0.52917 z m -0.26458,0.79375 v 0.52917 h 0.26458 v 0.79375 h -0.26458 v 0.52916 h 1.05833 v -0.52916 h -0.26458 v -1.05834 -0.26458 z"
+       id="rect4900-5-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 153.6679,183.88879 0.6688,0.80555 1.97703,-2.38125"
+       id="path12594-14-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-links.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
 </svg>
