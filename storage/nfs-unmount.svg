@@ -17,7 +17,7 @@
    id="svg4587"
    inkscape:version="0.92+devel unknown"
    sodipodi:docname="nfs-unmount.svg"
-   inkscape:export-filename="data-reduction.png"
+   inkscape:export-filename="nfs-unmount.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -75,8 +75,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="398.23431"
-     inkscape:cy="245.7941"
+     inkscape:cx="356.36082"
+     inkscape:cy="270.25841"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -205,9 +205,7 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5"
            style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara6934-2-4-4-6-1-4-6">The filesystem can't be unmounted, because there are are still services and sessions that use files on it.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara4735">If you unmount anyway, these will be stopped.</flowPara></flowRoot>    <rect
+         id="flowPara4735">The filesystem can not be unmounted, as there are related services and sessions in use.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-2-6-7);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8074-58-8-3"
        width="35.454163"
@@ -233,13 +231,13 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-3-0-3"
            style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara6934-2-4-4-9-0-2-4">Stop and unmount</flowPara></flowRoot>    <rect
+         id="flowPara6934-2-4-4-9-0-2-4">Stop and Unmount</flowPara></flowRoot>    <rect
        style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6301"
        width="157.95625"
        height="10.054169"
        x="5.953125"
-       y="-139.43025" />
+       y="-144.72192" />
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d5258;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2-2-5-3"
@@ -247,7 +245,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,10.788539,-138.4121)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,10.788539,-143.70377)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3-6"
          style="text-align:start;text-anchor:start"><rect
            y="9.428607"
@@ -264,7 +262,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,42.538541,-138.4121)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,42.538541,-143.70377)"><flowRegion
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3-6-6"
          style="text-align:start;text-anchor:start"><rect
            y="9.428607"
@@ -274,5 +272,22 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5-7-2"
            style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:129.99999523%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
-         id="flowPara4735-3-9">Session 8 of user root</flowPara></flowRoot>  </g>
+         id="flowPara4735-3-9">Session 8 of user root</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2-2-5-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,6.5552063,-133.6496)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3-2"
+         style="text-align:start;text-anchor:start"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="77.965591"
+           width="622.91583"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5-70"
+           style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:139.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1"
+         id="flowPara4735-36">If you unmount, these will be stopped</flowPara></flowRoot>  </g>
 </svg>
