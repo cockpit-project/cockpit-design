@@ -10,29 +10,17 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1307.0001"
-   height="747.14276"
+   width="1396.6261"
+   height="1280.5366"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="selinux.svg"
    inkscape:export-filename="selinux.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient8076-9">
-      <stop
-         style="stop-color:#f8f8f8;stop-opacity:1"
-         offset="0"
-         id="stop8078-7" />
-      <stop
-         style="stop-color:#eeeeee;stop-opacity:1"
-         offset="1"
-         id="stop8080-4" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4904"
@@ -55,16 +43,6 @@
          offset="1"
          id="stop4902" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8076-9"
-       id="linearGradient2300"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0476191,0,0,0.92592589,-1820.2861,-2998.0829)"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -73,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="516.59708"
-     inkscape:cy="388.63766"
+     inkscape:zoom="0.5"
+     inkscape:cx="404.79851"
+     inkscape:cy="813.08835"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -89,10 +67,10 @@
      inkscape:snap-global="true"
      showborder="true"
      inkscape:showpageshadow="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:bbox-paths="true"
@@ -104,8 +82,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="-1151.8572"
-       originy="-293.00002"
+       originx="-1131.8572"
+       originy="171.01058"
        spacingx="1"
        spacingy="1" />
   </sodipodi:namedview>
@@ -117,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,7 +103,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1151.8572,-12.219309)">
+     transform="translate(-1131.8572,57.163986)">
     <g
        id="g11300-4"
        transform="translate(2.7235985e-6,22)" />
@@ -860,52 +838,13 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ededed;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <g
-       id="g2178-6"
-       transform="translate(1859.8572,2082.7447)">
-      <rect
-         ry="1"
-         rx="1"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         y="-1554.0254"
-         x="469.5"
-         height="25"
-         width="86"
-         id="rect8074-5-7-4-4"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2300);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <flowRoot
-         transform="translate(471.66772,-1556.0045)"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         xml:space="preserve"
-         id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-3-9"
-         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
-           id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-0-5"><rect
-             style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
-             id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-7-0"
-             width="88.183784"
-             height="17.571392"
-             x="-3.5587871"
-             y="9.428607" /></flowRegion><flowPara
-           id="flowPara6934-2-4-4-2-8-4"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Export…</flowPara></flowRoot>    </g>
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect255-7-2"
        width="1005.0183"
-       height="169.98233"
+       height="100.99991"
        x="1410.5"
-       y="560.86218" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5772-0-9"
-       width="1003.97"
-       height="0.99973458"
-       x="1411.0299"
-       y="696.3623" />
+       y="561.86218" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5772-0-0-7"
@@ -913,13 +852,6 @@
        height="0.99973458"
        x="1411.0299"
        y="628.37787" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5772-0-6-5"
-       width="1003.97"
-       height="0.99973458"
-       x="1411.0299"
-       y="662.36224" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -932,7 +864,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.99999994px"
          y="584.23834"
          x="1424.7732"
-         sodipodi:role="line">Allowing qemu-system-x86 to read access the file cmdline</tspan></text>
+         sodipodi:role="line">Allowing httpd to connect to the network</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ededed;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5772-0-0-3-4"
@@ -964,7 +896,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.99999994px"
          y="616.23834"
          x="1424.7732"
-         sodipodi:role="line">Allowing rhsmd to read access the file /var/lib/sss/mc/passwd</tspan></text>
+         sodipodi:role="line">Allowing httpd to read home directories</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -977,32 +909,277 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.99999994px"
          y="652.23834"
          x="1424.7732"
-         sodipodi:role="line">Allowing samba to share users home directories </tspan></text>
-    <text
-       inkscape:export-ydpi="90"
+         sodipodi:role="line">Allow httpd to connect to databases over the network</tspan></text>
+    <flowRoot
+       transform="matrix(1.21704,0,0,1.21704,2412.0315,-869.86519)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00a8e1;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-89-3-9-3-9-5-1-0-4-7-6-5-9-0-9-1-2-7-4-6-8-8-7-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/shutdown-reboot/shutdown-reboot.png"
        inkscape:export-xdpi="90"
-       id="text4304-4-0-2-9-4-4-7-7-7-4-4-5-5-1-7-4-7-7-6"
-       y="684.23834"
-       x="1424.7732"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan11666-4-6-5-0-1-3-1-9-7-1-9-5-0-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.99999994px"
-         y="684.23834"
-         x="1424.7732"
-         sodipodi:role="line">Allowing httpd to read home directories </tspan></text>
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-91-1-9-9-9-7-2-7-4-6-2-7-3-0-8-9-2-9-5-6-4-7-6-6"
+         style="font-family:sans-serif;fill:#00a8e1;fill-opacity:1"><rect
+           y="1151.8732"
+           x="-112.64377"
+           height="17.005737"
+           width="118.20028"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-6-2-9-3-2-1-3-7-5-9-2-8-2-1-6-6-8-5-7-6-0-9-5-7"
+           style="line-height:259.99999046%;font-family:sans-serif;text-align:end;text-anchor:end;fill:#00a8e1;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.68165398px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#00a8e1;fill-opacity:1"
+         id="flowPara10586-6-3-4-4-8-1-2-1-8-6-5-6-5">View automation script</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.99999996, 3.9999998;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2421.9383,541.93734 h 86.045 v 233.25065 h -659.4836 v 56.99999"
+       id="path15267-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7749-1-3-7-9"
+       width="609"
+       height="349.01053"
+       x="1555.5002"
+       y="853.86212"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215"
+       inkscape:export-filename="data-reduction-inlinehelp.png" />
+    <rect
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3193"
+       width="608.00043"
+       height="40.999989"
+       x="1556"
+       y="854.36206"
+       inkscape:export-filename="data-reduction-inlinehelp.png"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215" />
     <text
-       inkscape:export-ydpi="90"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1571.9802"
+       y="879.85931"
+       id="text4316-4-8-1-2-1-5-27-3-11"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215"
+       inkscape:export-filename="data-reduction-inlinehelp.png"><tspan
+         sodipodi:role="line"
+         id="tspan4319-4-0-6-9-2-9-22-9-0"
+         x="1571.9802"
+         y="879.85931"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.99999994px">Automation script</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:0.99999976;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect10472-2-0"
+       width="577"
+       height="250.00067"
+       x="1571.5002"
+       y="936.86212"
+       inkscape:export-filename="data-reduction-inlinehelp.png"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0088ce;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2-2-5-3"
+       xml:space="preserve"
+       inkscape:export-filename="data-reduction-inlinehelp.png"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215"
+       transform="translate(1586.6522,895.43395)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3-1"
+         style="text-align:start;text-anchor:start;fill:#0088ce;fill-opacity:1"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="15.834107"
+           width="374.14401"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5-9"
+           style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#0088ce;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#0088ce;fill-opacity:1"
+         id="flowPara6934-2-4-4-6-1-4-6-4">Ansible</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#ededed;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1555.999,921.86177 h 608.0013"
+       id="path1515"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#0088ce;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1517"
+       width="66"
+       height="2"
+       x="1571.0002"
+       y="920.36212" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2-2-5-3-2"
+       xml:space="preserve"
+       inkscape:export-filename="data-reduction-inlinehelp.png"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215"
+       transform="translate(1652.6522,895.43395)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3-1-9"
+         style="text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="16.18766"
+           width="67.259682"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5-9-1"
+           style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara6934-2-4-4-6-1-4-6-4-2">Shell script</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-2-2-2-5-3-2-0"
+       xml:space="preserve"
+       inkscape:export-filename="data-reduction-inlinehelp.png"
+       inkscape:export-xdpi="96.025215"
+       inkscape:export-ydpi="96.025215"
+       transform="translate(1589.6465,936.4621)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-68-9-6-3-1-9-9"
+         style="text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="291.69733"
+           width="509.39722"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-6-3-6-5-9-1-3"
+           style="font-size:12.5px;line-height:100%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1731">- <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1743">name</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1759">Set httpd_can_network_connect flag on and keep it </flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#3465a4;fill-opacity:1"
+         id="flowPara1861">        persistent across reboots</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1733">  <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1745">seboolean</flowSpan>:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1735">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1747">name</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1757">httpd_can_network_connect</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1737">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1749">state</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1755">yes</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1739">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1751">persistent</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1753">yes</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1869" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1871">- <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1883">name</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1895">Set httpd_enable_homedirs flag on and keep it </flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#3465a4;fill-opacity:1"
+         id="flowPara1873">        persistent across reboots</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1875">  <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1885">seboolean</flowSpan>:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1877">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1887">name</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1893">httpd_enable_homedirs</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1879">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1889">state</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1897">yes</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1881">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1891">persistent</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1899">yes</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1901" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1903">- <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1921">name</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1923">Set httpd_can_network_connect_db flag on and keep it </flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#3465a4;fill-opacity:1"
+         id="flowPara1905">        persistent across reboots</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1907">  <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1925">seboolean</flowSpan>:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1909">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1927">name</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1933">httpd_enable_homedirs</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1913">    <flowSpan
+   style="fill:#4e9a06"
+   id="flowSpan1929">state</flowSpan>: <flowSpan
+   style="fill:#3465a4"
+   id="flowSpan1931">yes</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1915" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1917" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1865" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1867" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara1741" /></flowRoot>    <path
+       style="fill:none;stroke:#555753;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2147.9397,868.4228 -12.8788,12.87877"
+       id="path1708"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2135.0609,868.4228 12.8788,12.87877"
+       id="path1708-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1840.0002,832.36216 8.0001,8 7.9999,-8 z"
+       id="rect1935"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7905"
+       width="12.003173"
+       height="248.95328"
+       x="2136.0042"
+       y="937.40887"
        inkscape:export-xdpi="90"
-       id="text4304-4-0-2-9-4-4-7-7-7-4-4-5-5-1-7-4-7-7-6-6"
-       y="718.23834"
-       x="1424.7732"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan11666-4-6-5-0-1-3-1-9-7-1-9-5-0-0-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans';fill:#2e3436;stroke-width:0.99999994px"
-         y="718.23834"
-         x="1424.7732"
-         sodipodi:role="line">Allowing httpd cgi support </tspan></text>
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect7907"
+       width="8"
+       height="191.99997"
+       x="2138.0002"
+       y="939.36218"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text266-8-3"
+       style="font-variant:normal;font-weight:300;font-size:29.42416382px;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Light;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#393f44;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00042033"
+       x="1151.3596"
+       y="-14.808517">
+      <tspan
+         id="tspan264-9-67"
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#393f44;stroke-width:1.00042033"
+         x="1151.3596"
+         y="-14.808517">SELinux policy - May 2018</tspan>
+    </text>
   </g>
 </svg>
