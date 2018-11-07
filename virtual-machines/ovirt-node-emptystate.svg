@@ -86,13 +86,13 @@
        x2="845.72626"
        y1="270.28198"
        x1="845.72626"
-       gradientTransform="matrix(0.23724912,0,0,0.36587419,-30.849575,-280.04578)"
+       gradientTransform="matrix(0.19297836,0,0,0.36587419,9.8849016,-280.04578)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3933-1"
        xlink:href="#linearGradient3599"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="matrix(0.14072083,0,0,0.36587419,27.673485,-280.04579)"
+       gradientTransform="matrix(0.14072083,0,0,0.36587419,34.023489,-280.04579)"
        gradientUnits="userSpaceOnUse"
        y2="286.92462"
        x2="845.72626"
@@ -125,9 +125,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="798.38458"
-     inkscape:cy="699.82382"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="809.52761"
+     inkscape:cy="143.79073"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -161,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -660,7 +660,7 @@
          id="tspan11002-1-0-8-50-3-5-6-2-6"
          x="120.94897"
          y="-39.763817"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.66351748px;line-height:22.6540699px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332">Not Connected to oVirt Cluster</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.66351748px;line-height:22.6540699px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332">Not Connected to oVirt Engine</tspan></text>
     <rect
        transform="scale(1,-1)"
        ry="0.13229166"
@@ -724,44 +724,44 @@
        inkscape:connector-curvature="0"
        id="path138-9"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bbbbbb;stroke-width:0.26475191;stroke-opacity:1"
-       d="m 63.888225,158.89642 v -6.34984 c 0,-0.0882 0.0307,-0.13229 0.0659,-0.13229 H 187.37922 c 0.0448,0 0.0693,0.0441 0.0693,0.13229 v 6.34984 c 0,0.0882 -0.0293,0.13229 -0.0693,0.13229 H 63.954125 c -0.0448,0 -0.0659,-0.0441 -0.0659,-0.13229 z" />
+       d="m 63.888225,167.89225 v -6.34984 c 0,-0.0882 0.0307,-0.13229 0.0659,-0.13229 H 187.37922 c 0.0448,0 0.0693,0.0441 0.0693,0.13229 v 6.34984 c 0,0.0882 -0.0293,0.13229 -0.0693,0.13229 H 63.954125 c -0.0448,0 -0.0659,-0.0441 -0.0659,-0.13229 z" />
     <path
        inkscape:connector-curvature="0"
        id="path138-9-1"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bbbbbb;stroke-width:0.26475191;stroke-opacity:1"
-       d="m 63.888225,150.95892 v -6.34984 c 0,-0.0882 0.0307,-0.13229 0.0659,-0.13229 H 187.37922 c 0.0448,0 0.0693,0.0441 0.0693,0.13229 v 6.34984 c 0,0.0882 -0.0293,0.13229 -0.0693,0.13229 H 63.954125 c -0.0448,0 -0.0659,-0.0441 -0.0659,-0.13229 z" />
+       d="m 63.888225,159.95475 v -6.34984 c 0,-0.0882 0.0307,-0.13229 0.0659,-0.13229 H 187.37922 c 0.0448,0 0.0693,0.0441 0.0693,0.13229 v 6.34984 c 0,0.0882 -0.0293,0.13229 -0.0693,0.13229 H 63.954125 c -0.0448,0 -0.0659,-0.0441 -0.0659,-0.13229 z" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="61.564117"
-       y="157.02281"
+       y="166.01868"
        id="text7582-1-4-7-9"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7580-0-2-0-3"
          x="61.564117"
-         y="157.02281"
+         y="166.01868"
          style="text-align:end;text-anchor:end;fill:#888a85;stroke-width:0.26458332px">Port</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="61.564117"
-       y="149.17351"
+       y="158.16937"
        id="text7582-1-4-7-9-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7580-0-2-0-3-0"
          x="61.564117"
-         y="149.17351"
+         y="158.16937"
          style="text-align:end;text-anchor:end;fill:#888a85;stroke-width:0.26458332px">FQDN</tspan></text>
     <rect
        transform="scale(1,-1)"
        ry="0.13229164"
        rx="0.13229164"
        y="-181.5183"
-       x="141.14658"
+       x="147.49649"
        height="6.6144147"
        width="16.007118"
        id="rect3507-1-3-5"
@@ -769,11 +769,11 @@
     <rect
        transform="scale(1,-1)"
        ry="0.13229166"
-       rx="0.19556193"
+       rx="0.15907001"
        y="-181.5183"
-       x="160.46112"
+       x="165.49696"
        height="6.6144142"
-       width="26.987299"
+       width="21.95146"
        id="rect3507-8"
        style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:url(#linearGradient3933-1);fill-opacity:1;stroke:#00659c;stroke-width:0.26475194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke" />
     <flowRoot
@@ -783,7 +783,7 @@
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,150.96166,174.3729)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,153.60751,174.3729)"><flowRegion
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01252329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-4-7-9-4-2-7-1-4-5-5"><rect
            y="9.428607"
@@ -793,14 +793,14 @@
            id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-2-8-1-9-0-0-5-3-0"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01252329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01252329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowPara6934-2-4-4-5-7-1-9-1-9-1-2-9-3">Register oVirt</flowPara></flowRoot>    <flowRoot
+         id="flowPara6934-2-4-4-5-7-1-9-1-9-1-2-9-3">Connect</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
        id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-1-6-9-6-2-0-7"
        xml:space="preserve"
        inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(0.26458333,0,0,0.26458333,126.18869,174.50511)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,132.53873,174.50511)"><flowRegion
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
          id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-4-7-9-4-2-7-1-0"><rect
            y="9.428607"
@@ -812,42 +812,42 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
          id="flowPara6934-2-4-4-5-7-1-9-1-9-1-0">Cancel</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="51.886322"
-       y="165.48949"
+       y="148.02699"
        id="text7582-1-4-7-9-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7580-0-2-0-3-3"
          x="51.886322"
-         y="165.48949"
-         style="text-align:start;text-anchor:start;fill:#888a85;stroke-width:0.26458332px">Please provide fully qualified domain name and port of the oVirt engine.</tspan></text>
+         y="148.02699"
+         style="text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332px;">Please provide fully qualified domain name and port of the oVirt engine.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="65.760559"
-       y="148.84155"
+       y="157.83742"
        id="text7582-1-4-7-9-5-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7580-0-2-0-3-3-6"
          x="65.760559"
-         y="148.84155"
+         y="157.83742"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Italic';text-align:start;text-anchor:start;fill:#babdb6;stroke-width:0.26458332px">engine.mydomain.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="65.760559"
-       y="156.77905"
+       y="165.77492"
        id="text7582-1-4-7-9-5-5-2"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7580-0-2-0-3-3-6-9"
          x="65.760559"
-         y="156.77905"
+         y="165.77492"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Italic';text-align:start;text-anchor:start;fill:#babdb6;stroke-width:0.26458332px">443</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499999, 1.05999995;stroke-dashoffset:0;stroke-opacity:1"
