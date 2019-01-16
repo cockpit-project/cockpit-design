@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1091.3781"
+   height="1411.9902"
+   viewBox="0 0 288.76044 373.58908"
+   version="1.1"
+   id="svg5406"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="domain-dialog.svg"
+   inkscape:export-filename="domain-dialog.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs5400">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8076-9">
+      <stop
+         style="stop-color:#f8f8f8;stop-opacity:1"
+         offset="0"
+         id="stop4471" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="1"
+         id="stop4473" />
+    </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask160">
+      <g
+         id="g168">
+        <g
+           clip-path="url(#clipPath158)"
+           id="g166"
+           style="opacity:0.17647059">
+          <g
+             transform="matrix(1161,0,0,-207,56,266)"
+             id="g164">
+            <image
+               width="1"
+               height="1"
+               style="image-rendering:optimizeSpeed"
+               preserveAspectRatio="none"
+               transform="matrix(1,0,0,-1,0,1)"
+               xlink:href="data:image/png;base64,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"
+               id="image162" />
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath158">
+      <path
+         d="M 0,0 H 2479 V 3508 H 0 Z"
+         id="path156"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask222">
+      <g
+         id="g230">
+        <g
+           clip-path="url(#clipPath220)"
+           id="g228"
+           style="opacity:0.17647059">
+          <g
+             transform="matrix(1159,0,0,-207,1265,266)"
+             id="g226">
+            <image
+               width="1"
+               height="1"
+               style="image-rendering:optimizeSpeed"
+               preserveAspectRatio="none"
+               transform="matrix(1,0,0,-1,0,1)"
+               xlink:href="data:image/png;base64,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"
+               id="image224" />
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath220">
+      <path
+         d="M 0,0 H 2479 V 3508 H 0 Z"
+         id="path218"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask160-4">
+      <g
+         id="g168-5">
+        <g
+           clip-path="url(#clipPath158-7)"
+           id="g166-2"
+           style="opacity:0.17647059">
+          <g
+             transform="matrix(1161,0,0,-207,56,266)"
+             id="g164-5">
+            <image
+               width="1"
+               height="1"
+               style="image-rendering:optimizeSpeed"
+               preserveAspectRatio="none"
+               transform="matrix(1,0,0,-1,0,1)"
+               xlink:href="data:image/png;base64,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"
+               id="image162-4" />
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath158-7">
+      <path
+         d="M 0,0 H 2479 V 3508 H 0 Z"
+         id="path156-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask222-4">
+      <g
+         id="g230-30">
+        <g
+           clip-path="url(#clipPath220-8)"
+           id="g228-78"
+           style="opacity:0.17647059">
+          <g
+             transform="matrix(1159,0,0,-207,1265,266)"
+             id="g226-6">
+            <image
+               width="1"
+               height="1"
+               style="image-rendering:optimizeSpeed"
+               preserveAspectRatio="none"
+               transform="matrix(1,0,0,-1,0,1)"
+               xlink:href="data:image/png;base64,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"
+               id="image224-8" />
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath220-8">
+      <path
+         d="M 0,0 H 2479 V 3508 H 0 Z"
+         id="path218-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8076-9"
+       id="linearGradient2373-6-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52916662,0,0,0.24498455,-571.63235,-307.45586)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       gradientTransform="matrix(0.14072083,0,0,0.36587419,-1.9510936,-181.6117)"
+       gradientUnits="userSpaceOnUse"
+       y2="286.92462"
+       x2="845.72626"
+       y1="270.28198"
+       x1="845.72626"
+       id="linearGradient3601-9-4-2"
+       xlink:href="#linearGradient3682"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3682">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="0"
+         id="stop3676" />
+      <stop
+         id="stop3678"
+         offset="0.01869844"
+         style="stop-color:#ededed;stop-opacity:1" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="1"
+         id="stop3680" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.14072083,0,0,0.36587419,-1.9510976,-306.23048)"
+       gradientUnits="userSpaceOnUse"
+       y2="286.92462"
+       x2="845.72626"
+       y1="270.28198"
+       x1="845.72626"
+       id="linearGradient3601-9-4-2-3"
+       xlink:href="#linearGradient3682"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Destructive"
+       id="linearGradient2407"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67493698,0,0,0.92592592,-461.04097,-2619.0831)"
+       x1="1133.7847"
+       y1="1149.5696"
+       x2="1133.7847"
+       y2="1163.3622" />
+    <linearGradient
+       inkscape:collect="always"
+       id="Destructive">
+      <stop
+         style="stop-color:#c82929;stop-opacity:1"
+         offset="0"
+         id="stop8078-2-4" />
+      <stop
+         style="stop-color:#a30000;stop-opacity:1"
+         offset="1"
+         id="stop8080-9-9" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.67058824"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="364.58602"
+     inkscape:cy="582.55539"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="50"
+     fit-margin-left="50"
+     fit-margin-right="50"
+     fit-margin-bottom="50"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6461"
+       originx="97.466684"
+       originy="-71.172909" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5403">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(97.466685,147.76211)">
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5601"
+       width="227.61295"
+       height="84.931198"
+       x="-49.680656"
+       y="-89.688591" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path56-6-1-0-5-6-2-8-2-7"
+       style="fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16738273"
+       d="M -83.872736,-104.90219 H 178.06458 v 15.345893 H -83.872736 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path58-7-8-8-6-5-2-1-7-8"
+       style="fill:#39a5dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26832992"
+       d="M -83.872737,-105.69594 H 178.06458 v 0.79381 H -83.872737 Z" />
+    <text
+       id="text72-5-9-1-5-4-1-2-4-4"
+       style="font-variant:normal;font-weight:normal;font-size:3.70636725px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
+       x="-65.901375"
+       y="-96.017143">
+      <tspan
+         id="tspan70-3-6-9-9-2-6-4-1-5"
+         sodipodi:role="line"
+         y="-96.017143"
+         x="-65.901375 -63.988468 -61.927158 -59.225224 -56.338688 -54.04755 -51.702122"
+         style="stroke-width:0.26474053">FEDORA</tspan>
+    </text>
+    <text
+       id="text76-5-4-9-9-2-2-7-0-0"
+       style="font-variant:normal;font-weight:bold;font-size:3.70636725px;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Bold;writing-mode:lr-tb;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
+       x="-50.740879"
+       y="-96.017143">
+      <tspan
+         id="tspan74-6-3-7-0-1-0-8-0-3"
+         sodipodi:role="line"
+         y="-96.017143"
+         x="-50.740879 -48.699497 -46.623692 -44.176918 -41.768162 -39.692421 -37.245583 -36.282749 -34.207008 -31.463354 -30.236425 -28.090002 -26.862951 -23.913134"
+         style="stroke-width:0.26474053">SERVER EDITION</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path92-67-3-7-9-0-0-6-1-2-0-3"
+       style="fill:#393f44;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83499759"
+       d="m -38.629135,-89.556352 h -45.243782 v 84.9312493 h 45.243782 z" />
+    <path
+       id="rect1040-6-7-4-4-0-7-7-5-4-6-7"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d1d1d1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.24988094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -78.76621,-97.596572 h 5.82084 v 0.5292 h -5.82084 z m 0,1.5875 h 5.82084 v 0.529203 h -5.82084 z m 0,-3.175 h 5.82084 v 0.5292 h -5.82084 z"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7887"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:61.99999619px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-97.479087,-131.76567)"><flowRegion
+         id="flowRegion7889"><rect
+           id="rect7891"
+           width="793.73541"
+           height="97.884308"
+           x="46.003998"
+           y="-23.061371" /></flowRegion><flowPara
+         id="flowPara7893"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light'">Domain dialog - January 2019</flowPara></flowRoot>    <g
+       transform="translate(7.4048037e-7,43.7962)"
+       id="g7672-9"
+       style="fill:#ec7a08" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,-48.438327,-125.05273)"><flowRegion
+         id="flowRegion1395"
+         style="fill:#888a85;stroke-width:2.24610949"><rect
+           id="rect1397"
+           width="510"
+           height="627.57593"
+           x="3"
+           y="381"
+           style="fill:#888a85;stroke-width:2.24610949" /></flowRegion><flowPara
+         id="flowPara1399"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Hardware</flowPara><flowPara
+         id="flowPara1401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Asset Tag</flowPara><flowPara
+         id="flowPara1405"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Machine ID</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771"
+         id="flowPara1425">Operating System</flowPara><flowPara
+         id="flowPara1407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771" /><flowPara
+         id="flowPara1409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Secure Shell Keys</flowPara><flowPara
+         id="flowPara1411"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Host Name</flowPara><flowPara
+         id="flowPara1413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Domain</flowPara><flowPara
+         id="flowPara1415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">System Time</flowPara><flowPara
+         id="flowPara1417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Power Options</flowPara><flowPara
+         id="flowPara1419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Performance Profiles</flowPara><flowPara
+         id="flowPara1421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:OpenSans;-inkscape-font-specification:OpenSans;text-align:end;text-anchor:end;fill:#888a85;stroke-width:5.04500771">Store Performance Data</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,15.061675,-125.05274)"><flowRegion
+         id="flowRegion1395-6"
+         style="fill:#888a85;stroke-width:2.24610949"><rect
+           id="rect1397-7"
+           width="583.05902"
+           height="667.28192"
+           x="3"
+           y="381"
+           style="fill:#888a85;stroke-width:2.24610949" /></flowRegion><flowPara
+         id="flowPara1421-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#39a5dc;fill-opacity:1;stroke-width:5.04500771">Dell Inc. PowerEdge T20</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5543">7RYT0Z1</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5545">f2260f68c96844019c5d57fddc5584f7</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5547">Fedora 28 (Server Edition)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#888a85;stroke-width:5.04500771"
+         id="flowPara5549" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#39a5dc;fill-opacity:1;stroke-width:5.04500771"
+         id="flowPara5551">Show fingerprints</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#babdb6;stroke-width:5.04500771"
+         id="flowPara5553">pete (pete.twinpeaks.io)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#39a5dc;fill-opacity:1;stroke-width:5.04500771"
+         id="flowPara5555">cockpit.lan</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#39a5dc;fill-opacity:1;stroke-width:5.04500771"
+         id="flowPara5557">2019-01-16 17:26</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#888a85;stroke-width:5.04500771"
+         id="flowPara5559" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5561">none</flowPara></flowRoot>    <rect
+       ry="0.26458332"
+       rx="0.31987658"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="-26.982395"
+       x="14.948958"
+       height="6.614583"
+       width="22.225"
+       id="rect8074-5-7-4-7-2"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2373-6-6);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,18.161036,-27.506009)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       xml:space="preserve"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-3-9-6"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-0-6-1"><rect
+           style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-7-0-8"
+           width="45.403828"
+           height="14.742966"
+           x="-3.5587871"
+           y="9.428607" /></flowRegion><flowPara
+         id="flowPara6934-2-4-4-2-8-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d5258;fill-opacity:1">Restart</flowPara></flowRoot>    <rect
+       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#b7b7b7;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5599"
+       width="0.26458329"
+       height="6.8791676"
+       x="29.897917"
+       y="-27.114687" />
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.26458329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5603-9"
+       width="95.779167"
+       height="31.220833"
+       x="82.153122"
+       y="-41.534477" />
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.26458329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5603-9-2"
+       width="95.779167"
+       height="31.220839"
+       x="82.153122"
+       y="-78.576141" />
+    <rect
+       y="20.774897"
+       x="-14.287501"
+       height="65.370445"
+       width="147.90207"
+       id="rect7037"
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+    <g
+       transform="matrix(0.32977042,0,0,0.35277777,-514.63169,-62.392455)"
+       id="g7889"
+       style="stroke-width:1.0342958">
+      <rect
+         style="color:#000000;overflow:visible;vector-effect:none;fill:#f5f5f5;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.55144382;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect7037-5"
+         width="448.50009"
+         height="31.500002"
+         x="1517.25"
+         y="235.74997" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="text7582-1-4-6"
+         y="254.70352"
+         x="1531.1364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.375px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#393f44;fill-opacity:1;stroke:none;stroke-width:0.77572185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#393f44;fill-opacity:1;stroke-width:0.77572185px"
+           y="254.70352"
+           x="1531.1364"
+           id="tspan7580-0-2-2"
+           sodipodi:role="line">Domain</tspan></text>
+    </g>
+    <rect
+       transform="scale(1,-1)"
+       ry="0.13229164"
+       rx="0.13229164"
+       y="-83.08419"
+       x="111.52188"
+       height="6.6144147"
+       width="16.007118"
+       id="rect3507-1-3-5"
+       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:url(#linearGradient3601-9-4-2);fill-opacity:1;stroke:#bbbbbb;stroke-width:0.26475191;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-1-6-9-6-2-0-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,112.96843,76.071015)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-4-7-9-4-2-7-1-0"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="17.571392"
+           width="55.465302"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-2-8-1-9-0-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+         id="flowPara6934-2-4-4-5-7-1-9-1-9-1-0">Close</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499998, 1.05999997;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 34.53709,-35.875436 21.166667,0.02402 v 51.059315"
+       id="path1339"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499998, 1.05999995;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 52.925417,13.727338 2.64584,2.645839 2.64583,-2.645839 z"
+       id="rect1341"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,-42.732501,-9.0507598)"><flowRegion
+         id="flowRegion1395-2"
+         style="fill:#2e3436;stroke-width:2.24610949"><rect
+           id="rect1397-3"
+           width="496.17105"
+           height="248.82367"
+           x="3"
+           y="381"
+           style="fill:#2e3436;stroke-width:2.24610949" /></flowRegion><flowPara
+         id="flowPara1399-7"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Type</flowPara><flowPara
+         id="flowPara1401-5"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Domain</flowPara><flowPara
+         id="flowPara1405-9"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Login Format</flowPara><flowPara
+         id="flowPara1421-2"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Server Software</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara1133">Client Software</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-3-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,20.767493,-9.0507698)"><flowRegion
+         id="flowRegion1395-6-3"
+         style="fill:#888a85;stroke-width:2.24610949"><rect
+           id="rect1397-7-1"
+           width="373.41144"
+           height="271.81042"
+           x="3"
+           y="381"
+           style="fill:#888a85;stroke-width:2.24610949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5543-4">Kerberos</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5545-7">cockpit.lan</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5547-8"><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic'"
+   id="flowSpan1203">username</flowSpan>@cockpit.lan</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara1183">ipa</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5561-0">sssd</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-3-9-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,-8.0753583,22.940677)"><flowRegion
+         id="flowRegion1395-6-3-6"
+         style="fill:#39a5dc;fill-opacity:1;stroke-width:2.24610949"><rect
+           id="rect1397-7-1-7"
+           width="421.70279"
+           height="76.398911"
+           x="3"
+           y="381"
+           style="fill:#39a5dc;fill-opacity:1;stroke-width:2.24610949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#39a5dc;fill-opacity:1;stroke-width:5.04500771"
+         id="flowPara5561-0-9">Leave Domain</flowPara></flowRoot>    <text
+       id="text298-5-3-5-02-0"
+       style="font-variant:normal;font-weight:normal;font-size:4.62561417px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
+       x="-72.396042"
+       y="18.318903"
+       transform="rotate(-90)">
+      <tspan
+         id="tspan296-9-1-4-7-8"
+         y="18.318903"
+         x="-72.396042"
+         style="stroke-width:0.26474053"></tspan>
+    </text>
+    <rect
+       y="114.70197"
+       x="-14.287498"
+       height="97.631256"
+       width="147.90205"
+       id="rect7037-6"
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+    <rect
+       y="114.70791"
+       x="-14.293349"
+       height="10.839283"
+       width="147.64613"
+       id="rect7037-5-6"
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#f5f5f5;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.155339px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#393f44;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-9.9395428"
+       y="118.57539"
+       id="text7582-1-4-6-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(0.9781034,1.0223868)"><tspan
+         sodipodi:role="line"
+         id="tspan7580-0-2-2-8"
+         x="-9.9395428"
+         y="118.57539"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#393f44;fill-opacity:1;stroke-width:0.26458332px">Domain</tspan></text>
+    <rect
+       y="171.45671"
+       x="-7.5398488"
+       height="24.855421"
+       width="134.93956"
+       id="rect5637-3"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fdf2e5;fill-opacity:1;fill-rule:nonzero;stroke:#ec7a08;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-0-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,-42.732512,84.876319)"><flowRegion
+         id="flowRegion1395-2-8"
+         style="fill:#2e3436;stroke-width:2.24610949"><rect
+           id="rect1397-3-9"
+           width="496.17105"
+           height="248.82367"
+           x="3"
+           y="381"
+           style="fill:#2e3436;stroke-width:2.24610949" /></flowRegion><flowPara
+         id="flowPara1399-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Type</flowPara><flowPara
+         id="flowPara1401-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Domain</flowPara><flowPara
+         id="flowPara1405-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Login Format</flowPara><flowPara
+         id="flowPara1421-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771">Server Software</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:end;text-anchor:end;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara1133-2">Client Software</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-3-9-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,20.767502,84.876309)"><flowRegion
+         id="flowRegion1395-6-3-3"
+         style="fill:#888a85;stroke-width:2.24610949"><rect
+           id="rect1397-7-1-1"
+           width="373.41144"
+           height="271.81042"
+           x="3"
+           y="381"
+           style="fill:#888a85;stroke-width:2.24610949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5543-4-9">Kerberos</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5545-7-4">cockpit.lan</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5547-8-7"><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic'"
+   id="flowSpan1203-8">username</flowSpan>@cockpit.lan</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara1183-4">ipa</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5561-0-5">sssd</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-3-9-3-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#39a5dc;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,-8.0753673,118.98443)"><flowRegion
+         id="flowRegion1395-6-3-6-3"
+         style="fill:#39a5dc;fill-opacity:1;stroke-width:2.24610949"><rect
+           id="rect1397-7-1-7-6"
+           width="421.70279"
+           height="76.398911"
+           x="3"
+           y="381"
+           style="fill:#39a5dc;fill-opacity:1;stroke-width:2.24610949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#39a5dc;fill-opacity:1;stroke-width:5.04500771"
+         id="flowPara5561-0-9-1">Leave Domain</flowPara></flowRoot>    <text
+       id="text298-5-3-5-02-0-0"
+       style="font-variant:normal;font-weight:normal;font-size:4.62561417px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#030303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
+       x="16.362288"
+       y="168.48109">
+      <tspan
+         id="tspan296-9-1-4-7-8-6"
+         y="168.48109"
+         x="16.362288"
+         style="stroke-width:0.26474053"></tspan>
+    </text>
+    <rect
+       transform="scale(1,-1)"
+       ry="0.13229164"
+       rx="0.13229164"
+       y="-207.70296"
+       x="111.52193"
+       height="6.6144147"
+       width="16.007118"
+       id="rect3507-1-3-5-1"
+       style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:url(#linearGradient3601-9-4-2-3);fill-opacity:1;stroke:#bbbbbb;stroke-width:0.26475191;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-1-6-9-6-2-0-7-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,112.96849,200.68978)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-4-7-9-4-2-7-1-0-5"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="17.571392"
+           width="55.465302"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-2-8-1-9-0-0-6-4"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+         id="flowPara6934-2-4-4-5-7-1-9-1-9-1-0-7">Close</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393-3-9-9-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:2.24610949"
+       transform="matrix(0.11779628,0,0,0.11779628,-4.1398076,128.40833)"><flowRegion
+         id="flowRegion1395-6-3-3-5"
+         style="fill:#888a85;stroke-width:2.24610949"><rect
+           id="rect1397-7-1-1-6"
+           width="1096.6587"
+           height="148.27443"
+           x="3"
+           y="381"
+           style="fill:#888a85;stroke-width:2.24610949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.95331383px;line-height:1px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;stroke-width:5.04500771"
+         id="flowPara5561-0-5-2">Only users with local credentials will be able to log into this machine. This may also effect other services as DNS resolution settings and the list of trusted CAs may change</flowPara></flowRoot>    <g
+       id="g2171"
+       transform="matrix(0.26458333,0,0,0.26458333,-171.97916,597.17641)">
+      <rect
+         ry="1"
+         rx="1"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         y="-1554.0254"
+         x="637.5"
+         height="25"
+         width="109.98773"
+         id="rect8074-3-8-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:url(#linearGradient2407);fill-opacity:1;fill-rule:nonzero;stroke:#820000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(546.30298,-1554.584)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         xml:space="preserve"
+         id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-1-8-6"
+         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-4-8"><rect
+             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+             id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-2-3-9"
+             width="101.19637"
+             height="12.793217"
+             x="94.822716"
+             y="7.4286075" /></flowRegion><flowPara
+           id="flowPara6934-2-4-4-9-8-1-2"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">Leave Domain</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499998, 1.05999996;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 55.703756,90.589183 V 105.16621"
+       id="path1339-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499998, 1.05999994;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 52.925416,103.68566 2.64584,2.64585 2.64583,-2.64585 z"
+       id="rect1341-8"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
