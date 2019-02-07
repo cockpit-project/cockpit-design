@@ -275,9 +275,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="662.78052"
-     inkscape:cy="569.01323"
+     inkscape:zoom="1"
+     inkscape:cx="1229.8017"
+     inkscape:cy="477.88143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -314,7 +314,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -382,25 +382,25 @@
     <text
        id="text72-5-3"
        style="font-variant:normal;font-weight:normal;font-size:3.70636725px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
-       x="24.870415"
+       x="14.287082"
        y="1715.3002">
       <tspan
          id="tspan70-3-7"
          sodipodi:role="line"
          y="1715.3002"
-         x="24.870415 26.783318 28.844627 31.546591 34.433125 36.724293 39.069721"
+         x="14.287082 16.199986 18.261295 20.963259 23.849792 26.140961 28.486387"
          style="stroke-width:0.26474053">FEDORA</tspan>
     </text>
     <text
        id="text76-5-5"
        style="font-variant:normal;font-weight:bold;font-size:3.70636725px;font-family:'Open Sans';-inkscape-font-specification:OpenSans-Bold;writing-mode:lr-tb;fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26474053"
-       x="40.030933"
+       x="29.447599"
        y="1715.3002">
       <tspan
          id="tspan74-6-9"
          sodipodi:role="line"
          y="1715.3002"
-         x="40.030933 42.072346 44.148121 46.594929 49.003681 51.079456 53.526264 54.489063 56.564838 59.308399 60.535393 62.681786 63.908775 66.858665"
+         x="29.447599 31.489012 33.564785 36.011593 38.420345 40.49612 42.942928 43.905727 45.981503 48.725063 49.952057 52.09845 53.325439 56.27533"
          style="stroke-width:0.26474053">SERVER EDITION</tspan>
     </text>
     <path
@@ -446,11 +446,6 @@
            id="tspan88-6-9"></tspan>
       </text>
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path302-0-3"
-       style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0"
-       d="m 54.603049,1915.5865 v 0 c 0,0 0.0442,0 0.13244,0 H 303.70813 c 0.0883,0 0.13243,0 0.13243,0 v 0 c 0,0 -0.0442,0 -0.13243,0 H 54.735489 c -0.0883,0 -0.13244,0 -0.13244,0 z" />
     <text
        x="281.3511"
        id="text308-3-6-1"
@@ -1748,14 +1743,14 @@
        inkscape:export-xdpi="90"
        id="text4304-4-0-2-9-4-4-7-7-8-6-1-9-9-1-3"
        y="1853.9705"
-       x="270.69708"
+       x="278.63461"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.31554484px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2c9fd9;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11666-4-6-5-5-4-4-8-9-1-1"
          style="fill:#2c9fd9;fill-opacity:1;stroke-width:0.26458332px"
          y="1853.9705"
-         x="270.69708"
-         sodipodi:role="line">3 Snapshots kept, Max size 5 GiB</tspan></text>
+         x="278.63461"
+         sodipodi:role="line">3 Snapshots kept, size: 5.5 GiB</tspan></text>
     <rect
        style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3228"
@@ -1839,7 +1834,7 @@
        ry="0.30238056" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#babdb6;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 320.27447,1886.1323 -1.00357,1.0035 h -13.94539 v 5.8209 h 29.61368 v -5.8209 h -13.66118 z"
+       d="m 320.27447,1885.074 -2.0619,2.0618 h -12.88706 v 8.4667 h 29.61368 v -8.4667 h -12.60285 z"
        id="rect3362"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -1847,13 +1842,13 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="text4304-4-0-2-9-4-4-7-7-8-6-1-9-9-1-5-7-8"
-       y="1891.3148"
+       y="1892.3732"
        x="307.10648"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.31554484px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11666-4-6-5-5-4-4-8-9-1-9-7-5"
          style="fill:#2e3436;stroke-width:0.26458332px"
-         y="1891.3148"
+         y="1892.3732"
          x="307.10648"
          sodipodi:role="line">Delete Snapshot</tspan></text>
     <rect
@@ -1882,7 +1877,7 @@
          id="tspan4319-4-0-6-9-2-9-22-9-0-37-8-0"
          x="247.60706"
          y="1937.6021"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">Boot Order</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">Snapshot settings</tspan></text>
     <g
        id="g2178-6"
        transform="matrix(0.26458333,0,0,0.26458333,179.23182,2398.5827)">
@@ -2124,9 +2119,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.26458332">for each snapshot</tspan></text>
     <path
        style="fill:none;stroke:#2e3436;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26499999, 0.79499996;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 323.42948,1853.0046 h 36.90971 v 115.3584 h -6.63843"
+       d="m 328.19198,1853.0046 32.14721,0 v 115.3584 h -6.63843"
        id="path1148"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:0.26499998, 0.79499994;stroke-dashoffset:0;stroke-opacity:1"
        d="m 354.38606,1966.9078 -1.32292,1.3229 1.32292,1.3229 z"
