@@ -292,7 +292,7 @@
        xlink:href="#linearGradient3599"
        id="linearGradient474"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.18607818,0,0,0.35123884,114.50214,-1868.4882)"
+       gradientTransform="matrix(0.33959346,0,0,0.35123884,-26.750667,-1868.4882)"
        x1="845.72626"
        y1="270.28198"
        x2="845.72626"
@@ -306,8 +306,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="595.25247"
-     inkscape:cy="459.33153"
+     inkscape:cx="850.13537"
+     inkscape:cy="551.05109"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2127,7 +2127,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">Roll Back to Snapshot</tspan></text>
     <g
        id="g2178-6-9"
-       transform="matrix(0.26458333,0,0,0.26458333,157.53609,2373.7119)">
+       transform="matrix(0.26458333,0,0,0.26458333,140.07357,2373.7119)">
       <rect
          ry="1"
          rx="0.81395346"
@@ -2164,11 +2164,11 @@
       <rect
          transform="scale(1,-1)"
          ry="0.13229166"
-         rx="0.070088238"
+         rx="0.12791133"
          y="-1773.9022"
-         x="264.55023"
+         x="247.08775"
          height="6.3498316"
-         width="21.166559"
+         width="38.629059"
          id="rect3507-1-3-1"
          style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:url(#linearGradient474);fill-opacity:1;stroke:#00659c;stroke-width:0.26475194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke" />
       <flowRoot
@@ -2178,17 +2178,17 @@
          inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90"
-         transform="matrix(0.26458333,0,0,0.26458333,261.68713,1766.8887)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,245.28295,1766.8887)"><flowRegion
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01252329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-4-7-9-4-2-7-1-4-5-8-6-7"><rect
              y="9.428607"
              x="-3.5587871"
-             height="16.157179"
-             width="105.31633"
+             height="26.157179"
+             width="160.81633"
              id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-2-8-1-9-0-0-5-3-9-2-9"
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01252329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01252329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="flowPara6934-2-4-4-5-7-1-9-1-9-1-2-9-3-9-2">Roll Back</flowPara></flowRoot>    </g>
+           id="flowPara6934-2-4-4-5-7-1-9-1-9-1-2-9-3-9-2">Roll Back and Reboot</flowPara></flowRoot>    </g>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -2206,7 +2206,12 @@
          y="1953.3639"
          x="247.94295"
          sodipodi:role="line"
-         id="tspan1316">system state snapshot of 2019-01-26-10:22?</tspan></text>
+         id="tspan1316">system state snapshot of 2019-01-26-10:22 and</tspan><tspan
+         style="fill:#2e3436;stroke-width:0.26458332px"
+         y="1957.5083"
+         x="247.94295"
+         sodipodi:role="line"
+         id="tspan1337">reboot the system?</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 217.7836,1934.0221 3.06537,3.0654"
