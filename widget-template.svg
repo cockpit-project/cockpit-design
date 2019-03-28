@@ -14,7 +14,7 @@
    height="3229"
    id="svg7186"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 1149 3229"
    sodipodi:docname="widget-template.svg"
    inkscape:export-filename="/data/src/cockpit-design/patterns/listing.png"
@@ -337,6 +337,31 @@
        y2="242.83466"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.12603306,0,0,1,375.16219,1142.0001)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3464">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#def3ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.74999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect3466"
+         width="65.25"
+         height="18"
+         x="731.25"
+         y="727.75" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3573">
+      <rect
+         ry="0"
+         rx="0"
+         y="696.25"
+         x="898.5"
+         height="9"
+         width="18"
+         id="rect3575"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke"
+         transform="rotate(45)" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -346,8 +371,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="504.60305"
-     inkscape:cy="2790.1089"
+     inkscape:cx="594.06503"
+     inkscape:cy="3099.4797"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -385,7 +410,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3006,5 +3031,94 @@
            x="2.8284271"
            y="-121.54033" /></flowRegion><flowPara
          style="font-size:37.6162529px;fill:#00a8e1;fill-opacity:1"
-         id="flowPara4628">Tab One</flowPara></flowRoot>  </g>
+         id="flowPara4628">Tab One</flowPara></flowRoot>    <rect
+       y="-1447.0254"
+       x="499.5"
+       height="82"
+       width="159"
+       id="rect4689-7"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bbbbbb;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#def3ff;fill-opacity:1;fill-rule:nonzero;stroke:#bee1f4;stroke-width:0.55348885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4507-7"
+       width="66"
+       height="17.25"
+       x="730.875"
+       y="728.125"
+       clip-path="url(#clipPath3464)"
+       transform="matrix(2.4214559,0,0,1.3480482,-1270.6896,-2398.7)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="510.00009"
+       y="-1425.0283"
+       id="text1334-6-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="510.00009"
+         y="-1425.0283"
+         style="line-height:191.99999571%;text-align:start;letter-spacing:-0.25px;text-anchor:start;fill:#2e3436;stroke-width:1px"
+         id="tspan1434-15">Action</tspan><tspan
+         sodipodi:role="line"
+         x="510.00009"
+         y="-1401.0283"
+         style="line-height:191.99999571%;text-align:start;letter-spacing:-0.25px;text-anchor:start;fill:#2e3436;stroke-width:1px"
+         id="tspan3377-9">Another Action</tspan><tspan
+         sodipodi:role="line"
+         x="510.00009"
+         y="-1377.0283"
+         style="line-height:191.99999571%;text-align:start;letter-spacing:-0.25px;text-anchor:start;fill:#2e3436;stroke-width:1px"
+         id="tspan3381-7">Something Else Here</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke"
+       id="rect3536"
+       width="13.701031"
+       height="13.701031"
+       x="135.10121"
+       y="1134.5968"
+       rx="0.75"
+       ry="0.75"
+       transform="matrix(0.94280902,-0.94280902,0.94280902,0.94280902,-567.99989,-2386.8587)"
+       clip-path="url(#clipPath3573)" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-0-4-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(501.43555,-1488)"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-1-5-6"><rect
+           y="9.428607"
+           x="-3.5587871"
+           height="28.053982"
+           width="150.44112"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-7-8-5"
+           style="line-height:100%;text-align:start;text-anchor:start;fill:#000000" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000"
+         id="flowPara6934-2-4-4-0-1-63">Dropdown Menu</flowPara></flowRoot>    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text4304-4-0-2-9-4-4-7-7-7-4-8-9-9-1-7-3-9-0-3-0-3-0-8-0"
+       y="-1466.5254"
+       x="640"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9375px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan11666-4-6-5-0-1-0-8-3-9-2-1-2-4-5-7-9-8-5-9"
+         style="font-size:14px;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:1px"
+         y="-1466.5254"
+         x="640"
+         sodipodi:role="line"></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3736"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3738"><rect
+           id="rect3740"
+           width="44"
+           height="54"
+           x="751"
+           y="215" /></flowRegion><flowPara
+         id="flowPara3742"></flowPara></flowRoot>  </g>
 </svg>
