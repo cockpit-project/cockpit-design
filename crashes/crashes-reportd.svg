@@ -165,17 +165,17 @@
        xlink:href="#linearGradient8076-9"
        id="linearGradient14002"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6666667,0,0,0.92592589,-1362.0003,-2614.0828)"
+       gradientTransform="matrix(2.4523807,0,0,0.92592589,-2277.9644,-2614.0828)"
        x1="1133.7847"
        y1="1149.5696"
        x2="1133.7847"
        y2="1163.3622" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8076-9"
-       id="linearGradient14079"
+       xlink:href="#linearGradient8076"
+       id="linearGradient7316-3"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9564387,0,0,0.92592589,-1695.383,-2614.0828)"
+       gradientTransform="matrix(2.4959406,0,0,0.9259259,-1777.25,-2614.0827)"
        x1="1133.7847"
        y1="1149.5696"
        x2="1133.7847"
@@ -188,11 +188,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="922.45601"
-     inkscape:cy="488.36056"
+     inkscape:zoom="1"
+     inkscape:cx="851.24144"
+     inkscape:cy="598.74467"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2164-0-6-9-0-8-7-6-4"
      showgrid="false"
      fit-margin-top="50"
      fit-margin-left="50"
@@ -225,7 +225,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -768,21 +768,21 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.99999994px">Bug has already been reported</tspan></text>
       <g
          id="g2178-6-5-2-0-7-6-8-4-7"
-         transform="translate(445.82958,0.22835114)">
+         transform="translate(439.82958,0.22835114)">
         <rect
            ry="1"
-           rx="0.81395346"
+           rx="1.1976743"
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
            y="-1554.0254"
-           x="485.5"
+           x="440.5"
            height="25"
-           width="70"
+           width="102.99998"
            id="rect8074-5-7-4-1-5-6-7-4-4-8-2-7"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient14002);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient14002);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate" />
         <flowRoot
-           transform="translate(487.66772,-1556.0045)"
+           transform="translate(447.66772,-1556.0045)"
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
@@ -792,14 +792,14 @@
              id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-0-6-7-12-1-9-3-3-9-1"><rect
                style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
                id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-7-3-6-8-1-0-7-7-9-5"
-               width="69.799011"
-               height="18.632053"
+               width="94.547752"
+               height="18.80883"
                x="-3.5587871"
                y="9.428607" /></flowRegion><flowPara
              id="flowPara6934-2-4-4-2-8-2-5-8-9-9-9-0-9-9"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Cancel</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Report anyway</flowPara></flowRoot>      </g>
       <flowRoot
-         transform="translate(912.50697,-1554.5839)"
+         transform="translate(906.50697,-1554.5839)"
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
@@ -844,21 +844,22 @@
            y="-1605.0487"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.99999994"
            id="tspan14014-9">Do you want to report it as a new bug anyway?</tspan></text>
+      <rect
+         ry="1"
+         rx="1.4975644"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         y="-1554.0254"
+         x="989.50006"
+         height="25"
+         width="104.82951"
+         id="rect8074-3-8-6-9-2-5-8-4-9-9-5"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7316-3);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
       <g
          id="g2178-6-5-2-0-7-6-8-4-7-8"
-         transform="translate(534,0.22835114)">
-        <rect
-           ry="1"
-           rx="0.95547003"
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-           y="-1554.0254"
-           x="473.32959"
-           height="25"
-           width="82.170425"
-           id="rect8074-5-7-4-1-5-6-7-4-4-8-2-7-8"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient14079);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
+         transform="translate(512,0.22835114)"
+         style="fill:#ffffff">
         <flowRoot
            transform="translate(483.66772,-1556.0045)"
            inkscape:export-ydpi="90"
@@ -866,16 +867,17 @@
            inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
            xml:space="preserve"
            id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-3-0-4-4-3-1-6-0-4-1-5"
-           style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
-             id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-0-6-7-12-1-9-3-3-9-1-0"><rect
-               style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"><flowRegion
+             id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-0-6-7-12-1-9-3-3-9-1-0"
+             style="fill:#ffffff"><rect
+               style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
                id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-7-3-6-8-1-0-7-7-9-5-9"
-               width="69.799011"
-               height="18.632053"
+               width="98.613617"
+               height="20.046268"
                x="-3.5587871"
                y="9.428607" /></flowRegion><flowPara
              id="flowPara6934-2-4-4-2-8-2-5-8-9-9-9-0-9-9-6"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Report Bug</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Skip Reporting</flowPara></flowRoot>      </g>
     </g>
     <g
        id="g5222-1-8-6"
