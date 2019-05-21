@@ -76,19 +76,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1022-3-8-5-9"
-       x="-0.17999999"
-       width="1.36"
-       y="-0.18000001"
-       height="1.36">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.27781249"
-         id="feGaussianBlur1024-5-9-1-1" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter1022-3-5"
        x="-0.17999999"
        width="1.36"
@@ -226,16 +213,6 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8076-9"
-       id="linearGradient1631"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4761905,0,0,0.92592589,-1171.2672,-690.08282)"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient8076">
       <stop
          style="stop-color:#1baae6;stop-opacity:1"
@@ -246,29 +223,6 @@
          offset="1"
          id="stop8080" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1703"
-       x="-0.041655943"
-       width="1.0833119"
-       y="-0.10721384"
-       height="1.2144277">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="10.361916"
-         id="feGaussianBlur1705" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8076"
-       id="linearGradient8082-7-0"
-       x1="1133.7847"
-       y1="1149.5696"
-       x2="1133.7847"
-       y2="1163.3622"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.61736114,0,0,0.24498456,-57.149985,149.47966)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8076"
@@ -278,7 +232,7 @@
        x2="1133.7847"
        y2="1163.3622"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.61736114,0,0,0.24498456,-57.149959,-46.312002)" />
+       gradientTransform="matrix(0.61736114,0,0,0.24498456,-57.149959,51.583845)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8076-9"
@@ -455,8 +409,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1019.5"
-     inkscape:cy="3554.7406"
+     inkscape:cx="1777.695"
+     inkscape:cy="907.7406"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -496,7 +450,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1545,7 +1499,7 @@
            x="402.97397"
            y="-122.3653"
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
-           id="tspan3680-2-2-3-8-0">Mask (prevent running)</tspan></text>
+           id="tspan3680-2-2-3-8-0">Disallow running (mask)</tspan></text>
       <rect
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke"
          id="rect3536-8-5-1-5-3"
@@ -1772,30 +1726,17 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="238.45097"
-       y="596.89539"
-       id="text4304-4-0-2-5-3-2-5-3-6-8-8-1-5-7-85-5-3"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="238.45097"
-         y="596.89539"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="tspan3646-7-9-92-6-0-3">Masked</tspan></text>
-    <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="text4304-4-0-2-9-4-4-7-7-7-4-8-9-9-1-7-3-9-0-3-0-3-0-8-0-7-1-6-8"
        y="597.30237"
-       x="254.52919"
+       x="220.13342"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.89388013px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan11666-4-6-5-0-1-0-8-3-9-2-1-2-4-5-7-9-8-5-9-0-1-4-0"
          style="font-size:3.70416665px;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
          y="597.30237"
-         x="254.52919"
+         x="220.13342"
          sodipodi:role="line"></tspan></text>
     <text
        xml:space="preserve"
@@ -1912,35 +1853,6 @@
        d="M 82.814582,581.03007 H 377.82495"
        id="path1718-6-4-5-1-2-1-6"
        inkscape:connector-curvature="0" />
-    <g
-       transform="translate(0,394.22914)"
-       id="g3296-0">
-      <rect
-         transform="scale(-1,1)"
-         ry="3.2857449"
-         rx="3.2857449"
-         y="198.31042"
-         x="-236.2729"
-         height="6.3499999"
-         width="10.583333"
-         id="rect21-6-3-2"
-         style="opacity:1;vector-effect:none;fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers" />
-      <ellipse
-         ry="1.8520832"
-         rx="1.8520833"
-         cy="201.48541"
-         cx="228.8645"
-         id="path839-7-5-6-0-0-7"
-         style="opacity:0.1;vector-effect:none;fill:#030303;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;filter:url(#filter1022-3-8-5-9)" />
-      <ellipse
-         transform="scale(-1,1)"
-         ry="1.8520832"
-         rx="1.8520833"
-         cy="201.48541"
-         cx="-228.86449"
-         id="path839-2-3-6"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2171,143 +2083,139 @@
        y="84.010361"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <g
-       id="g6154"
-       transform="translate(0,97.895847)">
-      <rect
-         style="opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:0.50196078;stroke:#bbbbbb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         id="rect1655-8"
-         width="191.82292"
-         height="85.989586"
-         x="483.52606"
-         y="179.6573"
-         rx="0.26458335"
-         ry="0.26458332" />
-      <rect
-         style="opacity:0.5;fill:#030303;fill-opacity:1;stroke:#000000;stroke-width:1.0675422;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078;filter:url(#filter1703-3)"
-         id="rect7749-1-3-7-9-7-8"
-         width="597"
-         height="231.95325"
-         x="60.5"
-         y="51.5"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         transform="matrix(0.26458334,0,0,0.23216266,483.39376,180.80882)" />
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
-         id="rect7749-1-3-7-9-6"
-         width="157.95625"
-         height="53.168861"
-         x="499.40106"
-         y="191.82814"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         style="color:#000000;overflow:visible;vector-effect:none;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round"
-         id="rect3193-0"
-         width="157.69167"
-         height="11.1125"
-         x="499.53339"
-         y="191.69585" />
-      <rect
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.97244095;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50280098"
-         id="rect1142-4"
-         width="42.333336"
-         height="22.489584"
-         x="614.89166"
-         y="222.38754" />
-      <g
-         id="g1620-6"
-         transform="matrix(0.26458334,0,0,0.26458334,486.14802,136.27241)">
-        <rect
-           ry="1"
-           rx="0.99999994"
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-           y="369.97467"
-           x="465.09018"
-           height="25"
-           width="62"
-           id="rect8074-5-7-7"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1631-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
-        <flowRoot
-           transform="translate(455.70346,367.99549)"
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-           xml:space="preserve"
-           id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-6"
-           style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"><flowRegion
-             id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-09"><rect
-               style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
-               id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-75"
-               width="88.183784"
-               height="17.571392"
-               x="-3.5587871"
-               y="9.428607" /></flowRegion><flowPara
-             id="flowPara6934-2-4-4-2-9"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1">Cancel</flowPara></flowRoot>      </g>
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-7-0-9);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect8074-3-0-7"
-         width="25.929167"
-         height="6.6145835"
-         x="627.19482"
-         y="234.1615"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         rx="0.26458335"
-         ry="0.26458335" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="504.28448"
-         y="198.30032"
-         id="text4316-4-8-1-2-1-5-27-3-11-8"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           sodipodi:role="line"
-           id="tspan4319-4-0-6-9-2-9-22-9-0-5"
-           x="504.28448"
-           y="198.30032"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px">Ovveride Vendor Preset</tspan></text>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot4822-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="matrix(0.26458334,0,0,0.26458334,-19.074035,-269.81722)"><flowRegion
-           id="flowRegion4824-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
-             id="rect4826-8"
-             width="503"
-             height="280"
-             x="1979"
-             y="1811"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
-           id="flowPara4828-3">The service <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-   id="flowSpan4856-7">Docker Application Container Engine</flowSpan> has been enabled by the system.</flowPara><flowPara
-           id="flowPara4918-9" /><flowPara
-           id="flowPara4920-3">Would you like to stop and disable this service?</flowPara></flowRoot>      <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-1-7"
-         xml:space="preserve"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         transform="matrix(0.26458334,0,0,0.26458334,603.27292,234.0137)"><flowRegion
-           id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-8"><rect
-             y="7.4286075"
-             x="94.822716"
-             height="20.571392"
-             width="89.175537"
-             id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-2-7"
-             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-           id="flowPara6934-2-4-4-9-8-4">Stop Service</flowPara></flowRoot>    </g>
     <rect
+       ry="0.26458332"
+       rx="0.26458335"
+       y="277.55316"
+       x="483.52606"
+       height="85.989586"
+       width="191.82292"
+       id="rect1655-8"
+       style="opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:0.50196078;stroke:#bbbbbb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+    <rect
+       transform="matrix(0.26458334,0,0,0.23216266,483.39376,278.70467)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       y="51.5"
+       x="60.5"
+       height="231.95325"
+       width="597"
+       id="rect7749-1-3-7-9-7-8"
+       style="opacity:0.5;fill:#030303;fill-opacity:1;stroke:#000000;stroke-width:1.0675422;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078;filter:url(#filter1703-3)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       y="289.724"
+       x="499.40106"
+       height="53.168861"
+       width="157.95625"
+       id="rect7749-1-3-7-9-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+    <rect
+       y="289.59171"
+       x="499.53339"
+       height="11.1125"
+       width="157.69167"
+       id="rect3193-0"
+       style="color:#000000;overflow:visible;vector-effect:none;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round" />
+    <rect
+       y="320.28339"
+       x="614.89166"
+       height="22.489584"
+       width="42.333336"
+       id="rect1142-4"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.97244095;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50280098" />
+    <g
+       transform="matrix(0.26458334,0,0,0.26458334,486.14802,234.16826)"
+       id="g1620-6">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1631-5);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect8074-5-7-7"
+         width="62"
+         height="25"
+         x="465.09018"
+         y="369.97467"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         rx="0.99999994"
+         ry="1" />
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
+         id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6-6"
+         xml:space="preserve"
+         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         transform="translate(455.70346,367.99549)"><flowRegion
+           id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2-09"><rect
+             y="9.428607"
+             x="-3.5587871"
+             height="17.571392"
+             width="88.183784"
+             id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9-75"
+             style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
+           id="flowPara6934-2-4-4-2-9">Cancel</flowPara></flowRoot>    </g>
+    <rect
+       ry="0.26458335"
+       rx="0.26458335"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       y="332.05734"
+       x="627.19482"
+       height="6.6145835"
+       width="25.929167"
+       id="rect8074-3-0-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-7-0-9);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text4316-4-8-1-2-1-5-27-3-11-8"
+       y="296.19617"
+       x="504.28448"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px"
+         y="296.19617"
+         x="504.28448"
+         id="tspan4319-4-0-6-9-2-9-22-9-0-5"
+         sodipodi:role="line">Ovveride Vendor Preset</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458334,0,0,0.26458334,-19.074035,-171.92137)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot4822-3"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRegion4824-3"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="1811"
+           x="1979"
+           height="280"
+           width="503"
+           id="rect4826-8" /></flowRegion><flowPara
+         id="flowPara4828-3">The service <flowSpan
+   id="flowSpan4856-7"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'">Docker Application Container Engine</flowSpan> has been enabled by the system.</flowPara><flowPara
+         id="flowPara4918-9" /><flowPara
+         id="flowPara4920-3">Would you like to stop and disable this service?</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458334,0,0,0.26458334,603.27292,331.90955)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
+       xml:space="preserve"
+       id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-1-7"
+       style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7-8"><rect
+           style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
+           id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-2-7"
+           width="89.175537"
+           height="20.571392"
+           x="94.822716"
+           y="7.4286075" /></flowRegion><flowPara
+         id="flowPara6934-2-4-4-9-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">Stop Service</flowPara></flowRoot>    <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        y="763.98999"
@@ -2588,7 +2496,7 @@
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
            y="-105.43203"
            x="402.97397"
-           sodipodi:role="line">Mask (prevent running)</tspan></text>
+           sodipodi:role="line">Disallow running (mask)</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path1718-6-4-5-1-4-8"
@@ -2668,7 +2576,7 @@
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
            y="-105.43203"
            x="402.97397"
-           sodipodi:role="line">Mask (prevent running)</tspan></text>
+           sodipodi:role="line">Disallow running (mask)</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path1718-6-4-5-1-4-8-9"
@@ -2719,7 +2627,7 @@
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
            y="-122.3653"
            x="402.97397"
-           sodipodi:role="line">Mask (prevent running)</tspan></text>
+           sodipodi:role="line">Disallow running (mask)</tspan></text>
       <rect
          clip-path="url(#clipPath3573-2-35-0)"
          transform="matrix(0.24945156,-0.24945156,0.24945156,0.24945156,117.75314,-376.98191)"
@@ -2776,7 +2684,7 @@
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
            y="-122.3653"
            x="402.97397"
-           sodipodi:role="line">Unmask (enable running)</tspan></text>
+           sodipodi:role="line">Allow running (unmask)</tspan></text>
       <rect
          clip-path="url(#clipPath3573-2-35-0-7)"
          transform="matrix(0.24945156,-0.24945156,0.24945156,0.24945156,117.75314,-376.98191)"
@@ -2862,7 +2770,7 @@
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
            y="-105.43203"
            x="402.97397"
-           sodipodi:role="line">Mask (prevent running)</tspan></text>
+           sodipodi:role="line">Disallow running (mask)</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path1718-6-4-5-1-4-8-9-7"
@@ -2891,143 +2799,7 @@
            height="389"
            x="2003"
            y="1761" /></flowRegion><flowPara
-         id="flowPara4812" /></flowRoot>    <g
-       id="g6181"
-       transform="translate(0,185.20836)">
-      <rect
-         ry="0.26458332"
-         rx="0.26458335"
-         y="372.80316"
-         x="483.52603"
-         height="85.989586"
-         width="191.82292"
-         id="rect1655"
-         style="opacity:0.5;vector-effect:none;fill:#000000;fill-opacity:0.50196078;stroke:#bbbbbb;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
-      <rect
-         transform="matrix(0.26458334,0,0,0.24363085,483.39375,373.31826)"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         y="51.5"
-         x="60.5"
-         height="231.95325"
-         width="597"
-         id="rect7749-1-3-7-9-7"
-         style="opacity:0.5;fill:#030303;fill-opacity:1;stroke:#000000;stroke-width:1.04211366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078;filter:url(#filter1703)" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         y="384.974"
-         x="499.40103"
-         height="55.814693"
-         width="157.95625"
-         id="rect7749-1-3-7-9"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
-      <rect
-         y="384.84171"
-         x="499.53336"
-         height="11.1125"
-         width="157.69167"
-         id="rect3193"
-         style="color:#000000;overflow:visible;vector-effect:none;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round" />
-      <rect
-         y="418.1792"
-         x="614.89166"
-         height="22.489584"
-         width="42.333336"
-         id="rect1142"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.97244095;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50280098" />
-      <g
-         transform="matrix(0.26458334,0,0,0.26458334,486.14802,332.06405)"
-         id="g1620">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1631);fill-opacity:1;fill-rule:nonzero;stroke:#b7b7b7;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect8074-5-7"
-           width="62"
-           height="25"
-           x="465.09018"
-           y="369.97467"
-           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"
-           rx="0.99999994"
-           ry="1" />
-        <flowRoot
-           style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d5258;fill-opacity:1;stroke:none"
-           id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-6"
-           xml:space="preserve"
-           inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"
-           transform="translate(455.70346,367.99549)"><flowRegion
-             id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-2"><rect
-               y="9.428607"
-               x="-3.5587871"
-               height="17.571392"
-               width="88.183784"
-               id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-9"
-               style="font-size:12.5px;line-height:100%;text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#4d5258;fill-opacity:1"
-             id="flowPara6934-2-4-4-2">Cancel</flowPara></flowRoot>      </g>
-      <rect
-         ry="0.26458335"
-         rx="0.26458335"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         y="429.95316"
-         x="627.19476"
-         height="6.6145835"
-         width="25.929167"
-         id="rect8074-3-0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8082-7-0);fill-opacity:1;fill-rule:nonzero;stroke:#267da1;stroke-width:0.26458332;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         id="text4316-4-8-1-2-1-5-27-3-11"
-         y="391.44617"
-         x="504.28445"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'open sans';-inkscape-font-specification:'open sans Bold';fill:#000000;stroke-width:0.26458332px"
-           y="391.44617"
-           x="504.28445"
-           id="tspan4319-4-0-6-9-2-9-22-9-0"
-           sodipodi:role="line">Unmask and Enable</tspan></text>
-      <flowRoot
-         transform="matrix(0.26458334,0,0,0.26458334,-19.074053,-76.671408)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="flowRoot4822"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="flowRegion4824"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             y="1811"
-             x="1979"
-             height="280"
-             width="503"
-             id="rect4826" /></flowRegion><flowPara
-           id="flowPara4828">The service <flowSpan
-   id="flowSpan4856"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'">Docker Application Container Engine</flowSpan> is currently masked, preventing it from running.</flowPara><flowPara
-           id="flowPara4918" /><flowPara
-           id="flowPara4920">Would you like to unmask and start this service?</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458334,0,0,0.26458334,603.27293,429.80536)"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/andreasn/SparkleShare/cockpit-design/containers/docker-volumes.png"
-         xml:space="preserve"
-         id="flowRoot6151-5-2-0-1-5-2-6-8-9-7-4-4-7-8-4-8-7-5-4-1"
-         style="font-style:normal;font-weight:normal;font-size:13.28389072px;line-height:100%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-           id="flowRegion6153-9-48-4-43-8-86-2-2-1-5-4-8-2-94-6-9-3-1-6-7"><rect
-             style="line-height:100%;text-align:center;text-anchor:middle;fill:#000000"
-             id="rect6155-9-4-9-3-0-00-9-2-5-94-7-0-4-5-9-5-3-3-3-2"
-             width="89.175537"
-             height="20.571392"
-             x="94.822716"
-             y="7.4286075" /></flowRegion><flowPara
-           id="flowPara6934-2-4-4-9-8"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">Start Service</flowPara></flowRoot>    </g>
-    <text
+         id="flowPara4812" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69171524px;line-height:normal;font-family:'Open Sans';-inkscape-font-specification:OpenSans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#030303;fill-opacity:1;stroke:none;stroke-width:0.26474053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="-0.44462094"
@@ -3220,15 +2992,7 @@
            height="277"
            width="556"
            id="rect4826-8-6" /></flowRegion><flowPara
-         id="flowPara4828-3-1">This service<flowSpan
-   id="flowSpan4856-7-0"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"> </flowSpan>has been statically enabled by <flowSpan
-   id="flowSpan976"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'">docker.service</flowSpan>.</flowPara><flowPara
-         id="flowPara4918-9-6" /><flowPara
-         id="flowPara4920-3-1">Would you like mask <flowSpan
-   id="flowSpan980"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'">Docker Storage Setup</flowSpan> to prevent prevent the service from running?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4920-3-1">Warning here about masking services. You should really know what you're doing. Masking can break your system. La la la.</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458334,0,0,0.26458334,603.27287,707.61786)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -3306,7 +3070,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.98334169px;line-height:31.93336678px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.26458332">Docker Application Container Engine</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a30000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="112.57706"
        y="231.63051"
        id="text4304-4-0-2-5-3-2-5-3-6-2-0-7-04-5"
@@ -3315,7 +3079,7 @@
          sodipodi:role="line"
          x="112.57706"
          y="231.63051"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#a30000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
          id="tspan4624-6-5-1-1-8-0-29-0">Failed to start</tspan></text>
     <text
        xml:space="preserve"
@@ -3562,7 +3326,7 @@
            style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
            y="-105.43203"
            x="402.97397"
-           sodipodi:role="line">Mask (prevent running)</tspan></text>
+           sodipodi:role="line">Disallow running (mask)</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path1718-6-4-5-1-4-8-9-75"
@@ -3855,7 +3619,7 @@
          x="402.974"
          y="543.85535"
          style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
-         id="tspan3713-6-4-3-8">Mask (prevent running)</tspan></text>
+         id="tspan3713-6-4-3-8">Disallow running (mask)</tspan></text>
     <path
        style="fill:#ededed;fill-opacity:1;stroke:#d1d1d1;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 400.05002,537.90304 h 43.39167"
@@ -3897,5 +3661,31 @@
          y="534.06586"
          style="line-height:191.99999571%;text-align:start;letter-spacing:-0.06614584px;text-anchor:start;fill:#2e3436;stroke-width:0.26458335px"
          id="tspan3680-2-2-1-6-3">Reload</tspan></text>
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#703fec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="499.48978"
+       y="272.4595"
+       id="text4304-4-0-2-5-3-2-5-3-6-2-0-7-0-4-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="499.48978"
+         y="272.4595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.30729175px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#703fec;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         id="tspan4624-6-5-1-1-8-0-6-4-6">When the vendor preset toggle is clicked, a dialog appears.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1661"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#703fec;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       transform="matrix(0.26458334,0,0,0.26458334,-21.732967,-128.9788)"><flowRegion
+         id="flowRegion1663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#703fec;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"><rect
+           id="rect1665"
+           width="587"
+           height="396"
+           x="1970"
+           y="2900"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'open sans';-inkscape-font-specification:'open sans, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#703fec;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" /></flowRegion><flowPara
+         id="flowPara1669">When a service is asked to be masked. Perhaps a static service should have an extra warning with dependencies. Or perhaps we should just drop the masking action from Cockpit (but keep the status, as we need to reflect the state of the system).</flowPara></flowRoot>  </g>
 </svg>
