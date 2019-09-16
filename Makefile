@@ -8,6 +8,6 @@ install-fonts:
 
 install-palette:
 	mkdir -p ~/.config/inkscape/palettes
-	cp -v PatternFly_Palette.gpl ~/.config/inkscape/palettes
+	cp -v PatternFly*_Palette.gpl ~/.config/inkscape/palettes
 	mkdir -p ~/.gimp-2.8/palettes
-	cp -v PatternFly_Palette.gpl ~/.gimp-2.8/palettes
+	cp -v PatternFly*_Palette.gpl ~/.gimp-2.8/palettes
