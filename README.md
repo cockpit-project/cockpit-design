@@ -1,8 +1,8 @@
 cockpit-design
 ==============
 
-Mockups and graphics for Cockpit
-
+Mockups and graphics for Cockpit.
+Do Follow the steps given below:
 
 Install fonts
 =============
