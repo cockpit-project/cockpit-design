@@ -1,20 +1,31 @@
 GIMP Palette
-Name: PatternFly 4
-Columns: 2
+Name: PatternFly 4: Base
+Columns: 1
 #
-255 255 255	Pure White
-  0   0   0	Pure Black
-249 249 249	Near-White
- 27  27  27	Text
- 37  92 203	Primary (Link & Button BG)
- 22  60 127	Primary Dark (Link Hover & Button Hover)
-113 116 119	Secondary (Secondary Text & Icons & Disabled BG)
- 61  64  67	Secondary Dark (& Disabled Text)
-129 212   0	Success
- 65 106   0	Success Dark
-113 181 247	Information
-  5  65 103	Information Dark
-240 175   0	Warning
-120  89   0	Warning Dark
-205  54  11	Danger
- 74  16   0	Danger Dark
+255 255 255	White
+  0   0   0	Black
+  0 102 204 blue-400 primary-color--100 link--Color #0066cc
+  0  64 128 blue-500 primary-color--200 #004080
+ 21  21  21 black-900 Color--100 #151515
+106 110 115 black-600 Color--200 #6a6e73
+240 240 240 black-200 BackgroundColor--200 #f0f0f0
+255 255 255 white BackgroundColor--100 #ffffff
+ 21  21  21 black-900 BackgroundColor--dark-100 #151515
+ 60  63  66 black-800 BackgroundColor--dark-200 #3c3f42
+ 33  36  39 black-850 BackgroundColor--dark-300 #212427
+ 79  82  85 black-700 BackgroundColor--dark-400 #4f5255
+ 71   0   0 red-400 danger-color-300 (alert icon) #470000
+163   0   0 red-200 danger-color--200 (alert title) #a30000
+201  25  11 red-100 danger-color--100 (alert icon background) #c9190b
+  0  55  55 cyan-500 default-color--3000 (alert title and icon) #003737
+  0 149 150 cyan-300 default-color--200 #009596
+115 197 197 cyan-200 default-color--100 (alert icon background) #73c5c5
+  0  41  82 blue-600 info-color--200 (alert title and icon) #002952
+ 43 154 243 blue-300 info-color--100 (alert icon background) #2b9af3
+ 30  79  24 green-600 success-color--200 (alert title and icon) #1e4f18
+ 62 134  53 green-500 success-color--100 (alert icon background) #3e8635
+121  86   0 gold-600 warning-color--200 (alert title and icon) #795600
+240 171   0 gold-400 warning-color--100 (alert icon background) #f0ab00
+106 110 115 black-600 disabled-color--100 #6a6e73
+210 210 210 black-300 disabled-color--200 #d2d2d2
+240 240 240 black-200 disabled-color--300 #f0f0f0
