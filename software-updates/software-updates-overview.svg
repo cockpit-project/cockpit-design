@@ -9,17 +9,31 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="211.66667mm"
-   height="176.74167mm"
+   height="212.19583mm"
    id="svg7186"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   viewBox="0 0 800.00003 668.00002"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   viewBox="0 0 800.00003 802.00001"
    sodipodi:docname="software-updates-overview.svg"
-   inkscape:export-filename="software-updates-overview-reboot-dialog.png"
+   inkscape:export-filename="software-updates-overview.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs7188">
+    <marker
+       style="overflow:visible;"
+       id="marker2124"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path2122" />
+    </marker>
     <rect
        id="rect2470"
        height="49.894531"
@@ -88,24 +102,6 @@
          offset="1"
          id="stop2066" />
     </linearGradient>
-    <clipPath
-       id="clipPath438-3-3-1"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="clip-rule:evenodd"
-         inkscape:connector-curvature="0"
-         id="path436-6-6-5"
-         d="M 0,0 H 3508.333 V 2476.4705 H 0 Z" />
-    </clipPath>
-    <clipPath
-       id="clipPath552-7-9"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="clip-rule:evenodd"
-         inkscape:connector-curvature="0"
-         id="path550-5-4"
-         d="m 2476.4705,797.34845 h 50.0298 v 50.02972 h -50.0298 z" />
-    </clipPath>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1923"
@@ -149,24 +145,6 @@
        y1="971.98846"
        x2="51.812389"
        y2="974.28699" />
-    <clipPath
-       id="clipPath438-3-3-1-8"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="clip-rule:evenodd"
-         inkscape:connector-curvature="0"
-         id="path436-6-6-5-6"
-         d="M 0,0 H 3508.333 V 2476.4705 H 0 Z" />
-    </clipPath>
-    <clipPath
-       id="clipPath552-7-9-0"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="clip-rule:evenodd"
-         inkscape:connector-curvature="0"
-         id="path550-5-4-4"
-         d="m 2476.4705,797.34845 h 50.0298 v 50.02972 h -50.0298 z" />
-    </clipPath>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1923"
@@ -210,51 +188,6 @@
        y1="971.98846"
        x2="51.812389"
        y2="974.28699" />
-    <symbol
-       id="exclamation-triangle"
-       viewBox="0 0 100 100">
-      <title
-         id="title682">exclamation-triangle</title>
-      <path
-         d="M19.498 20a1.5 1.5 0 001.3-2.25l-7.499-13a1.5 1.5 0 00-2.598 0l-7.499 13a1.5 1.5 0 001.3 2.25h14.996zm-6.74-5.5h-1.517a.375.375 0 01-.374-.355l-.232-4.25a.375.375 0 01.375-.395h1.98c.215 0 .386.18.375.395l-.232 4.25a.375.375 0 01-.374.355zM12 17.937a1.437 1.437 0 110-2.875 1.437 1.437 0 010 2.875z"
-         id="path684" />
-    </symbol>
-    <symbol
-       id="exclamation-circle"
-       viewBox="0 0 100 100">
-      <title
-         id="title677">exclamation-circle</title>
-      <path
-         d="M11.75 19.5a7.75 7.75 0 100-15.5 7.751 7.751 0 000 15.5zm.759-6.75H10.99a.375.375 0 01-.374-.355l-.232-4.25a.375.375 0 01.375-.395h1.98c.215 0 .386.18.375.395l-.232 4.25a.375.375 0 01-.374.355zm-.759 3.437a1.437 1.437 0 110-2.875 1.437 1.437 0 010 2.875z"
-         id="path679" />
-    </symbol>
-    <symbol
-       id="redo"
-       viewBox="0 0 100 100">
-      <title
-         id="title156">redo</title>
-      <path
-         d="M11.76 19.75c1.644 0 3.965-.895 5.183-1.997a.428.428 0 00.125-.28.43.43 0 00-.11-.265l-1.062-1.062a.43.43 0 00-.266-.11.434.434 0 00-.246.092c-.86.757-2.488 1.371-3.633 1.371a5.502 5.502 0 01-5.5-5.5c0-3.036 2.464-5.5 5.5-5.5 1.617 0 3.662 1.09 4.565 2.432l-3.173-.152h-.018a.375.375 0 00-.375.375v1.482c0 .207.168.375.375.375h6.26a.375.375 0 00.375-.375V4.375A.375.375 0 0019.385 4h-1.482a.375.375 0 00-.375.375v.018l.126 2.586c-1.279-1.506-3.92-2.729-5.896-2.729h-.008c-4.27 0-7.753 3.485-7.75 7.756a7.75 7.75 0 007.75 7.744h.01z"
-         id="path158" />
-    </symbol>
-    <symbol
-       id="pficon-service"
-       viewBox="0 0 100 100">
-      <title
-         id="title564">pficon-service</title>
-      <path
-         d="M11.107 17.667c.486 0 .952-.06 1.397-.176a5.092 5.092 0 001.288-.541 5.163 5.163 0 001.932-1.944c.243-.405.423-.83.54-1.276.118-.445.176-.91.176-1.397a5.349 5.349 0 00-.292-1.774h1.18v1.786L20 10.122l-2.673-2.235v1.786h-1.591l-.012-.012a5.028 5.028 0 00-.839-1.1 5.619 5.619 0 00-1.105-.844 5.326 5.326 0 00-1.276-.535A5.287 5.287 0 0011.107 7c-.486 0-.952.06-1.397.182a5.326 5.326 0 00-2.375 1.385c-.32.324-.602.689-.844 1.094-.235.405-.414.83-.535 1.275a5.287 5.287 0 00-.182 1.397 5.413 5.413 0 00.073.887H4v.887h2.077c.049.154.11.306.183.456.073.15.15.297.23.443a5.296 5.296 0 001.944 1.944c.405.243.833.423 1.282.54.45.118.913.177 1.391.177zm.012-1.142c-.283 0-.56-.029-.832-.085a4.29 4.29 0 01-.784-.243 4.58 4.58 0 01-.722-.395 4.107 4.107 0 01-1.076-1.057 4.27 4.27 0 01-.364-.638h3.766v1.786l2.66-2.223-2.66-2.236v1.786h-4.07a3.278 3.278 0 01-.067-.431 5.196 5.196 0 01-.018-.444c0-.283.026-.558.08-.826.052-.267.135-.53.248-.79.114-.258.243-.5.389-.722.146-.223.312-.427.498-.614.186-.186.39-.354.614-.504.222-.15.463-.277.722-.383a4.045 4.045 0 012.448-.255c.272.057.537.142.796.255a3.962 3.962 0 011.458 1.021c.04.049.081.093.121.134h-3.219v.899h3.778a.49.49 0 01.043.079l.042.09c.106.252.187.513.243.784a4.058 4.058 0 010 1.665 4.622 4.622 0 01-.243.795 4.837 4.837 0 01-.394.711 4.107 4.107 0 01-1.118 1.118c-.223.15-.46.281-.71.395-.26.105-.525.186-.797.243a4.058 4.058 0 01-.832.085z"
-         id="path566" />
-    </symbol>
-    <symbol
-       id="pficon-process-automation"
-       viewBox="0 0 100 100">
-      <title
-         id="title519">pficon-process-automation</title>
-      <path
-         d="M19.875 14.002h-4.563l-.439-.491c.093-.178.17-.367.229-.563l1.296-.085c.1-.015.179-.115.179-.215v-1.332a.231.231 0 00-.174-.216l-1.32-.073a3.298 3.298 0 00-.228-.541l.87-.994c.06-.081.045-.206-.025-.276l-.942-.943a.227.227 0 00-.274-.03l-.995.891a3.242 3.242 0 00-.533-.22l-.087-1.326c-.014-.1-.114-.179-.214-.179h-1.333c-.1 0-.186.072-.214.172l-.074 1.328c-.19.058-.373.135-.546.225l-1.002-.859c-.081-.06-.206-.045-.277.025l-.454.455-.996-.996A5.982 5.982 0 0112 6a6.006 6.006 0 015.994 5.748.25.25 0 00.25.24h1.501a.25.25 0 00.25-.258C19.853 7.444 16.322 4 12.002 4a7.982 7.982 0 00-5.655 2.345L4.214 4.213A.126.126 0 004 4.302v5.575c0 .068.056.125.125.125h4.56l.442.476a3.357 3.357 0 00-.238.561l-1.294.1c-.1.014-.178.114-.178.214v1.333c0 .1.072.186.172.214l1.286.052c.06.203.14.396.238.58l-.832.97c-.06.08-.045.206.025.276l.942.942c.07.07.183.082.274.03l.936-.864c.186.1.384.181.589.244l.097 1.262c.014.1.114.178.214.178h1.333c.1 0 .186-.072.214-.172l.05-1.278c.2-.062.392-.143.575-.242l.96.842c.082.061.207.046.277-.025l.466-.465 1.01 1.01A5.988 5.988 0 0112.003 18c-3.23 0-5.87-2.56-5.996-5.76a.25.25 0 00-.25-.24H4.255a.25.25 0 00-.25.258C4.14 16.55 7.677 20 12.002 20a7.974 7.974 0 005.653-2.345l2.13 2.133c.08.078.215.021.215-.09v-5.573a.123.123 0 00-.125-.123m-7.89.012a2 2 0 110-4 2 2 0 010 4"
-         id="path521" />
-    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:snap-grids="true"
@@ -287,8 +220,8 @@
      showgrid="false"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     inkscape:cy="640.54351"
-     inkscape:cx="1185.0664"
+     inkscape:cy="160.18587"
+     inkscape:cx="294.35597"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -308,8 +241,8 @@
        visible="true"
        dotted="false"
        empspacing="8"
-       originy="930.92791"
-       originx="417.00002"
+       originy="1064.9279"
+       originx="417.00004"
        id="grid7796"
        type="xygrid" />
   </sodipodi:namedview>
@@ -321,15 +254,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(425,-1112.5465)"
+     transform="translate(425,-978.54651)"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      id="layer1">
+    <rect
+       y="-1300.5465"
+       x="1818"
+       height="323"
+       width="528"
+       id="rect1125-6-3-1-2-3-9"
+       style="fill:#ededed;fill-opacity:1;stroke-width:0.779674;stop-color:#000000"
+       transform="scale(1,-1)"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        inkscape:connector-curvature="0"
        id="path446-1-7-5-0-7"
@@ -373,11 +317,14 @@
     <text
        id="text444-2-1-3-5"
        style="font-variant:normal;font-weight:normal;font-size:9.57616px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome5FreeSolid;writing-mode:lr-tb;fill:#d2d3d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59851"
-       transform="scale(1.104942,0.90502485)"
+       transform="scale(1.104942,0.90502487)"
        x="1797.3164"
-       y="1511.4277"><tspan
+       y="1467.23"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          id="tspan442-9-2-6-4"
-         y="1511.4277"
+         y="1467.23"
          x="1797.3164"
          style="stroke-width:0.59851"></tspan></text>
     <path
@@ -924,7 +871,7 @@
     <rect
        y="-1780.5465"
        x="-425"
-       height="668"
+       height="802"
        width="800"
        id="rect1125-6-3-1-2"
        style="fill:#ededed;fill-opacity:1;stroke-width:0.779674;stop-color:#000000"
@@ -947,9 +894,9 @@
        style="fill:#ffffff;stroke-width:0.627263;stop-color:#000000"
        id="rect1125-6-3-6"
        width="364"
-       height="142"
+       height="273.20697"
        x="-405"
-       y="1131.5464" />
+       y="1001.5464" />
     <rect
        style="vector-effect:none;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
        id="rect3640-7-2"
@@ -973,7 +920,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display';font-variation-settings:normal;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="flowPara2776-2-0-4-8-0-6-6">Available updates</flowPara></flowRoot>
     <flowRoot
-       transform="translate(478.20278,1400.4332)"
+       transform="translate(477.62072,1270.4332)"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot2778-93-3-6-8-1-6-4-1"
        xml:space="preserve"><flowRegion
@@ -991,13 +938,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-355.99609"
-       y="1214.5248"
+       y="1084.5248"
        id="text4036"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="-355.99609"
-         y="1214.5248"
+         y="1084.5248"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:120%;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan4034">114 updates, including 1 security fix</tspan></text>
     <text
@@ -1017,18 +964,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3d4043;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-356.7941"
-       y="1240.0461"
+       y="1110.0461"
        id="text4304-4-0-2-5-3-2-5-3-6-8-8-1-5-7-85-0-5-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="-356.7941"
-         y="1240.0461"
+         y="1110.0461"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:120%;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#3d4043;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan3646-7-9-92-6-6-0-8">Last checked: a few seconds ago</tspan></text>
     <g
        id="g2111-9-1"
-       transform="translate(508.7785,-18.031404)">
+       transform="translate(508.7785,-148.0314)">
       <g
          id="g2788"
          transform="translate(50.390625,-0.16057482)">
@@ -1147,7 +1094,7 @@
     <use
        xlink:href="#pficon-security"
        id="use4350"
-       transform="matrix(0.16964286,0,0,0.171875,-398.78571,1194.6714)"
+       transform="matrix(0.16964286,0,0,0.171875,-393.90099,1064.6714)"
        x="0"
        y="0"
        width="100%"
@@ -1403,77 +1350,12 @@
            width="438"
            id="rect2772-45-1-9-5-4" /></flowRegion><flowPara
          id="flowPara2776-8-19-2-3-0">Install security updates</flowPara></flowRoot>
-    <rect
-       y="1131.5464"
-       x="-25"
-       height="142"
-       width="382"
-       id="rect1125-6-3-5-7"
-       style="fill:#ffffff;stroke-width:0.865817;stop-color:#000000" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2778-93-3-6-8-1-6-4-0-7"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="translate(862.86068,1400.4332)"><flowRegion
-         id="flowRegion2774-60-1-8-6-2-1-8-6-6"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
-           id="rect2772-6-1-8-8-7-0-1-2-7"
-           width="438"
-           height="104"
-           x="-865"
-           y="-249"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display'"
-         id="flowPara2776-2-0-4-8-0-6-2-6-3">Automatic updates</flowPara></flowRoot>
-    <flowRoot
-       transform="translate(868.25478,1445.859)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       id="flowRoot2778-7-3-3-9-2-6-0-03-6-4-5-56-4"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         id="flowRegion2774-6-5-0-2-9-3-6-0-1-9-9-2-8"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           y="-249"
-           x="-865"
-           height="79.378906"
-           width="307.33594"
-           id="rect2772-4-6-3-2-6-34-8-9-2-2-7-9-1" /></flowRegion><flowPara
-         id="flowPara2776-3-2-0-4-1-4-9-2-93-0-7-1-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Security updates will be applied every day at 03:00</flowPara></flowRoot>
-    <g
-       id="g2111-9"
-       transform="translate(907.7785,-18.031402)">
-      <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0066cc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
-         id="rect1965-4-3-2-3"
-         width="76"
-         height="28.000002"
-         x="-647.7785"
-         y="-1196.5778"
-         rx="4.0877953"
-         ry="2.9655879"
-         transform="scale(1,-1)" />
-      <flowRoot
-         transform="translate(36.545208,1420.8203)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
-         id="flowRoot2778-4-8-1-7-9"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
-           id="flowRegion2774-1-9-4-0-0"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1;"
-             y="-249"
-             x="-865"
-             height="104"
-             width="438"
-             id="rect2772-45-1-9-9-8" /></flowRegion><flowPara
-           id="flowPara2776-8-19-2-36-8">Edit</flowPara></flowRoot>
-    </g>
     <text
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2470);fill:#000000;fill-opacity:1;stroke:none;"
        id="text2468"
        xml:space="preserve" />
     <flowRoot
-       transform="translate(470.152,1308.8429)"
+       transform="translate(470.152,1178.8429)"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot2778-93-3-6-0"
        xml:space="preserve"><flowRegion
@@ -1865,100 +1747,75 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
-    <g
-       id="g3570"
-       transform="translate(-0.5521015)">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="software-updates-overview-automaticupdates.png"
-         id="rect1825"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.999999;paint-order:markers fill stroke;stop-color:#000000"
-         d="m 2228.4986,1338.5134 6.524,7.0156 6.5241,-7.0156 z" />
-      <rect
-         y="1130.5464"
-         x="1915.5521"
-         height="142"
-         width="382"
-         id="rect1125-6-3-5-7-1-7"
-         style="fill:#ffffff;stroke-width:0.865817;stop-color:#000000;fill-opacity:1"
-         inkscape:export-filename="software-updates-overview-automaticupdates.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2778-93-3-6-8-1-6-4-0-7-7-9"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="translate(2803.9206,1399.9539)"
-         inkscape:export-filename="software-updates-overview-automaticupdates.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><flowRegion
-           id="flowRegion2774-60-1-8-6-2-1-8-6-6-5-2"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
-             id="rect2772-6-1-8-8-7-0-1-2-7-9-0"
-             width="438"
-             height="104"
-             x="-865"
-             y="-249"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display'"
-           id="flowPara2776-2-0-4-8-0-6-2-6-3-6-2">Automatic updates</flowPara></flowRoot>
-      <flowRoot
-         transform="translate(2809.3147,1445.3797)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         id="flowRoot2778-7-3-3-9-2-6-0-03-6-4-5-56-4-2-3"
-         xml:space="preserve"
-         inkscape:export-filename="software-updates-overview-automaticupdates.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><flowRegion
+    <rect
+       y="1001.9956"
+       x="1846.4609"
+       height="273.20703"
+       width="471.45312"
+       id="rect1125-6-3-5-7-1-7"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.865817;stop-color:#000000"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="translate(2733.7196,1355.1258)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="flowRoot2778-7-3-3-9-2-6-0-03-6-4-5-56-4-2-3"
+       xml:space="preserve"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="flowRegion2774-6-5-0-2-9-3-6-0-1-9-9-2-8-1-7"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-           id="flowRegion2774-6-5-0-2-9-3-6-0-1-9-9-2-8-1-7"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-             y="-249"
-             x="-865"
-             height="79.378906"
-             width="307.33594"
-             id="rect2772-4-6-3-2-6-34-8-9-2-2-7-9-1-7-5" /></flowRegion><flowPara
-           id="flowPara2776-3-2-0-4-1-4-9-2-93-0-7-1-2-8-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Security updates will be applied every day at 03:00</flowPara></flowRoot>
-      <g
-         id="g2111-9-9-2"
-         transform="translate(2846.1865,-18.39622)"
-         inkscape:export-filename="software-updates-overview-automaticupdates.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <rect
-           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0066cc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
-           id="rect1965-4-3-2-3-8-2"
-           width="76"
-           height="28.000002"
-           x="-647.7785"
-           y="-1196.5778"
-           rx="4.0877953"
-           ry="2.9655879"
-           transform="scale(1,-1)" />
-        <flowRoot
-           transform="translate(36.545208,1420.8203)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
-           id="flowRoot2778-4-8-1-7-9-7-8"
-           xml:space="preserve"><flowRegion
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
-             id="flowRegion2774-1-9-4-0-0-2-9"><rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1;"
-               y="-249"
-               x="-865"
-               height="104"
-               width="438"
-               id="rect2772-45-1-9-9-8-82-7" /></flowRegion><flowPara
-             id="flowPara2776-8-19-2-36-8-9-3">Edit</flowPara></flowRoot>
-      </g>
+           y="-249"
+           x="-865"
+           height="66.128906"
+           width="402.88281"
+           id="rect2772-4-6-3-2-6-34-8-9-2-2-7-9-1-7-5" /></flowRegion><flowPara
+         id="flowPara2776-3-2-0-4-1-4-9-2-93-0-7-1-2-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Security updates will be applied every day at 03:00</flowPara></flowRoot>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0066cc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect1965-4-3-2-3-8-2"
+       width="76"
+       height="28.000002"
+       x="2216.6841"
+       y="-1101.1252"
+       rx="4.0877953"
+       ry="2.9655879"
+       transform="scale(1,-1)"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       transform="translate(2901.0077,1325.3678)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="flowRoot2778-4-8-1-7-9-7-8"
+       xml:space="preserve"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+         id="flowRegion2774-1-9-4-0-0-2-9"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1;"
+           y="-249"
+           x="-865"
+           height="104"
+           width="438"
+           id="rect2772-45-1-9-9-8-82-7" /></flowRegion><flowPara
+         id="flowPara2776-8-19-2-36-8-9-3">Edit</flowPara></flowRoot>
+    <g
+       id="g1564"
+       transform="translate(-76.503906,135.3992)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="software-updates-overview-automaticupdates.png"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 2235.0615,1187.5464 v 153.8157"
-         id="path1823" />
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2124)"
+         d="m 2370.5719,978.44913 c 51.2276,61.15927 141.4829,31.39377 140.2696,214.72707"
+         id="path1823"
+         sodipodi:nodetypes="cc" />
     </g>
     <rect
        y="-1770.5465"
@@ -2244,7 +2101,7 @@
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.00756264px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;stop-color:#000000;stop-opacity:1;" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display';font-variation-settings:normal;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="flowPara2776-2-0-4-8-0-6-6-1-6">Reboot <flowSpan
-   style="font-weight:500;-inkscape-font-specification:'Red Hat Display Medium';font-family:'Red Hat Display';font-style:normal;font-stretch:normal;font-variant:normal;"
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium'"
    id="flowSpan4048">SYSTEM_NAME</flowSpan></flowPara></flowRoot>
     <g
        id="g3441"
@@ -2452,5 +2309,314 @@
          id="flowPara6189-6">abrtd</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="flowPara6191-4" /></flowRoot>
+    <flowRoot
+       transform="translate(2734.0716,1326.0538)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="flowRoot2778-7-3-3-9-2-6-0-03-6-4-5-56-4-2-3-9"
+       xml:space="preserve"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="flowRegion2774-6-5-0-2-9-3-6-0-1-9-9-2-8-1-7-1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           y="-249"
+           x="-865"
+           height="79.378906"
+           width="307.33594"
+           id="rect2772-4-6-3-2-6-34-8-9-2-2-7-9-1-7-5-2" /></flowRegion><flowPara
+         id="flowPara2776-3-2-0-4-1-4-9-2-93-0-7-1-2-8-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Medium';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Automatic updates</flowPara></flowRoot>
+    <flowRoot
+       transform="translate(2733.7196,1442.4138)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="flowRoot2778-7-3-3-9-2-6-0-03-6-4-5-56-4-2-3-0"
+       xml:space="preserve"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="flowRegion2774-6-5-0-2-9-3-6-0-1-9-9-2-8-1-7-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           y="-249"
+           x="-865"
+           height="89.25"
+           width="404.125"
+           id="rect2772-4-6-3-2-6-34-8-9-2-2-7-9-1-7-5-26" /></flowRegion><flowPara
+         id="flowPara2776-3-2-0-4-1-4-9-2-93-0-7-1-2-8-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Enabled. Kernel patches will be displayed in the available updates list.</flowPara></flowRoot>
+    <g
+       id="g1540"
+       transform="translate(10,-42.568074)"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0066cc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1965-4-3-2-3-8-2-8"
+         width="76"
+         height="28.000002"
+         x="2206.6841"
+         y="-1230.0453"
+         rx="4.0877953"
+         ry="2.9655879"
+         transform="scale(1,-1)" />
+      <flowRoot
+         transform="translate(2891.0077,1454.2878)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="flowRoot2778-4-8-1-7-9-7-8-7"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+           id="flowRegion2774-1-9-4-0-0-2-9-9"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1;"
+             y="-249"
+             x="-865"
+             height="104"
+             width="438"
+             id="rect2772-45-1-9-9-8-82-7-2" /></flowRegion><flowPara
+           id="flowPara2776-8-19-2-36-8-9-3-0">Edit</flowPara></flowRoot>
+    </g>
+    <flowRoot
+       transform="translate(2734.0716,1412.3418)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="flowRoot2778-7-3-3-9-2-6-0-03-6-4-5-56-4-2-3-9-2"
+       xml:space="preserve"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="flowRegion2774-6-5-0-2-9-3-6-0-1-9-9-2-8-1-7-1-3"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           y="-249"
+           x="-865"
+           height="79.378906"
+           width="307.33594"
+           id="rect2772-4-6-3-2-6-34-8-9-2-2-7-9-1-7-5-2-7" /></flowRegion><flowPara
+         id="flowPara2776-3-2-0-4-1-4-9-2-93-0-7-1-2-8-9-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Medium';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Kernel patches</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2778-93-3-6-8-1-6-4-0-7-7-9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(2733.4118,1276.8054)"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion2774-60-1-8-6-2-1-8-6-6-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+           id="rect2772-6-1-8-8-7-0-1-2-7-9-2"
+           width="438"
+           height="104"
+           x="-865"
+           y="-249"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display'"
+         id="flowPara2776-2-0-4-8-0-6-2-6-3-6-8">Settings</flowPara></flowRoot>
+    <rect
+       y="1001.5464"
+       x="-24.999998"
+       height="273.20703"
+       width="382"
+       id="rect1571"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.865817;stop-color:#000000"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1468"
+       transform="translate(0,-8.3327485)">
+      <flowRoot
+         transform="translate(862.25867,1354.6766)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="flowRoot1579"
+         xml:space="preserve"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="flowRegion1575"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             y="-249"
+             x="-865"
+             height="74.445312"
+             width="334.3125"
+             id="rect1573" /></flowRegion><flowPara
+           id="flowPara1577"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Security updates will be applied every day at 03:00</flowPara></flowRoot>
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0066cc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect1581"
+         width="76"
+         height="28.000002"
+         x="258.04736"
+         y="-1100.676"
+         rx="4.0877953"
+         ry="2.9655879"
+         transform="scale(1,-1)"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <flowRoot
+         transform="translate(942.37102,1324.9186)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="flowRoot1589"
+         xml:space="preserve"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+           id="flowRegion1585"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1;"
+             y="-249"
+             x="-865"
+             height="104"
+             width="438"
+             id="rect1583" /></flowRegion><flowPara
+           id="flowPara1587">Edit</flowPara></flowRoot>
+      <flowRoot
+         transform="translate(862.61067,1325.6046)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="flowRoot1597"
+         xml:space="preserve"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="flowRegion1593"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             y="-249"
+             x="-865"
+             height="79.378906"
+             width="307.33594"
+             id="rect1591" /></flowRegion><flowPara
+           id="flowPara1595"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Medium';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Automatic updates</flowPara></flowRoot>
+      <flowRoot
+         transform="translate(862.25867,1455.9646)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="flowRoot1605"
+         xml:space="preserve"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="flowRegion1601"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             y="-249"
+             x="-865"
+             height="91.171875"
+             width="341.25781"
+             id="rect1599" /></flowRegion><flowPara
+           id="flowPara1603"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Enabled. Kernel patches will be displayed in the available updates list.</flowPara></flowRoot>
+      <g
+         id="g1617"
+         transform="translate(-1948.6367,-29.01729)"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0066cc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="rect1607"
+           width="76"
+           height="28.000002"
+           x="2206.6841"
+           y="-1230.0453"
+           rx="4.0877953"
+           ry="2.9655879"
+           transform="scale(1,-1)" />
+        <flowRoot
+           transform="translate(2891.0077,1454.2878)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+           id="flowRoot1615"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+             id="flowRegion1611"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#0066cc;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-variation-settings:normal;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1;"
+               y="-249"
+               x="-865"
+               height="104"
+               width="438"
+               id="rect1609" /></flowRegion><flowPara
+             id="flowPara1613">Edit</flowPara></flowRoot>
+      </g>
+      <flowRoot
+         transform="translate(862.61067,1425.8926)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="flowRoot1625"
+         xml:space="preserve"
+         inkscape:export-filename="software-updates-overview-settings.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="flowRegion1621"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             y="-249"
+             x="-865"
+             height="79.378906"
+             width="307.33594"
+             id="rect1619" /></flowRegion><flowPara
+           id="flowPara1623"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text Medium';vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">Kernel patches</flowPara></flowRoot>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1633"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(861.95087,1270.4332)"
+       inkscape:export-filename="software-updates-overview-settings.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion1629"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+           id="rect1627"
+           width="438"
+           height="104"
+           x="-865"
+           y="-249"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:normal;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display'"
+         id="flowPara1631">Settings</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-355.99609"
+       y="1154.5248"
+       id="text1396"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-355.99609"
+         y="1154.5248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:120%;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="tspan1394"><tspan
+   style="fill:#0066cc"
+   id="tspan1425">Kernel livepatch x.y.z</tspan> is active</tspan></text>
+    <g
+       id="g1419"
+       transform="matrix(1.5713897,0,0,1.5713897,217.24957,-671.98001)"
+       style="stroke-width:0.636379">
+      <ellipse
+         ry="7.0001731"
+         rx="7.0001192"
+         cy="1158.7863"
+         cx="-378.55972"
+         id="path1795"
+         style="vector-effect:none;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:0.636376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000" />
+      <rect
+         y="1154.7861"
+         x="-379.55975"
+         height="1.9999846"
+         width="1.9999981"
+         id="rect1797"
+         style="vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.636379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000" />
+      <rect
+         style="vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.636376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+         id="rect1797-7"
+         width="1.9999981"
+         height="4.999958"
+         x="-379.55975"
+         y="1157.7861" />
+    </g>
   </g>
 </svg>
