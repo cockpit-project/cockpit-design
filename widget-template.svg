@@ -549,6 +549,42 @@
          result="composite2"
          id="feComposite91580" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter21810"
+       x="-0.025699018"
+       y="-0.044433638"
+       width="1.051398"
+       height="1.0919529">
+      <feFlood
+         flood-opacity="0.247059"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood21800" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite21802" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur21804" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset21806" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite21808" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -558,8 +594,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="297.5"
-     inkscape:cy="1066"
+     inkscape:cx="218.5"
+     inkscape:cy="4632"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -573,10 +609,10 @@
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-others="false"
+     inkscape:snap-others="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:document-rotation="0"
      fit-margin-top="50"
      fit-margin-left="50"
@@ -606,10 +642,6 @@
        opacity="0.20784314"
        empcolor="#454581"
        empopacity="0.3372549" />
-    <sodipodi:guide
-       position="-1049,6368.5"
-       orientation="1,0"
-       id="guide128461" />
   </sodipodi:namedview>
   <metadata
      id="metadata7191">
@@ -757,7 +789,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#717477;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 42.999996,2721.9746 H 1281.831"
+       d="M 42.999996,2721.9744 H 1281.831"
        id="path6646-2-8-4-3-3"
        inkscape:connector-curvature="0" />
     <path
@@ -1220,7 +1252,7 @@
          id="flowPara4411-5-5-7-7-3-7-0-7">Thing two</flowPara></flowRoot>
     <path
        style="opacity:0.25;fill:none;fill-rule:evenodd;stroke:#717477;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 42.999996,3220.9746 H 1281.831"
+       d="M 42.999996,3220.9744 H 1281.831"
        id="path6646-2-8-4-3-3-6"
        inkscape:connector-curvature="0" />
     <path
@@ -2719,104 +2751,108 @@
            id="rect2772-2-0" /></flowRegion><flowPara
          id="flowPara2776-4-6">Icon buttons</flowPara></flowRoot>
     <g
-       id="g432-3"
-       transform="matrix(0.21149646,0,0,0.17323042,46,2755.4746)">
+       id="g22467"
+       transform="translate(-17,14)">
       <g
-         id="g434-5"
-         clip-path="url(#clipPath438-3)">
+         id="g432-3"
+         transform="matrix(0.19952496,0,0,0.17363422,62.999998,2742.4744)"
+         style="stroke-width:1.02836">
         <g
-           id="g440-6"
-           transform="scale(3.1268566)">
-          <text
-             transform="translate(948,32)"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome5FreeSolid;writing-mode:lr-tb;fill:#d2d3d5;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text444-2"><tspan
-               x="0"
-               y="0"
-               id="tspan442-9"></tspan></text>
+           id="g434-5"
+           clip-path="url(#clipPath438-3)"
+           style="stroke-width:1.02836">
           <path
-             d="M 0,0 H 1122 V 792 H 0 Z"
-             style="fill:#030303;fill-opacity:0.6196;fill-rule:nonzero;stroke:none"
+             d="M 0,0 H 3508.3331 V 2476.4704 H 0 Z"
+             style="fill:#030303;fill-opacity:0.6196;fill-rule:nonzero;stroke:none;stroke-width:3.21555"
              id="path446-1"
              inkscape:connector-curvature="0" />
         </g>
       </g>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path512-9"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00059"
-       d="m 136.99998,2792.2625 h 560.3327 v 357.2121 h -560.3327 z" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1734"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="translate(-1250.7745,529.0134)"><flowRegion
-         id="flowRegion1736"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
-           id="rect1738"
-           width="497.85608"
-           height="209.79358"
-           x="1421"
-           y="2352"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara1740">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>
-    <g
-       id="g546"
-       transform="matrix(0.31999998,0,0,0.31999998,-143.97202,2575.8151)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path21798"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00059;filter:url(#filter21810)"
+         d="m 136.99998,2792.2625 h 560.3327 v 324.0788 h -560.3327 z" />
       <g
-         id="g548"
-         clip-path="url(#clipPath552)">
+         id="g21982">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1734"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="translate(-1261.784,512.84299)"><flowRegion
+             id="flowRegion1736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+               id="rect1738"
+               width="519.36975"
+               height="180.64111"
+               x="1421"
+               y="2352"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5em;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+             id="flowPara1740">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</flowPara></flowRoot>
         <g
-           id="g554"
-           transform="matrix(0.09771427,0,0,0.09771427,2484.2876,797.34845)">
+           id="g21951">
+          <text
+             id="text570"
+             style="font-variant:normal;font-weight:normal;font-size:16.0095px;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00059"
+             x="298.79337"
+             y="3080.0776"><tspan
+               id="tspan568"
+               sodipodi:role="line"
+               y="3080.0776"
+               x="298.79337"
+               style="text-align:center;text-anchor:middle;stroke-width:1.00059">Cancel</tspan></text>
           <path
-             d="M 242.72,256 342.79001,155.92999 c 12.28,-12.28 12.28,-32.19 0,-44.47999 L 320.55002,89.209999 c -12.28,-12.279999 -32.19,-12.279999 -44.48001,0 L 176,189.28 75.93,89.209999 C 63.650002,76.93 43.740002,76.93 31.450001,89.209999 L 9.21,111.45 c -12.2799997,12.28 -12.2799997,32.19 0,44.47999 L 109.28,256 9.21,356.07001 c -12.2799997,12.28 -12.2799997,32.19 0,44.48001 l 22.240001,22.23999 c 12.279999,12.28 32.200001,12.28 44.479999,0 L 176,322.72 276.07001,422.79001 c 12.28,12.28 32.20001,12.28 44.48001,0 l 22.23999,-22.23999 c 12.28,-12.28 12.28,-32.19 0,-44.48001 z"
-             style="fill:#72767b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path556"
-             inkscape:connector-curvature="0" />
+             inkscape:connector-curvature="0"
+             id="path574"
+             style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+             d="m 250,3089.4744 v -30 c 1e-4,-0.3979 -0.076,-0.7806 -0.2283,-1.1481 -0.1522,-0.3676 -0.3689,-0.692 -0.6503,-0.9733 -0.2813,-0.2813 -0.6057,-0.4981 -0.9732,-0.6503 -0.3676,-0.1522 -0.7503,-0.2283 -1.1482,-0.2283 h -84 c -0.3977,0 -0.7804,0.076 -1.148,0.2283 -0.3675,0.1522 -0.6919,0.369 -0.9732,0.6503 -0.2814,0.2813 -0.498,0.6057 -0.6503,0.9733 -0.1522,0.3675 -0.2284,0.7502 -0.2285,1.1481 v 30 c 1e-4,0.3978 0.076,0.7804 0.2285,1.148 0.1523,0.3675 0.3689,0.692 0.6503,0.9733 0.2813,0.2813 0.6057,0.498 0.9732,0.6503 0.3676,0.1522 0.7503,0.2283 1.148,0.2284 h 84 c 0.3979,-1e-4 0.7806,-0.076 1.1482,-0.2284 0.3675,-0.1523 0.6919,-0.369 0.9732,-0.6503 0.2814,-0.2813 0.4981,-0.6058 0.6503,-0.9733 0.1522,-0.3676 0.2284,-0.7502 0.2283,-1.148 z" />
+          <text
+             id="text578-9"
+             style="font-variant:normal;font-weight:normal;font-size:16.0095px;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00059"
+             x="205.26138"
+             y="3080.0776"><tspan
+               id="tspan576-2"
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;stroke-width:1.00059"
+               x="205.26138"
+               y="3080.0776">Confirm</tspan></text>
+        </g>
+        <g
+           id="g21961">
+          <g
+             id="g546"
+             transform="matrix(0.31999998,0,0,0.31999998,-143.97202,2571.8151)">
+            <g
+               id="g548"
+               clip-path="url(#clipPath552)">
+              <g
+                 id="g554"
+                 transform="matrix(0.09771427,0,0,0.09771427,2484.2876,797.34845)">
+                <path
+                   d="M 242.72,256 342.79001,155.92999 c 12.28,-12.28 12.28,-32.19 0,-44.47999 L 320.55002,89.209999 c -12.28,-12.279999 -32.19,-12.279999 -44.48001,0 L 176,189.28 75.93,89.209999 C 63.650002,76.93 43.740002,76.93 31.450001,89.209999 L 9.21,111.45 c -12.2799997,12.28 -12.2799997,32.19 0,44.47999 L 109.28,256 9.21,356.07001 c -12.2799997,12.28 -12.2799997,32.19 0,44.48001 l 22.240001,22.23999 c 12.279999,12.28 32.200001,12.28 44.479999,0 L 176,322.72 276.07001,422.79001 c 12.28,12.28 32.20001,12.28 44.48001,0 l 22.23999,-22.23999 c 12.28,-12.28 12.28,-32.19 0,-44.48001 z"
+                   style="fill:#72767b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="path556"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot1836"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:1.3em;font-family:'Red Hat Display';-inkscape-font-specification:RedHatDisplay-Medium;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             transform="translate(-1244.704,1107.7353)"><flowRegion
+               id="flowRegion1838"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:1.3em;font-family:'Red Hat Display';-inkscape-font-specification:RedHatDisplay-Medium;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
+                 id="rect1840"
+                 width="379"
+                 height="150"
+                 x="1403"
+                 y="1711"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:1.29999995em;font-family:'Red Hat Display';-inkscape-font-specification:RedHatDisplay-Medium;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
+               id="flowPara1842">Modal Header</flowPara></flowRoot>
         </g>
       </g>
     </g>
-    <text
-       id="text570"
-       style="font-variant:normal;font-weight:normal;font-size:16.0095px;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00059"
-       x="309.59708"
-       y="3104.0779"><tspan
-         id="tspan568"
-         sodipodi:role="line"
-         y="3104.0779"
-         x="309.59708"
-         style="text-align:center;text-anchor:middle;stroke-width:1.00059">Cancel</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path574"
-       style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-       d="m 260.8037,3113.4746 v -30 c 1e-4,-0.3979 -0.076,-0.7806 -0.2283,-1.1481 -0.1522,-0.3676 -0.3689,-0.692 -0.6503,-0.9733 -0.2813,-0.2813 -0.6057,-0.4981 -0.9732,-0.6503 -0.3676,-0.1522 -0.7503,-0.2283 -1.1482,-0.2283 h -84 c -0.3977,0 -0.7804,0.076 -1.148,0.2283 -0.3675,0.1522 -0.6919,0.369 -0.9732,0.6503 -0.2814,0.2813 -0.498,0.6057 -0.6503,0.9733 -0.1522,0.3675 -0.2284,0.7502 -0.2285,1.1481 v 30 c 1e-4,0.3978 0.076,0.7804 0.2285,1.148 0.1523,0.3675 0.3689,0.692 0.6503,0.9733 0.2813,0.2813 0.6057,0.498 0.9732,0.6503 0.3676,0.1522 0.7503,0.2283 1.148,0.2284 h 84 c 0.3979,-1e-4 0.7806,-0.076 1.1482,-0.2284 0.3675,-0.1523 0.6919,-0.369 0.9732,-0.6503 0.2814,-0.2813 0.4981,-0.6058 0.6503,-0.9733 0.1522,-0.3676 0.2284,-0.7502 0.2283,-1.148 z" />
-    <text
-       id="text578-9"
-       style="font-variant:normal;font-weight:normal;font-size:16.0095px;font-family:'Red Hat Text';-inkscape-font-specification:RedHatText-Regular;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00059"
-       x="216.06508"
-       y="3104.0779"><tspan
-         id="tspan576-2"
-         sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;stroke-width:1.00059"
-         x="216.06508"
-         y="3104.0779">Confirm</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1836"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:1.3em;font-family:'Red Hat Display';-inkscape-font-specification:RedHatDisplay-Medium;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="translate(-1232.9803,1116.2293)"><flowRegion
-         id="flowRegion1838"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:1.3em;font-family:'Red Hat Display';-inkscape-font-specification:RedHatDisplay-Medium;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
-           id="rect1840"
-           width="379"
-           height="150"
-           x="1403"
-           y="1711"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:1.29999995em;font-family:'Red Hat Display';-inkscape-font-specification:RedHatDisplay-Medium;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.00059402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara1842">Modal Header</flowPara></flowRoot>
     <rect
        style="opacity:1;vector-effect:none;fill:#ebebeb;fill-opacity:1;stroke:#ebebeb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3146-3"
