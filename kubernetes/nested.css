@@ -1,13 +1,61 @@
+.kube-icon{
+  background-image: url(icon.png);
+  background-repeat: no-repeat;
+  background-position:  center top;
+  background-size: 18px auto;
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  padding: 0;
+}
+
+.kube-icon.container{
+  background-position:  center bottom;
+  }
+
 
 .kube-browse {
-    margin: 10px;
-    max-width: 700px;
+/*    margin: 10px;
+    max-width: 700px;*/
+    margin-bottom: 40px;
 }
 
 .kube-browse .panel p:last-child {
     margin-bottom: 0;
 }
 
+.kube-board{
+  background: rgba(0,0,0,.02);
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 1px;
+  margin-bottom: 2px;
+}
+
+
+.kube-deploy-config {
+    margin-bottom: 35px;
+}
+
+.kube-deployment{
+  background: #fff;
+}
+
+.kube-deployment .panel-title{font-weight: normal;}
+
+
+.kube-pod{
+  min-height: 84px;
+  text-align: center;
+}
+
+.kube-pod-fail{
+  border-color:#af151a
+  }
+
+/*
 .kube-service {
     border-color: #D0D0D0;
     border-width: 1px;
@@ -39,14 +87,18 @@
     margin-top: 10px;
     margin-bottom: 0px;
 }
+*/
+
 
 .kube-browse > .kube-deployment {
     margin-bottom: 35px;
 }
 
+/*
 .kube-deploy-config.kube-small {
     padding-right: 10px;
 }
+*/
 
 .kube-deploy-config .kube-deployment {
     margin-right: 60px;
@@ -60,6 +112,8 @@
     margin-bottom: 15px;
 }
 
+
+/*
 .kube-pod {
     text-align: center;
     border-color: #D0D0D0;
@@ -82,6 +136,9 @@
     margin: 0px;
 }
 
+*/
+
+/*
 .kube-container {
     border-top: 1px dashed #D0D0D0;
     border-left: 1px dashed #D0D0D0;
@@ -95,6 +152,7 @@
 .kube-container:first-child {
     border-left: none;
 }
+*/
 
 .kube-pod p:last-child {
     margin-bottom: 0px;
@@ -109,7 +167,7 @@
     margin-left: 50px;
 }
 
-.kube-deployment .row {
+.kube-deployment .row, .kube-pod .row, .kube-deploy-config .row {
     margin: 0px;
 }
 
@@ -122,7 +180,9 @@
     float: right;
     border-top: 1px solid #D0D0D0;
     margin-top: 50px;
-    width: 60px;
+    width: 70px;
+    margin-right: -10px;
+    text-align: center;
 }
 
 .kube-browse .row > div {
